@@ -18,7 +18,7 @@ public:
 
 private:
     int64_t parseTime(const std::string& timeStr);
-    std::string formatTime(int64_t ms);
+    std::string formatTime(int64_t ms) const;
 
     void parseScriptInfo(std::ifstream& in);
     void parseStyles(std::ifstream& in);
