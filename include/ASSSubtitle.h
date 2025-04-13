@@ -1,4 +1,9 @@
 #pragma once
+
+#ifndef MAX_STYLES
+#define MAX_STYLES 100
+#endif
+
 #include "SRTSubtitle.h"
 #include "SAMISubtitle.h"
 #include "SubtitleEntryList.h"
@@ -29,7 +34,6 @@ private:
         std::string title;
         std::string originalScript;
         std::string originalTranslation;
-        // Добавить другие необходимые поля
     } scriptInfo;
 
     struct Style {
@@ -56,7 +60,7 @@ private:
         int marginR;
         int marginV;
         int encoding;
-    } styles[100]; // Максимальное количество стилей
+    } styles[MAX_STYLES];
     int stylesCount;
 
     struct Dialogue {
