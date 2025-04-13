@@ -60,7 +60,8 @@ private:
         int marginR;
         int marginV;
         int encoding;
-    } styles[MAX_STYLES];
+    };
+    Style styles[MAX_STYLES];
     int stylesCount;
 
     struct Dialogue {
