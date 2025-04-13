@@ -53,36 +53,22 @@ int main(int argc, char* argv[]) {
             } else {
                 samiSubs.write(outFile);
             }
-        }         else if (inExtension == "ass" || inExtension == "ssa")
-        {
+        } else if (inExtension == "ass" || inExtension == "ssa") {
             assSubs.read(inFile);
-            if (outExtension == "srt")
-            {
-                // Конвертация из ASS в SRT
+            if (outExtension == "srt") {
                 srtSubs.getEntries() = assSubs.getEntries();
                 srtSubs.write(outFile);
-            }
-            else if (outExtension == "smi")
-            {
-                // Конвертация из ASS в SAMI
+            } else if (outExtension == "smi") {
                 samiSubs.getEntries() = assSubs.getEntries();
                 samiSubs.write(outFile);
-            }
-            else if (outExtension == "ass" || outExtension == "ssa")
-            {
-                // ASS to ASS
+            } else if (outExtension == "ass" || outExtension == "ssa") {
+                assSubs.write(outFile);
+            } else {
                 assSubs.write(outFile);
             }
-            else
-            {
-                assSubs.write(outFile);
-            }
-        }
-        else
-        {
+        } else {
             throw std::runtime_error("Unsupported input file format: " + inExtension);
         }
-
 
         std::cout << "Conversion complete.\n";
     } catch (const std::exception& e) {
