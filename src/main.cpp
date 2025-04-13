@@ -1,9 +1,10 @@
 #include "SRTSubtitle.h"
 #include "SAMISubtitle.h"
 #include "ASSSubtitle.h"
+
 #include <iostream>
 #include <string>
-#include <filesystem> // C++17
+#include <filesystem>
 
 int main(int argc, char* argv[]) {
     if (argc < 3) {
@@ -52,29 +53,36 @@ int main(int argc, char* argv[]) {
             } else {
                 samiSubs.write(outFile);
             }
-        } else if (inExtension == "ass" || inExtension == "ssa") {
+        }         else if (inExtension == "ass" || inExtension == "ssa")
+        {
             assSubs.read(inFile);
-            if (outExtension == "srt") {
-                SubtitleEntryList& entries = assSubs.getEntries();
-                for (size_t i = 0; i < entries.getSize(); ++i) {
-                    srtSubs.getEntries().push_back(entries[i]);
-                }
+            if (outExtension == "srt")
+            {
+                // Конвертация из ASS в SRT
+                srtSubs.getEntries() = assSubs.getEntries();
                 srtSubs.write(outFile);
-            } else if (outExtension == "smi") {
-                SubtitleEntryList& entries = assSubs.getEntries();
-                for (size_t i = 0; i < entries.getSize(); ++i) {
-                    samiSubs.getEntries().push_back(entries[i]);
-                }
+            }
+            else if (outExtension == "smi")
+            {
+                // Конвертация из ASS в SAMI
+                samiSubs.getEntries() = assSubs.getEntries();
                 samiSubs.write(outFile);
-            } else if (outExtension == "ass" || outExtension == "ssa") {
-                // Conversion from ASS to ASS
-                assSubs.write(outFile);
-            } else {
+            }
+            else if (outExtension == "ass" || outExtension == "ssa")
+            {
+                // ASS to ASS
                 assSubs.write(outFile);
             }
-        } else {
+            else
+            {
+                assSubs.write(outFile);
+            }
+        }
+        else
+        {
             throw std::runtime_error("Unsupported input file format: " + inExtension);
         }
+
 
         std::cout << "Conversion complete.\n";
     } catch (const std::exception& e) {

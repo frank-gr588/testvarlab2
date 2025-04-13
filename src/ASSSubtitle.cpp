@@ -4,12 +4,17 @@
 #include <iomanip>
 #include <regex>
 #include <stdexcept>
+#include <iostream> // Для отладочных сообщений
 
 ASSSubtitle::ASSSubtitle() : stylesCount(0) {}
 
 int64_t ASSSubtitle::parseTime(const std::string& timeStr) {
     int h, m, s, ms;
-    sscanf(timeStr.c_str(), "%d:%d:%d.%d", &h, &m, &s, &ms);
+    int parsed = sscanf(timeStr.c_str(), "%d:%d:%d.%d", &h, &m, &s, &ms);
+    if (parsed != 4) {
+        std::cerr << "Error: Invalid time format in ASS: " << timeStr << std::endl;
+        throw std::runtime_error("Invalid time format: " + timeStr);
+    }
     return ((h * 60 + m) * 60 + s) * 1000 + ms;
 }
 
@@ -43,6 +48,7 @@ void ASSSubtitle::parseScriptInfo(std::ifstream& in) {
             else if (key == "Original Translation") scriptInfo.originalTranslation = value;
         }
     }
+    std::cout << "Parsed Script Info: Title = " << scriptInfo.title << std::endl;
 }
 
 void ASSSubtitle::parseStyles(std::ifstream& in) {
@@ -54,10 +60,14 @@ void ASSSubtitle::parseStyles(std::ifstream& in) {
         if (line.find("Style:") != std::string::npos) {
             Style& style = styles[stylesCount++];
             char name[100], fontname[100], primaryColour[100], secondaryColour[100], outlineColour[100], backColour[100];
-            sscanf(line.c_str(), "Style: %[^,],%[^,],%d,%[^,],%[^,],%[^,],%[^,],%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d",
+            int parsed = sscanf(line.c_str(), "Style: %[^,],%[^,],%d,%[^,],%[^,],%[^,],%[^,],%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d",
                 name, fontname, &style.fontsize, primaryColour, secondaryColour, outlineColour, backColour, &style.bold, &style.italic,
                 &style.underline, &style.strikeOut, &style.scaleX, &style.scaleY, &style.spacing, &style.angle, &style.borderStyle,
                 &style.outline, &style.shadow, &style.alignment, &style.marginL, &style.marginR, &style.marginV, &style.encoding);
+            if (parsed < 24) {
+                std::cerr << "Warning: Incomplete style definition in line: " << line << std::endl;
+                continue;
+            }
             style.name = name;
             style.fontname = fontname;
             style.primaryColour = primaryColour;
@@ -66,25 +76,40 @@ void ASSSubtitle::parseStyles(std::ifstream& in) {
             style.backColour = backColour;
         }
     }
+    std::cout << "Parsed " << stylesCount << " styles." << std::endl;
 }
 
 void ASSSubtitle::parseEvents(std::ifstream& in) {
     std::string line;
+    int dialogueCount = 0;
+
     while (std::getline(in, line)) {
         if (line.empty()) continue;
+
+        // Выход из метода, если начинается новая секция
         if (line[0] == '[') break;
 
         if (line.find("Dialogue:") != std::string::npos) {
             parseDialogue(line);
+            dialogueCount++;
+        } else {
+            std::cerr << "Warning: Skipping unknown event: " << line << std::endl;
         }
     }
+
+    std::cout << "Parsed " << dialogueCount << " dialogue entries." << std::endl;
 }
 
 void ASSSubtitle::parseDialogue(const std::string& line) {
     Dialogue dlg;
-    char start[100], end[100], style[100], name[100], marginL[100], marginR[100], marginV[100], effect[100], text[1000];
+    char start[100], end[100], style[100], name[100], marginL[100], marginR[100], marginV[100], effect[100], text[2000];
     int parsed = sscanf(line.c_str(), "Dialogue: %d,%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%[^\n]",
         &dlg.layer, start, end, style, name, marginL, marginR, marginV, effect, text);
+
+    if (parsed < 10) {
+        std::cerr << "Warning: Failed to parse dialogue line: " << line << std::endl;
+        return;
+    }
 
     dlg.start = start;
     dlg.end = end;
@@ -94,16 +119,24 @@ void ASSSubtitle::parseDialogue(const std::string& line) {
     dlg.marginR = marginR;
     dlg.marginV = marginV;
     dlg.effect = effect;
-    dlg.text = text;
 
-    if (!dlg.effect.empty() || dlg.text.find("\\fe") != std::string::npos || dlg.text.find("\\move") != std::string::npos) {
-        return;
+    // Убираем символы форматирования, такие как \N
+    std::string cleanedText = std::regex_replace(text, std::regex("\\\\N"), " ");
+    dlg.text = std::regex_replace(cleanedText, std::regex("\\{[^}]*\\}"), "");
+
+    try {
+        int64_t start_ms = parseTime(dlg.start);
+        int64_t end_ms = parseTime(dlg.end);
+        SubtitleEntry entry = {start_ms, end_ms, dlg.text};
+        entries.push_back(entry);
+
+        std::cout << "Parsed Dialogue: Start = " << dlg.start
+                  << ", End = " << dlg.end
+                  << ", Text = " << dlg.text << std::endl;
+
+    } catch (const std::exception& e) {
+        std::cerr << "Error parsing time for dialogue: " << line << "\nException: " << e.what() << std::endl;
     }
-
-    int64_t start_ms = parseTime(dlg.start);
-    int64_t end_ms = parseTime(dlg.end);
-    SubtitleEntry entry = {start_ms, end_ms, dlg.text};
-    entries.push_back(entry);
 }
 
 void ASSSubtitle::read(const std::string& filename) {
@@ -120,8 +153,16 @@ void ASSSubtitle::read(const std::string& filename) {
             parseStyles(in);
         } else if (line == "[Events]") {
             parseEvents(in);
+        } else {
+            std::cerr << "Warning: Unknown section: " << line << std::endl;
+            // Убедимся, что строки, принадлежащие [Events], обрабатываются
+            if (line.find("Dialogue:") != std::string::npos) {
+                parseDialogue(line);
+            }
         }
     }
+
+    std::cout << "Total parsed entries in read(): " << entries.getSize() << std::endl;
 }
 
 void ASSSubtitle::write(const std::string& filename) const {
