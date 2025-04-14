@@ -6,36 +6,8 @@
 #include <stdexcept>
 #include <cstring>
 
-// Константы для ограничения количества элементов
-#define MAX_ENTRIES 1000
-#define MAX_STYLES 100
+ASSSubtitle::ASSSubtitle() : stylesCount(0) {}
 
-// Статические массивы для хранения записей и стилей
-SubtitleEntry entries[MAX_ENTRIES];
-Style styles[MAX_STYLES];
-
-// Счётчики для текущего количества элементов
-int entriesCount = 0;
-int stylesCount = 0;
-
-// Проверка на наличие UTF-8 BOM
-static bool hasUtf8BOM(std::ifstream &file) {
-    std::streampos pos = file.tellg();
-    unsigned char bom[3];
-    file.read(reinterpret_cast<char*>(bom), 3);
-
-    if (file.gcount() == 3 && bom[0] == 0xEF && bom[1] == 0xBB && bom[2] == 0xBF) {
-        return true;
-    }
-    file.clear();
-    file.seekg(pos, std::ios::beg);
-    return false;
-}
-
-// Конструктор
-ASSSubtitle::ASSSubtitle() {}
-
-// Парсинг времени из строки
 int64_t ASSSubtitle::parseTime(const std::string& timeStr) {
     std::string trimmed = timeStr;
     trimmed.erase(0, trimmed.find_first_not_of(" \t\r\n"));
@@ -49,7 +21,6 @@ int64_t ASSSubtitle::parseTime(const std::string& timeStr) {
     return ((h * 60 + m) * 60 + s) * 1000 + ms;
 }
 
-// Форматирование времени в строку
 std::string ASSSubtitle::formatTime(int64_t ms) const {
     int h = static_cast<int>(ms / 3600000);
     ms %= 3600000;
@@ -59,25 +30,62 @@ std::string ASSSubtitle::formatTime(int64_t ms) const {
     ms %= 1000;
     int cs = static_cast<int>(ms / 10);
 
-    char buffer[16];
-    std::snprintf(buffer, sizeof(buffer), "%d:%02d:%02d.%02d", h, m, s, cs);
-    return std::string(buffer);
+    std::ostringstream oss;
+    oss << h << ":"
+        << std::setw(2) << std::setfill('0') << m << ":"
+        << std::setw(2) << std::setfill('0') << s << "."
+        << std::setw(2) << std::setfill('0') << cs;
+    return oss.str();
 }
 
-// Парсинг информации скрипта
-void ASSSubtitle::parseScriptInfo(std::ifstream& in) {
+void ASSSubtitle::read(const std::string& filename) {
+    std::ifstream in(filename, std::ios::binary);
+    if (!in) {
+        throw std::runtime_error("Cannot open file: " + filename);
+    }
+
     std::string line;
     while (std::getline(in, line)) {
-        if (line.empty() || line.front() == '[') break;
+        line.erase(0, line.find_first_not_of(" \t\r\n"));
+        line.erase(line.find_last_not_of(" \t\r\n") + 1);
 
+        if (line.empty()) continue;
+
+        if (line == "[Script Info]") {
+            parseScriptInfo(in);
+        } else if (line == "[V4+ Styles]") {
+            parseStyles(in);
+        } else if (line == "[Events]") {
+            parseEvents(in);
+        }
+    }
+}
+
+SubtitleEntryList& ASSSubtitle::getEntries() {
+    return entries;
+}
+
+void ASSSubtitle::parseScriptInfo(std::ifstream& in) {
+    std::string line;
+    while (true) {
+        std::streampos pos = in.tellg();
+        if (!std::getline(in, line)) break;
+        if (line.empty()) continue;
+
+        if (line.front() == '[') {
+            in.seekg(pos);
+            break;
+        }
         auto posColon = line.find(':');
         if (posColon != std::string::npos) {
             std::string key = line.substr(0, posColon);
             std::string value = line.substr(posColon + 1);
-            key.erase(0, key.find_first_not_of(" \t\r\n"));
-            key.erase(key.find_last_not_of(" \t\r\n") + 1);
-            value.erase(0, value.find_first_not_of(" \t\r\n"));
-            value.erase(value.find_last_not_of(" \t\r\n") + 1);
+            auto trimFunc = [](std::string &str) {
+                str.erase(0, str.find_first_not_of(" \t\r\n"));
+                str.erase(str.find_last_not_of(" \t\r\n") + 1);
+            };
+            trimFunc(key);
+            trimFunc(value);
 
             if (key == "Title") {
                 scriptInfo.title = value;
@@ -90,22 +98,31 @@ void ASSSubtitle::parseScriptInfo(std::ifstream& in) {
     }
 }
 
-// Парсинг стилей
 void ASSSubtitle::parseStyles(std::ifstream& in) {
     std::string line;
-    while (std::getline(in, line)) {
-        if (line.empty() || line.front() == '[') break;
+    while (true) {
+        std::streampos pos = in.tellg();
+        if (!std::getline(in, line)) break;
+        if (line.empty()) continue;
+        if (line.front() == '[') {
+            in.seekg(pos);
+            break;
+        }
 
-        line.erase(0, line.find_first_not_of(" \t\r\n"));
-        line.erase(line.find_last_not_of(" \t\r\n") + 1);
+        std::string trimmed = line;
+        auto trimFunc = [](std::string &str) {
+            str.erase(0, str.find_first_not_of(" \t\r\n"));
+            str.erase(str.find_last_not_of(" \t\r\n") + 1);
+        };
+        trimFunc(trimmed);
 
-        if (line.rfind("Style:", 0) == 0) {
+        if (trimmed.rfind("Style:", 0) == 0) {
             Style st;
             char name[100]{}, fontname[100]{}, primaryColour[100]{}, secondaryColour[100]{};
             char outlineColour[100]{}, backColour[100]{};
 
             int parsed = std::sscanf(
-                line.c_str(),
+                trimmed.c_str(),
                 "Style: %99[^,],%99[^,],%d,%99[^,],%99[^,],%99[^,],%99[^,],%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d",
                 name, fontname,
                 &st.fontsize,
@@ -134,59 +151,68 @@ void ASSSubtitle::parseStyles(std::ifstream& in) {
     }
 }
 
-// Парсинг диалогов
-void ASSSubtitle::parseDialogue(const std::string& line) {
-    if (line.find("Dialogue:") != 0) return;
+void ASSSubtitle::parseDialogue(const std::string &line) {
+    if (line.find("Dialogue:") != 0) {
+        return;
+    }
 
     std::string after = line.substr(9);
     after.erase(0, after.find_first_not_of(" \t\r\n"));
 
-    const int maxFields = 10;
-    std::string fields[maxFields];
-    int fieldCount = 0;
+    std::string fields[MAX_DIALOGUE_FIELDS];
+    size_t fieldCount = 0;
 
-    size_t start = 0, end;
-    while ((end = after.find(',', start)) != std::string::npos && fieldCount < maxFields) {
-        fields[fieldCount++] = after.substr(start, end - start);
-        start = end + 1;
-    }
-    if (start < after.size() && fieldCount < maxFields) {
-        fields[fieldCount++] = after.substr(start);
+    std::stringstream ss(after);
+    std::string field;
+
+    while (std::getline(ss, field, ',') && fieldCount < MAX_DIALOGUE_FIELDS) {
+        fields[fieldCount++] = field;
     }
 
-    if (fieldCount < 10) return;
+    if (fieldCount < 10) {
+        return;
+    }
 
-    Dialogue dlg;
-    dlg.layer = std::stoi(fields[0]);
-    dlg.start = fields[1];
-    dlg.end = fields[2];
-    dlg.style = fields[3];
-    dlg.name = fields[4];
-    dlg.marginL = fields[5];
-    dlg.marginR = fields[6];
-    dlg.marginV = fields[7];
-    dlg.effect = fields[8];
-    dlg.text = fields[9];
+    try {
+        Dialogue dlg;
+        dlg.layer = std::stoi(fields[0]);
+        dlg.start = fields[1];
+        dlg.end = fields[2];
+        dlg.style = fields[3];
+        dlg.name = fields[4];
+        dlg.marginL = fields[5];
+        dlg.marginR = fields[6];
+        dlg.marginV = fields[7];
+        dlg.effect = fields[8];
 
-    dlg.text = std::regex_replace(dlg.text, std::regex("\\\\N"), " ");
-    dlg.text = std::regex_replace(dlg.text, std::regex("\\{[^}]*\\}"), "");
+        dlg.text = fields[9];
+        for (size_t i = 10; i < fieldCount; ++i) {
+            dlg.text += "," + fields[i];
+        }
 
-    int64_t startMs = parseTime(dlg.start);
-    int64_t endMs = parseTime(dlg.end);
+        dlg.text = std::regex_replace(dlg.text, std::regex("\\\\N"), " ");
+        dlg.text = std::regex_replace(dlg.text, std::regex("\\{[^}]*\\}"), "");
 
-    if (entriesCount < MAX_ENTRIES) {
-        entries[entriesCount++] = {startMs, endMs, dlg.text};
+        SubtitleEntry entry;
+        entry.start_ms = parseTime(dlg.start);
+        entry.end_ms = parseTime(dlg.end);
+        entry.text = dlg.text;
+
+        entries.push_back(entry);
+    } catch (...) {
     }
 }
 
-// Парсинг событий
 void ASSSubtitle::parseEvents(std::ifstream& in) {
     std::string line;
     while (std::getline(in, line)) {
         line.erase(0, line.find_first_not_of(" \t\r\n"));
         line.erase(line.find_last_not_of(" \t\r\n") + 1);
 
-        if (line.empty() || line.front() == '[') break;
+        if (line.empty()) continue;
+        if (line.front() == '[') {
+            break;
+        }
 
         if (line.find("Dialogue:") == 0) {
             parseDialogue(line);
@@ -194,35 +220,6 @@ void ASSSubtitle::parseEvents(std::ifstream& in) {
     }
 }
 
-// Чтение субтитров из файла
-void ASSSubtitle::read(const std::string& filename) {
-    std::ifstream in(filename, std::ios::binary);
-    if (!in) {
-        throw std::runtime_error("Cannot open file: " + filename);
-    }
-
-    if (hasUtf8BOM(in)) {
-        in.seekg(3);
-    }
-
-    std::string line;
-    while (std::getline(in, line)) {
-        line.erase(0, line.find_first_not_of(" \t\r\n"));
-        line.erase(line.find_last_not_of(" \t\r\n") + 1);
-
-        if (line.empty()) continue;
-
-        if (line == "[Script Info]") {
-            parseScriptInfo(in);
-        } else if (line == "[V4+ Styles]") {
-            parseStyles(in);
-        } else if (line == "[Events]") {
-            parseEvents(in);
-        }
-    }
-}
-
-// Запись субтитров в файл
 void ASSSubtitle::write(const std::string& filename) const {
     std::ofstream out(filename);
     if (!out) {
@@ -263,15 +260,38 @@ void ASSSubtitle::write(const std::string& filename) const {
             << st.encoding
             << "\n";
     }
-
     out << "\n[Events]\n";
-    for (int i = 0; i < entriesCount; ++i) {
-        const SubtitleEntry &e = entries[i];
+    for (size_t i = 0; i < entries.getSize(); ++i) {
+        const auto &e = entries[i];
         out << "Dialogue: 0,"
             << formatTime(e.start_ms) << ","
             << formatTime(e.end_ms)
             << ",Default,,0,0,0,,"
             << e.text
             << "\n";
+    }
+}
+
+void ASSSubtitle::removeFormatting() {
+    std::regex removeTags("<[^>]*>");
+    for (size_t i = 0; i < entries.getSize(); i++) {
+        entries[i].text = std::regex_replace(entries[i].text, removeTags, "");
+    }
+}
+
+void ASSSubtitle::addDefaultStyle(const std::string& styleName) {
+    for (size_t i = 0; i < entries.getSize(); i++) {
+        entries[i].text = "<" + styleName + ">" + entries[i].text + "</" + styleName + ">";
+    }
+}
+
+void ASSSubtitle::shiftTime(int64_t deltaMs, TimeShiftType type) {
+    for (size_t i = 0; i < entries.getSize(); i++) {
+        if (type == START_ONLY || type == START_END) {
+            entries[i].start_ms += deltaMs;
+        }
+        if (type == END_ONLY || type == START_END) {
+            entries[i].end_ms += deltaMs;
+        }
     }
 }

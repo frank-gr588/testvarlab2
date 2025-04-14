@@ -4,6 +4,10 @@
 #define MAX_STYLES 100
 #endif
 
+#ifndef MAX_DIALOGUE_FIELDS
+#define MAX_DIALOGUE_FIELDS 20
+#endif
+
 #include "SRTSubtitle.h"
 #include "SAMISubtitle.h"
 #include "SubtitleEntryList.h"
@@ -61,6 +65,7 @@ private:
         int marginV;
         int encoding;
     };
+
     Style styles[MAX_STYLES];
     int stylesCount;
 
