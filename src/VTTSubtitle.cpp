@@ -14,12 +14,10 @@ int64_t VTTSubtitle::parseTime(const std::string& timeStr) {
     int h = 0, m = 0, s = 0, ms = 0;
     int parsed = 0;
 
-    // Попробуем сначала формат hh:mm:ss.sss
     parsed = std::sscanf(trimmed.c_str(), "%d:%d:%d.%d", &h, &m, &s, &ms);
 
     if (parsed < 4) {
-        // Если не получилось, попробуем формат mm:ss.sss (без часов)
-        h = 0; // Сбросим часы
+        h = 0;
         parsed = std::sscanf(trimmed.c_str(), "%d:%d.%d", &m, &s, &ms);
 
         if (parsed < 3) {
@@ -68,15 +66,16 @@ void VTTSubtitle::read(const std::string& filename) {
 
         // Обработка заметок (NOTE)
         if (line.substr(0, 4) == "NOTE") {
-            VTTNote note;
-            note.content = line.substr(4); // Сохраняем всё, что после "NOTE"
+            SubtitleEntry entry;
+            entry.start_ms = -1;
+            entry.end_ms = -1; // Временные метки для заметки
+            entry.text = line.substr(4);
 
-            // Считываем многострочную заметку
             while (std::getline(in, line) && !line.empty()) {
-                note.content += "\n" + line;
+                entry.text += "\n" + line;
             }
 
-            notes.push_back(note);
+            entries.push_back(entry);
             continue;
         }
 
@@ -118,30 +117,24 @@ void VTTSubtitle::write(const std::string& filename) const {
 
     out << "WEBVTT\n\n";
 
-    // Сначала записываем заметки
-    for (const auto& note : notes) {
-        out << "NOTE " << note.content << "\n\n";
-    }
-
-    // Затем записываем субтитры
     for (size_t i = 0; i < entries.getSize(); ++i) {
         const auto& entry = entries[i];
-        out << formatTime(entry.start_ms) << " --> " << formatTime(entry.end_ms) << "\n";
-        out << entry.text << "\n\n";
+
+        if (entry.start_ms == -1 && entry.end_ms == -1) {
+            // Это заметка
+            out << "NOTE " << entry.text << "\n\n";
+        } else {
+            // Это субтитры
+            out << formatTime(entry.start_ms) << " --> " << formatTime(entry.end_ms) << "\n";
+            out << entry.text << "\n\n";
+        }
     }
 }
 
-// Возвращает список субтитров
 SubtitleEntryList& VTTSubtitle::getEntries() {
     return entries;
 }
 
-// Возвращает список заметок
-const std::vector<VTTNote>& VTTSubtitle::getNotes() const {
-    return notes;
-}
-
-// Удаляет HTML-теги из текста субтитров
 void VTTSubtitle::removeFormatting() {
     std::regex removeTags("<[^>]*>");
     for (size_t i = 0; i < entries.getSize(); ++i) {
@@ -149,16 +142,19 @@ void VTTSubtitle::removeFormatting() {
     }
 }
 
-// Добавляет стиль к каждому тексту
 void VTTSubtitle::addDefaultStyle(const std::string& style) {
     for (size_t i = 0; i < entries.getSize(); ++i) {
         entries[i].text = "<" + style + ">" + entries[i].text + "</" + style + ">";
     }
 }
 
-// Сдвигает временные метки
 void VTTSubtitle::shiftTime(int64_t delta_ms, TimeShiftType type) {
     for (size_t i = 0; i < entries.getSize(); ++i) {
+        if (entries[i].start_ms == -1 && entries[i].end_ms == -1) {
+            // Пропускаем заметки
+            continue;
+        }
+
         if (type == START_ONLY || type == START_END) {
             entries[i].start_ms += delta_ms;
         }
