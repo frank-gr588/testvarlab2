@@ -1,7 +1,7 @@
 #include "SRTSubtitle.h"
 #include "SAMISubtitle.h"
 #include "ASSSubtitle.h"
-
+#include "VTTSubtitle.h"
 #include <iostream>
 #include <string>
 #include <filesystem>
@@ -22,6 +22,8 @@ int main(int argc, char* argv[]) {
         SRTSubtitle srtSubs;
         SAMISubtitle samiSubs;
         ASSSubtitle assSubs;
+        VTTSubtitle vttSubs;
+
         std::string inExtension = inFile.substr(inFile.find_last_of(".") + 1);
         std::string outExtension = outFile.substr(outFile.find_last_of(".") + 1);
 
@@ -31,11 +33,11 @@ int main(int argc, char* argv[]) {
                 samiSubs.getEntries() = srtSubs.getEntries();
                 samiSubs.write(outFile);
             } else if (outExtension == "ass" || outExtension == "ssa") {
-                SubtitleEntryList& entries = srtSubs.getEntries();
-                for (size_t i = 0; i < entries.getSize(); ++i) {
-                    assSubs.getEntries().push_back(entries[i]);
-                }
+                assSubs.getEntries() = srtSubs.getEntries();
                 assSubs.write(outFile);
+            } else if (outExtension == "vtt") {
+                vttSubs.getEntries() = srtSubs.getEntries();
+                vttSubs.write(outFile);
             } else {
                 srtSubs.write(outFile);
             }
@@ -45,11 +47,11 @@ int main(int argc, char* argv[]) {
                 srtSubs.getEntries() = samiSubs.getEntries();
                 srtSubs.write(outFile);
             } else if (outExtension == "ass" || outExtension == "ssa") {
-                SubtitleEntryList& entries = samiSubs.getEntries();
-                for (size_t i = 0; i < entries.getSize(); ++i) {
-                    assSubs.getEntries().push_back(entries[i]);
-                }
+                assSubs.getEntries() = samiSubs.getEntries();
                 assSubs.write(outFile);
+            } else if (outExtension == "vtt") {
+                vttSubs.getEntries() = samiSubs.getEntries();
+                vttSubs.write(outFile);
             } else {
                 samiSubs.write(outFile);
             }
@@ -61,10 +63,25 @@ int main(int argc, char* argv[]) {
             } else if (outExtension == "smi") {
                 samiSubs.getEntries() = assSubs.getEntries();
                 samiSubs.write(outFile);
-            } else if (outExtension == "ass" || outExtension == "ssa") {
-                assSubs.write(outFile);
+            } else if (outExtension == "vtt") {
+                vttSubs.getEntries() = assSubs.getEntries();
+                vttSubs.write(outFile);
             } else {
                 assSubs.write(outFile);
+            }
+        } else if (inExtension == "vtt") {
+            vttSubs.read(inFile);
+            if (outExtension == "srt") {
+                srtSubs.getEntries() = vttSubs.getEntries();
+                srtSubs.write(outFile);
+            } else if (outExtension == "smi") {
+                samiSubs.getEntries() = vttSubs.getEntries();
+                samiSubs.write(outFile);
+            } else if (outExtension == "ass" || outExtension == "ssa") {
+                assSubs.getEntries() = vttSubs.getEntries();
+                assSubs.write(outFile);
+            } else {
+                vttSubs.write(outFile);
             }
         } else {
             throw std::runtime_error("Unsupported input file format: " + inExtension);

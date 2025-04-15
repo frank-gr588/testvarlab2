@@ -1,6 +1,6 @@
 #pragma once
 #include "SubtitleEntryList.h"
-#include "SRTSubtitle.h" // Включаем заголовочный файл с объявлением TimeShiftType
+#include "SRTSubtitle.h"
 #include <string>
 
 class SAMISubtitle {
