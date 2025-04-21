@@ -46,7 +46,7 @@ std::string VTTSubtitle::formatTime(int64_t ms) {
 }
 
 // Чтение VTT-файла
-void VTTSubtitle::read(const std::string& filename) {
+void VTTSubtitle::read(const std::string& filename, bool keepNotes) {
     std::ifstream in(filename, std::ios::binary);
     if (!in.is_open()) {
         throw std::runtime_error("Cannot open file: " + filename);
@@ -66,6 +66,14 @@ void VTTSubtitle::read(const std::string& filename) {
 
         // Обработка заметок (NOTE)
         if (line.substr(0, 4) == "NOTE") {
+            if (!keepNotes) {
+                // Пропускаем заметки, если они не нужны
+                while (std::getline(in, line) && !line.empty()) {
+                    // Просто читаем до конца заметки
+                }
+                continue;
+            }
+
             SubtitleEntry entry;
             entry.start_ms = -1;
             entry.end_ms = -1; // Временные метки для заметки
@@ -107,7 +115,6 @@ void VTTSubtitle::read(const std::string& filename) {
         }
     }
 }
-
 // Запись VTT-файла
 void VTTSubtitle::write(const std::string& filename) const {
     std::ofstream out(filename);

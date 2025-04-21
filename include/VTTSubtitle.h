@@ -12,7 +12,7 @@ private:
     static std::string formatTime(int64_t ms);           // Конвертирует миллисекунды в строку времени "00:01:02.345"
 
 public:
-    void read(const std::string& filename);              // Читает VTT-файл
+    void read(const std::string& filename, bool keepNotes);              // Читает VTT-файл
     void write(const std::string& filename) const;       // Пишет VTT-файл
     SubtitleEntryList& getEntries();                     // Возвращает список субтитров и заметок
 

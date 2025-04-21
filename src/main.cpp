@@ -5,18 +5,35 @@
 #include <iostream>
 #include <string>
 #include <filesystem>
+#include <stdexcept>
 
 int main(int argc, char* argv[]) {
     if (argc < 3) {
-        std::cerr << "Usage: converter_subs <in_file> <out_file>\n";
+        std::cerr << "Usage: converter_subs <in_file> <out_file> [options]\n";
+        std::cerr << "Options:\n";
+        std::cerr << "  --shift-time <ms>        Shift subtitles by <ms> milliseconds.\n";
+        std::cerr << "  --remove-formatting      Remove formatting from subtitles.\n";
+        std::cerr << "  --add-style <styleName>  Add a style to the subtitles.\n";
         return 1;
     }
 
     std::string inFile = argv[1];
     std::string outFile = argv[2];
 
-    std::cout << "Current working directory: " << std::filesystem::current_path() << std::endl;
-    std::cout << "Input file path: " << inFile << std::endl;
+    int64_t shiftTimeMs = 0;
+    bool removeFormatting = false;
+    std::string addStyle;
+
+    // Parse optional arguments
+    for (int i = 3; i < argc; ++i) {
+        if (std::string(argv[i]) == "--shift-time" && i + 1 < argc) {
+            shiftTimeMs = std::stoll(argv[++i]);
+        } else if (std::string(argv[i]) == "--remove-formatting") {
+            removeFormatting = true;
+        } else if (std::string(argv[i]) == "--add-style" && i + 1 < argc) {
+            addStyle = argv[++i];
+        }
+    }
 
     try {
         SRTSubtitle srtSubs;
@@ -27,8 +44,24 @@ int main(int argc, char* argv[]) {
         std::string inExtension = inFile.substr(inFile.find_last_of(".") + 1);
         std::string outExtension = outFile.substr(outFile.find_last_of(".") + 1);
 
+        bool keepNotes = (inExtension == "vtt" && outExtension == "vtt");
+
+        // Determine the input format
         if (inExtension == "srt") {
             srtSubs.read(inFile);
+
+            // Apply optional operations only if specified
+            if (shiftTimeMs != 0) {
+                srtSubs.shiftTime(shiftTimeMs, START_END);
+            }
+            if (removeFormatting) {
+                srtSubs.removeFormatting();
+            }
+            if (!addStyle.empty()) {
+                srtSubs.addDefaultStyle(addStyle);
+            }
+
+            // Write output
             if (outExtension == "smi") {
                 samiSubs.getEntries() = srtSubs.getEntries();
                 samiSubs.write(outFile);
@@ -43,6 +76,19 @@ int main(int argc, char* argv[]) {
             }
         } else if (inExtension == "smi") {
             samiSubs.read(inFile);
+
+            // Apply optional operations only if specified
+            if (shiftTimeMs != 0) {
+                samiSubs.shiftTime(shiftTimeMs, START_END);
+            }
+            if (removeFormatting) {
+                samiSubs.removeFormatting();
+            }
+            if (!addStyle.empty()) {
+                samiSubs.addDefaultStyle(addStyle);
+            }
+
+            // Write output
             if (outExtension == "srt") {
                 srtSubs.getEntries() = samiSubs.getEntries();
                 srtSubs.write(outFile);
@@ -57,6 +103,19 @@ int main(int argc, char* argv[]) {
             }
         } else if (inExtension == "ass" || inExtension == "ssa") {
             assSubs.read(inFile);
+
+            // Apply optional operations only if specified
+            if (shiftTimeMs != 0) {
+                assSubs.shiftTime(shiftTimeMs, START_END);
+            }
+            if (removeFormatting) {
+                assSubs.removeFormatting();
+            }
+            if (!addStyle.empty()) {
+                assSubs.addDefaultStyle(addStyle);
+            }
+
+            // Write output
             if (outExtension == "srt") {
                 srtSubs.getEntries() = assSubs.getEntries();
                 srtSubs.write(outFile);
@@ -70,7 +129,20 @@ int main(int argc, char* argv[]) {
                 assSubs.write(outFile);
             }
         } else if (inExtension == "vtt") {
-            vttSubs.read(inFile);
+            vttSubs.read(inFile, keepNotes);
+
+            // Apply optional operations only if specified
+            if (shiftTimeMs != 0) {
+                vttSubs.shiftTime(shiftTimeMs, START_END);
+            }
+            if (removeFormatting) {
+                vttSubs.removeFormatting();
+            }
+            if (!addStyle.empty()) {
+                vttSubs.addDefaultStyle(addStyle);
+            }
+
+            // Write output
             if (outExtension == "srt") {
                 srtSubs.getEntries() = vttSubs.getEntries();
                 srtSubs.write(outFile);

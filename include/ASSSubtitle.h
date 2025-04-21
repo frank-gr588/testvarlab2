@@ -38,7 +38,13 @@ private:
         std::string title;
         std::string originalScript;
         std::string originalTranslation;
-    } scriptInfo;
+        std::string scriptType;
+        std::string wrapStyle;
+        std::string scaledBorderAndShadow;
+        std::string ycbcrMatrix;
+    };
+    
+    ScriptInfo scriptInfo; 
 
     struct Style {
         std::string name;
