@@ -54,9 +54,17 @@ void VTTSubtitle::read(const std::string& filename, bool keepNotes) {
 
     std::string line;
     std::getline(in, line);
-    if (line != "WEBVTT") {
-        throw std::runtime_error("Invalid VTT file: Missing WEBVTT header");
-    }
+
+// Удаляем BOM и пробелы
+if (!line.empty() && line[0] == '\xEF' && line[1] == '\xBB' && line[2] == '\xBF') {
+    line = line.substr(3); // Удаляем первые 3 байта BOM
+}
+line.erase(0, line.find_first_not_of(" \t\r\n"));
+line.erase(line.find_last_not_of(" \t\r\n") + 1);
+
+if (line != "WEBVTT") {
+    throw std::runtime_error("Invalid VTT file: Missing WEBVTT header");
+}
 
     while (std::getline(in, line)) {
         line.erase(0, line.find_first_not_of(" \t\r\n"));
@@ -122,7 +130,7 @@ void VTTSubtitle::write(const std::string& filename) const {
         throw std::runtime_error("Cannot write file: " + filename);
     }
 
-    out << "WEBVTT\n\n";
+    out << "WEBVTT" << "\n\n";
 
     for (size_t i = 0; i < entries.getSize(); ++i) {
         const auto& entry = entries[i];

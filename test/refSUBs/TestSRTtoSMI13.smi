@@ -1,0 +1,634 @@
+<SAMI>
+<HEAD>
+<TITLE>file</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=104 End=3066><P>The Empire is gone, Mando.</P></SYNC>
+<SYNC Start=4817 End=7654><P>This asset
+was of extreme importance to me.</P></SYNC>
+<SYNC Start=8530 End=10990><P><i>I had to ensure its delivery.</i></P></SYNC>
+<SYNC Start=11115 End=12909><P>He's not a local warlord.</P></SYNC>
+<SYNC Start=12992 End=14035><P>He's Imperial.</P></SYNC>
+<SYNC Start=14702 End=15703><P>I'm in.</P></SYNC>
+<SYNC Start=15787 End=20041><P><i>Our secrecy is our survival.
+Our survival is our strength.</i></P></SYNC>
+<SYNC Start=21543 End=23461><P><i>Our strength was once in our numbers.</i></P></SYNC>
+<SYNC Start=23545 End=25046><P>Now, we live in the shadows.</P></SYNC>
+<SYNC Start=26130 End=28508><P>Our world was shattered by the Empire.</P></SYNC>
+<SYNC Start=33263 End=35598><P>You're going
+to have to relocate the covert.</P></SYNC>
+<SYNC Start=35682 End=36891><P>This is the Way.</P></SYNC>
+<SYNC Start=36975 End=40645><P>In the wake of your destruction,
+it was left behind.</P></SYNC>
+<SYNC Start=40770 End=42564><P>Is it still a hunter?</P></SYNC>
+<SYNC Start=42647 End=44816><P>No. But it will protect.</P></SYNC>
+<SYNC Start=44899 End=47235><P>You got a real thing for droids,
+don't you?</P></SYNC>
+<SYNC Start=47777 End=49612><P>I got a real thing for that droid.</P></SYNC>
+<SYNC Start=49696 End=51155><P>Let me take the child to him...</P></SYNC>
+<SYNC Start=51239 End=52782><P>Let's kill him and get out of here.</P></SYNC>
+<SYNC Start=52866 End=55535><P>- We both need the client to be eliminated.
+- He's right.</P></SYNC>
+<SYNC Start=55618 End=58013><P>As long as the Imp lives,
+he'll send hunters after the child.</P></SYNC>
+<SYNC Start=58037 End=59038><P><i>It's a trap.</i></P></SYNC>
+<SYNC Start=59122 End=61833><P><i>- Have they brought the child?</i>
+- Yes, they have.</P></SYNC>
+<SYNC Start=65587 End=67630><P><i>You have something I want.</i></P></SYNC>
+<SYNC Start=67964 End=69674><P>Kuiil? Are you there?</P></SYNC>
+<SYNC Start=71718 End=72844><P>In a few moments...</P></SYNC>
+<SYNC Start=74304 End=75889><P><i>Kuiil! Are you there?</i></P></SYNC>
+<SYNC Start=76806 End=78975><P>It will be mine.</P></SYNC>
+<SYNC Start=143665 End=146626><P>Speeder bikes have arrived
+at the checkpoint with the asset.</P></SYNC>
+<SYNC Start=146751 End=148920><P>Awaiting confirmation.</P></SYNC>
+<SYNC Start=149337 End=150338><P>Knock it off!</P></SYNC>
+<SYNC Start=152382 End=155009><P>Waiting for confirmation
+to continue into town.</P></SYNC>
+<SYNC Start=155093 End=157679><P><i>That's a go to proceed,
+but I advise you to double-check.</i></P></SYNC>
+<SYNC Start=157762 End=161808><P><i>The Moff just touched down and already
+took out a squad of local troopers.</i></P></SYNC>
+<SYNC Start=163893 End=165186><P>Standing by.</P></SYNC>
+<SYNC Start=167605 End=170650><P>Did he just say
+that Gideon killed his own men?</P></SYNC>
+<SYNC Start=170733 End=172902><P>Oh, who knows?</P></SYNC>
+<SYNC Start=172986 End=176322><P>These guys like to lay down the law
+when they first arrive into town.</P></SYNC>
+<SYNC Start=176406 End=178241><P>You know how it is.</P></SYNC>
+<SYNC Start=178783 End=181870><P>I said, shut up. Yeesh.</P></SYNC>
+<SYNC Start=182453 End=183913><P>What is that thing, anyway?</P></SYNC>
+<SYNC Start=183997 End=184998><P>Uh, I don't know.</P></SYNC>
+<SYNC Start=185081 End=187750><P>Maybe Moff wants to eat it.
+I don't ask questions.</P></SYNC>
+<SYNC Start=190003 End=191004><P>Can I see it?</P></SYNC>
+<SYNC Start=191838 End=193840><P>Did you not just hear
+that Moff Gideon killed</P></SYNC>
+<SYNC Start=193923 End=195842><P>a dozen of his own troopers
+to make a point.</P></SYNC>
+<SYNC Start=195925 End=197927><P>- Okay.
+- I get that point.</P></SYNC>
+<SYNC Start=198469 End=199971><P>- Do you get the point?
+- Yes.</P></SYNC>
+<SYNC Start=200054 End=201055><P>Okay.</P></SYNC>
+<SYNC Start=227582 End=229375><P>Should we offer
+that thing some water?</P></SYNC>
+<SYNC Start=229459 End=230835><P>You just wanna look at it.</P></SYNC>
+<SYNC Start=230919 End=232295><P>So what?
+You got to see it!</P></SYNC>
+<SYNC Start=232378 End=233379><P>Barely.</P></SYNC>
+<SYNC Start=233463 End=236507><P>I mean, I grabbed it up off the ground
+and I stuffed it in the sack.</P></SYNC>
+<SYNC Start=237091 End=238593><P>It's more than I got to see it.</P></SYNC>
+<SYNC Start=238676 End=241804><P>Look, I'm not taking it out of
+this bag until I deliver it to the Moff.</P></SYNC>
+<SYNC Start=242180 End=244724><P>- Fine.
+- Okay. Stop asking.</P></SYNC>
+<SYNC Start=249646 End=252232><P>Let me check on this thing. This is crazy.</P></SYNC>
+<SYNC Start=252315 End=253358><P>Any update yet?</P></SYNC>
+<SYNC Start=253441 End=256194><P><i>That's a negative.
+Still waiting on confirmation.</i></P></SYNC>
+<SYNC Start=256277 End=258088><P><i>He just killed an officer
+for interrupting him,</i></P></SYNC>
+<SYNC Start=258112 End=260114><P><i>- so this might take a while.</i></P></SYNC>
+<SYNC Start=260198 End=261824><P>Thank you.</P></SYNC>
+<SYNC Start=261908 End=264452><P>Standing by still. Unbelievable.</P></SYNC>
+<SYNC Start=266037 End=268581><P>Hey, how long has it been
+since that thing moved?</P></SYNC>
+<SYNC Start=268665 End=271042><P>I don't know,
+like a minute or two. Don't worry.</P></SYNC>
+<SYNC Start=271834 End=273878><P>Uh, it's been
+way longer than a minute.</P></SYNC>
+<SYNC Start=273962 End=274963><P>Oh, my God.</P></SYNC>
+<SYNC Start=275046 End=277090><P>Shouldn't we check
+and see if it's still alive?</P></SYNC>
+<SYNC Start=277173 End=278466><P>You hit it pretty hard.</P></SYNC>
+<SYNC Start=278550 End=279842><P>You just wanna see it.</P></SYNC>
+<SYNC Start=279926 End=281636><P>We should check
+and see if it's hurt.</P></SYNC>
+<SYNC Start=281719 End=283763><P>The last thing that you want
+is to give Gideon a bag</P></SYNC>
+<SYNC Start=283846 End=285807><P>and have him open it
+and find whatever is dead...</P></SYNC>
+<SYNC Start=285890 End=287559><P>Okay. Okay, look.
+Here you go. See?</P></SYNC>
+<SYNC Start=287642 End=290478><P>Take a peek. Everything's fine.</P></SYNC>
+<SYNC Start=290562 End=291563><P>What is that?</P></SYNC>
+<SYNC Start=291855 End=293606><P>I don't know.
+It's a pet or something.</P></SYNC>
+<SYNC Start=293690 End=295149><P>A pet? I thought you...</P></SYNC>
+<SYNC Start=298403 End=300280><P>Serves you right.
+WEBVTT
+STYLE
+:: cue</P></SYNC>
+<SYNC Start=301322 End=302740><P>Stop that.</P></SYNC>
+<SYNC Start=303366 End=304701><P>Identify yourself!</P></SYNC>
+<SYNC Start=304909 End=306244><P>I am IG-11.</P></SYNC>
+<SYNC Start=306327 End=310498><P>I am this child's nurse droid and require
+that you remand him to me immediately.</P></SYNC>
+<SYNC Start=310582 End=311916><P>A nurse droid?</P></SYNC>
+<SYNC Start=312000 End=314794><P>I thought it was a hunter.
+Aren't IGs usually hunters?</P></SYNC>
+<SYNC Start=314878 End=317213><P>Yeah, well,
+evidently this one's a nurse.</P></SYNC>
+<SYNC Start=318381 End=321301><P>I'm sorry, nurse,
+but you're gonna have to get out of here.</P></SYNC>
+<SYNC Start=322260 End=323928><P>Are you refusing my request?</P></SYNC>
+<SYNC Start=324012 End=325305><P>No.</P></SYNC>
+<SYNC Start=325430 End=326973><P>I'm telling you to get out of here.</P></SYNC>
+<SYNC Start=332478 End=334564><P>Hey.</P></SYNC>
+<SYNC Start=345074 End=346367><P>That was unpleasant.</P></SYNC>
+<SYNC Start=346451 End=347869><P>I'm sorry you had to see that.</P></SYNC>
+<SYNC Start=376606 End=377732><P>Is there another way out?</P></SYNC>
+<SYNC Start=377815 End=379192><P>No, that's it.</P></SYNC>
+<SYNC Start=381027 End=383279><P>- What about the sewers?
+- Sewers?</P></SYNC>
+<SYNC Start=383363 End=385740><P>The Mandalorians
+have a covert down in the sewers.</P></SYNC>
+<SYNC Start=385823 End=388076><P>If we can get down there,
+they can help us escape.</P></SYNC>
+<SYNC Start=388159 End=389577><P>Yeah, sewers are good.</P></SYNC>
+<SYNC Start=389661 End=391329><P>Checking for access points.</P></SYNC>
+<SYNC Start=394499 End=396376><P>What the hell are they waiting for?</P></SYNC>
+<SYNC Start=409681 End=410682><P>Hold up.</P></SYNC>
+<SYNC Start=417981 End=419274><P>They're setting up an E-Web.</P></SYNC>
+<SYNC Start=421109 End=422110><P>It's over.</P></SYNC>
+<SYNC Start=425488 End=426906><P>I found the sewer vent.</P></SYNC>
+<SYNC Start=426990 End=428491><P>Let's get the hell out of here.</P></SYNC>
+<SYNC Start=450179 End=452307><P>It's assembled!
+How long until that thing's cleared?</P></SYNC>
+<SYNC Start=452390 End=455184><P>- Blow it.
+- I'm out of charges.</P></SYNC>
+<SYNC Start=455268 End=456269><P>Get out of the way!</P></SYNC>
+<SYNC Start=465820 End=470366><P>Your astute panic suggests
+that you understand your situation.</P></SYNC>
+<SYNC Start=470700 End=474245><P>I would prefer to avoid
+any further violence,</P></SYNC>
+<SYNC Start=474329 End=477415><P>and encourage a moment of consideration.</P></SYNC>
+<SYNC Start=478166 End=481794><P>Members of my escort
+have completed assembly</P></SYNC>
+<SYNC Start=481878 End=484714><P>of an E-Web heavy repeating blaster.</P></SYNC>
+<SYNC Start=486090 End=487800><P>If you are unfamiliar with this weapon,</P></SYNC>
+<SYNC Start=487926 End=491930><P>I am sure that Republican Shock Trooper
+Carasynthia Dune of Alderaan</P></SYNC>
+<SYNC Start=492013 End=497352><P>will advise you that she has witnessed
+many of her ranks vaporize mid-descent</P></SYNC>
+<SYNC Start=497435 End=501022><P>facing the predecessor
+of this particular model.</P></SYNC>
+<SYNC Start=503525 End=508530><P>Or perhaps the decommissioned
+Mandalorian hunter, Din Djarin,</P></SYNC>
+<SYNC Start=509239 End=513076><P>has heard the songs
+of the Siege of Mandalore,</P></SYNC>
+<SYNC Start=513159 End=516204><P>when gunships outfitted
+with similar ordnance</P></SYNC>
+<SYNC Start=516287 End=522377><P>laid waste to fields of Mandalorian
+recruits in The Night of a Thousand Tears.</P></SYNC>
+<SYNC Start=524128 End=530593><P>I advise disgraced Magistrate Greef Karga
+to search the wisdom of his years</P></SYNC>
+<SYNC Start=531094 End=536474><P>and urge you to lay down your arms
+and come outside.</P></SYNC>
+<SYNC Start=536599 End=540019><P>The structure you are trapped in
+will be razed in short order</P></SYNC>
+<SYNC Start=540103 End=544440><P>and your storied lives will come
+to an unceremonious end.</P></SYNC>
+<SYNC Start=547652 End=549153><P>What do you propose?</P></SYNC>
+<SYNC Start=550321 End=552198><P>Reasonable negotiation.</P></SYNC>
+<SYNC Start=554117 End=555743><P>What assurance do you offer?</P></SYNC>
+<SYNC Start=555827 End=559455><P>If you're asking
+if you can trust me, you cannot.</P></SYNC>
+<SYNC Start=560665 End=563501><P>Just as you betrayed
+our business arrangement,</P></SYNC>
+<SYNC Start=563585 End=567589><P>I would gladly break any promise
+and watch you die at my hand.</P></SYNC>
+<SYNC Start=568131 End=572260><P>The assurance I give is this:
+I will act in my own self-interest,</P></SYNC>
+<SYNC Start=572343 End=576514><P>which at this time involves
+your cooperation and benefit.</P></SYNC>
+<SYNC Start=580226 End=585231><P>I will give you until nightfall, and then
+I will have the E-Web cannon open fire.</P></SYNC>
+<SYNC Start=592530 End=594532><P>I say we hear him out.</P></SYNC>
+<SYNC Start=594657 End=596409><P>The minute we open that door, we're dead.</P></SYNC>
+<SYNC Start=596492 End=597911><P>We're dead if we don't.</P></SYNC>
+<SYNC Start=598161 End=599954><P>At least out there, we've got a shot.</P></SYNC>
+<SYNC Start=600038 End=601473><P>That's easy for you to say.
+WEBVTT
+STYLE
+:: cue</P></SYNC>
+<SYNC Start=601497 End=603124><P>I'm a Rebel Shock Trooper.</P></SYNC>
+<SYNC Start=603208 End=604959><P>They'll upload me to a Mind Flayer.</P></SYNC>
+<SYNC Start=605043 End=607837><P>Those aren't real.
+That was just wartime propaganda.</P></SYNC>
+<SYNC Start=607921 End=610423><P>I don't care to find out.
+I'm shooting my way out of here.</P></SYNC>
+<SYNC Start=611925 End=613676><P>What about you, Mando?</P></SYNC>
+<SYNC Start=613760 End=615011><P>I know who he is.</P></SYNC>
+<SYNC Start=617597 End=618765><P>It's Moff Gideon.</P></SYNC>
+<SYNC Start=618848 End=619891><P>No.</P></SYNC>
+<SYNC Start=619974 End=622185><P>Moff Gideon was executed for war crimes.</P></SYNC>
+<SYNC Start=622268 End=624687><P>It's him.
+He knew my name.</P></SYNC>
+<SYNC Start=624771 End=626147><P>So? What does that prove?</P></SYNC>
+<SYNC Start=626231 End=628733><P>I haven't heard that name
+spoken since I was a child.</P></SYNC>
+<SYNC Start=629234 End=630276><P>On Mandalore?</P></SYNC>
+<SYNC Start=630360 End=632362><P>I was not born on Mandalore.</P></SYNC>
+<SYNC Start=632445 End=633530><P>But you're a Mandalorian.</P></SYNC>
+<SYNC Start=633905 End=635448><P>Mandalorian isn't a race.</P></SYNC>
+<SYNC Start=637075 End=638576><P>It's a Creed.</P></SYNC>
+<SYNC Start=840987 End=842447><P>I was a foundling.</P></SYNC>
+<SYNC Start=842530 End=844240><P>They raised me in the Fighting Corps.</P></SYNC>
+<SYNC Start=844657 End=846409><P>I was treated as one of their own.</P></SYNC>
+<SYNC Start=846618 End=849370><P>When I came of age,
+I was sworn to the Creed.</P></SYNC>
+<SYNC Start=849537 End=852957><P>The only record of my family name
+was in the registers of Mandalore.</P></SYNC>
+<SYNC Start=853041 End=856628><P>Moff Gideon was an ISB Officer
+during the purge.</P></SYNC>
+<SYNC Start=857462 End=859088><P>That's how I know it's him.</P></SYNC>
+<SYNC Start=859214 End=860965><P>That's how he knows who we all are.</P></SYNC>
+<SYNC Start=861049 End=864302><P>He says he needs us,
+which means the child got away safely.</P></SYNC>
+<SYNC Start=864385 End=866471><P>I was worried when the Ugnaught
+didn't respond,</P></SYNC>
+<SYNC Start=866554 End=869641><P>but if they'd captured the kid,
+we'd already be dead.</P></SYNC>
+<SYNC Start=870099 End=871100><P>Hail them again.</P></SYNC>
+<SYNC Start=874896 End=876064><P>Come in, Kuiil.</P></SYNC>
+<SYNC Start=876981 End=878024><P>Kuiil?</P></SYNC>
+<SYNC Start=878816 End=880944><P>- Nothing.
+- They might have jammed the link.</P></SYNC>
+<SYNC Start=886866 End=888660><P>Kuiil has been terminated.</P></SYNC>
+<SYNC Start=889953 End=891204><P>What did you do?</P></SYNC>
+<SYNC Start=891287 End=893206><P><i>I am fulfilling my base function.</i></P></SYNC>
+<SYNC Start=893289 End=894374><P>Which is?</P></SYNC>
+<SYNC Start=894499 End=896167><P>To nurse and protect.
+WEBVTT
+STYLE
+:: cue</P></SYNC>
+<SYNC Start=903925 End=904926><P>What was that?</P></SYNC>
+<SYNC Start=905009 End=906010><P>Look alive.</P></SYNC>
+<SYNC Start=946843 End=947844><P>Look!</P></SYNC>
+<SYNC Start=974412 End=975413><P>Cover me.</P></SYNC>
+<SYNC Start=1117263 End=1118431><P>Burn them out.</P></SYNC>
+<SYNC Start=1121559 End=1125146><P>Stay with me, buddy.
+We're gonna get you out of here.</P></SYNC>
+<SYNC Start=1125230 End=1127106><P>This is our only path out.
+Can you clear it?</P></SYNC>
+<SYNC Start=1130276 End=1131528><P>Stay with me.</P></SYNC>
+<SYNC Start=1131945 End=1135156><P>If you go near this child,
+I will no choice but to kill you.</P></SYNC>
+<SYNC Start=1135240 End=1138326><P>I understand.
+Can you do anything to move the grate?</P></SYNC>
+<SYNC Start=1138409 End=1139577><P>Yes, of course.</P></SYNC>
+<SYNC Start=1142789 End=1144791><P>Oh, I love IG units.</P></SYNC>
+<SYNC Start=1145667 End=1147335><P>I'm not gonna make it. Go.</P></SYNC>
+<SYNC Start=1147418 End=1151172><P>Shut up. You just got your bell rung.
+You'll be fine.</P></SYNC>
+<SYNC Start=1151256 End=1152340><P>Leave me.</P></SYNC>
+<SYNC Start=1156386 End=1160348><P>- I'm gonna need to take this thing off.
+- No. You leave me.</P></SYNC>
+<SYNC Start=1160557 End=1162976><P>You make sure the child is safe.</P></SYNC>
+<SYNC Start=1164102 End=1165103><P>Here.</P></SYNC>
+<SYNC Start=1167897 End=1171067><P>When you get to the Mandalorian covert,
+you show them that.</P></SYNC>
+<SYNC Start=1171192 End=1174487><P>You tell them it's from Din Djarin.</P></SYNC>
+<SYNC Start=1174571 End=1178241><P>You tell them the foundling was
+in my protection, and they'll help you.</P></SYNC>
+<SYNC Start=1178324 End=1180076><P>We can make it.</P></SYNC>
+<SYNC Start=1188585 End=1190128><P>Come on! Let's go!</P></SYNC>
+<SYNC Start=1190211 End=1192411><P>I'm not gonna make it and you know it.
+WEBVTT
+STYLE
+:: cue</P></SYNC>
+<SYNC Start=1210440 End=1212358><P>You protect the child.</P></SYNC>
+<SYNC Start=1212442 End=1215278><P>I can hold them back long enough
+for you to escape.</P></SYNC>
+<SYNC Start=1215361 End=1217197><P>Let me have a warrior's death.</P></SYNC>
+<SYNC Start=1217280 End=1218990><P>I won't leave you.</P></SYNC>
+<SYNC Start=1219908 End=1221492><P>This is the Way.</P></SYNC>
+<SYNC Start=1279676 End=1281386><P>Come on! It's open, let's go!</P></SYNC>
+<SYNC Start=1283096 End=1285848><P>Go. Go.</P></SYNC>
+<SYNC Start=1286224 End=1288184><P>We have to move! Now!</P></SYNC>
+<SYNC Start=1290478 End=1291646><P>Go.</P></SYNC>
+<SYNC Start=1293481 End=1295275><P>Escape and protect this child.</P></SYNC>
+<SYNC Start=1295358 End=1297277><P>I will stay with the Mandalorian.</P></SYNC>
+<SYNC Start=1301281 End=1302532><P>Promise me you'll bring him.</P></SYNC>
+<SYNC Start=1302615 End=1303992><P>You have my word.</P></SYNC>
+<SYNC Start=1320049 End=1321551><P>Do it.</P></SYNC>
+<SYNC Start=1322010 End=1323011><P>Do what?</P></SYNC>
+<SYNC Start=1323469 End=1325013><P>Just get it over with.</P></SYNC>
+<SYNC Start=1326139 End=1328975><P>I'd rather you kill me than some Imp.</P></SYNC>
+<SYNC Start=1329225 End=1331477><P>I told you.
+I am no longer a hunter.</P></SYNC>
+<SYNC Start=1331561 End=1333229><P>I am a nurse droid.</P></SYNC>
+<SYNC Start=1334063 End=1336691><P>IGs are all hunters.</P></SYNC>
+<SYNC Start=1336983 End=1339986><P>Not this one. I was reprogrammed.</P></SYNC>
+<SYNC Start=1340069 End=1342906><P>I need to remove your helmet
+if I am to save you.</P></SYNC>
+<SYNC Start=1346618 End=1349120><P>Try it and I'll kill you.</P></SYNC>
+<SYNC Start=1351831 End=1354459><P>It is forbidden.</P></SYNC>
+<SYNC Start=1354626 End=1359339><P>No living thing has seen me
+without my helmet since I swore the Creed.</P></SYNC>
+<SYNC Start=1361341 End=1362967><P>I am not a living thing.</P></SYNC>
+<SYNC Start=1372894 End=1376940><P>This is a bacta spray.
+It will heal you in a matter of hours.</P></SYNC>
+<SYNC Start=1377815 End=1380818><P>You have suffered damage
+to your central processing unit.</P></SYNC>
+<SYNC Start=1382737 End=1384239><P>You mean my brain?</P></SYNC>
+<SYNC Start=1384822 End=1387867><P>That was a joke.
+It is meant to put you at ease.</P></SYNC>
+<SYNC Start=1414519 End=1416104><P>I got you.</P></SYNC>
+<SYNC Start=1432161 End=1433496><P>Do you know which way to go?</P></SYNC>
+<SYNC Start=1433580 End=1435582><P>No. I don't know these tunnels.</P></SYNC>
+<SYNC Start=1435665 End=1437375><P>I've only entered from the bazaar.</P></SYNC>
+<SYNC Start=1441129 End=1443756><P>Well, if we get the smell
+of sulfur and we follow it,</P></SYNC>
+<SYNC Start=1443840 End=1446509><P>it'll lead us up to the plains
+where the river flows.</P></SYNC>
+<SYNC Start=1446593 End=1449220><P>And the Imps will
+catch us before we make it to the ship.</P></SYNC>
+<SYNC Start=1449304 End=1452265><P>We need the Mandalorians
+to escort us to safety.</P></SYNC>
+<SYNC Start=1457937 End=1460690><P>Ugh, this place is a maze.</P></SYNC>
+<SYNC Start=1460773 End=1461774><P>Stop.</P></SYNC>
+<SYNC Start=1463568 End=1464777><P>I can stand.</P></SYNC>
+<SYNC Start=1464861 End=1466821><P>The bacta infusion is working.</P></SYNC>
+<SYNC Start=1466905 End=1468573><P>I'll try to find tracks.</P></SYNC>
+<SYNC Start=1470491 End=1471492><P>We're close.</P></SYNC>
+<SYNC Start=1474704 End=1475784><P>Turn here.
+WEBVTT
+STYLE
+:: cue</P></SYNC>
+<SYNC Start=1530009 End=1531511><P>We should go.</P></SYNC>
+<SYNC Start=1531594 End=1535682><P>You go. Take the ship.
+I can't leave it this way.</P></SYNC>
+<SYNC Start=1535765 End=1536975><P>Did you know about this?</P></SYNC>
+<SYNC Start=1537433 End=1539435><P>Is this the work of your bounty hunters?</P></SYNC>
+<SYNC Start=1539519 End=1540520><P>No.</P></SYNC>
+<SYNC Start=1540603 End=1543314><P>When you left the system
+and took the prize, the fighting ended</P></SYNC>
+<SYNC Start=1543398 End=1545275><P>and the hunters just melted away.</P></SYNC>
+<SYNC Start=1545358 End=1547235><P>You know how it is.</P></SYNC>
+<SYNC Start=1547318 End=1549279><P>They're mercenaries. They're not zealots.</P></SYNC>
+<SYNC Start=1549362 End=1551948><P>Did you do this? Did you?</P></SYNC>
+<SYNC Start=1552031 End=1554117><P>- No!
+- It was not his fault.</P></SYNC>
+<SYNC Start=1556619 End=1558329><P>We revealed ourselves.</P></SYNC>
+<SYNC Start=1559372 End=1562709><P>We knew what could happen
+if we left the covert.</P></SYNC>
+<SYNC Start=1564377 End=1567255><P>The Imperials arrived shortly thereafter.</P></SYNC>
+<SYNC Start=1568840 End=1571384><P>This is what resulted.</P></SYNC>
+<SYNC Start=1572468 End=1574178><P>Did any survive?</P></SYNC>
+<SYNC Start=1574345 End=1578057><P>I hope so.
+Some may have escaped off-world.</P></SYNC>
+<SYNC Start=1581477 End=1582562><P>Come with us.</P></SYNC>
+<SYNC Start=1583313 End=1584731><P>No.</P></SYNC>
+<SYNC Start=1584814 End=1589068><P>I will not abandon this place
+until I have salvaged what remains.</P></SYNC>
+<SYNC Start=1622101 End=1626064><P>Show me the one
+whose safety deemed such destruction.</P></SYNC>
+<SYNC Start=1628399 End=1630068><P>This is the one.</P></SYNC>
+<SYNC Start=1630318 End=1633488><P>This is the one that you hunted,
+then saved?</P></SYNC>
+<SYNC Start=1633571 End=1636699><P>Yes. The one that saved me as well.</P></SYNC>
+<SYNC Start=1637784 End=1640203><P>- From the mudhorn?
+- Yes.</P></SYNC>
+<SYNC Start=1641329 End=1642705><P>It looks helpless.</P></SYNC>
+<SYNC Start=1644791 End=1647293><P>It's injured, but it is not helpless.</P></SYNC>
+<SYNC Start=1647377 End=1649587><P>Its species can move objects
+with its mind.</P></SYNC>
+<SYNC Start=1650088 End=1651881><P>I know of such things.</P></SYNC>
+<SYNC Start=1653633 End=1658846><P>The songs of eons past tell of battles
+between Mandalore The Great,</P></SYNC>
+<SYNC Start=1658930 End=1663309><P>and an order of sorcerers called Jedi
+that fought with such powers.</P></SYNC>
+<SYNC Start=1663851 End=1665019><P>It is an enemy?</P></SYNC>
+<SYNC Start=1665478 End=1669607><P>No. Its kind were enemies,
+but this individual is not.</P></SYNC>
+<SYNC Start=1670942 End=1672151><P>What is it?</P></SYNC>
+<SYNC Start=1672652 End=1674654><P>It is a foundling.</P></SYNC>
+<SYNC Start=1676364 End=1679242><P>By Creed, it is in your care.</P></SYNC>
+<SYNC Start=1681661 End=1683454><P>You wish me to train this thing?</P></SYNC>
+<SYNC Start=1683538 End=1685707><P>It is too weak. It would die.</P></SYNC>
+<SYNC Start=1685790 End=1689377><P>You have no choice.
+You must reunite it with its own kind.</P></SYNC>
+<SYNC Start=1690169 End=1691170><P>Where?</P></SYNC>
+<SYNC Start=1691254 End=1692964><P>This, you must determine.</P></SYNC>
+<SYNC Start=1694173 End=1695967><P>You expect me to search the galaxy</P></SYNC>
+<SYNC Start=1696050 End=1697194><P>for the home of this creature</P></SYNC>
+<SYNC Start=1697218 End=1699721><P>and deliver it to a race
+of enemy sorcerers?</P></SYNC>
+<SYNC Start=1701806 End=1702891><P>This is the Way.</P></SYNC>
+<SYNC Start=1708271 End=1709272><P>Hey.</P></SYNC>
+<SYNC Start=1709731 End=1712483><P>These tunnels will be lousy with Imps
+in a matter of minutes.</P></SYNC>
+<SYNC Start=1712692 End=1714986><P>We should at least discuss an escape plan.</P></SYNC>
+<SYNC Start=1715528 End=1717113><P>If you follow
+the descending tunnel,</P></SYNC>
+<SYNC Start=1717197 End=1719199><P>it will lead you to the underground river.</P></SYNC>
+<SYNC Start=1719282 End=1721409><P>It flows downstream toward the lava flats.</P></SYNC>
+<SYNC Start=1722952 End=1724370><P>I think we should go.</P></SYNC>
+<SYNC Start=1724454 End=1725622><P>I'm staying.</P></SYNC>
+<SYNC Start=1725788 End=1727707><P>I need to help her and I need to heal.</P></SYNC>
+<SYNC Start=1727790 End=1728875><P>You must go.</P></SYNC>
+<SYNC Start=1728958 End=1731586><P>A foundling is in your care.</P></SYNC>
+<SYNC Start=1731669 End=1737008><P>By Creed, until it is of age or reunited
+with its own kind,</P></SYNC>
+<SYNC Start=1737091 End=1738801><P>you are as its father.</P></SYNC>
+<SYNC Start=1744849 End=1746142><P>This is the Way.</P></SYNC>
+<SYNC Start=1748978 End=1750522><P>You have earned your Signet.</P></SYNC>
+<SYNC Start=1765787 End=1767205><P>You are a clan of two.</P></SYNC>
+<SYNC Start=1771042 End=1772418><P>Thank you.</P></SYNC>
+<SYNC Start=1772502 End=1774128><P>I will wear this with honor.</P></SYNC>
+<SYNC Start=1784264 End=1785265><P>We should go.</P></SYNC>
+<SYNC Start=1785348 End=1787809><P>IG, please guard
+the outer hallway.</P></SYNC>
+<SYNC Start=1787892 End=1789727><P>A scouting party draws near.</P></SYNC>
+<SYNC Start=1791563 End=1794274><P>Hang on.
+I don't do the baby thing.</P></SYNC>
+<SYNC Start=1796901 End=1799112><P>I have one more gift
+for your journey.</P></SYNC>
+<SYNC Start=1799821 End=1802490><P>Have you trained in the Rising Phoenix?</P></SYNC>
+<SYNC Start=1802574 End=1804367><P>When I was a boy. Yes.</P></SYNC>
+<SYNC Start=1804450 End=1808246><P>Then this will make you complete.</P></SYNC>
+<SYNC Start=1810248 End=1811374><P>Thank you.</P></SYNC>
+<SYNC Start=1811457 End=1814002><P>ARMORER When you have healed,
+you will begin your drills.</P></SYNC>
+<SYNC Start=1814085 End=1816546><P>Until you know it,
+it will not listen to your commands.</P></SYNC>
+<SYNC Start=1816629 End=1817922><P>I understand.</P></SYNC>
+<SYNC Start=1822427 End=1823845><P>WEBVTT
+STYLE
+:: cue</P></SYNC>
+<SYNC Start=1830518 End=1831603><P>You are protected.</P></SYNC>
+<SYNC Start=1833313 End=1834689><P>More will come. You must go.</P></SYNC>
+<SYNC Start=1835106 End=1836191><P>Come with us.</P></SYNC>
+<SYNC Start=1836608 End=1838318><P>My place is here.</P></SYNC>
+<SYNC Start=1838443 End=1839611><P>Restock your munitions.</P></SYNC>
+<SYNC Start=1842071 End=1847243><P>IG, carry this for Din Djarin
+until he is well enough to wear it.</P></SYNC>
+<SYNC Start=1848703 End=1849913><P>Now, go.</P></SYNC>
+<SYNC Start=1849996 End=1851998><P>Down to the river and across the plains.</P></SYNC>
+<SYNC Start=1854209 End=1855501><P>Be safe on your journey.</P></SYNC>
+<SYNC Start=1855585 End=1856586><P>Thank you.</P></SYNC>
+<SYNC Start=1887158 End=1888159><P>Hey, Mando.</P></SYNC>
+<SYNC Start=1889827 End=1890828><P>Where are they?</P></SYNC>
+<SYNC Start=1893373 End=1894791><P>I said, where are they?</P></SYNC>
+<SYNC Start=1925697 End=1927156><P>This is the lava river.</P></SYNC>
+<SYNC Start=1933788 End=1935415><P>The ferry droid is fried.</P></SYNC>
+<SYNC Start=1935498 End=1938710><P>Yeah, but if we push the boat out,
+we can get it to float downstream.</P></SYNC>
+<SYNC Start=1938793 End=1939794><P>Come on.</P></SYNC>
+<SYNC Start=1939878 End=1941629><P>Looks old. Will it take the heat?</P></SYNC>
+<SYNC Start=1941713 End=1943298><P>You got a better idea?</P></SYNC>
+<SYNC Start=1943798 End=1944799><P>Guess not.</P></SYNC>
+<SYNC Start=1948845 End=1949846><P>Push!</P></SYNC>
+<SYNC Start=1952181 End=1953558><P>Come on! What're you doing?</P></SYNC>
+<SYNC Start=1953641 End=1955768><P>- Let's try this.
+- Push!</P></SYNC>
+<SYNC Start=1959272 End=1961065><P>You guys mind getting out of the way?</P></SYNC>
+<SYNC Start=1961357 End=1962358><P>Oh!</P></SYNC>
+<SYNC Start=1967864 End=1968865><P>Good job.</P></SYNC>
+<SYNC Start=1971910 End=1974704><P>Watch your feet. It's molten lava.</P></SYNC>
+<SYNC Start=1974787 End=1976039><P>No kidding.</P></SYNC>
+<SYNC Start=1995058 End=1997560><P>I don't suppose anybody here speaks droid?</P></SYNC>
+<SYNC Start=1998353 End=2000813><P>I believe he is asking
+where we would like to go.</P></SYNC>
+<SYNC Start=2002023 End=2005235><P>Down river. To the lava flat.</P></SYNC>
+<SYNC Start=2033680 End=2035348><P>That's it. We're free!</P></SYNC>
+<SYNC Start=2041062 End=2042188><P>No.</P></SYNC>
+<SYNC Start=2042647 End=2043773><P>No, we're not.</P></SYNC>
+<SYNC Start=2043857 End=2047110><P>Stormtroopers.
+They're flanking the mouth of the tunnel.</P></SYNC>
+<SYNC Start=2047235 End=2050196><P>It looks like an entire platoon.
+They must know we're coming.</P></SYNC>
+<SYNC Start=2050280 End=2051656><P>Stop the boat.</P></SYNC>
+<SYNC Start=2052073 End=2054659><P>Hey, Droid, I said stop the boat.</P></SYNC>
+<SYNC Start=2056578 End=2058580><P>Hey! I'm talking to you.</P></SYNC>
+<SYNC Start=2058663 End=2059998><P>I said stop!</P></SYNC>
+<SYNC Start=2066170 End=2067714><P>We're still moving.</P></SYNC>
+<SYNC Start=2068590 End=2069757><P>Looks like we fight.</P></SYNC>
+<SYNC Start=2069841 End=2072135><P>- There are too many.
+- Then what do you suggest?</P></SYNC>
+<SYNC Start=2072218 End=2073511><P>'Cause I can't surrender.</P></SYNC>
+<SYNC Start=2073595 End=2076264><P>They will not be satisfied
+with anything less than the child.</P></SYNC>
+<SYNC Start=2076347 End=2077891><P>This is unacceptable.</P></SYNC>
+<SYNC Start=2077974 End=2080560><P>I will eliminate the enemy
+and you will escape.</P></SYNC>
+<SYNC Start=2080643 End=2082812><P>You don't have
+that kind of firepower, pal.</P></SYNC>
+<SYNC Start=2082896 End=2084480><P>You wouldn't even get to daylight.</P></SYNC>
+<SYNC Start=2084564 End=2085815><P>That is not my objective.</P></SYNC>
+<SYNC Start=2086232 End=2088985><P>We're getting close. Saddle up.</P></SYNC>
+<SYNC Start=2090695 End=2093948><P>I still have the security protocols
+from my manufacturer.</P></SYNC>
+<SYNC Start=2094032 End=2097202><P>If my designs are compromised,
+I must self-destruct.</P></SYNC>
+<SYNC Start=2097285 End=2098828><P>What're you talking about?</P></SYNC>
+<SYNC Start=2098912 End=2101414><P>I am not permitted to be captured.
+I must be destroyed.</P></SYNC>
+<SYNC Start=2101539 End=2103833><P>Are we gonna keep talking,
+or get out of here?</P></SYNC>
+<SYNC Start=2104626 End=2106377><P>I can no longer carry this for you.</P></SYNC>
+<SYNC Start=2108713 End=2110048><P>Nor can I watch over the child.</P></SYNC>
+<SYNC Start=2110673 End=2113051><P>Wait. You can't self-destruct.</P></SYNC>
+<SYNC Start=2113134 End=2114928><P>Your base command is to watch the child.</P></SYNC>
+<SYNC Start=2115011 End=2117347><P>That supersedes
+your manufacturer's protocol, right?</P></SYNC>
+<SYNC Start=2118389 End=2119974><P>- Right?
+- This is correct.</P></SYNC>
+<SYNC Start=2120058 End=2122685><P>Good. Now, grab a blaster
+and help us shoot our way out.</P></SYNC>
+<SYNC Start=2122769 End=2124479><P>Victory through combat
+is impossible.</P></SYNC>
+<SYNC Start=2124562 End=2127315><P>We will be captured.
+The child will be lost.</P></SYNC>
+<SYNC Start=2127398 End=2131194><P>Sadly, there is no scenario where
+the child is saved, in which I survive.
+WEBVTT
+STYLE
+:: cue</P></SYNC>
+<SYNC Start=2132278 End=2134072><P>Listen, you're not going anywhere.</P></SYNC>
+<SYNC Start=2134155 End=2135758><P>We need you. Let's just come up with a...</P></SYNC>
+<SYNC Start=2135782 End=2138326><P>Please tell me the child
+will be safe in your care.</P></SYNC>
+<SYNC Start=2138409 End=2141246><P>If you do so,
+I can default to my secondary command.</P></SYNC>
+<SYNC Start=2141871 End=2143373><P>But you'll be destroyed.</P></SYNC>
+<SYNC Start=2143623 End=2147210><P>And you will live,
+and I will have served my purpose.</P></SYNC>
+<SYNC Start=2148419 End=2150380><P>No. We need you.</P></SYNC>
+<SYNC Start=2150463 End=2153341><P>There is nothing to be sad about.
+I have never been alive.</P></SYNC>
+<SYNC Start=2153758 End=2155552><P>I'm not sad.</P></SYNC>
+<SYNC Start=2155718 End=2159556><P>Yes, you are. I'm a nurse droid.
+I've analyzed your voice.</P></SYNC>
+<SYNC Start=2167188 End=2168189><P>IG?</P></SYNC>
+<SYNC Start=2170400 End=2171943><P>What're you doing?</P></SYNC>
+<SYNC Start=2203641 End=2207061><P>Manufacturer's protocol dictates
+I cannot be captured.</P></SYNC>
+<SYNC Start=2209105 End=2210440><P>I must be destroyed.</P></SYNC>
+<SYNC Start=2245642 End=2246768><P>Moff Gideon!</P></SYNC>
+<SYNC Start=2261366 End=2263326><P>- He missed!
+- He won't next time.</P></SYNC>
+<SYNC Start=2263409 End=2265286><P>Our blasters are useless against him.</P></SYNC>
+<SYNC Start=2265370 End=2267288><P>Let's make the baby do
+the magic hand thing.</P></SYNC>
+<SYNC Start=2267413 End=2269499><P>Come on, baby! Do the magic hand thing.</P></SYNC>
+<SYNC Start=2273670 End=2275713><P>- I'm out of ideas.
+- I'm not.</P></SYNC>
+<SYNC Start=2275797 End=2277257><P>Here he comes!</P></SYNC>
+<SYNC Start=2357212 End=2358213><P>No!</P></SYNC>
+<SYNC Start=2380151 End=2383655><P>That was impressive, Mando.
+Very impressive.</P></SYNC>
+<SYNC Start=2385073 End=2387367><P>It looks like your Guild rates
+have just gone up.</P></SYNC>
+<SYNC Start=2388409 End=2389869><P>Any more stormtroopers?</P></SYNC>
+<SYNC Start=2389953 End=2391538><P>I think we cleaned up the town.</P></SYNC>
+<SYNC Start=2392789 End=2394832><P>I'm thinking of staying around
+just to be sure.</P></SYNC>
+<SYNC Start=2397585 End=2400046><P>- You're staying here?
+- Well, why not?</P></SYNC>
+<SYNC Start=2400129 End=2402465><P>Nevarro is a very fine planet.</P></SYNC>
+<SYNC Start=2402549 End=2405635><P>And now that the scum and villainy
+have been washed away,</P></SYNC>
+<SYNC Start=2405718 End=2407428><P>it's very respectable again.</P></SYNC>
+<SYNC Start=2407512 End=2409305><P>As a bounty hunter hive?</P></SYNC>
+<SYNC Start=2410390 End=2413560><P>Some of my favorite people
+are bounty hunters.</P></SYNC>
+<SYNC Start=2413643 End=2418898><P>And perhaps, this specimen of soldier
+might consider joining our ranks.</P></SYNC>
+<SYNC Start=2418982 End=2422485><P>Yeah. I've got some clerical
+concerns regarding my chain code.</P></SYNC>
+<SYNC Start=2422569 End=2424654><P>And if you would agree
+to become my enforcer,</P></SYNC>
+<SYNC Start=2424737 End=2428032><P>clerical concerns would be
+the least of your worries.</P></SYNC>
+<SYNC Start=2428116 End=2433496><P>But you, my friend, you will be welcome
+back into the Guild with open arms.
+WEBVTT
+STYLE
+:: cue</P></SYNC>
+<SYNC Start=2433580 End=2435874><P>So, go off, enjoy yourself.</P></SYNC>
+<SYNC Start=2436666 End=2440753><P>And when you're ready to return,
+you will have the pick of all quarries.</P></SYNC>
+<SYNC Start=2447677 End=2450263><P>I'm afraid I have
+more pressing matters at hand.</P></SYNC>
+<SYNC Start=2456769 End=2458521><P>Take care of this little one.</P></SYNC>
+<SYNC Start=2461316 End=2464777><P>Or maybe, it'll take care of you.</P></SYNC>
+<SYNC Start=2523586 End=2525004><P>What do you got there?</P></SYNC>
+<SYNC Start=2538768 End=2540270><P>I didn't think I'd see this again.</P></SYNC>
+<SYNC Start=2545900 End=2547986><P>Why don't you hang onto that?</P></SYNC>
+</BODY>
+</SAMI>

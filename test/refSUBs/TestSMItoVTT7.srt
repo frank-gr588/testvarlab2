@@ -1,0 +1,2128 @@
+1
+00:00:02,666 --> 00:00:02,666
+YNC Start=2666><P Class=ENUSCC><i><font color=#80ffff>This is the one.</i></font>
+
+2
+00:00:02,666 --> 00:00:04,210
+YNC Start=4210><P Class=ENUSCC>&nbsp;
+
+3
+00:00:04,210 --> 00:00:04,293
+YNC Start=4293><P Class=ENUSCC>It looks helpless.
+
+4
+00:00:04,293 --> 00:00:06,086
+YNC Start=6086><P Class=ENUSCC>&nbsp;
+
+5
+00:00:06,086 --> 00:00:06,170
+YNC Start=6170><P Class=ENUSCC>It is not helpless.
+
+6
+00:00:06,170 --> 00:00:07,588
+YNC Start=7588><P Class=ENUSCC>&nbsp;
+
+7
+00:00:07,588 --> 00:00:07,671
+YNC Start=7671><P Class=ENUSCC>Its species can move objects<br>with its mind.
+
+8
+00:00:07,671 --> 00:00:09,840
+YNC Start=9840><P Class=ENUSCC>&nbsp;
+
+9
+00:00:09,840 --> 00:00:09,924
+YNC Start=9924><P Class=ENUSCC>The songs of eons past tell<br>of battles between Mandalore The Great,
+
+10
+00:00:09,924 --> 00:00:14,094
+YNC Start=14094><P Class=ENUSCC>&nbsp;
+
+11
+00:00:14,094 --> 00:00:14,178
+YNC Start=14178><P Class=ENUSCC>and an order of sorcerers called Jedi<br>that fought with such powers.
+
+12
+00:00:14,178 --> 00:00:18,057
+YNC Start=18057><P Class=ENUSCC>&nbsp;
+
+13
+00:00:18,057 --> 00:00:18,140
+YNC Start=18140><P Class=ENUSCC>- What is it?<br>- It is a foundling.
+
+14
+00:00:18,140 --> 00:00:20,684
+YNC Start=20684><P Class=ENUSCC>&nbsp;
+
+15
+00:00:20,684 --> 00:00:20,768
+YNC Start=20768><P Class=ENUSCC>By Creed, it is in your care.
+
+16
+00:00:20,768 --> 00:00:23,020
+YNC Start=23020><P Class=ENUSCC>&nbsp;
+
+17
+00:00:23,020 --> 00:00:23,103
+YNC Start=23103><P Class=ENUSCC>You expect me<br>to search the galaxy
+
+18
+00:00:23,103 --> 00:00:25,272
+YNC Start=25272><P Class=ENUSCC>&nbsp;
+
+19
+00:00:25,272 --> 00:00:25,356
+YNC Start=25356><P Class=ENUSCC>for the home of this creature and<br>deliver it to a race of enemy sorcerers?
+
+20
+00:00:25,356 --> 00:00:28,859
+YNC Start=28859><P Class=ENUSCC>&nbsp;
+
+21
+00:00:28,859 --> 00:00:28,943
+YNC Start=28943><P Class=ENUSCC>This is the Way.
+
+22
+00:00:28,943 --> 00:00:30,027
+YNC Start=30027><P Class=ENUSCC>&nbsp;
+
+23
+00:00:30,027 --> 00:00:30,236
+YNC Start=30236><P Class=ENUSCC><i><font color=#80ffff>I've been quested</i></font><br><i><font color=#80ffff>with returning this Child to the Jedi.</i></font>
+
+24
+00:00:30,236 --> 00:00:33,405
+YNC Start=33405><P Class=ENUSCC>&nbsp;
+
+25
+00:00:33,405 --> 00:00:33,489
+YNC Start=33489><P Class=ENUSCC>I can lead you to one of their kind.
+
+26
+00:00:33,489 --> 00:00:35,533
+YNC Start=35533><P Class=ENUSCC>&nbsp;
+
+27
+00:00:35,533 --> 00:00:36,325
+YNC Start=36325><P Class=ENUSCC>But first,<br>we need your help on our mission.
+
+28
+00:00:36,325 --> 00:00:38,202
+YNC Start=38202><P Class=ENUSCC>&nbsp;
+
+29
+00:00:38,202 --> 00:00:44,625
+YNC Start=44625><P Class=ENUSCC>We need to hold them off until<br>we can make the jump to hyperspace.
+
+30
+00:00:44,625 --> 00:00:47,503
+YNC Start=47503><P Class=ENUSCC>&nbsp;
+
+31
+00:00:47,503 --> 00:00:54,635
+YNC Start=54635><P Class=ENUSCC><i><font color=#80ffff>Where can I find the Jedi?</i></font>
+
+32
+00:00:54,635 --> 00:00:56,762
+YNC Start=56762><P Class=ENUSCC>&nbsp;
+
+33
+00:00:56,762 --> 00:00:56,846
+YNC Start=56846><P Class=ENUSCC>Take the foundling to the city of Calodan<br>on the forest planet of Corvus.
+
+34
+00:00:56,846 --> 00:01:00,349
+YNC Start=60349><P Class=ENUSCC>&nbsp;
+
+35
+00:01:00,349 --> 00:01:00,432
+YNC Start=60432><P Class=ENUSCC>There you will find Ahsoka Tano.
+
+36
+00:01:00,432 --> 00:01:02,393
+YNC Start=62393><P Class=ENUSCC>&nbsp;
+
+37
+00:01:02,393 --> 00:01:03,018
+YNC Start=63018><P Class=ENUSCC>Tell her you were sent by Bo-Katan.
+
+38
+00:01:03,018 --> 00:01:04,770
+YNC Start=64770><P Class=ENUSCC>&nbsp;
+
+39
+00:01:04,770 --> 00:01:05,729
+YNC Start=65729><P Class=ENUSCC>And thank you.
+
+40
+00:01:05,729 --> 00:01:07,231
+YNC Start=67231><P Class=ENUSCC>&nbsp;
+
+41
+00:01:07,231 --> 00:01:07,314
+YNC Start=67314><P Class=ENUSCC>Your bravery will not be forgotten.
+
+42
+00:01:07,314 --> 00:01:09,358
+YNC Start=69358><P Class=ENUSCC>&nbsp;
+
+43
+00:01:09,358 --> 00:01:10,150
+YNC Start=70150><P Class=ENUSCC>This is the Way.
+
+44
+00:01:10,150 --> 00:01:11,193
+YNC Start=71193><P Class=ENUSCC>&nbsp;
+
+45
+00:01:11,193 --> 00:03:09,687
+YNC Start=189687><P Class=ENUSCC>She's off the scope. Draw her out.
+
+46
+00:03:09,687 --> 00:03:12,231
+YNC Start=192231><P Class=ENUSCC>&nbsp;
+
+47
+00:03:12,231 --> 00:03:29,290
+YNC Start=209290><P Class=ENUSCC>I've lost visual. Scan for movement.
+
+48
+00:03:29,290 --> 00:03:31,834
+YNC Start=211834><P Class=ENUSCC>&nbsp;
+
+49
+00:03:31,834 --> 00:03:51,312
+YNC Start=231312><P Class=ENUSCC>Show yourself.
+
+50
+00:03:51,312 --> 00:03:52,855
+YNC Start=232855><P Class=ENUSCC>&nbsp;
+
+51
+00:03:52,855 --> 00:03:55,357
+YNC Start=235357><P Class=ENUSCC>Jedi.
+
+52
+00:03:55,357 --> 00:03:56,567
+YNC Start=236567><P Class=ENUSCC>&nbsp;
+
+53
+00:03:56,567 --> 00:04:07,244
+YNC Start=247244><P Class=ENUSCC>I've been expecting you.
+
+54
+00:04:07,244 --> 00:04:08,787
+YNC Start=248787><P Class=ENUSCC>&nbsp;
+
+55
+00:04:08,787 --> 00:04:10,080
+YNC Start=250080><P Class=ENUSCC>Then you know what I want.
+
+56
+00:04:10,080 --> 00:04:11,916
+YNC Start=251916><P Class=ENUSCC>&nbsp;
+
+57
+00:04:11,916 --> 00:04:13,083
+YNC Start=253083><P Class=ENUSCC>You will learn nothing from me.
+
+58
+00:04:13,083 --> 00:04:15,794
+YNC Start=255794><P Class=ENUSCC>&nbsp;
+
+59
+00:04:15,794 --> 00:04:17,338
+YNC Start=257338><P Class=ENUSCC>I won't give you that choice.
+
+60
+00:04:17,338 --> 00:04:19,381
+YNC Start=259381><P Class=ENUSCC>&nbsp;
+
+61
+00:04:19,381 --> 00:04:26,472
+YNC Start=266472><P Class=ENUSCC>How many lives<br>is the knowledge I possess worth to you?
+
+62
+00:04:26,472 --> 00:04:30,476
+YNC Start=270476><P Class=ENUSCC>&nbsp;
+
+63
+00:04:30,476 --> 00:04:31,977
+YNC Start=271977><P Class=ENUSCC>One?
+
+64
+00:04:31,977 --> 00:04:33,354
+YNC Start=273354><P Class=ENUSCC>&nbsp;
+
+65
+00:04:33,354 --> 00:04:35,231
+YNC Start=275231><P Class=ENUSCC>Ten?
+
+66
+00:04:35,231 --> 00:04:36,232
+YNC Start=276232><P Class=ENUSCC>&nbsp;
+
+67
+00:04:36,232 --> 00:04:38,651
+YNC Start=278651><P Class=ENUSCC>How about a hundred?
+
+68
+00:04:38,651 --> 00:04:41,153
+YNC Start=281153><P Class=ENUSCC>&nbsp;
+
+69
+00:04:41,153 --> 00:04:41,737
+YNC Start=281737><P Class=ENUSCC>The lives of these citizens<br>mean nothing to me.
+
+70
+00:04:41,737 --> 00:04:44,532
+YNC Start=284532><P Class=ENUSCC>&nbsp;
+
+71
+00:04:44,532 --> 00:04:45,574
+YNC Start=285574><P Class=ENUSCC>Now, because of you,<br>these people will suffer.
+
+72
+00:04:45,574 --> 00:04:49,787
+YNC Start=289787><P Class=ENUSCC>&nbsp;
+
+73
+00:04:49,787 --> 00:04:50,371
+YNC Start=290371><P Class=ENUSCC>They already suffer under your rule.
+
+74
+00:04:50,371 --> 00:04:52,748
+YNC Start=292748><P Class=ENUSCC>&nbsp;
+
+75
+00:04:52,748 --> 00:04:53,666
+YNC Start=293666><P Class=ENUSCC>Surrender, or face the consequences.
+
+76
+00:04:53,666 --> 00:04:57,545
+YNC Start=297545><P Class=ENUSCC>&nbsp;
+
+77
+00:04:57,545 --> 00:05:01,674
+YNC Start=301674><P Class=ENUSCC>You have one day to decide.
+
+78
+00:05:01,674 --> 00:05:04,552
+YNC Start=304552><P Class=ENUSCC>&nbsp;
+
+79
+00:05:04,552 --> 00:05:15,813
+YNC Start=315813><P Class=ENUSCC>We will be ready when she returns.
+
+80
+00:05:15,813 --> 00:05:18,983
+YNC Start=318983><P Class=ENUSCC>&nbsp;
+
+81
+00:05:18,983 --> 00:05:23,696
+YNC Start=323696><P Class=ENUSCC>-Cage him.
+
+82
+00:05:23,696 --> 00:05:24,905
+YNC Start=324905><P Class=ENUSCC>&nbsp;
+
+83
+00:05:24,905 --> 00:05:51,682
+YNC Start=351682><P Class=ENUSCC>Corvus, this is the place.
+
+84
+00:05:51,682 --> 00:05:54,560
+YNC Start=354560><P Class=ENUSCC>&nbsp;
+
+85
+00:05:54,560 --> 00:05:55,186
+YNC Start=355186><P Class=ENUSCC>I've detected a beacon.
+
+86
+00:05:55,186 --> 00:05:56,270
+YNC Start=356270><P Class=ENUSCC>&nbsp;
+
+87
+00:05:56,270 --> 00:05:57,771
+YNC Start=357771><P Class=ENUSCC>I'm gonna start the landing cycle.
+
+88
+00:05:57,771 --> 00:05:59,231
+YNC Start=359231><P Class=ENUSCC>&nbsp;
+
+89
+00:05:59,231 --> 00:05:59,315
+YNC Start=359315><P Class=ENUSCC>You better get back in your seat.
+
+90
+00:05:59,315 --> 00:06:00,900
+YNC Start=360900><P Class=ENUSCC>&nbsp;
+
+91
+00:06:00,900 --> 00:06:11,744
+YNC Start=371744><P Class=ENUSCC>Hey, what did I tell you?
+
+92
+00:06:11,744 --> 00:06:13,996
+YNC Start=373996><P Class=ENUSCC>&nbsp;
+
+93
+00:06:13,996 --> 00:06:14,079
+YNC Start=374079><P Class=ENUSCC>Back in your seat.
+
+94
+00:06:14,079 --> 00:06:15,539
+YNC Start=375539><P Class=ENUSCC>&nbsp;
+
+95
+00:06:15,539 --> 00:08:06,233
+YNC Start=486233><P Class=ENUSCC>What did I say about that?
+
+96
+00:08:06,233 --> 00:08:07,818
+YNC Start=487818><P Class=ENUSCC>&nbsp;
+
+97
+00:08:07,818 --> 00:08:09,195
+YNC Start=489195><P Class=ENUSCC>-This needs to stay in the ship.
+
+98
+00:08:09,195 --> 00:08:11,488
+YNC Start=491488><P Class=ENUSCC>&nbsp;
+
+99
+00:08:11,488 --> 00:08:14,033
+YNC Start=494033><P Class=ENUSCC>Not much to see out here.
+
+100
+00:08:14,033 --> 00:08:15,534
+YNC Start=495534><P Class=ENUSCC>&nbsp;
+
+101
+00:08:15,534 --> 00:08:17,536
+YNC Start=497536><P Class=ENUSCC>Never had dealings with a Jedi before.
+
+102
+00:08:17,536 --> 00:08:19,455
+YNC Start=499455><P Class=ENUSCC>&nbsp;
+
+103
+00:08:19,455 --> 00:08:21,415
+YNC Start=501415><P Class=ENUSCC>Let's head into town.
+
+104
+00:08:21,415 --> 00:08:23,626
+YNC Start=503626><P Class=ENUSCC>&nbsp;
+
+105
+00:08:23,626 --> 00:08:24,627
+YNC Start=504627><P Class=ENUSCC>See if we can pick up a lead.
+
+106
+00:08:24,627 --> 00:08:26,295
+YNC Start=506295><P Class=ENUSCC>&nbsp;
+
+107
+00:08:26,295 --> 00:08:52,530
+YNC Start=532530><P Class=ENUSCC>State your business.
+
+108
+00:08:52,530 --> 00:08:53,864
+YNC Start=533864><P Class=ENUSCC>&nbsp;
+
+109
+00:08:53,864 --> 00:08:53,948
+YNC Start=533948><P Class=ENUSCC>Been tracking for a few days.
+
+110
+00:08:53,948 --> 00:08:56,158
+YNC Start=536158><P Class=ENUSCC>&nbsp;
+
+111
+00:08:56,158 --> 00:08:56,659
+YNC Start=536659><P Class=ENUSCC>Looking for a layover.
+
+112
+00:08:56,659 --> 00:08:57,743
+YNC Start=537743><P Class=ENUSCC>&nbsp;
+
+113
+00:08:57,743 --> 00:08:59,161
+YNC Start=539161><P Class=ENUSCC>Nice armor.
+
+114
+00:08:59,161 --> 00:09:00,579
+YNC Start=540579><P Class=ENUSCC>&nbsp;
+
+115
+00:09:00,579 --> 00:09:03,207
+YNC Start=543207><P Class=ENUSCC>You a hunter, then?
+
+116
+00:09:03,207 --> 00:09:04,708
+YNC Start=544708><P Class=ENUSCC>&nbsp;
+
+117
+00:09:04,708 --> 00:09:06,544
+YNC Start=546544><P Class=ENUSCC>That's right.
+
+118
+00:09:06,544 --> 00:09:07,545
+YNC Start=547545><P Class=ENUSCC>&nbsp;
+
+119
+00:09:07,545 --> 00:09:09,255
+YNC Start=549255><P Class=ENUSCC>Guild?
+
+120
+00:09:09,255 --> 00:09:10,339
+YNC Start=550339><P Class=ENUSCC>&nbsp;
+
+121
+00:09:10,339 --> 00:09:11,507
+YNC Start=551507><P Class=ENUSCC>Last I checked.
+
+122
+00:09:11,507 --> 00:09:12,675
+YNC Start=552675><P Class=ENUSCC>&nbsp;
+
+123
+00:09:12,675 --> 00:09:17,847
+YNC Start=557847><P Class=ENUSCC>Open the gate.
+
+124
+00:09:17,847 --> 00:09:18,889
+YNC Start=558889><P Class=ENUSCC>&nbsp;
+
+125
+00:09:18,889 --> 00:10:08,480
+YNC Start=608480><P Class=ENUSCC>Pardon me, vendor,<br>have you heard of anyone...
+
+126
+00:10:08,480 --> 00:10:11,317
+YNC Start=611317><P Class=ENUSCC>&nbsp;
+
+127
+00:10:11,317 --> 00:10:13,569
+YNC Start=613569><P Class=ENUSCC>Hmm.
+
+128
+00:10:13,569 --> 00:10:14,737
+YNC Start=614737><P Class=ENUSCC>&nbsp;
+
+129
+00:10:14,737 --> 00:10:22,786
+YNC Start=622786><P Class=ENUSCC>You there.
+
+130
+00:10:22,786 --> 00:10:23,787
+YNC Start=623787><P Class=ENUSCC>&nbsp;
+
+131
+00:10:23,787 --> 00:10:24,330
+YNC Start=624330><P Class=ENUSCC>I need some information.
+
+132
+00:10:24,330 --> 00:10:25,623
+YNC Start=625623><P Class=ENUSCC>&nbsp;
+
+133
+00:10:25,623 --> 00:10:26,665
+YNC Start=626665><P Class=ENUSCC>I'm looking for someone.
+
+134
+00:10:26,665 --> 00:10:28,083
+YNC Start=628083><P Class=ENUSCC>&nbsp;
+
+135
+00:10:28,083 --> 00:10:30,085
+YNC Start=630085><P Class=ENUSCC>Okay, bye.
+
+136
+00:10:30,085 --> 00:10:31,504
+YNC Start=631504><P Class=ENUSCC>&nbsp;
+
+137
+00:10:31,504 --> 00:10:33,547
+YNC Start=633547><P Class=ENUSCC>Please, do not speak to them,<br>or to any of us.
+
+138
+00:10:33,547 --> 00:10:37,259
+YNC Start=637259><P Class=ENUSCC>&nbsp;
+
+139
+00:10:37,259 --> 00:10:37,343
+YNC Start=637343><P Class=ENUSCC>Look, I just need to know...
+
+140
+00:10:37,343 --> 00:10:39,053
+YNC Start=639053><P Class=ENUSCC>&nbsp;
+
+141
+00:10:39,053 --> 00:10:39,136
+YNC Start=639136><P Class=ENUSCC>The Magistrate wants to see you.
+
+142
+00:10:39,136 --> 00:10:41,096
+YNC Start=641096><P Class=ENUSCC>&nbsp;
+
+143
+00:10:41,096 --> 00:11:11,210
+YNC Start=671210><P Class=ENUSCC>Help us.
+
+144
+00:11:11,210 --> 00:11:12,294
+YNC Start=672294><P Class=ENUSCC>&nbsp;
+
+145
+00:11:12,294 --> 00:11:15,464
+YNC Start=675464><P Class=ENUSCC>She'll kill us all.
+
+146
+00:11:15,464 --> 00:11:16,882
+YNC Start=676882><P Class=ENUSCC>&nbsp;
+
+147
+00:11:16,882 --> 00:11:51,500
+YNC Start=711500><P Class=ENUSCC>Come forward.
+
+148
+00:11:51,500 --> 00:11:52,668
+YNC Start=712668><P Class=ENUSCC>&nbsp;
+
+149
+00:11:52,668 --> 00:11:58,799
+YNC Start=718799><P Class=ENUSCC>You are a Mandalorian?
+
+150
+00:11:58,799 --> 00:12:00,426
+YNC Start=720426><P Class=ENUSCC>&nbsp;
+
+151
+00:12:00,426 --> 00:12:01,760
+YNC Start=721760><P Class=ENUSCC>Yes.
+
+152
+00:12:01,760 --> 00:12:02,803
+YNC Start=722803><P Class=ENUSCC>&nbsp;
+
+153
+00:12:02,803 --> 00:12:04,388
+YNC Start=724388><P Class=ENUSCC>I have a proposition<br>that may interest you.
+
+154
+00:12:04,388 --> 00:12:07,391
+YNC Start=727391><P Class=ENUSCC>&nbsp;
+
+155
+00:12:07,391 --> 00:12:08,100
+YNC Start=728100><P Class=ENUSCC>My price is high.
+
+156
+00:12:08,100 --> 00:12:09,310
+YNC Start=729310><P Class=ENUSCC>&nbsp;
+
+157
+00:12:09,310 --> 00:12:16,275
+YNC Start=736275><P Class=ENUSCC>This target is priceless.
+
+158
+00:12:16,275 --> 00:12:19,111
+YNC Start=739111><P Class=ENUSCC>&nbsp;
+
+159
+00:12:19,111 --> 00:12:20,279
+YNC Start=740279><P Class=ENUSCC>A Jedi plagues me.
+
+160
+00:12:20,279 --> 00:12:21,864
+YNC Start=741864><P Class=ENUSCC>&nbsp;
+
+161
+00:12:21,864 --> 00:12:22,740
+YNC Start=742740><P Class=ENUSCC>I want you to kill her.
+
+162
+00:12:22,740 --> 00:12:24,366
+YNC Start=744366><P Class=ENUSCC>&nbsp;
+
+163
+00:12:24,366 --> 00:12:25,451
+YNC Start=745451><P Class=ENUSCC>That's a difficult task.
+
+164
+00:12:25,451 --> 00:12:27,077
+YNC Start=747077><P Class=ENUSCC>&nbsp;
+
+165
+00:12:27,077 --> 00:12:27,161
+YNC Start=747161><P Class=ENUSCC>One that you are well-suited for.
+
+166
+00:12:27,161 --> 00:12:29,163
+YNC Start=749163><P Class=ENUSCC>&nbsp;
+
+167
+00:12:29,163 --> 00:12:29,663
+YNC Start=749663><P Class=ENUSCC>The Jedi are<br>the ancient enemy of Mandalore.
+
+168
+00:12:29,663 --> 00:12:32,833
+YNC Start=752833><P Class=ENUSCC>&nbsp;
+
+169
+00:12:32,833 --> 00:12:32,917
+YNC Start=752917><P Class=ENUSCC>As I said, my price is high.
+
+170
+00:12:32,917 --> 00:12:35,419
+YNC Start=755419><P Class=ENUSCC>&nbsp;
+
+171
+00:12:35,419 --> 00:12:49,350
+YNC Start=769350><P Class=ENUSCC>What do you make of this?
+
+172
+00:12:49,350 --> 00:12:51,477
+YNC Start=771477><P Class=ENUSCC>&nbsp;
+
+173
+00:12:51,477 --> 00:13:21,757
+YNC Start=801757><P Class=ENUSCC>Beskar.
+
+174
+00:13:21,757 --> 00:13:22,883
+YNC Start=802883><P Class=ENUSCC>&nbsp;
+
+175
+00:13:22,883 --> 00:13:23,843
+YNC Start=803843><P Class=ENUSCC>Pure beskar...
+
+176
+00:13:23,843 --> 00:13:25,719
+YNC Start=805719><P Class=ENUSCC>&nbsp;
+
+177
+00:13:25,719 --> 00:13:27,596
+YNC Start=807596><P Class=ENUSCC>like your armor.
+
+178
+00:13:27,596 --> 00:13:28,597
+YNC Start=808597><P Class=ENUSCC>&nbsp;
+
+179
+00:13:28,597 --> 00:13:29,640
+YNC Start=809640><P Class=ENUSCC>Kill the Jedi and it's yours.
+
+180
+00:13:29,640 --> 00:13:33,435
+YNC Start=813435><P Class=ENUSCC>&nbsp;
+
+181
+00:13:33,435 --> 00:13:40,276
+YNC Start=820276><P Class=ENUSCC>Where do I find this Jedi?
+
+182
+00:13:40,276 --> 00:13:41,902
+YNC Start=821902><P Class=ENUSCC>&nbsp;
+
+183
+00:13:41,902 --> 00:14:07,136
+YNC Start=847136><P Class=ENUSCC>What is that thing?
+
+184
+00:14:07,136 --> 00:14:08,304
+YNC Start=848304><P Class=ENUSCC>&nbsp;
+
+185
+00:14:08,304 --> 00:14:10,681
+YNC Start=850681><P Class=ENUSCC>I keep it around for luck.
+
+186
+00:14:10,681 --> 00:14:12,349
+YNC Start=852349><P Class=ENUSCC>&nbsp;
+
+187
+00:14:12,349 --> 00:14:15,978
+YNC Start=855978><P Class=ENUSCC>You're gonna need it where you're headed.
+
+188
+00:14:15,978 --> 00:14:17,855
+YNC Start=857855><P Class=ENUSCC>&nbsp;
+
+189
+00:14:17,855 --> 00:15:21,293
+YNC Start=921293><P Class=ENUSCC>Well, these are the coordinates.
+
+190
+00:15:21,293 --> 00:15:23,587
+YNC Start=923587><P Class=ENUSCC>&nbsp;
+
+191
+00:15:23,587 --> 00:15:24,213
+YNC Start=924213><P Class=ENUSCC>Keep your eyes open.
+
+192
+00:15:24,213 --> 00:15:25,297
+YNC Start=925297><P Class=ENUSCC>&nbsp;
+
+193
+00:15:25,297 --> 00:15:25,923
+YNC Start=925923><P Class=ENUSCC>We must be close.
+
+194
+00:15:25,923 --> 00:15:27,258
+YNC Start=927258><P Class=ENUSCC>&nbsp;
+
+195
+00:15:27,258 --> 00:15:45,025
+YNC Start=945025><P Class=ENUSCC>You hear that?
+
+196
+00:15:45,025 --> 00:15:46,318
+YNC Start=946318><P Class=ENUSCC>&nbsp;
+
+197
+00:15:46,318 --> 00:15:47,820
+YNC Start=947820><P Class=ENUSCC>Don't worry. Sit right here.<br>Let me see what's out there.
+
+198
+00:15:47,820 --> 00:15:51,490
+YNC Start=951490><P Class=ENUSCC>&nbsp;
+
+199
+00:15:51,490 --> 00:16:01,167
+YNC Start=961167><P Class=ENUSCC>False alarm.
+
+200
+00:16:01,167 --> 00:16:02,376
+YNC Start=962376><P Class=ENUSCC>&nbsp;
+
+201
+00:16:02,376 --> 00:16:16,557
+YNC Start=976557><P Class=ENUSCC>Ahsoka Tano!
+
+202
+00:16:16,557 --> 00:16:17,600
+YNC Start=977600><P Class=ENUSCC>&nbsp;
+
+203
+00:16:17,600 --> 00:16:19,476
+YNC Start=979476><P Class=ENUSCC>Bo-Katan sent me.
+
+204
+00:16:19,476 --> 00:16:21,103
+YNC Start=981103><P Class=ENUSCC>&nbsp;
+
+205
+00:16:21,103 --> 00:16:22,521
+YNC Start=982521><P Class=ENUSCC>We need to talk.
+
+206
+00:16:22,521 --> 00:16:23,647
+YNC Start=983647><P Class=ENUSCC>&nbsp;
+
+207
+00:16:23,647 --> 00:16:28,485
+YNC Start=988485><P Class=ENUSCC>I hope it's about him.
+
+208
+00:16:28,485 --> 00:16:29,945
+YNC Start=989945><P Class=ENUSCC>&nbsp;
+
+209
+00:16:29,945 --> 00:18:34,195
+YNC Start=1114195><P Class=ENUSCC>Is he speaking?
+
+210
+00:18:34,195 --> 00:18:35,487
+YNC Start=1115487><P Class=ENUSCC>&nbsp;
+
+211
+00:18:35,487 --> 00:18:36,655
+YNC Start=1116655><P Class=ENUSCC>Do you understand him?
+
+212
+00:18:36,655 --> 00:18:38,908
+YNC Start=1118908><P Class=ENUSCC>&nbsp;
+
+213
+00:18:38,908 --> 00:18:45,164
+YNC Start=1125164><P Class=ENUSCC>In a way.
+
+214
+00:18:45,164 --> 00:18:46,165
+YNC Start=1126165><P Class=ENUSCC>&nbsp;
+
+215
+00:18:46,165 --> 00:18:47,708
+YNC Start=1127708><P Class=ENUSCC>Grogu and I can feel<br>each other's thoughts.
+
+216
+00:18:47,708 --> 00:18:49,835
+YNC Start=1129835><P Class=ENUSCC>&nbsp;
+
+217
+00:18:49,835 --> 00:18:51,670
+YNC Start=1131670><P Class=ENUSCC>Grogu?
+
+218
+00:18:51,670 --> 00:18:52,713
+YNC Start=1132713><P Class=ENUSCC>&nbsp;
+
+219
+00:18:52,713 --> 00:18:54,089
+YNC Start=1134089><P Class=ENUSCC>Yes.
+
+220
+00:18:54,089 --> 00:18:55,174
+YNC Start=1135174><P Class=ENUSCC>&nbsp;
+
+221
+00:18:55,174 --> 00:18:59,261
+YNC Start=1139261><P Class=ENUSCC>That's his name.
+
+222
+00:18:59,261 --> 00:19:00,262
+YNC Start=1140262><P Class=ENUSCC>&nbsp;
+
+223
+00:19:00,262 --> 00:19:07,228
+YNC Start=1147228><P Class=ENUSCC>-Grogu.
+
+224
+00:19:07,228 --> 00:19:08,771
+YNC Start=1148771><P Class=ENUSCC>&nbsp;
+
+225
+00:19:08,771 --> 00:19:12,191
+YNC Start=1152191><P Class=ENUSCC>He was raised<br>at the Jedi Temple on Coruscant.
+
+226
+00:19:12,191 --> 00:19:14,652
+YNC Start=1154652><P Class=ENUSCC>&nbsp;
+
+227
+00:19:14,652 --> 00:19:15,861
+YNC Start=1155861><P Class=ENUSCC>Many Masters trained him over the years.
+
+228
+00:19:15,861 --> 00:19:17,905
+YNC Start=1157905><P Class=ENUSCC>&nbsp;
+
+229
+00:19:17,905 --> 00:19:19,740
+YNC Start=1159740><P Class=ENUSCC>At the end of the Clone Wars<br>when the Empire rose to power,
+
+230
+00:19:19,740 --> 00:19:22,451
+YNC Start=1162451><P Class=ENUSCC>&nbsp;
+
+231
+00:19:22,451 --> 00:19:23,702
+YNC Start=1163702><P Class=ENUSCC>he was hidden.
+
+232
+00:19:23,702 --> 00:19:24,703
+YNC Start=1164703><P Class=ENUSCC>&nbsp;
+
+233
+00:19:24,703 --> 00:19:28,082
+YNC Start=1168082><P Class=ENUSCC>Someone took him from the Temple.
+
+234
+00:19:28,082 --> 00:19:30,042
+YNC Start=1170042><P Class=ENUSCC>&nbsp;
+
+235
+00:19:30,042 --> 00:19:33,128
+YNC Start=1173128><P Class=ENUSCC>Then his memory becomes... dark.
+
+236
+00:19:33,128 --> 00:19:36,465
+YNC Start=1176465><P Class=ENUSCC>&nbsp;
+
+237
+00:19:36,465 --> 00:19:38,884
+YNC Start=1178884><P Class=ENUSCC>He seemed lost.
+
+238
+00:19:38,884 --> 00:19:40,010
+YNC Start=1180010><P Class=ENUSCC>&nbsp;
+
+239
+00:19:40,010 --> 00:19:42,346
+YNC Start=1182346><P Class=ENUSCC>Alone.
+
+240
+00:19:42,346 --> 00:19:43,347
+YNC Start=1183347><P Class=ENUSCC>&nbsp;
+
+241
+00:19:43,347 --> 00:19:48,352
+YNC Start=1188352><P Class=ENUSCC>I've only known one other being like this.
+
+242
+00:19:48,352 --> 00:19:50,479
+YNC Start=1190479><P Class=ENUSCC>&nbsp;
+
+243
+00:19:50,479 --> 00:19:53,899
+YNC Start=1193899><P Class=ENUSCC>A wise Jedi Master named Yoda.
+
+244
+00:19:53,899 --> 00:19:56,026
+YNC Start=1196026><P Class=ENUSCC>&nbsp;
+
+245
+00:19:56,026 --> 00:20:04,076
+YNC Start=1204076><P Class=ENUSCC>Can he still wield the Force?
+
+246
+00:20:04,076 --> 00:20:05,995
+YNC Start=1205995><P Class=ENUSCC>&nbsp;
+
+247
+00:20:05,995 --> 00:20:08,372
+YNC Start=1208372><P Class=ENUSCC>You mean his powers?
+
+248
+00:20:08,372 --> 00:20:09,832
+YNC Start=1209832><P Class=ENUSCC>&nbsp;
+
+249
+00:20:09,832 --> 00:20:12,877
+YNC Start=1212877><P Class=ENUSCC>The Force is what gives him his powers.
+
+250
+00:20:12,877 --> 00:20:15,296
+YNC Start=1215296><P Class=ENUSCC>&nbsp;
+
+251
+00:20:15,296 --> 00:20:16,589
+YNC Start=1216589><P Class=ENUSCC>It is an energy field<br>created by all living things.
+
+252
+00:20:16,589 --> 00:20:20,426
+YNC Start=1220426><P Class=ENUSCC>&nbsp;
+
+253
+00:20:20,426 --> 00:20:22,678
+YNC Start=1222678><P Class=ENUSCC>To wield it takes a great deal<br>of training and discipline.
+
+254
+00:20:22,678 --> 00:20:26,390
+YNC Start=1226390><P Class=ENUSCC>&nbsp;
+
+255
+00:20:26,390 --> 00:20:28,350
+YNC Start=1228350><P Class=ENUSCC>I've seen him do things I can't explain.
+
+256
+00:20:28,350 --> 00:20:30,895
+YNC Start=1230895><P Class=ENUSCC>&nbsp;
+
+257
+00:20:30,895 --> 00:20:33,981
+YNC Start=1233981><P Class=ENUSCC>My task was to bring him to a Jedi.
+
+258
+00:20:33,981 --> 00:20:37,484
+YNC Start=1237484><P Class=ENUSCC>&nbsp;
+
+259
+00:20:37,484 --> 00:20:41,530
+YNC Start=1241530><P Class=ENUSCC>The Jedi Order fell a long time ago.
+
+260
+00:20:41,530 --> 00:20:43,324
+YNC Start=1243324><P Class=ENUSCC>&nbsp;
+
+261
+00:20:43,324 --> 00:20:44,825
+YNC Start=1244825><P Class=ENUSCC>So did the Empire, yet it still hunts him.
+
+262
+00:20:44,825 --> 00:20:47,203
+YNC Start=1247203><P Class=ENUSCC>&nbsp;
+
+263
+00:20:47,203 --> 00:20:49,955
+YNC Start=1249955><P Class=ENUSCC>He needs your help.
+
+264
+00:20:49,955 --> 00:20:50,998
+YNC Start=1250998><P Class=ENUSCC>&nbsp;
+
+265
+00:20:50,998 --> 00:21:07,306
+YNC Start=1267306><P Class=ENUSCC>Let him sleep.
+
+266
+00:21:07,306 --> 00:21:08,307
+YNC Start=1268307><P Class=ENUSCC>&nbsp;
+
+267
+00:21:08,307 --> 00:21:10,768
+YNC Start=1270768><P Class=ENUSCC>I'll test him in the morning.
+
+268
+00:21:10,768 --> 00:21:12,311
+YNC Start=1272311><P Class=ENUSCC>&nbsp;
+
+269
+00:21:12,311 --> 00:21:27,701
+YNC Start=1287701><P Class=ENUSCC>Let's see what knowledge<br>is lurking inside that little mind.
+
+270
+00:21:27,701 --> 00:21:30,287
+YNC Start=1290287><P Class=ENUSCC>&nbsp;
+
+271
+00:21:30,287 --> 00:22:16,792
+YNC Start=1336792><P Class=ENUSCC>Now, return the stone to me, Grogu.
+
+272
+00:22:16,792 --> 00:22:18,544
+YNC Start=1338544><P Class=ENUSCC>&nbsp;
+
+273
+00:22:18,544 --> 00:22:22,339
+YNC Start=1342339><P Class=ENUSCC>He doesn't understand.
+
+274
+00:22:22,339 --> 00:22:23,883
+YNC Start=1343883><P Class=ENUSCC>&nbsp;
+
+275
+00:22:23,883 --> 00:22:23,966
+YNC Start=1343966><P Class=ENUSCC>He does.
+
+276
+00:22:23,966 --> 00:22:25,092
+YNC Start=1345092><P Class=ENUSCC>&nbsp;
+
+277
+00:22:25,092 --> 00:22:28,220
+YNC Start=1348220><P Class=ENUSCC>It's okay.
+
+278
+00:22:28,220 --> 00:22:29,346
+YNC Start=1349346><P Class=ENUSCC>&nbsp;
+
+279
+00:22:29,346 --> 00:22:31,765
+YNC Start=1351765><P Class=ENUSCC>The stone, Grogu.
+
+280
+00:22:31,765 --> 00:22:32,850
+YNC Start=1352850><P Class=ENUSCC>&nbsp;
+
+281
+00:22:32,850 --> 00:22:59,960
+YNC Start=1379960><P Class=ENUSCC>I sense much fear in you.
+
+282
+00:22:59,960 --> 00:23:01,462
+YNC Start=1381462><P Class=ENUSCC>&nbsp;
+
+283
+00:23:01,462 --> 00:23:12,640
+YNC Start=1392640><P Class=ENUSCC>He's hidden his abilities<br>to survive over the years.
+
+284
+00:23:12,640 --> 00:23:15,226
+YNC Start=1395226><P Class=ENUSCC>&nbsp;
+
+285
+00:23:15,226 --> 00:23:18,145
+YNC Start=1398145><P Class=ENUSCC>Let's try something else.
+
+286
+00:23:18,145 --> 00:23:19,271
+YNC Start=1399271><P Class=ENUSCC>&nbsp;
+
+287
+00:23:19,271 --> 00:23:19,897
+YNC Start=1399897><P Class=ENUSCC>Come over here.
+
+288
+00:23:19,897 --> 00:23:20,898
+YNC Start=1400898><P Class=ENUSCC>&nbsp;
+
+289
+00:23:20,898 --> 00:23:25,361
+YNC Start=1405361><P Class=ENUSCC>-He's stubborn.<br>-Not him.
+
+290
+00:23:25,361 --> 00:23:27,279
+YNC Start=1407279><P Class=ENUSCC>&nbsp;
+
+291
+00:23:27,279 --> 00:23:27,363
+YNC Start=1407363><P Class=ENUSCC>You.
+
+292
+00:23:27,363 --> 00:23:28,489
+YNC Start=1408489><P Class=ENUSCC>&nbsp;
+
+293
+00:23:28,489 --> 00:23:29,406
+YNC Start=1409406><P Class=ENUSCC>I want to see if he'll listen to you.
+
+294
+00:23:29,406 --> 00:23:31,033
+YNC Start=1411033><P Class=ENUSCC>&nbsp;
+
+295
+00:23:31,033 --> 00:23:33,536
+YNC Start=1413536><P Class=ENUSCC>That would be a first.
+
+296
+00:23:33,536 --> 00:23:35,120
+YNC Start=1415120><P Class=ENUSCC>&nbsp;
+
+297
+00:23:35,120 --> 00:23:36,163
+YNC Start=1416163><P Class=ENUSCC>I like firsts.
+
+298
+00:23:36,163 --> 00:23:37,248
+YNC Start=1417248><P Class=ENUSCC>&nbsp;
+
+299
+00:23:37,248 --> 00:23:37,331
+YNC Start=1417331><P Class=ENUSCC>Good or bad, they're always memorable.
+
+300
+00:23:37,331 --> 00:23:39,250
+YNC Start=1419250><P Class=ENUSCC>&nbsp;
+
+301
+00:23:39,250 --> 00:23:41,544
+YNC Start=1421544><P Class=ENUSCC>Now, hold the stone out<br>in the palm of your hand.
+
+302
+00:23:41,544 --> 00:23:43,963
+YNC Start=1423963><P Class=ENUSCC>&nbsp;
+
+303
+00:23:43,963 --> 00:23:44,964
+YNC Start=1424964><P Class=ENUSCC>Tell him to lift it up.
+
+304
+00:23:44,964 --> 00:23:46,131
+YNC Start=1426131><P Class=ENUSCC>&nbsp;
+
+305
+00:23:46,131 --> 00:23:48,592
+YNC Start=1428592><P Class=ENUSCC>All right, kid.
+
+306
+00:23:48,592 --> 00:23:50,052
+YNC Start=1430052><P Class=ENUSCC>&nbsp;
+
+307
+00:23:50,052 --> 00:23:50,678
+YNC Start=1430678><P Class=ENUSCC>Lift the stone.
+
+308
+00:23:50,678 --> 00:23:51,762
+YNC Start=1431762><P Class=ENUSCC>&nbsp;
+
+309
+00:23:51,762 --> 00:23:56,433
+YNC Start=1436433><P Class=ENUSCC>Grogu.
+
+310
+00:23:56,433 --> 00:23:57,434
+YNC Start=1437434><P Class=ENUSCC>&nbsp;
+
+311
+00:23:57,434 --> 00:24:04,608
+YNC Start=1444608><P Class=ENUSCC>-Grogu...
+
+312
+00:24:04,608 --> 00:24:05,609
+YNC Start=1445609><P Class=ENUSCC>&nbsp;
+
+313
+00:24:05,609 --> 00:24:06,527
+YNC Start=1446527><P Class=ENUSCC>Come on, take the stone.
+
+314
+00:24:06,527 --> 00:24:08,904
+YNC Start=1448904><P Class=ENUSCC>&nbsp;
+
+315
+00:24:08,904 --> 00:24:10,114
+YNC Start=1450114><P Class=ENUSCC>-You see?
+
+316
+00:24:10,114 --> 00:24:11,991
+YNC Start=1451991><P Class=ENUSCC>&nbsp;
+
+317
+00:24:11,991 --> 00:24:12,700
+YNC Start=1452700><P Class=ENUSCC>I told you, he's stubborn.
+
+318
+00:24:12,700 --> 00:24:13,951
+YNC Start=1453951><P Class=ENUSCC>&nbsp;
+
+319
+00:24:13,951 --> 00:24:14,618
+YNC Start=1454618><P Class=ENUSCC>Try to connect with him.
+
+320
+00:24:14,618 --> 00:24:16,036
+YNC Start=1456036><P Class=ENUSCC>&nbsp;
+
+321
+00:24:16,036 --> 00:24:40,477
+YNC Start=1480477><P Class=ENUSCC>Grogu...
+
+322
+00:24:40,477 --> 00:24:41,729
+YNC Start=1481729><P Class=ENUSCC>&nbsp;
+
+323
+00:24:41,729 --> 00:24:44,773
+YNC Start=1484773><P Class=ENUSCC>Do you want this?
+
+324
+00:24:44,773 --> 00:24:45,941
+YNC Start=1485941><P Class=ENUSCC>&nbsp;
+
+325
+00:24:45,941 --> 00:24:49,153
+YNC Start=1489153><P Class=ENUSCC>Well, go ahead.
+
+326
+00:24:49,153 --> 00:24:50,196
+YNC Start=1490196><P Class=ENUSCC>&nbsp;
+
+327
+00:24:50,196 --> 00:24:52,489
+YNC Start=1492489><P Class=ENUSCC>That's right, take it.
+
+328
+00:24:52,489 --> 00:24:53,866
+YNC Start=1493866><P Class=ENUSCC>&nbsp;
+
+329
+00:24:53,866 --> 00:24:55,492
+YNC Start=1495492><P Class=ENUSCC>Come on. You can have it.
+
+330
+00:24:55,492 --> 00:24:57,870
+YNC Start=1497870><P Class=ENUSCC>&nbsp;
+
+331
+00:24:57,870 --> 00:24:58,579
+YNC Start=1498579><P Class=ENUSCC>Come on.
+
+332
+00:24:58,579 --> 00:24:59,580
+YNC Start=1499580><P Class=ENUSCC>&nbsp;
+
+333
+00:24:59,580 --> 00:25:02,249
+YNC Start=1502249><P Class=ENUSCC>Good job!
+
+334
+00:25:02,249 --> 00:25:03,375
+YNC Start=1503375><P Class=ENUSCC>&nbsp;
+
+335
+00:25:03,375 --> 00:25:03,459
+YNC Start=1503459><P Class=ENUSCC>Good job, kid.
+
+336
+00:25:03,459 --> 00:25:04,460
+YNC Start=1504460><P Class=ENUSCC>&nbsp;
+
+337
+00:25:04,460 --> 00:25:05,336
+YNC Start=1505336><P Class=ENUSCC>You see that?
+
+338
+00:25:05,336 --> 00:25:06,337
+YNC Start=1506337><P Class=ENUSCC>&nbsp;
+
+339
+00:25:06,337 --> 00:25:07,922
+YNC Start=1507922><P Class=ENUSCC>-That's right.
+
+340
+00:25:07,922 --> 00:25:09,089
+YNC Start=1509089><P Class=ENUSCC>&nbsp;
+
+341
+00:25:09,089 --> 00:25:09,173
+YNC Start=1509173><P Class=ENUSCC>I knew you could do it.
+
+342
+00:25:09,173 --> 00:25:10,382
+YNC Start=1510382><P Class=ENUSCC>&nbsp;
+
+343
+00:25:10,382 --> 00:25:11,383
+YNC Start=1511383><P Class=ENUSCC>Very good.
+
+344
+00:25:11,383 --> 00:25:12,384
+YNC Start=1512384><P Class=ENUSCC>&nbsp;
+
+345
+00:25:12,384 --> 00:25:12,468
+YNC Start=1512468><P Class=ENUSCC>He's formed<br>a strong attachment to you.
+
+346
+00:25:12,468 --> 00:25:14,303
+YNC Start=1514303><P Class=ENUSCC>&nbsp;
+
+347
+00:25:14,303 --> 00:25:19,767
+YNC Start=1519767><P Class=ENUSCC>I cannot train him.
+
+348
+00:25:19,767 --> 00:25:20,851
+YNC Start=1520851><P Class=ENUSCC>&nbsp;
+
+349
+00:25:20,851 --> 00:25:20,935
+YNC Start=1520935><P Class=ENUSCC>What?
+
+350
+00:25:20,935 --> 00:25:21,936
+YNC Start=1521936><P Class=ENUSCC>&nbsp;
+
+351
+00:25:21,936 --> 00:25:22,853
+YNC Start=1522853><P Class=ENUSCC>Why not?
+
+352
+00:25:22,853 --> 00:25:23,854
+YNC Start=1523854><P Class=ENUSCC>&nbsp;
+
+353
+00:25:23,854 --> 00:25:23,938
+YNC Start=1523938><P Class=ENUSCC>You've seen what he can do.
+
+354
+00:25:23,938 --> 00:25:25,189
+YNC Start=1525189><P Class=ENUSCC>&nbsp;
+
+355
+00:25:25,189 --> 00:25:25,272
+YNC Start=1525272><P Class=ENUSCC>His attachment to you<br>makes him vulnerable to his fears.
+
+356
+00:25:25,272 --> 00:25:28,067
+YNC Start=1528067><P Class=ENUSCC>&nbsp;
+
+357
+00:25:28,067 --> 00:25:29,443
+YNC Start=1529443><P Class=ENUSCC>His anger.
+
+358
+00:25:29,443 --> 00:25:30,444
+YNC Start=1530444><P Class=ENUSCC>&nbsp;
+
+359
+00:25:30,444 --> 00:25:30,528
+YNC Start=1530528><P Class=ENUSCC>All the more reason to train him.
+
+360
+00:25:30,528 --> 00:25:32,029
+YNC Start=1532029><P Class=ENUSCC>&nbsp;
+
+361
+00:25:32,029 --> 00:25:32,112
+YNC Start=1532112><P Class=ENUSCC>No.
+
+362
+00:25:32,112 --> 00:25:33,155
+YNC Start=1533155><P Class=ENUSCC>&nbsp;
+
+363
+00:25:33,155 --> 00:25:35,241
+YNC Start=1535241><P Class=ENUSCC>I've seen what such feelings can do<br>to a fully trained Jedi Knight.
+
+364
+00:25:35,241 --> 00:25:38,410
+YNC Start=1538410><P Class=ENUSCC>&nbsp;
+
+365
+00:25:38,410 --> 00:25:40,162
+YNC Start=1540162><P Class=ENUSCC>To the best of us.
+
+366
+00:25:40,162 --> 00:25:41,163
+YNC Start=1541163><P Class=ENUSCC>&nbsp;
+
+367
+00:25:41,163 --> 00:25:45,543
+YNC Start=1545543><P Class=ENUSCC>I will not start this child<br>down that path.
+
+368
+00:25:45,543 --> 00:25:47,670
+YNC Start=1547670><P Class=ENUSCC>&nbsp;
+
+369
+00:25:47,670 --> 00:25:49,129
+YNC Start=1549129><P Class=ENUSCC>Better to let his abilities fade.
+
+370
+00:25:49,129 --> 00:25:50,923
+YNC Start=1550923><P Class=ENUSCC>&nbsp;
+
+371
+00:25:50,923 --> 00:25:53,217
+YNC Start=1553217><P Class=ENUSCC>I've delayed too long.<br>I must get back to the village.
+
+372
+00:25:53,217 --> 00:25:55,970
+YNC Start=1555970><P Class=ENUSCC>&nbsp;
+
+373
+00:25:55,970 --> 00:25:57,805
+YNC Start=1557805><P Class=ENUSCC>The Magistrate sent me to kill you.
+
+374
+00:25:57,805 --> 00:25:59,890
+YNC Start=1559890><P Class=ENUSCC>&nbsp;
+
+375
+00:25:59,890 --> 00:26:04,854
+YNC Start=1564854><P Class=ENUSCC>I didn't agree to anything.
+
+376
+00:26:04,854 --> 00:26:06,188
+YNC Start=1566188><P Class=ENUSCC>&nbsp;
+
+377
+00:26:06,188 --> 00:26:07,565
+YNC Start=1567565><P Class=ENUSCC>And I'll help you with your problem,
+
+378
+00:26:07,565 --> 00:26:09,400
+YNC Start=1569400><P Class=ENUSCC>&nbsp;
+
+379
+00:26:09,400 --> 00:26:09,483
+YNC Start=1569483><P Class=ENUSCC>if you see to it<br>that Grogu is properly trained.
+
+380
+00:26:09,483 --> 00:26:12,945
+YNC Start=1572945><P Class=ENUSCC>&nbsp;
+
+381
+00:26:12,945 --> 00:26:20,035
+YNC Start=1580035><P Class=ENUSCC>She has a small army<br>of guards armed with A350 blaster rifles,
+
+382
+00:26:20,035 --> 00:26:23,789
+YNC Start=1583789><P Class=ENUSCC>&nbsp;
+
+383
+00:26:23,789 --> 00:26:24,498
+YNC Start=1584498><P Class=ENUSCC>two HK-87 assassin droids,<br>and a hired gunfighter.
+
+384
+00:26:24,498 --> 00:26:28,544
+YNC Start=1588544><P Class=ENUSCC>&nbsp;
+
+385
+00:26:28,544 --> 00:26:29,628
+YNC Start=1589628><P Class=ENUSCC>He reads ex-military to me.
+
+386
+00:26:29,628 --> 00:26:31,130
+YNC Start=1591130><P Class=ENUSCC>&nbsp;
+
+387
+00:26:31,130 --> 00:26:32,047
+YNC Start=1592047><P Class=ENUSCC>Combined, not even your laser swords
+
+388
+00:26:32,047 --> 00:26:34,175
+YNC Start=1594175><P Class=ENUSCC>&nbsp;
+
+389
+00:26:34,175 --> 00:26:34,258
+YNC Start=1594258><P Class=ENUSCC>would be able to protect you<br>from all that firepower.
+
+390
+00:26:34,258 --> 00:26:36,969
+YNC Start=1596969><P Class=ENUSCC>&nbsp;
+
+391
+00:26:36,969 --> 00:26:39,805
+YNC Start=1599805><P Class=ENUSCC>True.
+
+392
+00:26:39,805 --> 00:26:40,806
+YNC Start=1600806><P Class=ENUSCC>&nbsp;
+
+393
+00:26:40,806 --> 00:26:41,807
+YNC Start=1601807><P Class=ENUSCC>But don't underestimate<br>the Magistrate either.
+
+394
+00:26:41,807 --> 00:26:44,101
+YNC Start=1604101><P Class=ENUSCC>&nbsp;
+
+395
+00:26:44,101 --> 00:26:44,476
+YNC Start=1604476><P Class=ENUSCC>Who is she?
+
+396
+00:26:44,476 --> 00:26:45,477
+YNC Start=1605477><P Class=ENUSCC>&nbsp;
+
+397
+00:26:45,477 --> 00:26:46,979
+YNC Start=1606979><P Class=ENUSCC>She offered me a staff<br>of pure beskar to kill you.
+
+398
+00:26:46,979 --> 00:26:49,732
+YNC Start=1609732><P Class=ENUSCC>&nbsp;
+
+399
+00:26:49,732 --> 00:26:55,112
+YNC Start=1615112><P Class=ENUSCC>Morgan Elsbeth.
+
+400
+00:26:55,112 --> 00:26:56,113
+YNC Start=1616113><P Class=ENUSCC>&nbsp;
+
+401
+00:26:56,113 --> 00:26:57,448
+YNC Start=1617448><P Class=ENUSCC>During the Clone Wars,<br>her people were massacred.
+
+402
+00:26:57,448 --> 00:26:59,658
+YNC Start=1619658><P Class=ENUSCC>&nbsp;
+
+403
+00:26:59,658 --> 00:27:00,326
+YNC Start=1620326><P Class=ENUSCC>She survived<br>and let her anger fuel an industry
+
+404
+00:27:00,326 --> 00:27:03,120
+YNC Start=1623120><P Class=ENUSCC>&nbsp;
+
+405
+00:27:03,120 --> 00:27:03,204
+YNC Start=1623204><P Class=ENUSCC>which helped build the Imperial Starfleet.
+
+406
+00:27:03,204 --> 00:27:05,372
+YNC Start=1625372><P Class=ENUSCC>&nbsp;
+
+407
+00:27:05,372 --> 00:27:07,541
+YNC Start=1627541><P Class=ENUSCC>She plundered worlds,
+
+408
+00:27:07,541 --> 00:27:08,751
+YNC Start=1628751><P Class=ENUSCC>&nbsp;
+
+409
+00:27:08,751 --> 00:27:10,252
+YNC Start=1630252><P Class=ENUSCC>destroying them in the process.
+
+410
+00:27:10,252 --> 00:27:11,629
+YNC Start=1631629><P Class=ENUSCC>&nbsp;
+
+411
+00:27:11,629 --> 00:27:13,255
+YNC Start=1633255><P Class=ENUSCC>Yeah, it looks like<br>she's still in business.
+
+412
+00:27:13,255 --> 00:27:15,758
+YNC Start=1635758><P Class=ENUSCC>&nbsp;
+
+413
+00:27:15,758 --> 00:27:20,095
+YNC Start=1640095><P Class=ENUSCC>When you were in the city<br>did you see any prisoners?
+
+414
+00:27:20,095 --> 00:27:23,015
+YNC Start=1643015><P Class=ENUSCC>&nbsp;
+
+415
+00:27:23,015 --> 00:27:24,183
+YNC Start=1644183><P Class=ENUSCC>I saw three villagers<br>strung up just outside the inner gate.
+
+416
+00:27:24,183 --> 00:27:27,770
+YNC Start=1647770><P Class=ENUSCC>&nbsp;
+
+417
+00:27:27,770 --> 00:27:28,979
+YNC Start=1648979><P Class=ENUSCC>We must find a way to free them.
+
+418
+00:27:28,979 --> 00:27:30,564
+YNC Start=1650564><P Class=ENUSCC>&nbsp;
+
+419
+00:27:30,564 --> 00:27:31,148
+YNC Start=1651148><P Class=ENUSCC>A Mandalorian and a Jedi?
+
+420
+00:27:31,148 --> 00:27:32,900
+YNC Start=1652900><P Class=ENUSCC>&nbsp;
+
+421
+00:27:32,900 --> 00:27:34,193
+YNC Start=1654193><P Class=ENUSCC>They'll never see it coming.
+
+422
+00:27:34,193 --> 00:27:35,694
+YNC Start=1655694><P Class=ENUSCC>&nbsp;
+
+423
+00:27:35,694 --> 00:28:12,064
+YNC Start=1692064><P Class=ENUSCC>It's her! Sound the alarm!
+
+424
+00:28:12,064 --> 00:28:13,357
+YNC Start=1693357><P Class=ENUSCC>&nbsp;
+
+425
+00:28:13,357 --> 00:30:06,303
+YNC Start=1806303><P Class=ENUSCC>Your bounty hunter failed.
+
+426
+00:30:06,303 --> 00:30:08,556
+YNC Start=1808556><P Class=ENUSCC>&nbsp;
+
+427
+00:30:08,556 --> 00:30:09,849
+YNC Start=1809849><P Class=ENUSCC>Tell me what I want to know.
+
+428
+00:30:09,849 --> 00:30:11,267
+YNC Start=1811267><P Class=ENUSCC>&nbsp;
+
+429
+00:30:11,267 --> 00:30:14,228
+YNC Start=1814228><P Class=ENUSCC>Where is your master?
+
+430
+00:30:14,228 --> 00:30:15,521
+YNC Start=1815521><P Class=ENUSCC>&nbsp;
+
+431
+00:30:15,521 --> 00:30:19,024
+YNC Start=1819024><P Class=ENUSCC>Kill her.
+
+432
+00:30:19,024 --> 00:30:20,276
+YNC Start=1820276><P Class=ENUSCC>&nbsp;
+
+433
+00:30:20,276 --> 00:30:20,359
+YNC Start=1820359><P Class=ENUSCC>Love to.
+
+434
+00:30:20,359 --> 00:30:21,485
+YNC Start=1821485><P Class=ENUSCC>&nbsp;
+
+435
+00:30:21,485 --> 00:30:38,586
+YNC Start=1838586><P Class=ENUSCC>I'll take care of this.
+
+436
+00:30:38,586 --> 00:30:40,129
+YNC Start=1840129><P Class=ENUSCC>&nbsp;
+
+437
+00:30:40,129 --> 00:30:40,212
+YNC Start=1840212><P Class=ENUSCC>Take them with you.
+
+438
+00:30:40,212 --> 00:30:41,297
+YNC Start=1841297><P Class=ENUSCC>&nbsp;
+
+439
+00:30:41,297 --> 00:30:46,427
+YNC Start=1846427><P Class=ENUSCC>Execute them.
+
+440
+00:30:46,427 --> 00:30:47,469
+YNC Start=1847469><P Class=ENUSCC>&nbsp;
+
+441
+00:30:47,469 --> 00:30:48,429
+YNC Start=1848429><P Class=ENUSCC>Then go door to door.
+
+442
+00:30:48,429 --> 00:30:49,722
+YNC Start=1849722><P Class=ENUSCC>&nbsp;
+
+443
+00:30:49,722 --> 00:30:52,850
+YNC Start=1852850><P Class=ENUSCC>Please, don't!
+
+444
+00:30:52,850 --> 00:30:55,019
+YNC Start=1855019><P Class=ENUSCC>&nbsp;
+
+445
+00:30:55,019 --> 00:32:36,370
+YNC Start=1956370><P Class=ENUSCC>Get up there!
+
+446
+00:32:36,370 --> 00:32:37,371
+YNC Start=1957371><P Class=ENUSCC>&nbsp;
+
+447
+00:32:37,371 --> 00:32:43,752
+YNC Start=1963752><P Class=ENUSCC>- Get inside!<br>- Go.
+
+448
+00:32:43,752 --> 00:32:45,588
+YNC Start=1965588><P Class=ENUSCC>&nbsp;
+
+449
+00:32:45,588 --> 00:33:13,073
+YNC Start=1993073><P Class=ENUSCC>So, you threw in with the Jedi.
+
+450
+00:33:13,073 --> 00:33:14,909
+YNC Start=1994909><P Class=ENUSCC>&nbsp;
+
+451
+00:33:14,909 --> 00:33:16,619
+YNC Start=1996619><P Class=ENUSCC>Looks that way.
+
+452
+00:33:16,619 --> 00:33:18,287
+YNC Start=1998287><P Class=ENUSCC>&nbsp;
+
+453
+00:33:18,287 --> 00:34:59,555
+YNC Start=2099555><P Class=ENUSCC>Who do you think's gonna win?
+
+454
+00:34:59,555 --> 00:35:01,140
+YNC Start=2101140><P Class=ENUSCC>&nbsp;
+
+455
+00:35:01,140 --> 00:35:03,851
+YNC Start=2103851><P Class=ENUSCC>Could be your side...
+
+456
+00:35:03,851 --> 00:35:05,311
+YNC Start=2105311><P Class=ENUSCC>&nbsp;
+
+457
+00:35:05,311 --> 00:35:08,063
+YNC Start=2108063><P Class=ENUSCC>could be my side.
+
+458
+00:35:08,063 --> 00:35:09,190
+YNC Start=2109190><P Class=ENUSCC>&nbsp;
+
+459
+00:35:09,190 --> 00:35:43,140
+YNC Start=2143140><P Class=ENUSCC>I got no quarrel<br>with you, Mandalorian.
+
+460
+00:35:43,140 --> 00:35:45,434
+YNC Start=2145434><P Class=ENUSCC>&nbsp;
+
+461
+00:35:45,434 --> 00:35:46,143
+YNC Start=2146143><P Class=ENUSCC>That's far enough.
+
+462
+00:35:46,143 --> 00:35:47,520
+YNC Start=2147520><P Class=ENUSCC>&nbsp;
+
+463
+00:35:47,520 --> 00:36:01,825
+YNC Start=2161825><P Class=ENUSCC>You and I, we're a lot alike.
+
+464
+00:36:01,825 --> 00:36:03,452
+YNC Start=2163452><P Class=ENUSCC>&nbsp;
+
+465
+00:36:03,452 --> 00:36:05,287
+YNC Start=2165287><P Class=ENUSCC>Willing to lay our lives down<br>for the right cause.
+
+466
+00:36:05,287 --> 00:36:07,832
+YNC Start=2167832><P Class=ENUSCC>&nbsp;
+
+467
+00:36:07,832 --> 00:36:13,504
+YNC Start=2173504><P Class=ENUSCC>Which this is not.
+
+468
+00:36:13,504 --> 00:36:14,797
+YNC Start=2174797><P Class=ENUSCC>&nbsp;
+
+469
+00:36:14,797 --> 00:36:41,323
+YNC Start=2201323><P Class=ENUSCC>Sounds like you win.
+
+470
+00:36:41,323 --> 00:36:42,366
+YNC Start=2202366><P Class=ENUSCC>&nbsp;
+
+471
+00:36:42,366 --> 00:37:15,858
+YNC Start=2235858><P Class=ENUSCC>Behind you!
+
+472
+00:37:15,858 --> 00:37:16,859
+YNC Start=2236859><P Class=ENUSCC>&nbsp;
+
+473
+00:37:16,859 --> 00:37:23,574
+YNC Start=2243574><P Class=ENUSCC>Now, tell me.
+
+474
+00:37:23,574 --> 00:37:24,700
+YNC Start=2244700><P Class=ENUSCC>&nbsp;
+
+475
+00:37:24,700 --> 00:37:25,951
+YNC Start=2245951><P Class=ENUSCC>Where is your master?
+
+476
+00:37:25,951 --> 00:37:27,411
+YNC Start=2247411><P Class=ENUSCC>&nbsp;
+
+477
+00:37:27,411 --> 00:37:29,163
+YNC Start=2249163><P Class=ENUSCC>Where is Grand Admiral Thrawn?
+
+478
+00:37:29,163 --> 00:37:31,582
+YNC Start=2251582><P Class=ENUSCC>&nbsp;
+
+479
+00:37:31,582 --> 00:37:50,559
+YNC Start=2270559><P Class=ENUSCC>I believe this was your payment.
+
+480
+00:37:50,559 --> 00:37:53,437
+YNC Start=2273437><P Class=ENUSCC>&nbsp;
+
+481
+00:37:53,437 --> 00:37:56,190
+YNC Start=2276190><P Class=ENUSCC>No.
+
+482
+00:37:56,190 --> 00:37:57,191
+YNC Start=2277191><P Class=ENUSCC>&nbsp;
+
+483
+00:37:57,191 --> 00:37:57,274
+YNC Start=2277274><P Class=ENUSCC>I can't accept.
+
+484
+00:37:57,274 --> 00:37:58,275
+YNC Start=2278275><P Class=ENUSCC>&nbsp;
+
+485
+00:37:58,275 --> 00:38:00,653
+YNC Start=2280653><P Class=ENUSCC>I didn't finish the job.
+
+486
+00:38:00,653 --> 00:38:02,363
+YNC Start=2282363><P Class=ENUSCC>&nbsp;
+
+487
+00:38:02,363 --> 00:38:03,364
+YNC Start=2283364><P Class=ENUSCC>No.
+
+488
+00:38:03,364 --> 00:38:04,532
+YNC Start=2284532><P Class=ENUSCC>&nbsp;
+
+489
+00:38:04,532 --> 00:38:05,950
+YNC Start=2285950><P Class=ENUSCC>But this belongs with a Mandalorian.
+
+490
+00:38:05,950 --> 00:38:08,869
+YNC Start=2288869><P Class=ENUSCC>&nbsp;
+
+491
+00:38:08,869 --> 00:38:19,713
+YNC Start=2299713><P Class=ENUSCC>Where is your little friend?
+
+492
+00:38:19,713 --> 00:38:21,257
+YNC Start=2301257><P Class=ENUSCC>&nbsp;
+
+493
+00:38:21,257 --> 00:38:23,884
+YNC Start=2303884><P Class=ENUSCC>Back at the ship.
+
+494
+00:38:23,884 --> 00:38:25,511
+YNC Start=2305511><P Class=ENUSCC>&nbsp;
+
+495
+00:38:25,511 --> 00:38:26,136
+YNC Start=2306136><P Class=ENUSCC>Wait here, I'll go get him.
+
+496
+00:38:26,136 --> 00:38:28,305
+YNC Start=2308305><P Class=ENUSCC>&nbsp;
+
+497
+00:38:28,305 --> 00:39:19,064
+YNC Start=2359064><P Class=ENUSCC>Wake up, buddy.
+
+498
+00:39:19,064 --> 00:39:20,232
+YNC Start=2360232><P Class=ENUSCC>&nbsp;
+
+499
+00:39:20,232 --> 00:39:21,233
+YNC Start=2361233><P Class=ENUSCC>It's time to say goodbye.
+
+500
+00:39:21,233 --> 00:39:22,943
+YNC Start=2362943><P Class=ENUSCC>&nbsp;
+
+501
+00:39:22,943 --> 00:39:57,520
+YNC Start=2397520><P Class=ENUSCC>You're like a father to him.
+
+502
+00:39:57,520 --> 00:39:59,104
+YNC Start=2399104><P Class=ENUSCC>&nbsp;
+
+503
+00:39:59,104 --> 00:40:03,651
+YNC Start=2403651><P Class=ENUSCC>I cannot train him.
+
+504
+00:40:03,651 --> 00:40:04,777
+YNC Start=2404777><P Class=ENUSCC>&nbsp;
+
+505
+00:40:04,777 --> 00:40:10,032
+YNC Start=2410032><P Class=ENUSCC>You made me a promise,<br>and I held up my end.
+
+506
+00:40:10,032 --> 00:40:13,160
+YNC Start=2413160><P Class=ENUSCC>&nbsp;
+
+507
+00:40:13,160 --> 00:40:22,336
+YNC Start=2422336><P Class=ENUSCC>There is one possibility.
+
+508
+00:40:22,336 --> 00:40:23,963
+YNC Start=2423963><P Class=ENUSCC>&nbsp;
+
+509
+00:40:23,963 --> 00:40:25,673
+YNC Start=2425673><P Class=ENUSCC>Go to the planet Tython.
+
+510
+00:40:25,673 --> 00:40:26,799
+YNC Start=2426799><P Class=ENUSCC>&nbsp;
+
+511
+00:40:26,799 --> 00:40:28,467
+YNC Start=2428467><P Class=ENUSCC>You will find<br>the ancient ruins of a temple
+
+512
+00:40:28,467 --> 00:40:30,553
+YNC Start=2430553><P Class=ENUSCC>&nbsp;
+
+513
+00:40:30,553 --> 00:40:30,636
+YNC Start=2430636><P Class=ENUSCC>that has a strong connection to the Force.
+
+514
+00:40:30,636 --> 00:40:32,888
+YNC Start=2432888><P Class=ENUSCC>&nbsp;
+
+515
+00:40:32,888 --> 00:40:34,348
+YNC Start=2434348><P Class=ENUSCC>Place Grogu on the seeing stone<br>at the top of the mountain.
+
+516
+00:40:34,348 --> 00:40:36,851
+YNC Start=2436851><P Class=ENUSCC>&nbsp;
+
+517
+00:40:36,851 --> 00:40:38,018
+YNC Start=2438018><P Class=ENUSCC>Then what?
+
+518
+00:40:38,018 --> 00:40:39,019
+YNC Start=2439019><P Class=ENUSCC>&nbsp;
+
+519
+00:40:39,019 --> 00:40:39,103
+YNC Start=2439103><P Class=ENUSCC>Then Grogu may choose his path.
+
+520
+00:40:39,103 --> 00:40:41,021
+YNC Start=2441021><P Class=ENUSCC>&nbsp;
+
+521
+00:40:41,021 --> 00:40:43,315
+YNC Start=2443315><P Class=ENUSCC>If he reaches out through the Force,
+
+522
+00:40:43,315 --> 00:40:45,234
+YNC Start=2445234><P Class=ENUSCC>&nbsp;
+
+523
+00:40:45,234 --> 00:40:45,317
+YNC Start=2445317><P Class=ENUSCC>there's a chance a Jedi may sense<br>his presence and come searching for him.
+
+524
+00:40:45,317 --> 00:40:49,071
+YNC Start=2449071><P Class=ENUSCC>&nbsp;
+
+525
+00:40:49,071 --> 00:40:52,658
+YNC Start=2452658><P Class=ENUSCC>Then again,
+
+526
+00:40:52,658 --> 00:40:53,659
+YNC Start=2453659><P Class=ENUSCC>&nbsp;
+
+527
+00:40:53,659 --> 00:40:56,161
+YNC Start=2456161><P Class=ENUSCC>there aren't many Jedi left.
+
+528
+00:40:56,161 --> 00:40:57,621
+YNC Start=2457621><P Class=ENUSCC>&nbsp;
+
+529
+00:40:57,621 --> 00:41:02,793
+YNC Start=2462793><P Class=ENUSCC>Thank you.
+
+530
+00:41:02,793 --> 00:41:03,836
+YNC Start=2463836><P Class=ENUSCC>&nbsp;
+
+531
+00:41:03,836 --> 00:41:05,045
+YNC Start=2465045><P Class=ENUSCC>May the Force be with you.
+
+532
+00:41:05,045 --> 00:41:06,547
+YNC Start=2466547><P Class=ENUSCC>&nbsp;
+

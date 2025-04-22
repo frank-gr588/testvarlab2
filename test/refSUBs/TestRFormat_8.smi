@@ -1,0 +1,725 @@
+<SAMI>
+<HEAD>
+<TITLE>file</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=1916 End=1916><P>YNC Start=1916>Oh.</P></SYNC>
+<SYNC Start=1916 End=3000><P>YNC Start=3000>&nbsp;</P></SYNC>
+<SYNC Start=3000 End=3083><P>YNC Start=3083>Is that me?</P></SYNC>
+<SYNC Start=3083 End=4460><P>YNC Start=4460>&nbsp;</P></SYNC>
+<SYNC Start=4460 End=5628><P>YNC Start=5628>There must be some mistake.</P></SYNC>
+<SYNC Start=5628 End=6879><P>YNC Start=6879>&nbsp;</P></SYNC>
+<SYNC Start=6879 End=6962><P>YNC Start=6962>-I can get you more credits.-I can bring you in warm...</P></SYNC>
+<SYNC Start=6962 End=9924><P>YNC Start=9924>&nbsp;</P></SYNC>
+<SYNC Start=9924 End=11634><P>YNC Start=11634>Or I can bring you in cold.</P></SYNC>
+<SYNC Start=11634 End=12968><P>YNC Start=12968>&nbsp;</P></SYNC>
+<SYNC Start=12968 End=20184><P>YNC Start=20184>Yes, yes, yes!</P></SYNC>
+<SYNC Start=20184 End=21685><P>YNC Start=21685>&nbsp;</P></SYNC>
+<SYNC Start=21685 End=23062><P>YNC Start=23062>-Very healthy.-What are your plans for it?</P></SYNC>
+<SYNC Start=23062 End=25814><P>YNC Start=25814>&nbsp;</P></SYNC>
+<SYNC Start=25814 End=25898><P>YNC Start=25898>This assetwas of extreme importance to me.</P></SYNC>
+<SYNC Start=25898 End=29068><P>YNC Start=29068>&nbsp;</P></SYNC>
+<SYNC Start=29068 End=29151><P>YNC Start=29151>-What did you do to it?</P></SYNC>
+<SYNC Start=29151 End=31195><P>YNC Start=31195>&nbsp;</P></SYNC>
+<SYNC Start=31195 End=31278><P>YNC Start=31278>Don't hurt him. It's just a child.</P></SYNC>
+<SYNC Start=31278 End=32947><P>YNC Start=32947>&nbsp;</P></SYNC>
+<SYNC Start=32947 End=33030><P>YNC Start=33030>Cara Dune here was a veteran.</P></SYNC>
+<SYNC Start=33030 End=34740><P>YNC Start=34740>&nbsp;</P></SYNC>
+<SYNC Start=34740 End=34823><P>YNC Start=34823>She was a drop soldier for the Rebellion.</P></SYNC>
+<SYNC Start=34823 End=36408><P>YNC Start=36408>&nbsp;</P></SYNC>
+<SYNC Start=36408 End=45960><P>YNC Start=45960>You're staying here?</P></SYNC>
+<SYNC Start=45960 End=47545><P>YNC Start=47545>&nbsp;</P></SYNC>
+<SYNC Start=47545 End=47628><P>YNC Start=47628>Nevarro is a very fine planet.</P></SYNC>
+<SYNC Start=47628 End=49547><P>YNC Start=49547>&nbsp;</P></SYNC>
+<SYNC Start=49547 End=49630><P>YNC Start=49630>And now that the scum and villainyhave been washed away,</P></SYNC>
+<SYNC Start=49630 End=52675><P>YNC Start=52675>&nbsp;</P></SYNC>
+<SYNC Start=52675 End=52758><P>YNC Start=52758>it's very respectable again.</P></SYNC>
+<SYNC Start=52758 End=54176><P>YNC Start=54176>&nbsp;</P></SYNC>
+<SYNC Start=54176 End=55427><P>YNC Start=55427>Hang on, kid.It's gonna be a bumpy ride,</P></SYNC>
+<SYNC Start=55427 End=57721><P>YNC Start=57721>&nbsp;</P></SYNC>
+<SYNC Start=57721 End=57805><P>YNC Start=57805>but I finally know where I'm taking you.</P></SYNC>
+<SYNC Start=57805 End=59890><P>YNC Start=59890>&nbsp;</P></SYNC>
+<SYNC Start=59890 End=96218><P>YNC Start=96218>All right, let's try this again.</P></SYNC>
+<SYNC Start=96218 End=99013><P>YNC Start=99013>&nbsp;</P></SYNC>
+<SYNC Start=99013 End=101098><P>YNC Start=101098>Okay, did you... Do you have the wire?</P></SYNC>
+<SYNC Start=101098 End=103267><P>YNC Start=103267>&nbsp;</P></SYNC>
+<SYNC Start=103267 End=105978><P>YNC Start=105978>No. Nothing.</P></SYNC>
+<SYNC Start=105978 End=107229><P>YNC Start=107229>&nbsp;</P></SYNC>
+<SYNC Start=107229 End=108981><P>YNC Start=108981>Hey...</P></SYNC>
+<SYNC Start=108981 End=110858><P>YNC Start=110858>&nbsp;</P></SYNC>
+<SYNC Start=110858 End=111275><P>YNC Start=111275>Oh.</P></SYNC>
+<SYNC Start=111275 End=112902><P>YNC Start=112902>&nbsp;</P></SYNC>
+<SYNC Start=112902 End=114737><P>YNC Start=114737>Okay. Did you get the wire out?</P></SYNC>
+<SYNC Start=114737 End=117573><P>YNC Start=117573>&nbsp;</P></SYNC>
+<SYNC Start=117573 End=117656><P>YNC Start=117656>The red wire?</P></SYNC>
+<SYNC Start=117656 End=118866><P>YNC Start=118866>&nbsp;</P></SYNC>
+<SYNC Start=118866 End=120159><P>YNC Start=120159>Huh?</P></SYNC>
+<SYNC Start=120159 End=121160><P>YNC Start=121160>&nbsp;</P></SYNC>
+<SYNC Start=121160 End=121243><P>YNC Start=121243>No, no, no. No, the red one.Show me the red wire.</P></SYNC>
+<SYNC Start=121243 End=124538><P>YNC Start=124538>&nbsp;</P></SYNC>
+<SYNC Start=124538 End=126081><P>YNC Start=126081>The red one.</P></SYNC>
+<SYNC Start=126081 End=127082><P>YNC Start=127082>&nbsp;</P></SYNC>
+<SYNC Start=127082 End=127666><P>YNC Start=127666>-Yes, good.</P></SYNC>
+<SYNC Start=127666 End=129210><P>YNC Start=129210>&nbsp;</P></SYNC>
+<SYNC Start=129210 End=129293><P>YNC Start=129293>Now, you're going to plug that red wirewhere the blue wire goes in the board.</P></SYNC>
+<SYNC Start=129293 End=133797><P>YNC Start=133797>&nbsp;</P></SYNC>
+<SYNC Start=133797 End=136300><P>YNC Start=136300>Put the red wire wherethe blue wire goes in the board, okay?</P></SYNC>
+<SYNC Start=136300 End=140554><P>YNC Start=140554>&nbsp;</P></SYNC>
+<SYNC Start=140554 End=141472><P>YNC Start=141472>But don't let them touch.</P></SYNC>
+<SYNC Start=141472 End=142640><P>YNC Start=142640>&nbsp;</P></SYNC>
+<SYNC Start=142640 End=144475><P>YNC Start=144475>You see where you took the blue one off?</P></SYNC>
+<SYNC Start=144475 End=146477><P>YNC Start=146477>&nbsp;</P></SYNC>
+<SYNC Start=146477 End=147269><P>YNC Start=147269>-Yes, now put the red one...</P></SYNC>
+<SYNC Start=147269 End=149605><P>YNC Start=149605>&nbsp;</P></SYNC>
+<SYNC Start=149605 End=149688><P>YNC Start=149688>No, don't put the blue one back.Put the red one where the blue one was.</P></SYNC>
+<SYNC Start=149688 End=154902><P>YNC Start=154902>&nbsp;</P></SYNC>
+<SYNC Start=154902 End=155611><P>YNC Start=155611>And put the blue onewhere the red one was.</P></SYNC>
+<SYNC Start=155611 End=158072><P>YNC Start=158072>&nbsp;</P></SYNC>
+<SYNC Start=158072 End=159406><P>YNC Start=159406>-But be careful.</P></SYNC>
+<SYNC Start=159406 End=160741><P>YNC Start=160741>&nbsp;</P></SYNC>
+<SYNC Start=160741 End=160824><P>YNC Start=160824>They're oppositely charged,so keep them away from each other.</P></SYNC>
+<SYNC Start=160824 End=164203><P>YNC Start=164203>&nbsp;</P></SYNC>
+<SYNC Start=164203 End=164286><P>YNC Start=164286>Make sure you hold them apart from...</P></SYNC>
+<SYNC Start=164286 End=166539><P>YNC Start=166539>&nbsp;</P></SYNC>
+<SYNC Start=166539 End=166622><P>YNC Start=166622>No, hold them apart.</P></SYNC>
+<SYNC Start=166622 End=167873><P>YNC Start=167873>&nbsp;</P></SYNC>
+<SYNC Start=167873 End=167957><P>YNC Start=167957>Oh! Uh-uh...</P></SYNC>
+<SYNC Start=167957 End=169041><P>YNC Start=169041>&nbsp;</P></SYNC>
+<SYNC Start=169041 End=171001><P>YNC Start=171001>Oh...</P></SYNC>
+<SYNC Start=171001 End=172461><P>YNC Start=172461>&nbsp;</P></SYNC>
+<SYNC Start=172461 End=174630><P>YNC Start=174630>Are you okay?</P></SYNC>
+<SYNC Start=174630 End=175840><P>YNC Start=175840>&nbsp;</P></SYNC>
+<SYNC Start=175840 End=181470><P>YNC Start=181470>Well, it was worth a shot.</P></SYNC>
+<SYNC Start=181470 End=182763><P>YNC Start=182763>&nbsp;</P></SYNC>
+<SYNC Start=182763 End=188686><P>YNC Start=188686>There's no waywe're making it to Corvus in this shape.</P></SYNC>
+<SYNC Start=188686 End=190980><P>YNC Start=190980>&nbsp;</P></SYNC>
+<SYNC Start=190980 End=199446><P>YNC Start=199446>I think we needto visit some friends for repairs.</P></SYNC>
+<SYNC Start=199446 End=201699><P>YNC Start=201699>&nbsp;</P></SYNC>
+<SYNC Start=201699 End=205119><P>YNC Start=205119>So, how'd you like to go back to Nevarro?</P></SYNC>
+<SYNC Start=205119 End=207121><P>YNC Start=207121>&nbsp;</P></SYNC>
+<SYNC Start=207121 End=329869><P>YNC Start=329869>Hey!</P></SYNC>
+<SYNC Start=329869 End=330870><P>YNC Start=330870>&nbsp;</P></SYNC>
+<SYNC Start=330870 End=332037><P>YNC Start=332037>Okay. Oh. Oh...</P></SYNC>
+<SYNC Start=332037 End=333539><P>YNC Start=333539>&nbsp;</P></SYNC>
+<SYNC Start=333539 End=334248><P>YNC Start=334248>Okay, little guy.</P></SYNC>
+<SYNC Start=334248 End=335332><P>YNC Start=335332>&nbsp;</P></SYNC>
+<SYNC Start=335332 End=335916><P>YNC Start=335916>No one's eating you today.</P></SYNC>
+<SYNC Start=335916 End=337960><P>YNC Start=337960>&nbsp;</P></SYNC>
+<SYNC Start=337960 End=339879><P>YNC Start=339879>Go on, you're free.</P></SYNC>
+<SYNC Start=339879 End=341380><P>YNC Start=341380>&nbsp;</P></SYNC>
+<SYNC Start=341380 End=343340><P>YNC Start=343340>Go on. Git.</P></SYNC>
+<SYNC Start=343340 End=344967><P>YNC Start=344967>&nbsp;</P></SYNC>
+<SYNC Start=344967 End=350514><P>YNC Start=350514>Okay, look.</P></SYNC>
+<SYNC Start=350514 End=351515><P>YNC Start=351515>&nbsp;</P></SYNC>
+<SYNC Start=351515 End=352600><P>YNC Start=352600>Here you go.</P></SYNC>
+<SYNC Start=352600 End=353642><P>YNC Start=353642>&nbsp;</P></SYNC>
+<SYNC Start=353642 End=354226><P>YNC Start=354226>That's all I got.</P></SYNC>
+<SYNC Start=354226 End=355227><P>YNC Start=355227>&nbsp;</P></SYNC>
+<SYNC Start=355227 End=356645><P>YNC Start=356645>Now, I need to returnall these things to the rightful owners.</P></SYNC>
+<SYNC Start=356645 End=359648><P>YNC Start=359648>&nbsp;</P></SYNC>
+<SYNC Start=359648 End=420709><P>YNC Start=420709>Looks like someonecould use some repairs.</P></SYNC>
+<SYNC Start=420709 End=423045><P>YNC Start=423045>&nbsp;</P></SYNC>
+<SYNC Start=423045 End=432596><P>YNC Start=432596>How's my credit around here?</P></SYNC>
+<SYNC Start=432596 End=434306><P>YNC Start=434306>&nbsp;</P></SYNC>
+<SYNC Start=434306 End=434390><P>YNC Start=434390>I think something could be arranged.Isn't that right, Marshal?</P></SYNC>
+<SYNC Start=434390 End=437226><P>YNC Start=437226>&nbsp;</P></SYNC>
+<SYNC Start=437226 End=438435><P>YNC Start=438435>I'm sure we can work somethin' out.</P></SYNC>
+<SYNC Start=438435 End=440229><P>YNC Start=440229>&nbsp;</P></SYNC>
+<SYNC Start=440229 End=442064><P>YNC Start=442064>I'll get my best people on it.</P></SYNC>
+<SYNC Start=442064 End=443649><P>YNC Start=443649>&nbsp;</P></SYNC>
+<SYNC Start=443649 End=443732><P>YNC Start=443732>Hey, fellas!</P></SYNC>
+<SYNC Start=443732 End=444733><P>YNC Start=444733>&nbsp;</P></SYNC>
+<SYNC Start=444733 End=445317><P>YNC Start=445317>Let's fix this man's ship!I want it as good as new.</P></SYNC>
+<SYNC Start=445317 End=447570><P>YNC Start=447570>&nbsp;</P></SYNC>
+<SYNC Start=447570 End=450155><P>YNC Start=450155>And you, come here, little one!</P></SYNC>
+<SYNC Start=450155 End=453158><P>YNC Start=453158>&nbsp;</P></SYNC>
+<SYNC Start=453158 End=455703><P>YNC Start=455703>Has Mando beentaking good care of you, huh?</P></SYNC>
+<SYNC Start=455703 End=457663><P>YNC Start=457663>&nbsp;</P></SYNC>
+<SYNC Start=457663 End=457746><P>YNC Start=457746>-Have you been takin' good care o' him?</P></SYNC>
+<SYNC Start=457746 End=460374><P>YNC Start=460374>&nbsp;</P></SYNC>
+<SYNC Start=460374 End=460457><P>YNC Start=460457>Yeah? Yeah! He said "yeah!" Oh, yeah.</P></SYNC>
+<SYNC Start=460457 End=463878><P>YNC Start=463878>&nbsp;</P></SYNC>
+<SYNC Start=463878 End=464837><P>YNC Start=464837>Yes.</P></SYNC>
+<SYNC Start=464837 End=466005><P>YNC Start=466005>&nbsp;</P></SYNC>
+<SYNC Start=466005 End=466463><P>YNC Start=466463>Come on. Yeah.</P></SYNC>
+<SYNC Start=466463 End=468048><P>YNC Start=468048>&nbsp;</P></SYNC>
+<SYNC Start=468048 End=468924><P>YNC Start=468924>Yeah, look at you.</P></SYNC>
+<SYNC Start=468924 End=470342><P>YNC Start=470342>&nbsp;</P></SYNC>
+<SYNC Start=470342 End=481312><P>YNC Start=481312>Looks like you two have been busy.</P></SYNC>
+<SYNC Start=481312 End=483606><P>YNC Start=483606>&nbsp;</P></SYNC>
+<SYNC Start=483606 End=484356><P>YNC Start=484356>I myself have beensteeped in clerical work.</P></SYNC>
+<SYNC Start=484356 End=486775><P>YNC Start=486775>&nbsp;</P></SYNC>
+<SYNC Start=486775 End=487735><P>YNC Start=487735>Marshal Dune hereis to be thanked for cleaning up the town.</P></SYNC>
+<SYNC Start=487735 End=490571><P>YNC Start=490571>&nbsp;</P></SYNC>
+<SYNC Start=490571 End=491780><P>YNC Start=491780>Your ship's not lookin' too good.</P></SYNC>
+<SYNC Start=491780 End=493657><P>YNC Start=493657>&nbsp;</P></SYNC>
+<SYNC Start=493657 End=493741><P>YNC Start=493741>I had a run-in with the New Republic.</P></SYNC>
+<SYNC Start=493741 End=495701><P>YNC Start=495701>&nbsp;</P></SYNC>
+<SYNC Start=495701 End=496410><P>YNC Start=496410>They should leave the Outer Rim alone.</P></SYNC>
+<SYNC Start=496410 End=498329><P>YNC Start=498329>&nbsp;</P></SYNC>
+<SYNC Start=498329 End=498412><P>YNC Start=498412>If the Empire couldn't settle it,what makes them think they can?</P></SYNC>
+<SYNC Start=498412 End=501332><P>YNC Start=501332>&nbsp;</P></SYNC>
+<SYNC Start=501332 End=502208><P>YNC Start=502208>Here we are.</P></SYNC>
+<SYNC Start=502208 End=503209><P>YNC Start=503209>&nbsp;</P></SYNC>
+<SYNC Start=503209 End=504001><P>YNC Start=504001>I'm surprised tosee this place is still standing.</P></SYNC>
+<SYNC Start=504001 End=507046><P>YNC Start=507046>&nbsp;</P></SYNC>
+<SYNC Start=507046 End=507421><P>YNC Start=507421>Wait till you see inside.</P></SYNC>
+<SYNC Start=507421 End=509006><P>YNC Start=509006>&nbsp;</P></SYNC>
+<SYNC Start=509006 End=512301><P>YNC Start=512301>Who can name one of</P></SYNC>
+<SYNC Start=512301 End=513969><P>YNC Start=513969>&nbsp;</P></SYNC>
+<SYNC Start=513969 End=514053><P>YNC Start=514053>the five major trade routes in the galaxy?</P></SYNC>
+<SYNC Start=514053 End=516305><P>YNC Start=516305>&nbsp;</P></SYNC>
+<SYNC Start=516305 End=516388><P>YNC Start=516388>Anyone?</P></SYNC>
+<SYNC Start=516388 End=517389><P>YNC Start=517389>&nbsp;</P></SYNC>
+<SYNC Start=517389 End=517473><P>YNC Start=517473>How about the Corellian Run?</P></SYNC>
+<SYNC Start=517473 End=519642><P>YNC Start=519642>&nbsp;</P></SYNC>
+<SYNC Start=519642 End=519725><P>YNC Start=519725>-The Hydian Way?-Yes, the Hydian Way. That is correct.</P></SYNC>
+<SYNC Start=519725 End=523103><P>YNC Start=523103>&nbsp;</P></SYNC>
+<SYNC Start=523103 End=523187><P>YNC Start=523187>-A school?-Things have changed a lot around here.</P></SYNC>
+<SYNC Start=523187 End=526232><P>YNC Start=526232>&nbsp;</P></SYNC>
+<SYNC Start=526232 End=526315><P>YNC Start=526315>We'll leave the little one hereso we can talk business.</P></SYNC>
+<SYNC Start=526315 End=528734><P>YNC Start=528734>&nbsp;</P></SYNC>
+<SYNC Start=528734 End=528817><P>YNC Start=528817>-Wait. Wherever I go, he goes.-Mando, please.</P></SYNC>
+<SYNC Start=528817 End=531403><P>YNC Start=531403>&nbsp;</P></SYNC>
+<SYNC Start=531403 End=531487><P>YNC Start=531487>Where we're going,you don't wanna take a child. Trust me.</P></SYNC>
+<SYNC Start=531487 End=534031><P>YNC Start=534031>&nbsp;</P></SYNC>
+<SYNC Start=534031 End=535449><P>YNC Start=535449>He'll be fine here. You have my word.</P></SYNC>
+<SYNC Start=535449 End=537535><P>YNC Start=537535>&nbsp;</P></SYNC>
+<SYNC Start=537535 End=539537><P>YNC Start=539537>...be transported from the Outer Rimto as far away as the Core Worlds.</P></SYNC>
+<SYNC Start=539537 End=544834><P>YNC Start=544834>&nbsp;</P></SYNC>
+<SYNC Start=544834 End=546168><P>YNC Start=546168>However, there areseveral other regions within our galaxy.</P></SYNC>
+<SYNC Start=546168 End=550297><P>YNC Start=550297>&nbsp;</P></SYNC>
+<SYNC Start=550297 End=550381><P>YNC Start=550381>They are the Mid Rim...</P></SYNC>
+<SYNC Start=550381 End=553509><P>YNC Start=553509>&nbsp;</P></SYNC>
+<SYNC Start=553509 End=553592><P>YNC Start=553592>-Come on.-...the Expansion Region, the Inner Rim,</P></SYNC>
+<SYNC Start=553592 End=557638><P>YNC Start=557638>&nbsp;</P></SYNC>
+<SYNC Start=557638 End=557721><P>YNC Start=557721>the Colonies, Core, and Deep Core.</P></SYNC>
+<SYNC Start=557721 End=562142><P>YNC Start=562142>&nbsp;</P></SYNC>
+<SYNC Start=562142 End=564603><P>YNC Start=564603>All right, class. Settle down.</P></SYNC>
+<SYNC Start=564603 End=567147><P>YNC Start=567147>&nbsp;</P></SYNC>
+<SYNC Start=567147 End=568148><P>YNC Start=568148>Back to the lesson, shall we?</P></SYNC>
+<SYNC Start=568148 End=569650><P>YNC Start=569650>&nbsp;</P></SYNC>
+<SYNC Start=569650 End=571110><P>YNC Start=571110>The capital of the Old Republicwas within the Core</P></SYNC>
+<SYNC Start=571110 End=574864><P>YNC Start=574864>&nbsp;</P></SYNC>
+<SYNC Start=574864 End=574947><P>YNC Start=574947>on a planet called Coruscant.</P></SYNC>
+<SYNC Start=574947 End=577616><P>YNC Start=577616>&nbsp;</P></SYNC>
+<SYNC Start=577616 End=579243><P>YNC Start=579243>-The capital of the New Republic...</P></SYNC>
+<SYNC Start=579243 End=581745><P>YNC Start=581745>&nbsp;</P></SYNC>
+<SYNC Start=581745 End=581829><P>YNC Start=581829>...is currently on the planet Chandrila,</P></SYNC>
+<SYNC Start=581829 End=584748><P>YNC Start=584748>&nbsp;</P></SYNC>
+<SYNC Start=584748 End=585583><P>YNC Start=585583>which is also within the Core region.</P></SYNC>
+<SYNC Start=585583 End=588127><P>YNC Start=588127>&nbsp;</P></SYNC>
+<SYNC Start=588127 End=589837><P>YNC Start=589837>-So, back to the start.</P></SYNC>
+<SYNC Start=589837 End=591881><P>YNC Start=591881>&nbsp;</P></SYNC>
+<SYNC Start=591881 End=593007><P>YNC Start=593007>The system also containsthe Akkadese Maelstrom.</P></SYNC>
+<SYNC Start=593007 End=597720><P>YNC Start=597720>&nbsp;</P></SYNC>
+<SYNC Start=597720 End=598304><P>YNC Start=598304>The Maelstrom surrounds Kesseland its three moons.</P></SYNC>
+<SYNC Start=598304 End=603350><P>YNC Start=603350>&nbsp;</P></SYNC>
+<SYNC Start=603350 End=603893><P>YNC Start=603893>-As you learned yesterday...-No!</P></SYNC>
+<SYNC Start=603893 End=606520><P>YNC Start=606520>&nbsp;</P></SYNC>
+<SYNC Start=606520 End=606604><P>YNC Start=606604>-...there are many systems in this galaxy.</P></SYNC>
+<SYNC Start=606604 End=608439><P>YNC Start=608439>&nbsp;</P></SYNC>
+<SYNC Start=608439 End=609315><P>YNC Start=609315>How many orbits are in the Kessel system?</P></SYNC>
+<SYNC Start=609315 End=611775><P>YNC Start=611775>&nbsp;</P></SYNC>
+<SYNC Start=611775 End=612526><P>YNC Start=612526>Do we at least remember that?</P></SYNC>
+<SYNC Start=612526 End=613903><P>YNC Start=613903>&nbsp;</P></SYNC>
+<SYNC Start=613903 End=615362><P>YNC Start=615362>Ooh, I know!</P></SYNC>
+<SYNC Start=615362 End=616363><P>YNC Start=616363>&nbsp;</P></SYNC>
+<SYNC Start=616363 End=616989><P>YNC Start=616989>Uh... Two?</P></SYNC>
+<SYNC Start=616989 End=619074><P>YNC Start=619074>&nbsp;</P></SYNC>
+<SYNC Start=619074 End=619700><P>YNC Start=619700>Yes, very good.</P></SYNC>
+<SYNC Start=619700 End=621744><P>YNC Start=621744>&nbsp;</P></SYNC>
+<SYNC Start=621744 End=621827><P>YNC Start=621827>As the third moon of Kesselrotates the outer planet,</P></SYNC>
+<SYNC Start=621827 End=625247><P>YNC Start=625247>&nbsp;</P></SYNC>
+<SYNC Start=625247 End=625331><P>YNC Start=625331>you see the moon heretravels in its same orbit.</P></SYNC>
+<SYNC Start=625331 End=629251><P>YNC Start=629251>&nbsp;</P></SYNC>
+<SYNC Start=629251 End=629335><P>YNC Start=629335>Now who can track the pathof the orbit here?</P></SYNC>
+<SYNC Start=629335 End=631962><P>YNC Start=631962>&nbsp;</P></SYNC>
+<SYNC Start=631962 End=634381><P>YNC Start=634381>Do I have any volunteers?</P></SYNC>
+<SYNC Start=634381 End=635716><P>YNC Start=635716>&nbsp;</P></SYNC>
+<SYNC Start=635716 End=637134><P>YNC Start=637134>Anyone?</P></SYNC>
+<SYNC Start=637134 End=638135><P>YNC Start=638135>&nbsp;</P></SYNC>
+<SYNC Start=638135 End=643390><P>YNC Start=643390>There's no registration on the ship,but I'm pretty sure it belongs...</P></SYNC>
+<SYNC Start=643390 End=647228><P>YNC Start=647228>&nbsp;</P></SYNC>
+<SYNC Start=647228 End=649897><P>YNC Start=649897>I believe you two have met.</P></SYNC>
+<SYNC Start=649897 End=651565><P>YNC Start=651565>&nbsp;</P></SYNC>
+<SYNC Start=651565 End=655152><P>YNC Start=655152>I'm surprised to see you here.</P></SYNC>
+<SYNC Start=655152 End=657279><P>YNC Start=657279>&nbsp;</P></SYNC>
+<SYNC Start=657279 End=658239><P>YNC Start=658239>Right back at ya.</P></SYNC>
+<SYNC Start=658239 End=659240><P>YNC Start=659240>&nbsp;</P></SYNC>
+<SYNC Start=659240 End=659323><P>YNC Start=659323>Mythrol here's taken careof my books since he was a pollywog.</P></SYNC>
+<SYNC Start=659323 End=662368><P>YNC Start=662368>&nbsp;</P></SYNC>
+<SYNC Start=662368 End=662952><P>YNC Start=662952>But then he disappeared one dayafter a bit of "creative accounting."</P></SYNC>
+<SYNC Start=662952 End=665955><P>YNC Start=665955>&nbsp;</P></SYNC>
+<SYNC Start=665955 End=666831><P>YNC Start=666831>Magistrate Karga was generous enoughto let me work off my debt.</P></SYNC>
+<SYNC Start=666831 End=669917><P>YNC Start=669917>&nbsp;</P></SYNC>
+<SYNC Start=669917 End=670000><P>YNC Start=670000>Thank you, by the way.</P></SYNC>
+<SYNC Start=670000 End=671001><P>YNC Start=671001>&nbsp;</P></SYNC>
+<SYNC Start=671001 End=671085><P>YNC Start=671085>Three hundred and fifty years,but who's counting?</P></SYNC>
+<SYNC Start=671085 End=673504><P>YNC Start=673504>&nbsp;</P></SYNC>
+<SYNC Start=673504 End=673587><P>YNC Start=673587>Well, if he runs off on you again,let me know.</P></SYNC>
+<SYNC Start=673587 End=676298><P>YNC Start=676298>&nbsp;</P></SYNC>
+<SYNC Start=676298 End=677007><P>YNC Start=677007>Let me assure you, I do not wannaspend any more time in carbonite.</P></SYNC>
+<SYNC Start=677007 End=680469><P>YNC Start=680469>&nbsp;</P></SYNC>
+<SYNC Start=680469 End=681095><P>YNC Start=681095>Still can't see outta my left eye.</P></SYNC>
+<SYNC Start=681095 End=682596><P>YNC Start=682596>&nbsp;</P></SYNC>
+<SYNC Start=682596 End=683973><P>YNC Start=683973>Can we talk business?</P></SYNC>
+<SYNC Start=683973 End=685266><P>YNC Start=685266>&nbsp;</P></SYNC>
+<SYNC Start=685266 End=685349><P>YNC Start=685349>I'm only here for repairs.</P></SYNC>
+<SYNC Start=685349 End=686934><P>YNC Start=686934>&nbsp;</P></SYNC>
+<SYNC Start=686934 End=687017><P>YNC Start=687017>Which'll take a while.</P></SYNC>
+<SYNC Start=687017 End=688060><P>YNC Start=688060>&nbsp;</P></SYNC>
+<SYNC Start=688060 End=688143><P>YNC Start=688143>Which means you'll have free timeon your hands, right?</P></SYNC>
+<SYNC Start=688143 End=690688><P>YNC Start=690688>&nbsp;</P></SYNC>
+<SYNC Start=690688 End=693065><P>YNC Start=693065>And we could really use your help.</P></SYNC>
+<SYNC Start=693065 End=694692><P>YNC Start=694692>&nbsp;</P></SYNC>
+<SYNC Start=694692 End=695442><P>YNC Start=695442>Help how?</P></SYNC>
+<SYNC Start=695442 End=696443><P>YNC Start=696443>&nbsp;</P></SYNC>
+<SYNC Start=696443 End=697653><P>YNC Start=697653>This is Nevarro.</P></SYNC>
+<SYNC Start=697653 End=698946><P>YNC Start=698946>&nbsp;</P></SYNC>
+<SYNC Start=698946 End=700364><P>YNC Start=700364>We're here.</P></SYNC>
+<SYNC Start=700364 End=701365><P>YNC Start=701365>&nbsp;</P></SYNC>
+<SYNC Start=701365 End=701448><P>YNC Start=701448>This entire area's a green zone.Completely safe.</P></SYNC>
+<SYNC Start=701448 End=703993><P>YNC Start=703993>&nbsp;</P></SYNC>
+<SYNC Start=703993 End=705286><P>YNC Start=705286>But over on this side is the problem.</P></SYNC>
+<SYNC Start=705286 End=707246><P>YNC Start=707246>&nbsp;</P></SYNC>
+<SYNC Start=707246 End=708581><P>YNC Start=708581>It's an old Imperial base.</P></SYNC>
+<SYNC Start=708581 End=710499><P>YNC Start=710499>&nbsp;</P></SYNC>
+<SYNC Start=710499 End=710583><P>YNC Start=710583>It's where all those troops came fromwhen we defeated Moff Gideon.</P></SYNC>
+<SYNC Start=710583 End=713752><P>YNC Start=713752>&nbsp;</P></SYNC>
+<SYNC Start=713752 End=714628><P>YNC Start=714628>This base has been heresince the Imperial expansion.</P></SYNC>
+<SYNC Start=714628 End=717047><P>YNC Start=717047>&nbsp;</P></SYNC>
+<SYNC Start=717047 End=717590><P>YNC Start=717590>It's got a skeleton crew, but forsome reason, it hasn't been abandoned.</P></SYNC>
+<SYNC Start=717590 End=720843><P>YNC Start=720843>&nbsp;</P></SYNC>
+<SYNC Start=720843 End=720926><P>YNC Start=720926>There's a lot o'heavy weaponry in that place</P></SYNC>
+<SYNC Start=720926 End=722970><P>YNC Start=722970>&nbsp;</P></SYNC>
+<SYNC Start=722970 End=723053><P>YNC Start=723053>the black market would loveto dismantle and get their hands on.</P></SYNC>
+<SYNC Start=723053 End=726015><P>YNC Start=726015>&nbsp;</P></SYNC>
+<SYNC Start=726015 End=726098><P>YNC Start=726098>And you wanna mop up the lastof the Imperial force before they do.</P></SYNC>
+<SYNC Start=726098 End=729310><P>YNC Start=729310>&nbsp;</P></SYNC>
+<SYNC Start=729310 End=729393><P>YNC Start=729393>Mando, I just want them off my planet.</P></SYNC>
+<SYNC Start=729393 End=731478><P>YNC Start=731478>&nbsp;</P></SYNC>
+<SYNC Start=731478 End=732646><P>YNC Start=732646>If we could take out that one last base,Nevarro would be completely safe.</P></SYNC>
+<SYNC Start=732646 End=736817><P>YNC Start=736817>&nbsp;</P></SYNC>
+<SYNC Start=736817 End=737526><P>YNC Start=737526>We could be a trade anchorfor the entire sector.</P></SYNC>
+<SYNC Start=737526 End=740029><P>YNC Start=740029>&nbsp;</P></SYNC>
+<SYNC Start=740029 End=740112><P>YNC Start=740112>And the planet would finally be free.</P></SYNC>
+<SYNC Start=740112 End=742156><P>YNC Start=742156>&nbsp;</P></SYNC>
+<SYNC Start=742156 End=747995><P>YNC Start=747995>What are we looking at?</P></SYNC>
+<SYNC Start=747995 End=749079><P>YNC Start=749079>&nbsp;</P></SYNC>
+<SYNC Start=749079 End=758464><P>YNC Start=758464>The whole base is powered by a reactor.</P></SYNC>
+<SYNC Start=758464 End=761133><P>YNC Start=761133>&nbsp;</P></SYNC>
+<SYNC Start=761133 End=761217><P>YNC Start=761217>We sneak in, overload the reactor,and get the hell outta there.</P></SYNC>
+<SYNC Start=761217 End=764094><P>YNC Start=764094>&nbsp;</P></SYNC>
+<SYNC Start=764094 End=764553><P>YNC Start=764553>Let's be fast.And keep the speeder running.</P></SYNC>
+<SYNC Start=764553 End=767473><P>YNC Start=767473>&nbsp;</P></SYNC>
+<SYNC Start=767473 End=768057><P>YNC Start=768057>There it is, right there.</P></SYNC>
+<SYNC Start=768057 End=769141><P>YNC Start=769141>&nbsp;</P></SYNC>
+<SYNC Start=769141 End=769808><P>YNC Start=769808>You see it?</P></SYNC>
+<SYNC Start=769808 End=770809><P>YNC Start=770809>&nbsp;</P></SYNC>
+<SYNC Start=770809 End=773062><P>YNC Start=773062>How close you want me to drop you off?</P></SYNC>
+<SYNC Start=773062 End=774855><P>YNC Start=774855>&nbsp;</P></SYNC>
+<SYNC Start=774855 End=774939><P>YNC Start=774939>How 'bout the front door?</P></SYNC>
+<SYNC Start=774939 End=776398><P>YNC Start=776398>&nbsp;</P></SYNC>
+<SYNC Start=776398 End=777191><P>YNC Start=777191>It's a little closefor a civilian, isn't it?</P></SYNC>
+<SYNC Start=777191 End=779109><P>YNC Start=779109>&nbsp;</P></SYNC>
+<SYNC Start=779109 End=779193><P>YNC Start=779193>I got two choices for ya.</P></SYNC>
+<SYNC Start=779193 End=780986><P>YNC Start=780986>&nbsp;</P></SYNC>
+<SYNC Start=780986 End=781070><P>YNC Start=781070>You take us in and I knocka hundred years off your debt.</P></SYNC>
+<SYNC Start=781070 End=783989><P>YNC Start=783989>&nbsp;</P></SYNC>
+<SYNC Start=783989 End=784073><P>YNC Start=784073>Or?</P></SYNC>
+<SYNC Start=784073 End=785074><P>YNC Start=785074>&nbsp;</P></SYNC>
+<SYNC Start=785074 End=785157><P>YNC Start=785157>Or I leave ya out herein the lava flats to walk home</P></SYNC>
+<SYNC Start=785157 End=787368><P>YNC Start=787368>&nbsp;</P></SYNC>
+<SYNC Start=787368 End=787451><P>YNC Start=787451>with whatever's leftin your humidity vest.</P></SYNC>
+<SYNC Start=787451 End=789787><P>YNC Start=789787>&nbsp;</P></SYNC>
+<SYNC Start=789787 End=789870><P>YNC Start=789870>It's not much of a choice, is it?</P></SYNC>
+<SYNC Start=789870 End=791247><P>YNC Start=791247>&nbsp;</P></SYNC>
+<SYNC Start=791247 End=801715><P>YNC Start=801715>All right.We can't go any further than this.</P></SYNC>
+<SYNC Start=801715 End=804510><P>YNC Start=804510>&nbsp;</P></SYNC>
+<SYNC Start=804510 End=805135><P>YNC Start=805135>Let's go.</P></SYNC>
+<SYNC Start=805135 End=806262><P>YNC Start=806262>&nbsp;</P></SYNC>
+<SYNC Start=806262 End=823863><P>YNC Start=823863>Controls are useless. They're melted.</P></SYNC>
+<SYNC Start=823863 End=825489><P>YNC Start=825489>&nbsp;</P></SYNC>
+<SYNC Start=825489 End=825990><P>YNC Start=825990>Well, it's probably not rated for lava.</P></SYNC>
+<SYNC Start=825990 End=828284><P>YNC Start=828284>&nbsp;</P></SYNC>
+<SYNC Start=828284 End=828367><P>YNC Start=828367>Imperial trash.</P></SYNC>
+<SYNC Start=828367 End=829743><P>YNC Start=829743>&nbsp;</P></SYNC>
+<SYNC Start=829743 End=830369><P>YNC Start=830369>All right, I'm headed back.</P></SYNC>
+<SYNC Start=830369 End=832121><P>YNC Start=832121>&nbsp;</P></SYNC>
+<SYNC Start=832121 End=832204><P>YNC Start=832204>Hit me up on the comm,we could set up a rendezvous time.</P></SYNC>
+<SYNC Start=832204 End=834540><P>YNC Start=834540>&nbsp;</P></SYNC>
+<SYNC Start=834540 End=834623><P>YNC Start=834623>You park your gills right thereuntil I say otherwise.</P></SYNC>
+<SYNC Start=834623 End=837209><P>YNC Start=837209>&nbsp;</P></SYNC>
+<SYNC Start=837209 End=837293><P>YNC Start=837293>I'm startin' to dehydrate, boss.</P></SYNC>
+<SYNC Start=837293 End=839086><P>YNC Start=839086>&nbsp;</P></SYNC>
+<SYNC Start=839086 End=839170><P>YNC Start=839170>Okay, how does 30 more yearsoff your debt sound?</P></SYNC>
+<SYNC Start=839170 End=841964><P>YNC Start=841964>&nbsp;</P></SYNC>
+<SYNC Start=841964 End=843048><P>YNC Start=843048>Can you at least be quick about it?</P></SYNC>
+<SYNC Start=843048 End=844508><P>YNC Start=844508>&nbsp;</P></SYNC>
+<SYNC Start=844508 End=844592><P>YNC Start=844592>You wanna be quick?Grab the flange cutter and help us out.</P></SYNC>
+<SYNC Start=844592 End=847094><P>YNC Start=847094>&nbsp;</P></SYNC>
+<SYNC Start=847094 End=848888><P>YNC Start=848888>Okay, fine. I don't like</P></SYNC>
+<SYNC Start=848888 End=850222><P>YNC Start=850222>&nbsp;</P></SYNC>
+<SYNC Start=850222 End=850306><P>YNC Start=850306>leaving my speeder like this,just so you know.</P></SYNC>
+<SYNC Start=850306 End=852308><P>YNC Start=852308>&nbsp;</P></SYNC>
+<SYNC Start=852308 End=852391><P>YNC Start=852391>Come on, hurry it up.</P></SYNC>
+<SYNC Start=852391 End=853934><P>YNC Start=853934>&nbsp;</P></SYNC>
+<SYNC Start=853934 End=854018><P>YNC Start=854018>All right, I'm coming.</P></SYNC>
+<SYNC Start=854018 End=855436><P>YNC Start=855436>&nbsp;</P></SYNC>
+<SYNC Start=855436 End=855519><P>YNC Start=855519>Hurry up.</P></SYNC>
+<SYNC Start=855519 End=856854><P>YNC Start=856854>&nbsp;</P></SYNC>
+<SYNC Start=856854 End=861734><P>YNC Start=861734>Hold tight.</P></SYNC>
+<SYNC Start=861734 End=862818><P>YNC Start=862818>&nbsp;</P></SYNC>
+<SYNC Start=862818 End=875706><P>YNC Start=875706>How long is this gonna take?</P></SYNC>
+<SYNC Start=875706 End=877249><P>YNC Start=877249>&nbsp;</P></SYNC>
+<SYNC Start=877249 End=877333><P>YNC Start=877333>Look, lady, this is ratedfor light plumbing and such.</P></SYNC>
+<SYNC Start=877333 End=880252><P>YNC Start=880252>&nbsp;</P></SYNC>
+<SYNC Start=880252 End=880336><P>YNC Start=880336>You're lucky I even packed it at all.</P></SYNC>
+<SYNC Start=880336 End=881879><P>YNC Start=881879>&nbsp;</P></SYNC>
+<SYNC Start=881879 End=881962><P>YNC Start=881962>-Dank farrik.</P></SYNC>
+<SYNC Start=881962 End=884256><P>YNC Start=884256>&nbsp;</P></SYNC>
+<SYNC Start=884256 End=890054><P>YNC Start=890054>Are you comin' in or what?</P></SYNC>
+<SYNC Start=890054 End=891263><P>YNC Start=891263>&nbsp;</P></SYNC>
+<SYNC Start=891263 End=891347><P>YNC Start=891347>I'll take my chances here,but thank you.</P></SYNC>
+<SYNC Start=891347 End=893098><P>YNC Start=893098>&nbsp;</P></SYNC>
+<SYNC Start=893098 End=893182><P>YNC Start=893182>Well, when the lava tide comes in,give us a holler. We'll drop you a rope.</P></SYNC>
+<SYNC Start=893182 End=896477><P>YNC Start=896477>&nbsp;</P></SYNC>
+<SYNC Start=896477 End=911700><P>YNC Start=911700>Empty base, huh?</P></SYNC>
+<SYNC Start=911700 End=912826><P>YNC Start=912826>&nbsp;</P></SYNC>
+<SYNC Start=912826 End=918958><P>YNC Start=918958>The reactor should be setin the heat shaft.</P></SYNC>
+<SYNC Start=918958 End=921252><P>YNC Start=921252>&nbsp;</P></SYNC>
+<SYNC Start=921252 End=921335><P>YNC Start=921335>If we drain the cooling lines,</P></SYNC>
+<SYNC Start=921335 End=923003><P>YNC Start=923003>&nbsp;</P></SYNC>
+<SYNC Start=923003 End=923087><P>YNC Start=923087>this whole basewill go up in a matter of minutes.</P></SYNC>
+<SYNC Start=923087 End=925631><P>YNC Start=925631>&nbsp;</P></SYNC>
+<SYNC Start=925631 End=925714><P>YNC Start=925714>Look.It's a mint Trexler Marauder.</P></SYNC>
+<SYNC Start=925714 End=928217><P>YNC Start=928217>&nbsp;</P></SYNC>
+<SYNC Start=928217 End=928300><P>YNC Start=928300>We can get a lot for thison the black market.</P></SYNC>
+<SYNC Start=928300 End=930302><P>YNC Start=930302>&nbsp;</P></SYNC>
+<SYNC Start=930302 End=930386><P>YNC Start=930386>And it's gonna get vaporized</P></SYNC>
+<SYNC Start=930386 End=932054><P>YNC Start=932054>&nbsp;</P></SYNC>
+<SYNC Start=932054 End=932137><P>YNC Start=932137>like the rest of this base.Now, let's go.</P></SYNC>
+<SYNC Start=932137 End=934014><P>YNC Start=934014>&nbsp;</P></SYNC>
+<SYNC Start=934014 End=934098><P>YNC Start=934098>Such a waste.</P></SYNC>
+<SYNC Start=934098 End=936267><P>YNC Start=936267>&nbsp;</P></SYNC>
+<SYNC Start=936267 End=952199><P>YNC Start=952199>Shuttle bay, this is command.</P></SYNC>
+<SYNC Start=952199 End=953409><P>YNC Start=953409>&nbsp;</P></SYNC>
+<SYNC Start=953409 End=955202><P>YNC Start=955202>Shuttle bay,the security feed just went down.</P></SYNC>
+<SYNC Start=955202 End=958706><P>YNC Start=958706>&nbsp;</P></SYNC>
+<SYNC Start=958706 End=958789><P>YNC Start=958789>Can you check your relay hub?</P></SYNC>
+<SYNC Start=958789 End=960332><P>YNC Start=960332>&nbsp;</P></SYNC>
+<SYNC Start=960332 End=961667><P>YNC Start=961667>Shuttle bay? Shuttle bay, this is...</P></SYNC>
+<SYNC Start=961667 End=963878><P>YNC Start=963878>&nbsp;</P></SYNC>
+<SYNC Start=963878 End=980436><P>YNC Start=980436>This will come in handy.</P></SYNC>
+<SYNC Start=980436 End=981645><P>YNC Start=981645>&nbsp;</P></SYNC>
+<SYNC Start=981645 End=983522><P>YNC Start=983522>I found the heat shaft.</P></SYNC>
+<SYNC Start=983522 End=985065><P>YNC Start=985065>&nbsp;</P></SYNC>
+<SYNC Start=985065 End=985649><P>YNC Start=985649>Let's go.</P></SYNC>
+<SYNC Start=985649 End=986650><P>YNC Start=986650>&nbsp;</P></SYNC>
+<SYNC Start=986650 End=991280><P>YNC Start=991280>The access corridorshould be right past this junction.</P></SYNC>
+<SYNC Start=991280 End=993657><P>YNC Start=993657>&nbsp;</P></SYNC>
+<SYNC Start=993657 End=994450><P>YNC Start=994450>Must've blown a transformer over there.</P></SYNC>
+<SYNC Start=994450 End=996493><P>YNC Start=996493>&nbsp;</P></SYNC>
+<SYNC Start=996493 End=996577><P>YNC Start=996577>All right. We'll check it out.</P></SYNC>
+<SYNC Start=996577 End=998370><P>YNC Start=998370>&nbsp;</P></SYNC>
+<SYNC Start=998370 End=998454><P>YNC Start=998454>Section-Four? TK-1-4-7.</P></SYNC>
+<SYNC Start=998454 End=1000539><P>YNC Start=1000539>&nbsp;</P></SYNC>
+<SYNC Start=1000539 End=1000623><P>YNC Start=1000623>Scan control has beenunreliable since last rotation.</P></SYNC>
+<SYNC Start=1000623 End=1003626><P>YNC Start=1003626>&nbsp;</P></SYNC>
+<SYNC Start=1003626 End=1003709><P>YNC Start=1003709>Send a technical crew to check it out.</P></SYNC>
+<SYNC Start=1003709 End=1005461><P>YNC Start=1005461>&nbsp;</P></SYNC>
+<SYNC Start=1005461 End=1010966><P>YNC Start=1010966>There, Mythrol, slice that door.</P></SYNC>
+<SYNC Start=1010966 End=1012885><P>YNC Start=1012885>&nbsp;</P></SYNC>
+<SYNC Start=1012885 End=1014261><P>YNC Start=1014261>Use the code cylinder.</P></SYNC>
+<SYNC Start=1014261 End=1015721><P>YNC Start=1015721>&nbsp;</P></SYNC>
+<SYNC Start=1015721 End=1030986><P>YNC Start=1030986>- Whoa!- Yeah, "whoa" is right.</P></SYNC>
+<SYNC Start=1030986 End=1033447><P>YNC Start=1033447>&nbsp;</P></SYNC>
+<SYNC Start=1033447 End=1034782><P>YNC Start=1034782>That's it.</P></SYNC>
+<SYNC Start=1034782 End=1035824><P>YNC Start=1035824>&nbsp;</P></SYNC>
+<SYNC Start=1035824 End=1037117><P>YNC Start=1037117>Get on the reactor controls,drain the coolant lines.</P></SYNC>
+<SYNC Start=1037117 End=1039662><P>YNC Start=1039662>&nbsp;</P></SYNC>
+<SYNC Start=1039662 End=1039745><P>YNC Start=1039745>We'll watch the doors.</P></SYNC>
+<SYNC Start=1039745 End=1040955><P>YNC Start=1040955>&nbsp;</P></SYNC>
+<SYNC Start=1040955 End=1041872><P>YNC Start=1041872>-Me?-Yes, you!</P></SYNC>
+<SYNC Start=1041872 End=1043374><P>YNC Start=1043374>&nbsp;</P></SYNC>
+<SYNC Start=1043374 End=1044083><P>YNC Start=1044083>I'm afraid o' heights. And heat. And lava.</P></SYNC>
+<SYNC Start=1044083 End=1048337><P>YNC Start=1048337>&nbsp;</P></SYNC>
+<SYNC Start=1048337 End=1048420><P>YNC Start=1048420>How 'bout if I put ya back in carbonite?Get over there!</P></SYNC>
+<SYNC Start=1048420 End=1051382><P>YNC Start=1051382>&nbsp;</P></SYNC>
+<SYNC Start=1051382 End=1054677><P>YNC Start=1054677>-There's no guard rail on this.-Come on!</P></SYNC>
+<SYNC Start=1054677 End=1056387><P>YNC Start=1056387>&nbsp;</P></SYNC>
+<SYNC Start=1056387 End=1062643><P>YNC Start=1062643>Oh, boy.</P></SYNC>
+<SYNC Start=1062643 End=1063644><P>YNC Start=1063644>&nbsp;</P></SYNC>
+<SYNC Start=1063644 End=1070734><P>YNC Start=1070734>-Come on, hurry up, hurry up.</P></SYNC>
+<SYNC Start=1070734 End=1073112><P>YNC Start=1073112>&nbsp;</P></SYNC>
+<SYNC Start=1073112 End=1073195><P>YNC Start=1073195>-Hurry up!</P></SYNC>
+<SYNC Start=1073195 End=1074488><P>YNC Start=1074488>&nbsp;</P></SYNC>
+<SYNC Start=1074488 End=1083038><P>YNC Start=1083038>Oh, dear.</P></SYNC>
+<SYNC Start=1083038 End=1084039><P>YNC Start=1084039>&nbsp;</P></SYNC>
+<SYNC Start=1084039 End=1093799><P>YNC Start=1093799>All right, she's gonna blow.</P></SYNC>
+<SYNC Start=1093799 End=1095509><P>YNC Start=1095509>&nbsp;</P></SYNC>
+<SYNC Start=1095509 End=1096177><P>YNC Start=1096177>Let's go! Let's get outta here!</P></SYNC>
+<SYNC Start=1096177 End=1097595><P>YNC Start=1097595>&nbsp;</P></SYNC>
+<SYNC Start=1097595 End=1103267><P>YNC Start=1103267>How long do we have?</P></SYNC>
+<SYNC Start=1103267 End=1104268><P>YNC Start=1104268>&nbsp;</P></SYNC>
+<SYNC Start=1104268 End=1104351><P>YNC Start=1104351>Ten minutes at the most.</P></SYNC>
+<SYNC Start=1104351 End=1105936><P>YNC Start=1105936>&nbsp;</P></SYNC>
+<SYNC Start=1105936 End=1111442><P>YNC Start=1111442>5-3-8-7 and 5-3-8-9, follow me.</P></SYNC>
+<SYNC Start=1111442 End=1113319><P>YNC Start=1113319>&nbsp;</P></SYNC>
+<SYNC Start=1113319 End=1114320><P>YNC Start=1114320>Call in reinforcements!</P></SYNC>
+<SYNC Start=1114320 End=1115571><P>YNC Start=1115571>&nbsp;</P></SYNC>
+<SYNC Start=1115571 End=1124079><P>YNC Start=1124079>Hurry up, purge the drives.</P></SYNC>
+<SYNC Start=1124079 End=1126123><P>YNC Start=1126123>&nbsp;</P></SYNC>
+<SYNC Start=1126123 End=1129919><P>YNC Start=1129919>Destroy it!</P></SYNC>
+<SYNC Start=1129919 End=1131253><P>YNC Start=1131253>&nbsp;</P></SYNC>
+<SYNC Start=1131253 End=1135257><P>YNC Start=1135257>Ahh!</P></SYNC>
+<SYNC Start=1135257 End=1136342><P>YNC Start=1136342>&nbsp;</P></SYNC>
+<SYNC Start=1136342 End=1150314><P>YNC Start=1150314>What the...</P></SYNC>
+<SYNC Start=1150314 End=1151315><P>YNC Start=1151315>&nbsp;</P></SYNC>
+<SYNC Start=1151315 End=1156820><P>YNC Start=1156820>I thought you saidthis was a forward operating base.</P></SYNC>
+<SYNC Start=1156820 End=1158989><P>YNC Start=1158989>&nbsp;</P></SYNC>
+<SYNC Start=1158989 End=1159615><P>YNC Start=1159615>I thought it was.</P></SYNC>
+<SYNC Start=1159615 End=1160950><P>YNC Start=1160950>&nbsp;</P></SYNC>
+<SYNC Start=1160950 End=1161033><P>YNC Start=1161033>No,this isn't a military operation.</P></SYNC>
+<SYNC Start=1161033 End=1162910><P>YNC Start=1162910>&nbsp;</P></SYNC>
+<SYNC Start=1162910 End=1162993><P>YNC Start=1162993>This is a lab.</P></SYNC>
+<SYNC Start=1162993 End=1164161><P>YNC Start=1164161>&nbsp;</P></SYNC>
+<SYNC Start=1164161 End=1164787><P>YNC Start=1164787>We need to get into the system</P></SYNC>
+<SYNC Start=1164787 End=1166455><P>YNC Start=1166455>&nbsp;</P></SYNC>
+<SYNC Start=1166455 End=1166539><P>YNC Start=1166539>and figure out what's going on.</P></SYNC>
+<SYNC Start=1166539 End=1167998><P>YNC Start=1167998>&nbsp;</P></SYNC>
+<SYNC Start=1167998 End=1168082><P>YNC Start=1168082>-What about the reactor...-Do it! Do it.</P></SYNC>
+<SYNC Start=1168082 End=1170584><P>YNC Start=1170584>&nbsp;</P></SYNC>
+<SYNC Start=1170584 End=1173712><P>YNC Start=1173712>I don't like this.</P></SYNC>
+<SYNC Start=1173712 End=1175089><P>YNC Start=1175089>&nbsp;</P></SYNC>
+<SYNC Start=1175089 End=1176048><P>YNC Start=1176048>Pardon me.</P></SYNC>
+<SYNC Start=1176048 End=1177049><P>YNC Start=1177049>&nbsp;</P></SYNC>
+<SYNC Start=1177049 End=1182763><P>YNC Start=1182763>Replicated the results</P></SYNC>
+<SYNC Start=1182763 End=1184098><P>YNC Start=1184098>&nbsp;</P></SYNC>
+<SYNC Start=1184098 End=1184181><P>YNC Start=1184181>of the subsequent trials,</P></SYNC>
+<SYNC Start=1184181 End=1185349><P>YNC Start=1185349>&nbsp;</P></SYNC>
+<SYNC Start=1185349 End=1185432><P>YNC Start=1185432>which also resultedin catastrophic failure.</P></SYNC>
+<SYNC Start=1185432 End=1187935><P>YNC Start=1187935>&nbsp;</P></SYNC>
+<SYNC Start=1187935 End=1188644><P>YNC Start=1188644>There were promising effectsfor an entire fortnight,</P></SYNC>
+<SYNC Start=1188644 End=1190813><P>YNC Start=1190813>&nbsp;</P></SYNC>
+<SYNC Start=1190813 End=1190896><P>YNC Start=1190896>but then, sadly,the body rejected the blood.</P></SYNC>
+<SYNC Start=1190896 End=1193816><P>YNC Start=1193816>&nbsp;</P></SYNC>
+<SYNC Start=1193816 End=1196485><P>YNC Start=1196485>I highly doubt we'll finda donor with a higher M-count, though.</P></SYNC>
+<SYNC Start=1196485 End=1199989><P>YNC Start=1199989>&nbsp;</P></SYNC>
+<SYNC Start=1199989 End=1200072><P>YNC Start=1200072>I recommendthat we suspend all experimentation.</P></SYNC>
+<SYNC Start=1200072 End=1203242><P>YNC Start=1203242>&nbsp;</P></SYNC>
+<SYNC Start=1203242 End=1203325><P>YNC Start=1203325>I fear that the volunteerwill meet the same regrettable fate</P></SYNC>
+<SYNC Start=1203325 End=1206245><P>YNC Start=1206245>&nbsp;</P></SYNC>
+<SYNC Start=1206245 End=1206328><P>YNC Start=1206328>if we proceed with the transfusion.</P></SYNC>
+<SYNC Start=1206328 End=1208664><P>YNC Start=1208664>&nbsp;</P></SYNC>
+<SYNC Start=1208664 End=1209456><P>YNC Start=1209456>Unfortunately, we have exhausted</P></SYNC>
+<SYNC Start=1209456 End=1212710><P>YNC Start=1212710>&nbsp;</P></SYNC>
+<SYNC Start=1212710 End=1212793><P>YNC Start=1212793>our initial supply of blood.</P></SYNC>
+<SYNC Start=1212793 End=1214170><P>YNC Start=1214170>&nbsp;</P></SYNC>
+<SYNC Start=1214170 End=1215129><P>YNC Start=1215129>The Child is small,and I was only able</P></SYNC>
+<SYNC Start=1215129 End=1217131><P>YNC Start=1217131>&nbsp;</P></SYNC>
+<SYNC Start=1217131 End=1217214><P>YNC Start=1217214>to harvest a limited amountwithout killing him.</P></SYNC>
+<SYNC Start=1217214 End=1219884><P>YNC Start=1219884>&nbsp;</P></SYNC>
+<SYNC Start=1219884 End=1222636><P>YNC Start=1222636>If these experimentsare to continue as requested,</P></SYNC>
+<SYNC Start=1222636 End=1225681><P>YNC Start=1225681>&nbsp;</P></SYNC>
+<SYNC Start=1225681 End=1226682><P>YNC Start=1226682>we would againrequire access to the donor.</P></SYNC>
+<SYNC Start=1226682 End=1228851><P>YNC Start=1228851>&nbsp;</P></SYNC>
+<SYNC Start=1228851 End=1229643><P>YNC Start=1229643>I will not disappointyou again, Moff Gideon.</P></SYNC>
+<SYNC Start=1229643 End=1232646><P>YNC Start=1232646>&nbsp;</P></SYNC>
+<SYNC Start=1232646 End=1234023><P>YNC Start=1234023>This must bean old transmission. Moff Gideon is dead.</P></SYNC>
+<SYNC Start=1234023 End=1237234><P>YNC Start=1237234>&nbsp;</P></SYNC>
+<SYNC Start=1237234 End=1237318><P>YNC Start=1237318>No. This recording's three days old.</P></SYNC>
+<SYNC Start=1237318 End=1241655><P>YNC Start=1241655>&nbsp;</P></SYNC>
+<SYNC Start=1241655 End=1243115><P>YNC Start=1243115>If Gideon's alive then...</P></SYNC>
+<SYNC Start=1243115 End=1244909><P>YNC Start=1244909>&nbsp;</P></SYNC>
+<SYNC Start=1244909 End=1245492><P>YNC Start=1245492>Over there!</P></SYNC>
+<SYNC Start=1245492 End=1247036><P>YNC Start=1247036>&nbsp;</P></SYNC>
+<SYNC Start=1247036 End=1252416><P>YNC Start=1252416>We have them!</P></SYNC>
+<SYNC Start=1252416 End=1253584><P>YNC Start=1253584>&nbsp;</P></SYNC>
+<SYNC Start=1253584 End=1264178><P>YNC Start=1264178>I need to get the kid.</P></SYNC>
+<SYNC Start=1264178 End=1265304><P>YNC Start=1265304>&nbsp;</P></SYNC>
+<SYNC Start=1265304 End=1265387><P>YNC Start=1265387>Jet back, you're faster that way.</P></SYNC>
+<SYNC Start=1265387 End=1266847><P>YNC Start=1266847>&nbsp;</P></SYNC>
+<SYNC Start=1266847 End=1266931><P>YNC Start=1266931>We'll head to the speederand meet you in town.</P></SYNC>
+<SYNC Start=1266931 End=1268974><P>YNC Start=1268974>&nbsp;</P></SYNC>
+<SYNC Start=1268974 End=1269058><P>YNC Start=1269058>Come on, let's go!</P></SYNC>
+<SYNC Start=1269058 End=1270309><P>YNC Start=1270309>&nbsp;</P></SYNC>
+<SYNC Start=1270309 End=1270893><P>YNC Start=1270893>When did you saythis place is gonna blow again?</P></SYNC>
+<SYNC Start=1270893 End=1273229><P>YNC Start=1273229>&nbsp;</P></SYNC>
+<SYNC Start=1273229 End=1277233><P>YNC Start=1277233>They're on the move!</P></SYNC>
+<SYNC Start=1277233 End=1278692><P>YNC Start=1278692>&nbsp;</P></SYNC>
+<SYNC Start=1278692 End=1286617><P>YNC Start=1286617>Let's go!</P></SYNC>
+<SYNC Start=1286617 End=1287660><P>YNC Start=1287660>&nbsp;</P></SYNC>
+<SYNC Start=1287660 End=1289495><P>YNC Start=1289495>We think they may be moving to the... Hey!</P></SYNC>
+<SYNC Start=1289495 End=1291831><P>YNC Start=1291831>&nbsp;</P></SYNC>
+<SYNC Start=1291831 End=1324822><P>YNC Start=1324822>This way!</P></SYNC>
+<SYNC Start=1324822 End=1326031><P>YNC Start=1326031>&nbsp;</P></SYNC>
+<SYNC Start=1326031 End=1360191><P>YNC Start=1360191>All right, men, load your weapons.</P></SYNC>
+<SYNC Start=1360191 End=1362067><P>YNC Start=1362067>&nbsp;</P></SYNC>
+<SYNC Start=1362067 End=1362735><P>YNC Start=1362735>There they are! Blast 'em!</P></SYNC>
+<SYNC Start=1362735 End=1364195><P>YNC Start=1364195>&nbsp;</P></SYNC>
+<SYNC Start=1364195 End=1372077><P>YNC Start=1372077>We're trapped!</P></SYNC>
+<SYNC Start=1372077 End=1373495><P>YNC Start=1373495>&nbsp;</P></SYNC>
+<SYNC Start=1373495 End=1375414><P>YNC Start=1375414>Is that so?</P></SYNC>
+<SYNC Start=1375414 End=1376499><P>YNC Start=1376499>&nbsp;</P></SYNC>
+<SYNC Start=1376499 End=1377791><P>YNC Start=1377791>Cover me!</P></SYNC>
+<SYNC Start=1377791 End=1378918><P>YNC Start=1378918>&nbsp;</P></SYNC>
+<SYNC Start=1378918 End=1382213><P>YNC Start=1382213>What does she think she's doing?</P></SYNC>
+<SYNC Start=1382213 End=1383589><P>YNC Start=1383589>&nbsp;</P></SYNC>
+<SYNC Start=1383589 End=1392264><P>YNC Start=1392264>All right, baby girl,let's see what you got.</P></SYNC>
+<SYNC Start=1392264 End=1394600><P>YNC Start=1394600>&nbsp;</P></SYNC>
+<SYNC Start=1394600 End=1406987><P>YNC Start=1406987>What are you guys waiting for,an invitation? Let's move!</P></SYNC>
+<SYNC Start=1406987 End=1409448><P>YNC Start=1409448>&nbsp;</P></SYNC>
+<SYNC Start=1409448 End=1409532><P>YNC Start=1409532>Go! Go, go, go, go, go! Go!</P></SYNC>
+<SYNC Start=1409532 End=1411534><P>YNC Start=1411534>&nbsp;</P></SYNC>
+<SYNC Start=1411534 End=1436100><P>YNC Start=1436100>You're not consideringgoing over...</P></SYNC>
+<SYNC Start=1436100 End=1437685><P>YNC Start=1437685>&nbsp;</P></SYNC>
+<SYNC Start=1437685 End=1437768><P>YNC Start=1437768>Hang on!</P></SYNC>
+<SYNC Start=1437768 End=1439186><P>YNC Start=1439186>&nbsp;</P></SYNC>
+<SYNC Start=1439186 End=1443816><P>YNC Start=1443816>Oh, no, no, no, no!</P></SYNC>
+<SYNC Start=1443816 End=1445109><P>YNC Start=1445109>&nbsp;</P></SYNC>
+<SYNC Start=1445109 End=1457788><P>YNC Start=1457788>Wait. Was that my speeder...</P></SYNC>
+<SYNC Start=1457788 End=1459957><P>YNC Start=1459957>&nbsp;</P></SYNC>
+<SYNC Start=1459957 End=1493449><P>YNC Start=1493449>Man the guns.</P></SYNC>
+<SYNC Start=1493449 End=1494575><P>YNC Start=1494575>&nbsp;</P></SYNC>
+<SYNC Start=1494575 End=1494658><P>YNC Start=1494658>Copy that.</P></SYNC>
+<SYNC Start=1494658 End=1495993><P>YNC Start=1495993>&nbsp;</P></SYNC>
+<SYNC Start=1495993 End=1521101><P>YNC Start=1521101>One down.</P></SYNC>
+<SYNC Start=1521101 End=1522269><P>YNC Start=1522269>&nbsp;</P></SYNC>
+<SYNC Start=1522269 End=1535533><P>YNC Start=1535533>I've lost him!</P></SYNC>
+<SYNC Start=1535533 End=1536992><P>YNC Start=1536992>&nbsp;</P></SYNC>
+<SYNC Start=1536992 End=1549713><P>YNC Start=1549713>Whoo!</P></SYNC>
+<SYNC Start=1549713 End=1551006><P>YNC Start=1551006>&nbsp;</P></SYNC>
+<SYNC Start=1551006 End=1589962><P>YNC Start=1589962>Yes! We did it!</P></SYNC>
+<SYNC Start=1589962 End=1592506><P>YNC Start=1592506>&nbsp;</P></SYNC>
+<SYNC Start=1592506 End=1593382><P>YNC Start=1593382>Headed home, boss.</P></SYNC>
+<SYNC Start=1593382 End=1594592><P>YNC Start=1594592>&nbsp;</P></SYNC>
+<SYNC Start=1594592 End=1609690><P>YNC Start=1609690>That may have been premature.</P></SYNC>
+<SYNC Start=1609690 End=1611358><P>YNC Start=1611358>&nbsp;</P></SYNC>
+<SYNC Start=1611358 End=1611942><P>YNC Start=1611942>Take evasive! I got this!</P></SYNC>
+<SYNC Start=1611942 End=1614153><P>YNC Start=1614153>&nbsp;</P></SYNC>
+<SYNC Start=1614153 End=1646352><P>YNC Start=1646352>What is going on back there?</P></SYNC>
+<SYNC Start=1646352 End=1648187><P>YNC Start=1648187>&nbsp;</P></SYNC>
+<SYNC Start=1648187 End=1648270><P>YNC Start=1648270>You wanna come back hereand try this? Be my guest!</P></SYNC>
+<SYNC Start=1648270 End=1650731><P>YNC Start=1650731>&nbsp;</P></SYNC>
+<SYNC Start=1650731 End=1657446><P>YNC Start=1657446>Can't you get this thing to go any faster?</P></SYNC>
+<SYNC Start=1657446 End=1659865><P>YNC Start=1659865>&nbsp;</P></SYNC>
+<SYNC Start=1659865 End=1660533><P>YNC Start=1660533>Come on.</P></SYNC>
+<SYNC Start=1660533 End=1662576><P>YNC Start=1662576>&nbsp;</P></SYNC>
+<SYNC Start=1662576 End=1687434><P>YNC Start=1687434>We're almost there!</P></SYNC>
+<SYNC Start=1687434 End=1688727><P>YNC Start=1688727>&nbsp;</P></SYNC>
+<SYNC Start=1688727 End=1709623><P>YNC Start=1709623>-Yes! Yes!</P></SYNC>
+<SYNC Start=1709623 End=1711750><P>YNC Start=1711750>&nbsp;</P></SYNC>
+<SYNC Start=1711750 End=1712960><P>YNC Start=1712960>-Hang on, kid.</P></SYNC>
+<SYNC Start=1712960 End=1714962><P>YNC Start=1714962>&nbsp;</P></SYNC>
+<SYNC Start=1714962 End=1783364><P>YNC Start=1783364>-Yeah!</P></SYNC>
+<SYNC Start=1783364 End=1784865><P>YNC Start=1784865>&nbsp;</P></SYNC>
+<SYNC Start=1784865 End=1784949><P>YNC Start=1784949>Yes!</P></SYNC>
+<SYNC Start=1784949 End=1786367><P>YNC Start=1786367>&nbsp;</P></SYNC>
+<SYNC Start=1786367 End=1786951><P>YNC Start=1786951>-Yeah!</P></SYNC>
+<SYNC Start=1786951 End=1788077><P>YNC Start=1788077>&nbsp;</P></SYNC>
+<SYNC Start=1788077 End=1790579><P>YNC Start=1790579>Not too bad, huh, kid?</P></SYNC>
+<SYNC Start=1790579 End=1792373><P>YNC Start=1792373>&nbsp;</P></SYNC>
+<SYNC Start=1792373 End=1796794><P>YNC Start=1796794>Oh, boy.</P></SYNC>
+<SYNC Start=1796794 End=1798087><P>YNC Start=1798087>&nbsp;</P></SYNC>
+<SYNC Start=1798087 End=1799797><P>YNC Start=1799797>That was somepretty impressive flying, Mando.</P></SYNC>
+<SYNC Start=1799797 End=1802424><P>YNC Start=1802424>&nbsp;</P></SYNC>
+<SYNC Start=1802424 End=1802508><P>YNC Start=1802508>What do I owe ya?</P></SYNC>
+<SYNC Start=1802508 End=1803759><P>YNC Start=1803759>&nbsp;</P></SYNC>
+<SYNC Start=1803759 End=1803843><P>YNC Start=1803843>With the repairs, let's call it even.</P></SYNC>
+<SYNC Start=1803843 End=1805886><P>YNC Start=1805886>&nbsp;</P></SYNC>
+<SYNC Start=1805886 End=1808347><P>YNC Start=1808347>Can I at least buy you a drink?</P></SYNC>
+<SYNC Start=1808347 End=1810724><P>YNC Start=1810724>&nbsp;</P></SYNC>
+<SYNC Start=1810724 End=1810808><P>YNC Start=1810808>Sorry. I have someonboard maintenance I gotta take care of.</P></SYNC>
+<SYNC Start=1810808 End=1814019><P>YNC Start=1814019>&nbsp;</P></SYNC>
+<SYNC Start=1814019 End=1814103><P>YNC Start=1814103>Then we gotta hit the roadbefore Gideon catches wise.</P></SYNC>
+<SYNC Start=1814103 End=1816897><P>YNC Start=1816897>&nbsp;</P></SYNC>
+<SYNC Start=1816897 End=1816981><P>YNC Start=1816981>Well, good luck flying, my friend.</P></SYNC>
+<SYNC Start=1816981 End=1818941><P>YNC Start=1818941>&nbsp;</P></SYNC>
+<SYNC Start=1818941 End=1826532><P>YNC Start=1826532>So, is there anything elseyou can remember before the base exploded?</P></SYNC>
+<SYNC Start=1826532 End=1830244><P>YNC Start=1830244>&nbsp;</P></SYNC>
+<SYNC Start=1830244 End=1832121><P>YNC Start=1832121>No.</P></SYNC>
+<SYNC Start=1832121 End=1833455><P>YNC Start=1833455>&nbsp;</P></SYNC>
+<SYNC Start=1833455 End=1834915><P>YNC Start=1834915>How long afterthe 'Razor Crest' jumped out...</P></SYNC>
+<SYNC Start=1834915 End=1837168><P>YNC Start=1837168>&nbsp;</P></SYNC>
+<SYNC Start=1837168 End=1837251><P>YNC Start=1837251>I never said anything about a 'Razor Crest'.</P></SYNC>
+<SYNC Start=1837251 End=1839086><P>YNC Start=1839086>&nbsp;</P></SYNC>
+<SYNC Start=1839086 End=1839795><P>YNC Start=1839795>Your transponder log has a...</P></SYNC>
+<SYNC Start=1839795 End=1840963><P>YNC Start=1840963>&nbsp;</P></SYNC>
+<SYNC Start=1840963 End=1841046><P>YNC Start=1841046>"Transponder log."Come on, give me a break.</P></SYNC>
+<SYNC Start=1841046 End=1843591><P>YNC Start=1843591>&nbsp;</P></SYNC>
+<SYNC Start=1843591 End=1843674><P>YNC Start=1843674>The control droidcan't tell apart anything pre-Empire.</P></SYNC>
+<SYNC Start=1843674 End=1847469><P>YNC Start=1847469>&nbsp;</P></SYNC>
+<SYNC Start=1847469 End=1847553><P>YNC Start=1847553>This isn't Coruscant.</P></SYNC>
+<SYNC Start=1847553 End=1849597><P>YNC Start=1849597>&nbsp;</P></SYNC>
+<SYNC Start=1849597 End=1850764><P>YNC Start=1850764>Do you have anything else to add?</P></SYNC>
+<SYNC Start=1850764 End=1852516><P>YNC Start=1852516>&nbsp;</P></SYNC>
+<SYNC Start=1852516 End=1853559><P>YNC Start=1853559>Not that I can think of, Officer.</P></SYNC>
+<SYNC Start=1853559 End=1855186><P>YNC Start=1855186>&nbsp;</P></SYNC>
+<SYNC Start=1855186 End=1855269><P>YNC Start=1855269>But if somethin' does come to mind,</P></SYNC>
+<SYNC Start=1855269 End=1857897><P>YNC Start=1857897>&nbsp;</P></SYNC>
+<SYNC Start=1857897 End=1859148><P>YNC Start=1859148>I'll be sure to send you a 'gram.</P></SYNC>
+<SYNC Start=1859148 End=1860816><P>YNC Start=1860816>&nbsp;</P></SYNC>
+<SYNC Start=1860816 End=1861692><P>YNC Start=1861692>That is,if you're ever out this far again.</P></SYNC>
+<SYNC Start=1861692 End=1864778><P>YNC Start=1864778>&nbsp;</P></SYNC>
+<SYNC Start=1864778 End=1873037><P>YNC Start=1873037>What?</P></SYNC>
+<SYNC Start=1873037 End=1874246><P>YNC Start=1874246>&nbsp;</P></SYNC>
+<SYNC Start=1874246 End=1887259><P>YNC Start=1887259>You did a hell of a jobcleanin' up the system.</P></SYNC>
+<SYNC Start=1887259 End=1889553><P>YNC Start=1889553>&nbsp;</P></SYNC>
+<SYNC Start=1889553 End=1890137><P>YNC Start=1890137>According to records,you're quite a soldier.</P></SYNC>
+<SYNC Start=1890137 End=1892348><P>YNC Start=1892348>&nbsp;</P></SYNC>
+<SYNC Start=1892348 End=1893307><P>YNC Start=1893307>We could really use you.</P></SYNC>
+<SYNC Start=1893307 End=1894517><P>YNC Start=1894517>&nbsp;</P></SYNC>
+<SYNC Start=1894517 End=1896769><P>YNC Start=1896769>I'm not a "joiner," Blue.</P></SYNC>
+<SYNC Start=1896769 End=1898145><P>YNC Start=1898145>&nbsp;</P></SYNC>
+<SYNC Start=1898145 End=1903192><P>YNC Start=1903192>There's something going on out here.</P></SYNC>
+<SYNC Start=1903192 End=1905027><P>YNC Start=1905027>&nbsp;</P></SYNC>
+<SYNC Start=1905027 End=1905694><P>YNC Start=1905694>They don't believe iton the Core Worlds, but it's true.</P></SYNC>
+<SYNC Start=1905694 End=1908364><P>YNC Start=1908364>&nbsp;</P></SYNC>
+<SYNC Start=1908364 End=1908989><P>YNC Start=1908989>These aren't isolated incidents.</P></SYNC>
+<SYNC Start=1908989 End=1910658><P>YNC Start=1910658>&nbsp;</P></SYNC>
+<SYNC Start=1910658 End=1910741><P>YNC Start=1910741>They need to be stoppedbefore it's too late.</P></SYNC>
+<SYNC Start=1910741 End=1912701><P>YNC Start=1912701>&nbsp;</P></SYNC>
+<SYNC Start=1912701 End=1912785><P>YNC Start=1912785>But we can't do it without local support.</P></SYNC>
+<SYNC Start=1912785 End=1915162><P>YNC Start=1915162>&nbsp;</P></SYNC>
+<SYNC Start=1915162 End=1919959><P>YNC Start=1919959>Says here you're from Alderaan.</P></SYNC>
+<SYNC Start=1919959 End=1921585><P>YNC Start=1921585>&nbsp;</P></SYNC>
+<SYNC Start=1921585 End=1922837><P>YNC Start=1922837>I served during Alderaan.</P></SYNC>
+<SYNC Start=1922837 End=1924547><P>YNC Start=1924547>&nbsp;</P></SYNC>
+<SYNC Start=1924547 End=1930636><P>YNC Start=1930636>Did you lose anyone?</P></SYNC>
+<SYNC Start=1930636 End=1931887><P>YNC Start=1931887>&nbsp;</P></SYNC>
+<SYNC Start=1931887 End=1937017><P>YNC Start=1937017>I lost everyone.</P></SYNC>
+<SYNC Start=1937017 End=1938435><P>YNC Start=1938435>&nbsp;</P></SYNC>
+<SYNC Start=1938435 End=1939687><P>YNC Start=1939687>I'm sorry for your loss.</P></SYNC>
+<SYNC Start=1939687 End=1941021><P>YNC Start=1941021>&nbsp;</P></SYNC>
+<SYNC Start=1941021 End=1996285><P>YNC Start=1996285>What do you have for me?</P></SYNC>
+<SYNC Start=1996285 End=1997953><P>YNC Start=1997953>&nbsp;</P></SYNC>
+<SYNC Start=1997953 End=1998037><P>YNC Start=1998037>The device has been planted,as you requested.</P></SYNC>
+<SYNC Start=1998037 End=2001874><P>YNC Start=2001874>&nbsp;</P></SYNC>
+<SYNC Start=2001874 End=2002750><P>YNC Start=2002750>Good.</P></SYNC>
+<SYNC Start=2002750 End=2003792><P>YNC Start=2003792>&nbsp;</P></SYNC>
+<SYNC Start=2003792 End=2004585><P>YNC Start=2004585>You'll be well-rewarded in the new era.</P></SYNC>
+<SYNC Start=2004585 End=2006629><P>YNC Start=2006629>&nbsp;</P></SYNC>
+<SYNC Start=2006629 End=2024813><P>YNC Start=2024813>Moff Gideon.</P></SYNC>
+<SYNC Start=2024813 End=2026106><P>YNC Start=2026106>&nbsp;</P></SYNC>
+<SYNC Start=2026106 End=2028984><P>YNC Start=2028984>The tracking beaconhas been installed on the 'Razor Crest'.</P></SYNC>
+<SYNC Start=2028984 End=2032279><P>YNC Start=2032279>&nbsp;</P></SYNC>
+<SYNC Start=2032279 End=2033197><P>YNC Start=2033197>Does he still have the asset?</P></SYNC>
+<SYNC Start=2033197 End=2034782><P>YNC Start=2034782>&nbsp;</P></SYNC>
+<SYNC Start=2034782 End=2034865><P>YNC Start=2034865>Yes. Our source confirmed it.</P></SYNC>
+<SYNC Start=2034865 End=2037743><P>YNC Start=2037743>&nbsp;</P></SYNC>
+<SYNC Start=2037743 End=2040204><P>YNC Start=2040204>And we will be ready.</P></SYNC>
+<SYNC Start=2040204 End=2042331><P>YNC Start=2042331>&nbsp;</P></SYNC>
+</BODY>
+</SAMI>

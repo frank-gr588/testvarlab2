@@ -1,0 +1,549 @@
+<SAMI>
+<HEAD>
+<TITLE>file</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=2666 End=2666><P>YNC Start=2666>This is the one.</P></SYNC>
+<SYNC Start=2666 End=4210><P>YNC Start=4210>&nbsp;</P></SYNC>
+<SYNC Start=4210 End=4293><P>YNC Start=4293>It looks helpless.</P></SYNC>
+<SYNC Start=4293 End=6086><P>YNC Start=6086>&nbsp;</P></SYNC>
+<SYNC Start=6086 End=6170><P>YNC Start=6170>It is not helpless.</P></SYNC>
+<SYNC Start=6170 End=7588><P>YNC Start=7588>&nbsp;</P></SYNC>
+<SYNC Start=7588 End=7671><P>YNC Start=7671>Its species can move objectswith its mind.</P></SYNC>
+<SYNC Start=7671 End=9840><P>YNC Start=9840>&nbsp;</P></SYNC>
+<SYNC Start=9840 End=9924><P>YNC Start=9924>The songs of eons past tellof battles between Mandalore The Great,</P></SYNC>
+<SYNC Start=9924 End=14094><P>YNC Start=14094>&nbsp;</P></SYNC>
+<SYNC Start=14094 End=14178><P>YNC Start=14178>and an order of sorcerers called Jedithat fought with such powers.</P></SYNC>
+<SYNC Start=14178 End=18057><P>YNC Start=18057>&nbsp;</P></SYNC>
+<SYNC Start=18057 End=18140><P>YNC Start=18140>- What is it?- It is a foundling.</P></SYNC>
+<SYNC Start=18140 End=20684><P>YNC Start=20684>&nbsp;</P></SYNC>
+<SYNC Start=20684 End=20768><P>YNC Start=20768>By Creed, it is in your care.</P></SYNC>
+<SYNC Start=20768 End=23020><P>YNC Start=23020>&nbsp;</P></SYNC>
+<SYNC Start=23020 End=23103><P>YNC Start=23103>You expect meto search the galaxy</P></SYNC>
+<SYNC Start=23103 End=25272><P>YNC Start=25272>&nbsp;</P></SYNC>
+<SYNC Start=25272 End=25356><P>YNC Start=25356>for the home of this creature anddeliver it to a race of enemy sorcerers?</P></SYNC>
+<SYNC Start=25356 End=28859><P>YNC Start=28859>&nbsp;</P></SYNC>
+<SYNC Start=28859 End=28943><P>YNC Start=28943>This is the Way.</P></SYNC>
+<SYNC Start=28943 End=30027><P>YNC Start=30027>&nbsp;</P></SYNC>
+<SYNC Start=30027 End=30236><P>YNC Start=30236>I've been questedwith returning this Child to the Jedi.</P></SYNC>
+<SYNC Start=30236 End=33405><P>YNC Start=33405>&nbsp;</P></SYNC>
+<SYNC Start=33405 End=33489><P>YNC Start=33489>I can lead you to one of their kind.</P></SYNC>
+<SYNC Start=33489 End=35533><P>YNC Start=35533>&nbsp;</P></SYNC>
+<SYNC Start=35533 End=36325><P>YNC Start=36325>But first,we need your help on our mission.</P></SYNC>
+<SYNC Start=36325 End=38202><P>YNC Start=38202>&nbsp;</P></SYNC>
+<SYNC Start=38202 End=44625><P>YNC Start=44625>We need to hold them off untilwe can make the jump to hyperspace.</P></SYNC>
+<SYNC Start=44625 End=47503><P>YNC Start=47503>&nbsp;</P></SYNC>
+<SYNC Start=47503 End=54635><P>YNC Start=54635>Where can I find the Jedi?</P></SYNC>
+<SYNC Start=54635 End=56762><P>YNC Start=56762>&nbsp;</P></SYNC>
+<SYNC Start=56762 End=56846><P>YNC Start=56846>Take the foundling to the city of Calodanon the forest planet of Corvus.</P></SYNC>
+<SYNC Start=56846 End=60349><P>YNC Start=60349>&nbsp;</P></SYNC>
+<SYNC Start=60349 End=60432><P>YNC Start=60432>There you will find Ahsoka Tano.</P></SYNC>
+<SYNC Start=60432 End=62393><P>YNC Start=62393>&nbsp;</P></SYNC>
+<SYNC Start=62393 End=63018><P>YNC Start=63018>Tell her you were sent by Bo-Katan.</P></SYNC>
+<SYNC Start=63018 End=64770><P>YNC Start=64770>&nbsp;</P></SYNC>
+<SYNC Start=64770 End=65729><P>YNC Start=65729>And thank you.</P></SYNC>
+<SYNC Start=65729 End=67231><P>YNC Start=67231>&nbsp;</P></SYNC>
+<SYNC Start=67231 End=67314><P>YNC Start=67314>Your bravery will not be forgotten.</P></SYNC>
+<SYNC Start=67314 End=69358><P>YNC Start=69358>&nbsp;</P></SYNC>
+<SYNC Start=69358 End=70150><P>YNC Start=70150>This is the Way.</P></SYNC>
+<SYNC Start=70150 End=71193><P>YNC Start=71193>&nbsp;</P></SYNC>
+<SYNC Start=71193 End=189687><P>YNC Start=189687>She's off the scope. Draw her out.</P></SYNC>
+<SYNC Start=189687 End=192231><P>YNC Start=192231>&nbsp;</P></SYNC>
+<SYNC Start=192231 End=209290><P>YNC Start=209290>I've lost visual. Scan for movement.</P></SYNC>
+<SYNC Start=209290 End=211834><P>YNC Start=211834>&nbsp;</P></SYNC>
+<SYNC Start=211834 End=231312><P>YNC Start=231312>Show yourself.</P></SYNC>
+<SYNC Start=231312 End=232855><P>YNC Start=232855>&nbsp;</P></SYNC>
+<SYNC Start=232855 End=235357><P>YNC Start=235357>Jedi.</P></SYNC>
+<SYNC Start=235357 End=236567><P>YNC Start=236567>&nbsp;</P></SYNC>
+<SYNC Start=236567 End=247244><P>YNC Start=247244>I've been expecting you.</P></SYNC>
+<SYNC Start=247244 End=248787><P>YNC Start=248787>&nbsp;</P></SYNC>
+<SYNC Start=248787 End=250080><P>YNC Start=250080>Then you know what I want.</P></SYNC>
+<SYNC Start=250080 End=251916><P>YNC Start=251916>&nbsp;</P></SYNC>
+<SYNC Start=251916 End=253083><P>YNC Start=253083>You will learn nothing from me.</P></SYNC>
+<SYNC Start=253083 End=255794><P>YNC Start=255794>&nbsp;</P></SYNC>
+<SYNC Start=255794 End=257338><P>YNC Start=257338>I won't give you that choice.</P></SYNC>
+<SYNC Start=257338 End=259381><P>YNC Start=259381>&nbsp;</P></SYNC>
+<SYNC Start=259381 End=266472><P>YNC Start=266472>How many livesis the knowledge I possess worth to you?</P></SYNC>
+<SYNC Start=266472 End=270476><P>YNC Start=270476>&nbsp;</P></SYNC>
+<SYNC Start=270476 End=271977><P>YNC Start=271977>One?</P></SYNC>
+<SYNC Start=271977 End=273354><P>YNC Start=273354>&nbsp;</P></SYNC>
+<SYNC Start=273354 End=275231><P>YNC Start=275231>Ten?</P></SYNC>
+<SYNC Start=275231 End=276232><P>YNC Start=276232>&nbsp;</P></SYNC>
+<SYNC Start=276232 End=278651><P>YNC Start=278651>How about a hundred?</P></SYNC>
+<SYNC Start=278651 End=281153><P>YNC Start=281153>&nbsp;</P></SYNC>
+<SYNC Start=281153 End=281737><P>YNC Start=281737>The lives of these citizensmean nothing to me.</P></SYNC>
+<SYNC Start=281737 End=284532><P>YNC Start=284532>&nbsp;</P></SYNC>
+<SYNC Start=284532 End=285574><P>YNC Start=285574>Now, because of you,these people will suffer.</P></SYNC>
+<SYNC Start=285574 End=289787><P>YNC Start=289787>&nbsp;</P></SYNC>
+<SYNC Start=289787 End=290371><P>YNC Start=290371>They already suffer under your rule.</P></SYNC>
+<SYNC Start=290371 End=292748><P>YNC Start=292748>&nbsp;</P></SYNC>
+<SYNC Start=292748 End=293666><P>YNC Start=293666>Surrender, or face the consequences.</P></SYNC>
+<SYNC Start=293666 End=297545><P>YNC Start=297545>&nbsp;</P></SYNC>
+<SYNC Start=297545 End=301674><P>YNC Start=301674>You have one day to decide.</P></SYNC>
+<SYNC Start=301674 End=304552><P>YNC Start=304552>&nbsp;</P></SYNC>
+<SYNC Start=304552 End=315813><P>YNC Start=315813>We will be ready when she returns.</P></SYNC>
+<SYNC Start=315813 End=318983><P>YNC Start=318983>&nbsp;</P></SYNC>
+<SYNC Start=318983 End=323696><P>YNC Start=323696>-Cage him.</P></SYNC>
+<SYNC Start=323696 End=324905><P>YNC Start=324905>&nbsp;</P></SYNC>
+<SYNC Start=324905 End=351682><P>YNC Start=351682>Corvus, this is the place.</P></SYNC>
+<SYNC Start=351682 End=354560><P>YNC Start=354560>&nbsp;</P></SYNC>
+<SYNC Start=354560 End=355186><P>YNC Start=355186>I've detected a beacon.</P></SYNC>
+<SYNC Start=355186 End=356270><P>YNC Start=356270>&nbsp;</P></SYNC>
+<SYNC Start=356270 End=357771><P>YNC Start=357771>I'm gonna start the landing cycle.</P></SYNC>
+<SYNC Start=357771 End=359231><P>YNC Start=359231>&nbsp;</P></SYNC>
+<SYNC Start=359231 End=359315><P>YNC Start=359315>You better get back in your seat.</P></SYNC>
+<SYNC Start=359315 End=360900><P>YNC Start=360900>&nbsp;</P></SYNC>
+<SYNC Start=360900 End=371744><P>YNC Start=371744>Hey, what did I tell you?</P></SYNC>
+<SYNC Start=371744 End=373996><P>YNC Start=373996>&nbsp;</P></SYNC>
+<SYNC Start=373996 End=374079><P>YNC Start=374079>Back in your seat.</P></SYNC>
+<SYNC Start=374079 End=375539><P>YNC Start=375539>&nbsp;</P></SYNC>
+<SYNC Start=375539 End=486233><P>YNC Start=486233>What did I say about that?</P></SYNC>
+<SYNC Start=486233 End=487818><P>YNC Start=487818>&nbsp;</P></SYNC>
+<SYNC Start=487818 End=489195><P>YNC Start=489195>-This needs to stay in the ship.</P></SYNC>
+<SYNC Start=489195 End=491488><P>YNC Start=491488>&nbsp;</P></SYNC>
+<SYNC Start=491488 End=494033><P>YNC Start=494033>Not much to see out here.</P></SYNC>
+<SYNC Start=494033 End=495534><P>YNC Start=495534>&nbsp;</P></SYNC>
+<SYNC Start=495534 End=497536><P>YNC Start=497536>Never had dealings with a Jedi before.</P></SYNC>
+<SYNC Start=497536 End=499455><P>YNC Start=499455>&nbsp;</P></SYNC>
+<SYNC Start=499455 End=501415><P>YNC Start=501415>Let's head into town.</P></SYNC>
+<SYNC Start=501415 End=503626><P>YNC Start=503626>&nbsp;</P></SYNC>
+<SYNC Start=503626 End=504627><P>YNC Start=504627>See if we can pick up a lead.</P></SYNC>
+<SYNC Start=504627 End=506295><P>YNC Start=506295>&nbsp;</P></SYNC>
+<SYNC Start=506295 End=532530><P>YNC Start=532530>State your business.</P></SYNC>
+<SYNC Start=532530 End=533864><P>YNC Start=533864>&nbsp;</P></SYNC>
+<SYNC Start=533864 End=533948><P>YNC Start=533948>Been tracking for a few days.</P></SYNC>
+<SYNC Start=533948 End=536158><P>YNC Start=536158>&nbsp;</P></SYNC>
+<SYNC Start=536158 End=536659><P>YNC Start=536659>Looking for a layover.</P></SYNC>
+<SYNC Start=536659 End=537743><P>YNC Start=537743>&nbsp;</P></SYNC>
+<SYNC Start=537743 End=539161><P>YNC Start=539161>Nice armor.</P></SYNC>
+<SYNC Start=539161 End=540579><P>YNC Start=540579>&nbsp;</P></SYNC>
+<SYNC Start=540579 End=543207><P>YNC Start=543207>You a hunter, then?</P></SYNC>
+<SYNC Start=543207 End=544708><P>YNC Start=544708>&nbsp;</P></SYNC>
+<SYNC Start=544708 End=546544><P>YNC Start=546544>That's right.</P></SYNC>
+<SYNC Start=546544 End=547545><P>YNC Start=547545>&nbsp;</P></SYNC>
+<SYNC Start=547545 End=549255><P>YNC Start=549255>Guild?</P></SYNC>
+<SYNC Start=549255 End=550339><P>YNC Start=550339>&nbsp;</P></SYNC>
+<SYNC Start=550339 End=551507><P>YNC Start=551507>Last I checked.</P></SYNC>
+<SYNC Start=551507 End=552675><P>YNC Start=552675>&nbsp;</P></SYNC>
+<SYNC Start=552675 End=557847><P>YNC Start=557847>Open the gate.</P></SYNC>
+<SYNC Start=557847 End=558889><P>YNC Start=558889>&nbsp;</P></SYNC>
+<SYNC Start=558889 End=608480><P>YNC Start=608480>Pardon me, vendor,have you heard of anyone...</P></SYNC>
+<SYNC Start=608480 End=611317><P>YNC Start=611317>&nbsp;</P></SYNC>
+<SYNC Start=611317 End=613569><P>YNC Start=613569>Hmm.</P></SYNC>
+<SYNC Start=613569 End=614737><P>YNC Start=614737>&nbsp;</P></SYNC>
+<SYNC Start=614737 End=622786><P>YNC Start=622786>You there.</P></SYNC>
+<SYNC Start=622786 End=623787><P>YNC Start=623787>&nbsp;</P></SYNC>
+<SYNC Start=623787 End=624330><P>YNC Start=624330>I need some information.</P></SYNC>
+<SYNC Start=624330 End=625623><P>YNC Start=625623>&nbsp;</P></SYNC>
+<SYNC Start=625623 End=626665><P>YNC Start=626665>I'm looking for someone.</P></SYNC>
+<SYNC Start=626665 End=628083><P>YNC Start=628083>&nbsp;</P></SYNC>
+<SYNC Start=628083 End=630085><P>YNC Start=630085>Okay, bye.</P></SYNC>
+<SYNC Start=630085 End=631504><P>YNC Start=631504>&nbsp;</P></SYNC>
+<SYNC Start=631504 End=633547><P>YNC Start=633547>Please, do not speak to them,or to any of us.</P></SYNC>
+<SYNC Start=633547 End=637259><P>YNC Start=637259>&nbsp;</P></SYNC>
+<SYNC Start=637259 End=637343><P>YNC Start=637343>Look, I just need to know...</P></SYNC>
+<SYNC Start=637343 End=639053><P>YNC Start=639053>&nbsp;</P></SYNC>
+<SYNC Start=639053 End=639136><P>YNC Start=639136>The Magistrate wants to see you.</P></SYNC>
+<SYNC Start=639136 End=641096><P>YNC Start=641096>&nbsp;</P></SYNC>
+<SYNC Start=641096 End=671210><P>YNC Start=671210>Help us.</P></SYNC>
+<SYNC Start=671210 End=672294><P>YNC Start=672294>&nbsp;</P></SYNC>
+<SYNC Start=672294 End=675464><P>YNC Start=675464>She'll kill us all.</P></SYNC>
+<SYNC Start=675464 End=676882><P>YNC Start=676882>&nbsp;</P></SYNC>
+<SYNC Start=676882 End=711500><P>YNC Start=711500>Come forward.</P></SYNC>
+<SYNC Start=711500 End=712668><P>YNC Start=712668>&nbsp;</P></SYNC>
+<SYNC Start=712668 End=718799><P>YNC Start=718799>You are a Mandalorian?</P></SYNC>
+<SYNC Start=718799 End=720426><P>YNC Start=720426>&nbsp;</P></SYNC>
+<SYNC Start=720426 End=721760><P>YNC Start=721760>Yes.</P></SYNC>
+<SYNC Start=721760 End=722803><P>YNC Start=722803>&nbsp;</P></SYNC>
+<SYNC Start=722803 End=724388><P>YNC Start=724388>I have a propositionthat may interest you.</P></SYNC>
+<SYNC Start=724388 End=727391><P>YNC Start=727391>&nbsp;</P></SYNC>
+<SYNC Start=727391 End=728100><P>YNC Start=728100>My price is high.</P></SYNC>
+<SYNC Start=728100 End=729310><P>YNC Start=729310>&nbsp;</P></SYNC>
+<SYNC Start=729310 End=736275><P>YNC Start=736275>This target is priceless.</P></SYNC>
+<SYNC Start=736275 End=739111><P>YNC Start=739111>&nbsp;</P></SYNC>
+<SYNC Start=739111 End=740279><P>YNC Start=740279>A Jedi plagues me.</P></SYNC>
+<SYNC Start=740279 End=741864><P>YNC Start=741864>&nbsp;</P></SYNC>
+<SYNC Start=741864 End=742740><P>YNC Start=742740>I want you to kill her.</P></SYNC>
+<SYNC Start=742740 End=744366><P>YNC Start=744366>&nbsp;</P></SYNC>
+<SYNC Start=744366 End=745451><P>YNC Start=745451>That's a difficult task.</P></SYNC>
+<SYNC Start=745451 End=747077><P>YNC Start=747077>&nbsp;</P></SYNC>
+<SYNC Start=747077 End=747161><P>YNC Start=747161>One that you are well-suited for.</P></SYNC>
+<SYNC Start=747161 End=749163><P>YNC Start=749163>&nbsp;</P></SYNC>
+<SYNC Start=749163 End=749663><P>YNC Start=749663>The Jedi arethe ancient enemy of Mandalore.</P></SYNC>
+<SYNC Start=749663 End=752833><P>YNC Start=752833>&nbsp;</P></SYNC>
+<SYNC Start=752833 End=752917><P>YNC Start=752917>As I said, my price is high.</P></SYNC>
+<SYNC Start=752917 End=755419><P>YNC Start=755419>&nbsp;</P></SYNC>
+<SYNC Start=755419 End=769350><P>YNC Start=769350>What do you make of this?</P></SYNC>
+<SYNC Start=769350 End=771477><P>YNC Start=771477>&nbsp;</P></SYNC>
+<SYNC Start=771477 End=801757><P>YNC Start=801757>Beskar.</P></SYNC>
+<SYNC Start=801757 End=802883><P>YNC Start=802883>&nbsp;</P></SYNC>
+<SYNC Start=802883 End=803843><P>YNC Start=803843>Pure beskar...</P></SYNC>
+<SYNC Start=803843 End=805719><P>YNC Start=805719>&nbsp;</P></SYNC>
+<SYNC Start=805719 End=807596><P>YNC Start=807596>like your armor.</P></SYNC>
+<SYNC Start=807596 End=808597><P>YNC Start=808597>&nbsp;</P></SYNC>
+<SYNC Start=808597 End=809640><P>YNC Start=809640>Kill the Jedi and it's yours.</P></SYNC>
+<SYNC Start=809640 End=813435><P>YNC Start=813435>&nbsp;</P></SYNC>
+<SYNC Start=813435 End=820276><P>YNC Start=820276>Where do I find this Jedi?</P></SYNC>
+<SYNC Start=820276 End=821902><P>YNC Start=821902>&nbsp;</P></SYNC>
+<SYNC Start=821902 End=847136><P>YNC Start=847136>What is that thing?</P></SYNC>
+<SYNC Start=847136 End=848304><P>YNC Start=848304>&nbsp;</P></SYNC>
+<SYNC Start=848304 End=850681><P>YNC Start=850681>I keep it around for luck.</P></SYNC>
+<SYNC Start=850681 End=852349><P>YNC Start=852349>&nbsp;</P></SYNC>
+<SYNC Start=852349 End=855978><P>YNC Start=855978>You're gonna need it where you're headed.</P></SYNC>
+<SYNC Start=855978 End=857855><P>YNC Start=857855>&nbsp;</P></SYNC>
+<SYNC Start=857855 End=921293><P>YNC Start=921293>Well, these are the coordinates.</P></SYNC>
+<SYNC Start=921293 End=923587><P>YNC Start=923587>&nbsp;</P></SYNC>
+<SYNC Start=923587 End=924213><P>YNC Start=924213>Keep your eyes open.</P></SYNC>
+<SYNC Start=924213 End=925297><P>YNC Start=925297>&nbsp;</P></SYNC>
+<SYNC Start=925297 End=925923><P>YNC Start=925923>We must be close.</P></SYNC>
+<SYNC Start=925923 End=927258><P>YNC Start=927258>&nbsp;</P></SYNC>
+<SYNC Start=927258 End=945025><P>YNC Start=945025>You hear that?</P></SYNC>
+<SYNC Start=945025 End=946318><P>YNC Start=946318>&nbsp;</P></SYNC>
+<SYNC Start=946318 End=947820><P>YNC Start=947820>Don't worry. Sit right here.Let me see what's out there.</P></SYNC>
+<SYNC Start=947820 End=951490><P>YNC Start=951490>&nbsp;</P></SYNC>
+<SYNC Start=951490 End=961167><P>YNC Start=961167>False alarm.</P></SYNC>
+<SYNC Start=961167 End=962376><P>YNC Start=962376>&nbsp;</P></SYNC>
+<SYNC Start=962376 End=976557><P>YNC Start=976557>Ahsoka Tano!</P></SYNC>
+<SYNC Start=976557 End=977600><P>YNC Start=977600>&nbsp;</P></SYNC>
+<SYNC Start=977600 End=979476><P>YNC Start=979476>Bo-Katan sent me.</P></SYNC>
+<SYNC Start=979476 End=981103><P>YNC Start=981103>&nbsp;</P></SYNC>
+<SYNC Start=981103 End=982521><P>YNC Start=982521>We need to talk.</P></SYNC>
+<SYNC Start=982521 End=983647><P>YNC Start=983647>&nbsp;</P></SYNC>
+<SYNC Start=983647 End=988485><P>YNC Start=988485>I hope it's about him.</P></SYNC>
+<SYNC Start=988485 End=989945><P>YNC Start=989945>&nbsp;</P></SYNC>
+<SYNC Start=989945 End=1114195><P>YNC Start=1114195>Is he speaking?</P></SYNC>
+<SYNC Start=1114195 End=1115487><P>YNC Start=1115487>&nbsp;</P></SYNC>
+<SYNC Start=1115487 End=1116655><P>YNC Start=1116655>Do you understand him?</P></SYNC>
+<SYNC Start=1116655 End=1118908><P>YNC Start=1118908>&nbsp;</P></SYNC>
+<SYNC Start=1118908 End=1125164><P>YNC Start=1125164>In a way.</P></SYNC>
+<SYNC Start=1125164 End=1126165><P>YNC Start=1126165>&nbsp;</P></SYNC>
+<SYNC Start=1126165 End=1127708><P>YNC Start=1127708>Grogu and I can feeleach other's thoughts.</P></SYNC>
+<SYNC Start=1127708 End=1129835><P>YNC Start=1129835>&nbsp;</P></SYNC>
+<SYNC Start=1129835 End=1131670><P>YNC Start=1131670>Grogu?</P></SYNC>
+<SYNC Start=1131670 End=1132713><P>YNC Start=1132713>&nbsp;</P></SYNC>
+<SYNC Start=1132713 End=1134089><P>YNC Start=1134089>Yes.</P></SYNC>
+<SYNC Start=1134089 End=1135174><P>YNC Start=1135174>&nbsp;</P></SYNC>
+<SYNC Start=1135174 End=1139261><P>YNC Start=1139261>That's his name.</P></SYNC>
+<SYNC Start=1139261 End=1140262><P>YNC Start=1140262>&nbsp;</P></SYNC>
+<SYNC Start=1140262 End=1147228><P>YNC Start=1147228>-Grogu.</P></SYNC>
+<SYNC Start=1147228 End=1148771><P>YNC Start=1148771>&nbsp;</P></SYNC>
+<SYNC Start=1148771 End=1152191><P>YNC Start=1152191>He was raisedat the Jedi Temple on Coruscant.</P></SYNC>
+<SYNC Start=1152191 End=1154652><P>YNC Start=1154652>&nbsp;</P></SYNC>
+<SYNC Start=1154652 End=1155861><P>YNC Start=1155861>Many Masters trained him over the years.</P></SYNC>
+<SYNC Start=1155861 End=1157905><P>YNC Start=1157905>&nbsp;</P></SYNC>
+<SYNC Start=1157905 End=1159740><P>YNC Start=1159740>At the end of the Clone Warswhen the Empire rose to power,</P></SYNC>
+<SYNC Start=1159740 End=1162451><P>YNC Start=1162451>&nbsp;</P></SYNC>
+<SYNC Start=1162451 End=1163702><P>YNC Start=1163702>he was hidden.</P></SYNC>
+<SYNC Start=1163702 End=1164703><P>YNC Start=1164703>&nbsp;</P></SYNC>
+<SYNC Start=1164703 End=1168082><P>YNC Start=1168082>Someone took him from the Temple.</P></SYNC>
+<SYNC Start=1168082 End=1170042><P>YNC Start=1170042>&nbsp;</P></SYNC>
+<SYNC Start=1170042 End=1173128><P>YNC Start=1173128>Then his memory becomes... dark.</P></SYNC>
+<SYNC Start=1173128 End=1176465><P>YNC Start=1176465>&nbsp;</P></SYNC>
+<SYNC Start=1176465 End=1178884><P>YNC Start=1178884>He seemed lost.</P></SYNC>
+<SYNC Start=1178884 End=1180010><P>YNC Start=1180010>&nbsp;</P></SYNC>
+<SYNC Start=1180010 End=1182346><P>YNC Start=1182346>Alone.</P></SYNC>
+<SYNC Start=1182346 End=1183347><P>YNC Start=1183347>&nbsp;</P></SYNC>
+<SYNC Start=1183347 End=1188352><P>YNC Start=1188352>I've only known one other being like this.</P></SYNC>
+<SYNC Start=1188352 End=1190479><P>YNC Start=1190479>&nbsp;</P></SYNC>
+<SYNC Start=1190479 End=1193899><P>YNC Start=1193899>A wise Jedi Master named Yoda.</P></SYNC>
+<SYNC Start=1193899 End=1196026><P>YNC Start=1196026>&nbsp;</P></SYNC>
+<SYNC Start=1196026 End=1204076><P>YNC Start=1204076>Can he still wield the Force?</P></SYNC>
+<SYNC Start=1204076 End=1205995><P>YNC Start=1205995>&nbsp;</P></SYNC>
+<SYNC Start=1205995 End=1208372><P>YNC Start=1208372>You mean his powers?</P></SYNC>
+<SYNC Start=1208372 End=1209832><P>YNC Start=1209832>&nbsp;</P></SYNC>
+<SYNC Start=1209832 End=1212877><P>YNC Start=1212877>The Force is what gives him his powers.</P></SYNC>
+<SYNC Start=1212877 End=1215296><P>YNC Start=1215296>&nbsp;</P></SYNC>
+<SYNC Start=1215296 End=1216589><P>YNC Start=1216589>It is an energy fieldcreated by all living things.</P></SYNC>
+<SYNC Start=1216589 End=1220426><P>YNC Start=1220426>&nbsp;</P></SYNC>
+<SYNC Start=1220426 End=1222678><P>YNC Start=1222678>To wield it takes a great dealof training and discipline.</P></SYNC>
+<SYNC Start=1222678 End=1226390><P>YNC Start=1226390>&nbsp;</P></SYNC>
+<SYNC Start=1226390 End=1228350><P>YNC Start=1228350>I've seen him do things I can't explain.</P></SYNC>
+<SYNC Start=1228350 End=1230895><P>YNC Start=1230895>&nbsp;</P></SYNC>
+<SYNC Start=1230895 End=1233981><P>YNC Start=1233981>My task was to bring him to a Jedi.</P></SYNC>
+<SYNC Start=1233981 End=1237484><P>YNC Start=1237484>&nbsp;</P></SYNC>
+<SYNC Start=1237484 End=1241530><P>YNC Start=1241530>The Jedi Order fell a long time ago.</P></SYNC>
+<SYNC Start=1241530 End=1243324><P>YNC Start=1243324>&nbsp;</P></SYNC>
+<SYNC Start=1243324 End=1244825><P>YNC Start=1244825>So did the Empire, yet it still hunts him.</P></SYNC>
+<SYNC Start=1244825 End=1247203><P>YNC Start=1247203>&nbsp;</P></SYNC>
+<SYNC Start=1247203 End=1249955><P>YNC Start=1249955>He needs your help.</P></SYNC>
+<SYNC Start=1249955 End=1250998><P>YNC Start=1250998>&nbsp;</P></SYNC>
+<SYNC Start=1250998 End=1267306><P>YNC Start=1267306>Let him sleep.</P></SYNC>
+<SYNC Start=1267306 End=1268307><P>YNC Start=1268307>&nbsp;</P></SYNC>
+<SYNC Start=1268307 End=1270768><P>YNC Start=1270768>I'll test him in the morning.</P></SYNC>
+<SYNC Start=1270768 End=1272311><P>YNC Start=1272311>&nbsp;</P></SYNC>
+<SYNC Start=1272311 End=1287701><P>YNC Start=1287701>Let's see what knowledgeis lurking inside that little mind.</P></SYNC>
+<SYNC Start=1287701 End=1290287><P>YNC Start=1290287>&nbsp;</P></SYNC>
+<SYNC Start=1290287 End=1336792><P>YNC Start=1336792>Now, return the stone to me, Grogu.</P></SYNC>
+<SYNC Start=1336792 End=1338544><P>YNC Start=1338544>&nbsp;</P></SYNC>
+<SYNC Start=1338544 End=1342339><P>YNC Start=1342339>He doesn't understand.</P></SYNC>
+<SYNC Start=1342339 End=1343883><P>YNC Start=1343883>&nbsp;</P></SYNC>
+<SYNC Start=1343883 End=1343966><P>YNC Start=1343966>He does.</P></SYNC>
+<SYNC Start=1343966 End=1345092><P>YNC Start=1345092>&nbsp;</P></SYNC>
+<SYNC Start=1345092 End=1348220><P>YNC Start=1348220>It's okay.</P></SYNC>
+<SYNC Start=1348220 End=1349346><P>YNC Start=1349346>&nbsp;</P></SYNC>
+<SYNC Start=1349346 End=1351765><P>YNC Start=1351765>The stone, Grogu.</P></SYNC>
+<SYNC Start=1351765 End=1352850><P>YNC Start=1352850>&nbsp;</P></SYNC>
+<SYNC Start=1352850 End=1379960><P>YNC Start=1379960>I sense much fear in you.</P></SYNC>
+<SYNC Start=1379960 End=1381462><P>YNC Start=1381462>&nbsp;</P></SYNC>
+<SYNC Start=1381462 End=1392640><P>YNC Start=1392640>He's hidden his abilitiesto survive over the years.</P></SYNC>
+<SYNC Start=1392640 End=1395226><P>YNC Start=1395226>&nbsp;</P></SYNC>
+<SYNC Start=1395226 End=1398145><P>YNC Start=1398145>Let's try something else.</P></SYNC>
+<SYNC Start=1398145 End=1399271><P>YNC Start=1399271>&nbsp;</P></SYNC>
+<SYNC Start=1399271 End=1399897><P>YNC Start=1399897>Come over here.</P></SYNC>
+<SYNC Start=1399897 End=1400898><P>YNC Start=1400898>&nbsp;</P></SYNC>
+<SYNC Start=1400898 End=1405361><P>YNC Start=1405361>-He's stubborn.-Not him.</P></SYNC>
+<SYNC Start=1405361 End=1407279><P>YNC Start=1407279>&nbsp;</P></SYNC>
+<SYNC Start=1407279 End=1407363><P>YNC Start=1407363>You.</P></SYNC>
+<SYNC Start=1407363 End=1408489><P>YNC Start=1408489>&nbsp;</P></SYNC>
+<SYNC Start=1408489 End=1409406><P>YNC Start=1409406>I want to see if he'll listen to you.</P></SYNC>
+<SYNC Start=1409406 End=1411033><P>YNC Start=1411033>&nbsp;</P></SYNC>
+<SYNC Start=1411033 End=1413536><P>YNC Start=1413536>That would be a first.</P></SYNC>
+<SYNC Start=1413536 End=1415120><P>YNC Start=1415120>&nbsp;</P></SYNC>
+<SYNC Start=1415120 End=1416163><P>YNC Start=1416163>I like firsts.</P></SYNC>
+<SYNC Start=1416163 End=1417248><P>YNC Start=1417248>&nbsp;</P></SYNC>
+<SYNC Start=1417248 End=1417331><P>YNC Start=1417331>Good or bad, they're always memorable.</P></SYNC>
+<SYNC Start=1417331 End=1419250><P>YNC Start=1419250>&nbsp;</P></SYNC>
+<SYNC Start=1419250 End=1421544><P>YNC Start=1421544>Now, hold the stone outin the palm of your hand.</P></SYNC>
+<SYNC Start=1421544 End=1423963><P>YNC Start=1423963>&nbsp;</P></SYNC>
+<SYNC Start=1423963 End=1424964><P>YNC Start=1424964>Tell him to lift it up.</P></SYNC>
+<SYNC Start=1424964 End=1426131><P>YNC Start=1426131>&nbsp;</P></SYNC>
+<SYNC Start=1426131 End=1428592><P>YNC Start=1428592>All right, kid.</P></SYNC>
+<SYNC Start=1428592 End=1430052><P>YNC Start=1430052>&nbsp;</P></SYNC>
+<SYNC Start=1430052 End=1430678><P>YNC Start=1430678>Lift the stone.</P></SYNC>
+<SYNC Start=1430678 End=1431762><P>YNC Start=1431762>&nbsp;</P></SYNC>
+<SYNC Start=1431762 End=1436433><P>YNC Start=1436433>Grogu.</P></SYNC>
+<SYNC Start=1436433 End=1437434><P>YNC Start=1437434>&nbsp;</P></SYNC>
+<SYNC Start=1437434 End=1444608><P>YNC Start=1444608>-Grogu...</P></SYNC>
+<SYNC Start=1444608 End=1445609><P>YNC Start=1445609>&nbsp;</P></SYNC>
+<SYNC Start=1445609 End=1446527><P>YNC Start=1446527>Come on, take the stone.</P></SYNC>
+<SYNC Start=1446527 End=1448904><P>YNC Start=1448904>&nbsp;</P></SYNC>
+<SYNC Start=1448904 End=1450114><P>YNC Start=1450114>-You see?</P></SYNC>
+<SYNC Start=1450114 End=1451991><P>YNC Start=1451991>&nbsp;</P></SYNC>
+<SYNC Start=1451991 End=1452700><P>YNC Start=1452700>I told you, he's stubborn.</P></SYNC>
+<SYNC Start=1452700 End=1453951><P>YNC Start=1453951>&nbsp;</P></SYNC>
+<SYNC Start=1453951 End=1454618><P>YNC Start=1454618>Try to connect with him.</P></SYNC>
+<SYNC Start=1454618 End=1456036><P>YNC Start=1456036>&nbsp;</P></SYNC>
+<SYNC Start=1456036 End=1480477><P>YNC Start=1480477>Grogu...</P></SYNC>
+<SYNC Start=1480477 End=1481729><P>YNC Start=1481729>&nbsp;</P></SYNC>
+<SYNC Start=1481729 End=1484773><P>YNC Start=1484773>Do you want this?</P></SYNC>
+<SYNC Start=1484773 End=1485941><P>YNC Start=1485941>&nbsp;</P></SYNC>
+<SYNC Start=1485941 End=1489153><P>YNC Start=1489153>Well, go ahead.</P></SYNC>
+<SYNC Start=1489153 End=1490196><P>YNC Start=1490196>&nbsp;</P></SYNC>
+<SYNC Start=1490196 End=1492489><P>YNC Start=1492489>That's right, take it.</P></SYNC>
+<SYNC Start=1492489 End=1493866><P>YNC Start=1493866>&nbsp;</P></SYNC>
+<SYNC Start=1493866 End=1495492><P>YNC Start=1495492>Come on. You can have it.</P></SYNC>
+<SYNC Start=1495492 End=1497870><P>YNC Start=1497870>&nbsp;</P></SYNC>
+<SYNC Start=1497870 End=1498579><P>YNC Start=1498579>Come on.</P></SYNC>
+<SYNC Start=1498579 End=1499580><P>YNC Start=1499580>&nbsp;</P></SYNC>
+<SYNC Start=1499580 End=1502249><P>YNC Start=1502249>Good job!</P></SYNC>
+<SYNC Start=1502249 End=1503375><P>YNC Start=1503375>&nbsp;</P></SYNC>
+<SYNC Start=1503375 End=1503459><P>YNC Start=1503459>Good job, kid.</P></SYNC>
+<SYNC Start=1503459 End=1504460><P>YNC Start=1504460>&nbsp;</P></SYNC>
+<SYNC Start=1504460 End=1505336><P>YNC Start=1505336>You see that?</P></SYNC>
+<SYNC Start=1505336 End=1506337><P>YNC Start=1506337>&nbsp;</P></SYNC>
+<SYNC Start=1506337 End=1507922><P>YNC Start=1507922>-That's right.</P></SYNC>
+<SYNC Start=1507922 End=1509089><P>YNC Start=1509089>&nbsp;</P></SYNC>
+<SYNC Start=1509089 End=1509173><P>YNC Start=1509173>I knew you could do it.</P></SYNC>
+<SYNC Start=1509173 End=1510382><P>YNC Start=1510382>&nbsp;</P></SYNC>
+<SYNC Start=1510382 End=1511383><P>YNC Start=1511383>Very good.</P></SYNC>
+<SYNC Start=1511383 End=1512384><P>YNC Start=1512384>&nbsp;</P></SYNC>
+<SYNC Start=1512384 End=1512468><P>YNC Start=1512468>He's formeda strong attachment to you.</P></SYNC>
+<SYNC Start=1512468 End=1514303><P>YNC Start=1514303>&nbsp;</P></SYNC>
+<SYNC Start=1514303 End=1519767><P>YNC Start=1519767>I cannot train him.</P></SYNC>
+<SYNC Start=1519767 End=1520851><P>YNC Start=1520851>&nbsp;</P></SYNC>
+<SYNC Start=1520851 End=1520935><P>YNC Start=1520935>What?</P></SYNC>
+<SYNC Start=1520935 End=1521936><P>YNC Start=1521936>&nbsp;</P></SYNC>
+<SYNC Start=1521936 End=1522853><P>YNC Start=1522853>Why not?</P></SYNC>
+<SYNC Start=1522853 End=1523854><P>YNC Start=1523854>&nbsp;</P></SYNC>
+<SYNC Start=1523854 End=1523938><P>YNC Start=1523938>You've seen what he can do.</P></SYNC>
+<SYNC Start=1523938 End=1525189><P>YNC Start=1525189>&nbsp;</P></SYNC>
+<SYNC Start=1525189 End=1525272><P>YNC Start=1525272>His attachment to youmakes him vulnerable to his fears.</P></SYNC>
+<SYNC Start=1525272 End=1528067><P>YNC Start=1528067>&nbsp;</P></SYNC>
+<SYNC Start=1528067 End=1529443><P>YNC Start=1529443>His anger.</P></SYNC>
+<SYNC Start=1529443 End=1530444><P>YNC Start=1530444>&nbsp;</P></SYNC>
+<SYNC Start=1530444 End=1530528><P>YNC Start=1530528>All the more reason to train him.</P></SYNC>
+<SYNC Start=1530528 End=1532029><P>YNC Start=1532029>&nbsp;</P></SYNC>
+<SYNC Start=1532029 End=1532112><P>YNC Start=1532112>No.</P></SYNC>
+<SYNC Start=1532112 End=1533155><P>YNC Start=1533155>&nbsp;</P></SYNC>
+<SYNC Start=1533155 End=1535241><P>YNC Start=1535241>I've seen what such feelings can doto a fully trained Jedi Knight.</P></SYNC>
+<SYNC Start=1535241 End=1538410><P>YNC Start=1538410>&nbsp;</P></SYNC>
+<SYNC Start=1538410 End=1540162><P>YNC Start=1540162>To the best of us.</P></SYNC>
+<SYNC Start=1540162 End=1541163><P>YNC Start=1541163>&nbsp;</P></SYNC>
+<SYNC Start=1541163 End=1545543><P>YNC Start=1545543>I will not start this childdown that path.</P></SYNC>
+<SYNC Start=1545543 End=1547670><P>YNC Start=1547670>&nbsp;</P></SYNC>
+<SYNC Start=1547670 End=1549129><P>YNC Start=1549129>Better to let his abilities fade.</P></SYNC>
+<SYNC Start=1549129 End=1550923><P>YNC Start=1550923>&nbsp;</P></SYNC>
+<SYNC Start=1550923 End=1553217><P>YNC Start=1553217>I've delayed too long.I must get back to the village.</P></SYNC>
+<SYNC Start=1553217 End=1555970><P>YNC Start=1555970>&nbsp;</P></SYNC>
+<SYNC Start=1555970 End=1557805><P>YNC Start=1557805>The Magistrate sent me to kill you.</P></SYNC>
+<SYNC Start=1557805 End=1559890><P>YNC Start=1559890>&nbsp;</P></SYNC>
+<SYNC Start=1559890 End=1564854><P>YNC Start=1564854>I didn't agree to anything.</P></SYNC>
+<SYNC Start=1564854 End=1566188><P>YNC Start=1566188>&nbsp;</P></SYNC>
+<SYNC Start=1566188 End=1567565><P>YNC Start=1567565>And I'll help you with your problem,</P></SYNC>
+<SYNC Start=1567565 End=1569400><P>YNC Start=1569400>&nbsp;</P></SYNC>
+<SYNC Start=1569400 End=1569483><P>YNC Start=1569483>if you see to itthat Grogu is properly trained.</P></SYNC>
+<SYNC Start=1569483 End=1572945><P>YNC Start=1572945>&nbsp;</P></SYNC>
+<SYNC Start=1572945 End=1580035><P>YNC Start=1580035>She has a small armyof guards armed with A350 blaster rifles,</P></SYNC>
+<SYNC Start=1580035 End=1583789><P>YNC Start=1583789>&nbsp;</P></SYNC>
+<SYNC Start=1583789 End=1584498><P>YNC Start=1584498>two HK-87 assassin droids,and a hired gunfighter.</P></SYNC>
+<SYNC Start=1584498 End=1588544><P>YNC Start=1588544>&nbsp;</P></SYNC>
+<SYNC Start=1588544 End=1589628><P>YNC Start=1589628>He reads ex-military to me.</P></SYNC>
+<SYNC Start=1589628 End=1591130><P>YNC Start=1591130>&nbsp;</P></SYNC>
+<SYNC Start=1591130 End=1592047><P>YNC Start=1592047>Combined, not even your laser swords</P></SYNC>
+<SYNC Start=1592047 End=1594175><P>YNC Start=1594175>&nbsp;</P></SYNC>
+<SYNC Start=1594175 End=1594258><P>YNC Start=1594258>would be able to protect youfrom all that firepower.</P></SYNC>
+<SYNC Start=1594258 End=1596969><P>YNC Start=1596969>&nbsp;</P></SYNC>
+<SYNC Start=1596969 End=1599805><P>YNC Start=1599805>True.</P></SYNC>
+<SYNC Start=1599805 End=1600806><P>YNC Start=1600806>&nbsp;</P></SYNC>
+<SYNC Start=1600806 End=1601807><P>YNC Start=1601807>But don't underestimatethe Magistrate either.</P></SYNC>
+<SYNC Start=1601807 End=1604101><P>YNC Start=1604101>&nbsp;</P></SYNC>
+<SYNC Start=1604101 End=1604476><P>YNC Start=1604476>Who is she?</P></SYNC>
+<SYNC Start=1604476 End=1605477><P>YNC Start=1605477>&nbsp;</P></SYNC>
+<SYNC Start=1605477 End=1606979><P>YNC Start=1606979>She offered me a staffof pure beskar to kill you.</P></SYNC>
+<SYNC Start=1606979 End=1609732><P>YNC Start=1609732>&nbsp;</P></SYNC>
+<SYNC Start=1609732 End=1615112><P>YNC Start=1615112>Morgan Elsbeth.</P></SYNC>
+<SYNC Start=1615112 End=1616113><P>YNC Start=1616113>&nbsp;</P></SYNC>
+<SYNC Start=1616113 End=1617448><P>YNC Start=1617448>During the Clone Wars,her people were massacred.</P></SYNC>
+<SYNC Start=1617448 End=1619658><P>YNC Start=1619658>&nbsp;</P></SYNC>
+<SYNC Start=1619658 End=1620326><P>YNC Start=1620326>She survivedand let her anger fuel an industry</P></SYNC>
+<SYNC Start=1620326 End=1623120><P>YNC Start=1623120>&nbsp;</P></SYNC>
+<SYNC Start=1623120 End=1623204><P>YNC Start=1623204>which helped build the Imperial Starfleet.</P></SYNC>
+<SYNC Start=1623204 End=1625372><P>YNC Start=1625372>&nbsp;</P></SYNC>
+<SYNC Start=1625372 End=1627541><P>YNC Start=1627541>She plundered worlds,</P></SYNC>
+<SYNC Start=1627541 End=1628751><P>YNC Start=1628751>&nbsp;</P></SYNC>
+<SYNC Start=1628751 End=1630252><P>YNC Start=1630252>destroying them in the process.</P></SYNC>
+<SYNC Start=1630252 End=1631629><P>YNC Start=1631629>&nbsp;</P></SYNC>
+<SYNC Start=1631629 End=1633255><P>YNC Start=1633255>Yeah, it looks likeshe's still in business.</P></SYNC>
+<SYNC Start=1633255 End=1635758><P>YNC Start=1635758>&nbsp;</P></SYNC>
+<SYNC Start=1635758 End=1640095><P>YNC Start=1640095>When you were in the citydid you see any prisoners?</P></SYNC>
+<SYNC Start=1640095 End=1643015><P>YNC Start=1643015>&nbsp;</P></SYNC>
+<SYNC Start=1643015 End=1644183><P>YNC Start=1644183>I saw three villagersstrung up just outside the inner gate.</P></SYNC>
+<SYNC Start=1644183 End=1647770><P>YNC Start=1647770>&nbsp;</P></SYNC>
+<SYNC Start=1647770 End=1648979><P>YNC Start=1648979>We must find a way to free them.</P></SYNC>
+<SYNC Start=1648979 End=1650564><P>YNC Start=1650564>&nbsp;</P></SYNC>
+<SYNC Start=1650564 End=1651148><P>YNC Start=1651148>A Mandalorian and a Jedi?</P></SYNC>
+<SYNC Start=1651148 End=1652900><P>YNC Start=1652900>&nbsp;</P></SYNC>
+<SYNC Start=1652900 End=1654193><P>YNC Start=1654193>They'll never see it coming.</P></SYNC>
+<SYNC Start=1654193 End=1655694><P>YNC Start=1655694>&nbsp;</P></SYNC>
+<SYNC Start=1655694 End=1692064><P>YNC Start=1692064>It's her! Sound the alarm!</P></SYNC>
+<SYNC Start=1692064 End=1693357><P>YNC Start=1693357>&nbsp;</P></SYNC>
+<SYNC Start=1693357 End=1806303><P>YNC Start=1806303>Your bounty hunter failed.</P></SYNC>
+<SYNC Start=1806303 End=1808556><P>YNC Start=1808556>&nbsp;</P></SYNC>
+<SYNC Start=1808556 End=1809849><P>YNC Start=1809849>Tell me what I want to know.</P></SYNC>
+<SYNC Start=1809849 End=1811267><P>YNC Start=1811267>&nbsp;</P></SYNC>
+<SYNC Start=1811267 End=1814228><P>YNC Start=1814228>Where is your master?</P></SYNC>
+<SYNC Start=1814228 End=1815521><P>YNC Start=1815521>&nbsp;</P></SYNC>
+<SYNC Start=1815521 End=1819024><P>YNC Start=1819024>Kill her.</P></SYNC>
+<SYNC Start=1819024 End=1820276><P>YNC Start=1820276>&nbsp;</P></SYNC>
+<SYNC Start=1820276 End=1820359><P>YNC Start=1820359>Love to.</P></SYNC>
+<SYNC Start=1820359 End=1821485><P>YNC Start=1821485>&nbsp;</P></SYNC>
+<SYNC Start=1821485 End=1838586><P>YNC Start=1838586>I'll take care of this.</P></SYNC>
+<SYNC Start=1838586 End=1840129><P>YNC Start=1840129>&nbsp;</P></SYNC>
+<SYNC Start=1840129 End=1840212><P>YNC Start=1840212>Take them with you.</P></SYNC>
+<SYNC Start=1840212 End=1841297><P>YNC Start=1841297>&nbsp;</P></SYNC>
+<SYNC Start=1841297 End=1846427><P>YNC Start=1846427>Execute them.</P></SYNC>
+<SYNC Start=1846427 End=1847469><P>YNC Start=1847469>&nbsp;</P></SYNC>
+<SYNC Start=1847469 End=1848429><P>YNC Start=1848429>Then go door to door.</P></SYNC>
+<SYNC Start=1848429 End=1849722><P>YNC Start=1849722>&nbsp;</P></SYNC>
+<SYNC Start=1849722 End=1852850><P>YNC Start=1852850>Please, don't!</P></SYNC>
+<SYNC Start=1852850 End=1855019><P>YNC Start=1855019>&nbsp;</P></SYNC>
+<SYNC Start=1855019 End=1956370><P>YNC Start=1956370>Get up there!</P></SYNC>
+<SYNC Start=1956370 End=1957371><P>YNC Start=1957371>&nbsp;</P></SYNC>
+<SYNC Start=1957371 End=1963752><P>YNC Start=1963752>- Get inside!- Go.</P></SYNC>
+<SYNC Start=1963752 End=1965588><P>YNC Start=1965588>&nbsp;</P></SYNC>
+<SYNC Start=1965588 End=1993073><P>YNC Start=1993073>So, you threw in with the Jedi.</P></SYNC>
+<SYNC Start=1993073 End=1994909><P>YNC Start=1994909>&nbsp;</P></SYNC>
+<SYNC Start=1994909 End=1996619><P>YNC Start=1996619>Looks that way.</P></SYNC>
+<SYNC Start=1996619 End=1998287><P>YNC Start=1998287>&nbsp;</P></SYNC>
+<SYNC Start=1998287 End=2099555><P>YNC Start=2099555>Who do you think's gonna win?</P></SYNC>
+<SYNC Start=2099555 End=2101140><P>YNC Start=2101140>&nbsp;</P></SYNC>
+<SYNC Start=2101140 End=2103851><P>YNC Start=2103851>Could be your side...</P></SYNC>
+<SYNC Start=2103851 End=2105311><P>YNC Start=2105311>&nbsp;</P></SYNC>
+<SYNC Start=2105311 End=2108063><P>YNC Start=2108063>could be my side.</P></SYNC>
+<SYNC Start=2108063 End=2109190><P>YNC Start=2109190>&nbsp;</P></SYNC>
+<SYNC Start=2109190 End=2143140><P>YNC Start=2143140>I got no quarrelwith you, Mandalorian.</P></SYNC>
+<SYNC Start=2143140 End=2145434><P>YNC Start=2145434>&nbsp;</P></SYNC>
+<SYNC Start=2145434 End=2146143><P>YNC Start=2146143>That's far enough.</P></SYNC>
+<SYNC Start=2146143 End=2147520><P>YNC Start=2147520>&nbsp;</P></SYNC>
+<SYNC Start=2147520 End=2161825><P>YNC Start=2161825>You and I, we're a lot alike.</P></SYNC>
+<SYNC Start=2161825 End=2163452><P>YNC Start=2163452>&nbsp;</P></SYNC>
+<SYNC Start=2163452 End=2165287><P>YNC Start=2165287>Willing to lay our lives downfor the right cause.</P></SYNC>
+<SYNC Start=2165287 End=2167832><P>YNC Start=2167832>&nbsp;</P></SYNC>
+<SYNC Start=2167832 End=2173504><P>YNC Start=2173504>Which this is not.</P></SYNC>
+<SYNC Start=2173504 End=2174797><P>YNC Start=2174797>&nbsp;</P></SYNC>
+<SYNC Start=2174797 End=2201323><P>YNC Start=2201323>Sounds like you win.</P></SYNC>
+<SYNC Start=2201323 End=2202366><P>YNC Start=2202366>&nbsp;</P></SYNC>
+<SYNC Start=2202366 End=2235858><P>YNC Start=2235858>Behind you!</P></SYNC>
+<SYNC Start=2235858 End=2236859><P>YNC Start=2236859>&nbsp;</P></SYNC>
+<SYNC Start=2236859 End=2243574><P>YNC Start=2243574>Now, tell me.</P></SYNC>
+<SYNC Start=2243574 End=2244700><P>YNC Start=2244700>&nbsp;</P></SYNC>
+<SYNC Start=2244700 End=2245951><P>YNC Start=2245951>Where is your master?</P></SYNC>
+<SYNC Start=2245951 End=2247411><P>YNC Start=2247411>&nbsp;</P></SYNC>
+<SYNC Start=2247411 End=2249163><P>YNC Start=2249163>Where is Grand Admiral Thrawn?</P></SYNC>
+<SYNC Start=2249163 End=2251582><P>YNC Start=2251582>&nbsp;</P></SYNC>
+<SYNC Start=2251582 End=2270559><P>YNC Start=2270559>I believe this was your payment.</P></SYNC>
+<SYNC Start=2270559 End=2273437><P>YNC Start=2273437>&nbsp;</P></SYNC>
+<SYNC Start=2273437 End=2276190><P>YNC Start=2276190>No.</P></SYNC>
+<SYNC Start=2276190 End=2277191><P>YNC Start=2277191>&nbsp;</P></SYNC>
+<SYNC Start=2277191 End=2277274><P>YNC Start=2277274>I can't accept.</P></SYNC>
+<SYNC Start=2277274 End=2278275><P>YNC Start=2278275>&nbsp;</P></SYNC>
+<SYNC Start=2278275 End=2280653><P>YNC Start=2280653>I didn't finish the job.</P></SYNC>
+<SYNC Start=2280653 End=2282363><P>YNC Start=2282363>&nbsp;</P></SYNC>
+<SYNC Start=2282363 End=2283364><P>YNC Start=2283364>No.</P></SYNC>
+<SYNC Start=2283364 End=2284532><P>YNC Start=2284532>&nbsp;</P></SYNC>
+<SYNC Start=2284532 End=2285950><P>YNC Start=2285950>But this belongs with a Mandalorian.</P></SYNC>
+<SYNC Start=2285950 End=2288869><P>YNC Start=2288869>&nbsp;</P></SYNC>
+<SYNC Start=2288869 End=2299713><P>YNC Start=2299713>Where is your little friend?</P></SYNC>
+<SYNC Start=2299713 End=2301257><P>YNC Start=2301257>&nbsp;</P></SYNC>
+<SYNC Start=2301257 End=2303884><P>YNC Start=2303884>Back at the ship.</P></SYNC>
+<SYNC Start=2303884 End=2305511><P>YNC Start=2305511>&nbsp;</P></SYNC>
+<SYNC Start=2305511 End=2306136><P>YNC Start=2306136>Wait here, I'll go get him.</P></SYNC>
+<SYNC Start=2306136 End=2308305><P>YNC Start=2308305>&nbsp;</P></SYNC>
+<SYNC Start=2308305 End=2359064><P>YNC Start=2359064>Wake up, buddy.</P></SYNC>
+<SYNC Start=2359064 End=2360232><P>YNC Start=2360232>&nbsp;</P></SYNC>
+<SYNC Start=2360232 End=2361233><P>YNC Start=2361233>It's time to say goodbye.</P></SYNC>
+<SYNC Start=2361233 End=2362943><P>YNC Start=2362943>&nbsp;</P></SYNC>
+<SYNC Start=2362943 End=2397520><P>YNC Start=2397520>You're like a father to him.</P></SYNC>
+<SYNC Start=2397520 End=2399104><P>YNC Start=2399104>&nbsp;</P></SYNC>
+<SYNC Start=2399104 End=2403651><P>YNC Start=2403651>I cannot train him.</P></SYNC>
+<SYNC Start=2403651 End=2404777><P>YNC Start=2404777>&nbsp;</P></SYNC>
+<SYNC Start=2404777 End=2410032><P>YNC Start=2410032>You made me a promise,and I held up my end.</P></SYNC>
+<SYNC Start=2410032 End=2413160><P>YNC Start=2413160>&nbsp;</P></SYNC>
+<SYNC Start=2413160 End=2422336><P>YNC Start=2422336>There is one possibility.</P></SYNC>
+<SYNC Start=2422336 End=2423963><P>YNC Start=2423963>&nbsp;</P></SYNC>
+<SYNC Start=2423963 End=2425673><P>YNC Start=2425673>Go to the planet Tython.</P></SYNC>
+<SYNC Start=2425673 End=2426799><P>YNC Start=2426799>&nbsp;</P></SYNC>
+<SYNC Start=2426799 End=2428467><P>YNC Start=2428467>You will findthe ancient ruins of a temple</P></SYNC>
+<SYNC Start=2428467 End=2430553><P>YNC Start=2430553>&nbsp;</P></SYNC>
+<SYNC Start=2430553 End=2430636><P>YNC Start=2430636>that has a strong connection to the Force.</P></SYNC>
+<SYNC Start=2430636 End=2432888><P>YNC Start=2432888>&nbsp;</P></SYNC>
+<SYNC Start=2432888 End=2434348><P>YNC Start=2434348>Place Grogu on the seeing stoneat the top of the mountain.</P></SYNC>
+<SYNC Start=2434348 End=2436851><P>YNC Start=2436851>&nbsp;</P></SYNC>
+<SYNC Start=2436851 End=2438018><P>YNC Start=2438018>Then what?</P></SYNC>
+<SYNC Start=2438018 End=2439019><P>YNC Start=2439019>&nbsp;</P></SYNC>
+<SYNC Start=2439019 End=2439103><P>YNC Start=2439103>Then Grogu may choose his path.</P></SYNC>
+<SYNC Start=2439103 End=2441021><P>YNC Start=2441021>&nbsp;</P></SYNC>
+<SYNC Start=2441021 End=2443315><P>YNC Start=2443315>If he reaches out through the Force,</P></SYNC>
+<SYNC Start=2443315 End=2445234><P>YNC Start=2445234>&nbsp;</P></SYNC>
+<SYNC Start=2445234 End=2445317><P>YNC Start=2445317>there's a chance a Jedi may sensehis presence and come searching for him.</P></SYNC>
+<SYNC Start=2445317 End=2449071><P>YNC Start=2449071>&nbsp;</P></SYNC>
+<SYNC Start=2449071 End=2452658><P>YNC Start=2452658>Then again,</P></SYNC>
+<SYNC Start=2452658 End=2453659><P>YNC Start=2453659>&nbsp;</P></SYNC>
+<SYNC Start=2453659 End=2456161><P>YNC Start=2456161>there aren't many Jedi left.</P></SYNC>
+<SYNC Start=2456161 End=2457621><P>YNC Start=2457621>&nbsp;</P></SYNC>
+<SYNC Start=2457621 End=2462793><P>YNC Start=2462793>Thank you.</P></SYNC>
+<SYNC Start=2462793 End=2463836><P>YNC Start=2463836>&nbsp;</P></SYNC>
+<SYNC Start=2463836 End=2465045><P>YNC Start=2465045>May the Force be with you.</P></SYNC>
+<SYNC Start=2465045 End=2466547><P>YNC Start=2466547>&nbsp;</P></SYNC>
+</BODY>
+</SAMI>

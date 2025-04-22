@@ -1,0 +1,725 @@
+<SAMI>
+<HEAD>
+<TITLE>file</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=6916 End=6916><P>YNC Start=1916><P Class=ENUSCC>Oh.</P></SYNC>
+<SYNC Start=6916 End=8000><P>YNC Start=3000><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=8000 End=8083><P>YNC Start=3083><P Class=ENUSCC>Is that me?</P></SYNC>
+<SYNC Start=8083 End=9460><P>YNC Start=4460><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=9460 End=10628><P>YNC Start=5628><P Class=ENUSCC>There must be some mistake.</P></SYNC>
+<SYNC Start=10628 End=11879><P>YNC Start=6879><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=11879 End=11962><P>YNC Start=6962><P Class=ENUSCC>-I can get you more credits.<br>-I can bring you in warm...</P></SYNC>
+<SYNC Start=11962 End=14924><P>YNC Start=9924><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=14924 End=16634><P>YNC Start=11634><P Class=ENUSCC>Or I can bring you in cold.</P></SYNC>
+<SYNC Start=16634 End=17968><P>YNC Start=12968><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=17968 End=25184><P>YNC Start=20184><P Class=ENUSCC>Yes, yes, yes!</P></SYNC>
+<SYNC Start=25184 End=26685><P>YNC Start=21685><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=26685 End=28062><P>YNC Start=23062><P Class=ENUSCC>-Very healthy.<br>-What are your plans for it?</P></SYNC>
+<SYNC Start=28062 End=30814><P>YNC Start=25814><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=30814 End=30898><P>YNC Start=25898><P Class=ENUSCC>This asset<br>was of extreme importance to me.</P></SYNC>
+<SYNC Start=30898 End=34068><P>YNC Start=29068><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=34068 End=34151><P>YNC Start=29151><P Class=ENUSCC>-What did you do to it?</P></SYNC>
+<SYNC Start=34151 End=36195><P>YNC Start=31195><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=36195 End=36278><P>YNC Start=31278><P Class=ENUSCC>Don't hurt him. It's just a child.</P></SYNC>
+<SYNC Start=36278 End=37947><P>YNC Start=32947><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=37947 End=38030><P>YNC Start=33030><P Class=ENUSCC><i><font color=#80ffff>Cara Dune here was a veteran.</i></font></P></SYNC>
+<SYNC Start=38030 End=39740><P>YNC Start=34740><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=39740 End=39823><P>YNC Start=34823><P Class=ENUSCC><i><font color=#80ffff>She was a drop soldier for the Rebellion.</i></font></P></SYNC>
+<SYNC Start=39823 End=41408><P>YNC Start=36408><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=41408 End=50960><P>YNC Start=45960><P Class=ENUSCC>You're staying here?</P></SYNC>
+<SYNC Start=50960 End=52545><P>YNC Start=47545><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=52545 End=52628><P>YNC Start=47628><P Class=ENUSCC>Nevarro is a very fine planet.</P></SYNC>
+<SYNC Start=52628 End=54547><P>YNC Start=49547><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=54547 End=54630><P>YNC Start=49630><P Class=ENUSCC>And now that the scum and villainy<br>have been washed away,</P></SYNC>
+<SYNC Start=54630 End=57675><P>YNC Start=52675><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=57675 End=57758><P>YNC Start=52758><P Class=ENUSCC>it's very respectable again.</P></SYNC>
+<SYNC Start=57758 End=59176><P>YNC Start=54176><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=59176 End=60427><P>YNC Start=55427><P Class=ENUSCC>Hang on, kid.<br>It's gonna be a bumpy ride,</P></SYNC>
+<SYNC Start=60427 End=62721><P>YNC Start=57721><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=62721 End=62805><P>YNC Start=57805><P Class=ENUSCC>but I finally know where I'm taking you.</P></SYNC>
+<SYNC Start=62805 End=64890><P>YNC Start=59890><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=64890 End=101218><P>YNC Start=96218><P Class=ENUSCC>All right, let's try this again.</P></SYNC>
+<SYNC Start=101218 End=104013><P>YNC Start=99013><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=104013 End=106098><P>YNC Start=101098><P Class=ENUSCC>Okay, did you... Do you have the wire?</P></SYNC>
+<SYNC Start=106098 End=108267><P>YNC Start=103267><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=108267 End=110978><P>YNC Start=105978><P Class=ENUSCC>No. Nothing.</P></SYNC>
+<SYNC Start=110978 End=112229><P>YNC Start=107229><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=112229 End=113981><P>YNC Start=108981><P Class=ENUSCC>Hey...</P></SYNC>
+<SYNC Start=113981 End=115858><P>YNC Start=110858><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=115858 End=116275><P>YNC Start=111275><P Class=ENUSCC>Oh.</P></SYNC>
+<SYNC Start=116275 End=117902><P>YNC Start=112902><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=117902 End=119737><P>YNC Start=114737><P Class=ENUSCC>Okay. Did you get the wire out?</P></SYNC>
+<SYNC Start=119737 End=122573><P>YNC Start=117573><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=122573 End=122656><P>YNC Start=117656><P Class=ENUSCC>The red wire?</P></SYNC>
+<SYNC Start=122656 End=123866><P>YNC Start=118866><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=123866 End=125159><P>YNC Start=120159><P Class=ENUSCC>Huh?</P></SYNC>
+<SYNC Start=125159 End=126160><P>YNC Start=121160><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=126160 End=126243><P>YNC Start=121243><P Class=ENUSCC>No, no, no. No, the red one.<br>Show me the red wire.</P></SYNC>
+<SYNC Start=126243 End=129538><P>YNC Start=124538><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=129538 End=131081><P>YNC Start=126081><P Class=ENUSCC>The red one.</P></SYNC>
+<SYNC Start=131081 End=132082><P>YNC Start=127082><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=132082 End=132666><P>YNC Start=127666><P Class=ENUSCC>-Yes, good.</P></SYNC>
+<SYNC Start=132666 End=134210><P>YNC Start=129210><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=134210 End=134293><P>YNC Start=129293><P Class=ENUSCC>Now, you're going to plug that red wire<br>where the blue wire goes in the board.</P></SYNC>
+<SYNC Start=134293 End=138797><P>YNC Start=133797><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=138797 End=141300><P>YNC Start=136300><P Class=ENUSCC>Put the red wire where<br>the blue wire goes in the board, okay?</P></SYNC>
+<SYNC Start=141300 End=145554><P>YNC Start=140554><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=145554 End=146472><P>YNC Start=141472><P Class=ENUSCC>But don't let them touch.</P></SYNC>
+<SYNC Start=146472 End=147640><P>YNC Start=142640><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=147640 End=149475><P>YNC Start=144475><P Class=ENUSCC>You see where you took the blue one off?</P></SYNC>
+<SYNC Start=149475 End=151477><P>YNC Start=146477><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=151477 End=152269><P>YNC Start=147269><P Class=ENUSCC>-Yes, now put the red one...</P></SYNC>
+<SYNC Start=152269 End=154605><P>YNC Start=149605><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=154605 End=154688><P>YNC Start=149688><P Class=ENUSCC>No, don't put the blue one back.<br>Put the red one where the blue one was.</P></SYNC>
+<SYNC Start=154688 End=159902><P>YNC Start=154902><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=159902 End=160611><P>YNC Start=155611><P Class=ENUSCC>And put the blue one<br>where the red one was.</P></SYNC>
+<SYNC Start=160611 End=163072><P>YNC Start=158072><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=163072 End=164406><P>YNC Start=159406><P Class=ENUSCC>-But be careful.</P></SYNC>
+<SYNC Start=164406 End=165741><P>YNC Start=160741><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=165741 End=165824><P>YNC Start=160824><P Class=ENUSCC>They're oppositely charged,<br>so keep them away from each other.</P></SYNC>
+<SYNC Start=165824 End=169203><P>YNC Start=164203><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=169203 End=169286><P>YNC Start=164286><P Class=ENUSCC>Make sure you hold them apart from...</P></SYNC>
+<SYNC Start=169286 End=171539><P>YNC Start=166539><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=171539 End=171622><P>YNC Start=166622><P Class=ENUSCC>No, hold them apart.</P></SYNC>
+<SYNC Start=171622 End=172873><P>YNC Start=167873><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=172873 End=172957><P>YNC Start=167957><P Class=ENUSCC>Oh! Uh-uh...</P></SYNC>
+<SYNC Start=172957 End=174041><P>YNC Start=169041><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=174041 End=176001><P>YNC Start=171001><P Class=ENUSCC>Oh...</P></SYNC>
+<SYNC Start=176001 End=177461><P>YNC Start=172461><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=177461 End=179630><P>YNC Start=174630><P Class=ENUSCC>Are you okay?</P></SYNC>
+<SYNC Start=179630 End=180840><P>YNC Start=175840><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=180840 End=186470><P>YNC Start=181470><P Class=ENUSCC>Well, it was worth a shot.</P></SYNC>
+<SYNC Start=186470 End=187763><P>YNC Start=182763><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=187763 End=193686><P>YNC Start=188686><P Class=ENUSCC>There's no way<br>we're making it to Corvus in this shape.</P></SYNC>
+<SYNC Start=193686 End=195980><P>YNC Start=190980><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=195980 End=204446><P>YNC Start=199446><P Class=ENUSCC>I think we need<br>to visit some friends for repairs.</P></SYNC>
+<SYNC Start=204446 End=206699><P>YNC Start=201699><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=206699 End=210119><P>YNC Start=205119><P Class=ENUSCC>So, how'd you like to go back to Nevarro?</P></SYNC>
+<SYNC Start=210119 End=212121><P>YNC Start=207121><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=212121 End=334869><P>YNC Start=329869><P Class=ENUSCC>Hey!</P></SYNC>
+<SYNC Start=334869 End=335870><P>YNC Start=330870><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=335870 End=337037><P>YNC Start=332037><P Class=ENUSCC>Okay. Oh. Oh...</P></SYNC>
+<SYNC Start=337037 End=338539><P>YNC Start=333539><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=338539 End=339248><P>YNC Start=334248><P Class=ENUSCC>Okay, little guy.</P></SYNC>
+<SYNC Start=339248 End=340332><P>YNC Start=335332><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=340332 End=340916><P>YNC Start=335916><P Class=ENUSCC>No one's eating you today.</P></SYNC>
+<SYNC Start=340916 End=342960><P>YNC Start=337960><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=342960 End=344879><P>YNC Start=339879><P Class=ENUSCC>Go on, you're free.</P></SYNC>
+<SYNC Start=344879 End=346380><P>YNC Start=341380><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=346380 End=348340><P>YNC Start=343340><P Class=ENUSCC>Go on. Git.</P></SYNC>
+<SYNC Start=348340 End=349967><P>YNC Start=344967><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=349967 End=355514><P>YNC Start=350514><P Class=ENUSCC>Okay, look.</P></SYNC>
+<SYNC Start=355514 End=356515><P>YNC Start=351515><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=356515 End=357600><P>YNC Start=352600><P Class=ENUSCC>Here you go.</P></SYNC>
+<SYNC Start=357600 End=358642><P>YNC Start=353642><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=358642 End=359226><P>YNC Start=354226><P Class=ENUSCC>That's all I got.</P></SYNC>
+<SYNC Start=359226 End=360227><P>YNC Start=355227><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=360227 End=361645><P>YNC Start=356645><P Class=ENUSCC>Now, I need to return<br>all these things to the rightful owners.</P></SYNC>
+<SYNC Start=361645 End=364648><P>YNC Start=359648><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=364648 End=425709><P>YNC Start=420709><P Class=ENUSCC>Looks like someone<br>could use some repairs.</P></SYNC>
+<SYNC Start=425709 End=428045><P>YNC Start=423045><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=428045 End=437596><P>YNC Start=432596><P Class=ENUSCC>How's my credit around here?</P></SYNC>
+<SYNC Start=437596 End=439306><P>YNC Start=434306><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=439306 End=439390><P>YNC Start=434390><P Class=ENUSCC>I think something could be arranged.<br>Isn't that right, Marshal?</P></SYNC>
+<SYNC Start=439390 End=442226><P>YNC Start=437226><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=442226 End=443435><P>YNC Start=438435><P Class=ENUSCC>I'm sure we can work somethin' out.</P></SYNC>
+<SYNC Start=443435 End=445229><P>YNC Start=440229><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=445229 End=447064><P>YNC Start=442064><P Class=ENUSCC>I'll get my best people on it.</P></SYNC>
+<SYNC Start=447064 End=448649><P>YNC Start=443649><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=448649 End=448732><P>YNC Start=443732><P Class=ENUSCC>Hey, fellas!</P></SYNC>
+<SYNC Start=448732 End=449733><P>YNC Start=444733><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=449733 End=450317><P>YNC Start=445317><P Class=ENUSCC>Let's fix this man's ship!<br>I want it as good as new.</P></SYNC>
+<SYNC Start=450317 End=452570><P>YNC Start=447570><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=452570 End=455155><P>YNC Start=450155><P Class=ENUSCC>And you, come here, little one!</P></SYNC>
+<SYNC Start=455155 End=458158><P>YNC Start=453158><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=458158 End=460703><P>YNC Start=455703><P Class=ENUSCC>Has Mando been<br>taking good care of you, huh?</P></SYNC>
+<SYNC Start=460703 End=462663><P>YNC Start=457663><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=462663 End=462746><P>YNC Start=457746><P Class=ENUSCC>-Have you been takin' good care o' him?</P></SYNC>
+<SYNC Start=462746 End=465374><P>YNC Start=460374><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=465374 End=465457><P>YNC Start=460457><P Class=ENUSCC>Yeah? Yeah! He said "yeah!" Oh, yeah.</P></SYNC>
+<SYNC Start=465457 End=468878><P>YNC Start=463878><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=468878 End=469837><P>YNC Start=464837><P Class=ENUSCC>Yes.</P></SYNC>
+<SYNC Start=469837 End=471005><P>YNC Start=466005><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=471005 End=471463><P>YNC Start=466463><P Class=ENUSCC>Come on. Yeah.</P></SYNC>
+<SYNC Start=471463 End=473048><P>YNC Start=468048><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=473048 End=473924><P>YNC Start=468924><P Class=ENUSCC>Yeah, look at you.</P></SYNC>
+<SYNC Start=473924 End=475342><P>YNC Start=470342><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=475342 End=486312><P>YNC Start=481312><P Class=ENUSCC>Looks like you two have been busy.</P></SYNC>
+<SYNC Start=486312 End=488606><P>YNC Start=483606><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=488606 End=489356><P>YNC Start=484356><P Class=ENUSCC>I myself have been<br>steeped in clerical work.</P></SYNC>
+<SYNC Start=489356 End=491775><P>YNC Start=486775><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=491775 End=492735><P>YNC Start=487735><P Class=ENUSCC>Marshal Dune here<br>is to be thanked for cleaning up the town.</P></SYNC>
+<SYNC Start=492735 End=495571><P>YNC Start=490571><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=495571 End=496780><P>YNC Start=491780><P Class=ENUSCC>Your ship's not lookin' too good.</P></SYNC>
+<SYNC Start=496780 End=498657><P>YNC Start=493657><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=498657 End=498741><P>YNC Start=493741><P Class=ENUSCC>I had a run-in with the New Republic.</P></SYNC>
+<SYNC Start=498741 End=500701><P>YNC Start=495701><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=500701 End=501410><P>YNC Start=496410><P Class=ENUSCC>They should leave the Outer Rim alone.</P></SYNC>
+<SYNC Start=501410 End=503329><P>YNC Start=498329><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=503329 End=503412><P>YNC Start=498412><P Class=ENUSCC>If the Empire couldn't settle it,<br>what makes them think they can?</P></SYNC>
+<SYNC Start=503412 End=506332><P>YNC Start=501332><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=506332 End=507208><P>YNC Start=502208><P Class=ENUSCC>Here we are.</P></SYNC>
+<SYNC Start=507208 End=508209><P>YNC Start=503209><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=508209 End=509001><P>YNC Start=504001><P Class=ENUSCC>I'm surprised to<br>see this place is still standing.</P></SYNC>
+<SYNC Start=509001 End=512046><P>YNC Start=507046><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=512046 End=512421><P>YNC Start=507421><P Class=ENUSCC>Wait till you see inside.</P></SYNC>
+<SYNC Start=512421 End=514006><P>YNC Start=509006><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=514006 End=517301><P>YNC Start=512301><P Class=ENUSCC>Who can name one of</P></SYNC>
+<SYNC Start=517301 End=518969><P>YNC Start=513969><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=518969 End=519053><P>YNC Start=514053><P Class=ENUSCC>the five major trade routes in the galaxy?</P></SYNC>
+<SYNC Start=519053 End=521305><P>YNC Start=516305><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=521305 End=521388><P>YNC Start=516388><P Class=ENUSCC>Anyone?</P></SYNC>
+<SYNC Start=521388 End=522389><P>YNC Start=517389><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=522389 End=522473><P>YNC Start=517473><P Class=ENUSCC>How about the Corellian Run?</P></SYNC>
+<SYNC Start=522473 End=524642><P>YNC Start=519642><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=524642 End=524725><P>YNC Start=519725><P Class=ENUSCC>-The Hydian Way?<br>-Yes, the Hydian Way. That is correct.</P></SYNC>
+<SYNC Start=524725 End=528103><P>YNC Start=523103><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=528103 End=528187><P>YNC Start=523187><P Class=ENUSCC>-A school?<br>-Things have changed a lot around here.</P></SYNC>
+<SYNC Start=528187 End=531232><P>YNC Start=526232><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=531232 End=531315><P>YNC Start=526315><P Class=ENUSCC>We'll leave the little one here<br>so we can talk business.</P></SYNC>
+<SYNC Start=531315 End=533734><P>YNC Start=528734><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=533734 End=533817><P>YNC Start=528817><P Class=ENUSCC>-Wait. Wherever I go, he goes.<br>-Mando, please.</P></SYNC>
+<SYNC Start=533817 End=536403><P>YNC Start=531403><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=536403 End=536487><P>YNC Start=531487><P Class=ENUSCC>Where we're going,<br>you don't wanna take a child. Trust me.</P></SYNC>
+<SYNC Start=536487 End=539031><P>YNC Start=534031><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=539031 End=540449><P>YNC Start=535449><P Class=ENUSCC>He'll be fine here. You have my word.</P></SYNC>
+<SYNC Start=540449 End=542535><P>YNC Start=537535><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=542535 End=544537><P>YNC Start=539537><P Class=ENUSCC>...be transported from the Outer Rim<br>to as far away as the Core Worlds.</P></SYNC>
+<SYNC Start=544537 End=549834><P>YNC Start=544834><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=549834 End=551168><P>YNC Start=546168><P Class=ENUSCC>However, there are<br>several other regions within our galaxy.</P></SYNC>
+<SYNC Start=551168 End=555297><P>YNC Start=550297><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=555297 End=555381><P>YNC Start=550381><P Class=ENUSCC>They are the Mid Rim...</P></SYNC>
+<SYNC Start=555381 End=558509><P>YNC Start=553509><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=558509 End=558592><P>YNC Start=553592><P Class=ENUSCC>-Come on.<br>-...the Expansion Region, the Inner Rim,</P></SYNC>
+<SYNC Start=558592 End=562638><P>YNC Start=557638><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=562638 End=562721><P>YNC Start=557721><P Class=ENUSCC>the Colonies, Core, and Deep Core.</P></SYNC>
+<SYNC Start=562721 End=567142><P>YNC Start=562142><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=567142 End=569603><P>YNC Start=564603><P Class=ENUSCC>All right, class. Settle down.</P></SYNC>
+<SYNC Start=569603 End=572147><P>YNC Start=567147><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=572147 End=573148><P>YNC Start=568148><P Class=ENUSCC>Back to the lesson, shall we?</P></SYNC>
+<SYNC Start=573148 End=574650><P>YNC Start=569650><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=574650 End=576110><P>YNC Start=571110><P Class=ENUSCC>The capital of the Old Republic<br>was within the Core</P></SYNC>
+<SYNC Start=576110 End=579864><P>YNC Start=574864><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=579864 End=579947><P>YNC Start=574947><P Class=ENUSCC>on a planet called Coruscant.</P></SYNC>
+<SYNC Start=579947 End=582616><P>YNC Start=577616><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=582616 End=584243><P>YNC Start=579243><P Class=ENUSCC>-The capital of the New Republic...</P></SYNC>
+<SYNC Start=584243 End=586745><P>YNC Start=581745><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=586745 End=586829><P>YNC Start=581829><P Class=ENUSCC>...is currently on the planet Chandrila,</P></SYNC>
+<SYNC Start=586829 End=589748><P>YNC Start=584748><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=589748 End=590583><P>YNC Start=585583><P Class=ENUSCC>which is also within the Core region.</P></SYNC>
+<SYNC Start=590583 End=593127><P>YNC Start=588127><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=593127 End=594837><P>YNC Start=589837><P Class=ENUSCC>-So, back to the start.</P></SYNC>
+<SYNC Start=594837 End=596881><P>YNC Start=591881><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=596881 End=598007><P>YNC Start=593007><P Class=ENUSCC>The system also contains<br>the Akkadese Maelstrom.</P></SYNC>
+<SYNC Start=598007 End=602720><P>YNC Start=597720><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=602720 End=603304><P>YNC Start=598304><P Class=ENUSCC>The Maelstrom surrounds Kessel<br>and its three moons.</P></SYNC>
+<SYNC Start=603304 End=608350><P>YNC Start=603350><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=608350 End=608893><P>YNC Start=603893><P Class=ENUSCC>-As you learned yesterday...<br>-No!</P></SYNC>
+<SYNC Start=608893 End=611520><P>YNC Start=606520><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=611520 End=611604><P>YNC Start=606604><P Class=ENUSCC>-...there are many systems in this galaxy.</P></SYNC>
+<SYNC Start=611604 End=613439><P>YNC Start=608439><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=613439 End=614315><P>YNC Start=609315><P Class=ENUSCC>How many orbits are in the Kessel system?</P></SYNC>
+<SYNC Start=614315 End=616775><P>YNC Start=611775><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=616775 End=617526><P>YNC Start=612526><P Class=ENUSCC>Do we at least remember that?</P></SYNC>
+<SYNC Start=617526 End=618903><P>YNC Start=613903><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=618903 End=620362><P>YNC Start=615362><P Class=ENUSCC>Ooh, I know!</P></SYNC>
+<SYNC Start=620362 End=621363><P>YNC Start=616363><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=621363 End=621989><P>YNC Start=616989><P Class=ENUSCC>Uh... Two?</P></SYNC>
+<SYNC Start=621989 End=624074><P>YNC Start=619074><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=624074 End=624700><P>YNC Start=619700><P Class=ENUSCC>Yes, very good.</P></SYNC>
+<SYNC Start=624700 End=626744><P>YNC Start=621744><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=626744 End=626827><P>YNC Start=621827><P Class=ENUSCC>As the third moon of Kessel<br>rotates the outer planet,</P></SYNC>
+<SYNC Start=626827 End=630247><P>YNC Start=625247><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=630247 End=630331><P>YNC Start=625331><P Class=ENUSCC>you see the moon here<br>travels in its same orbit.</P></SYNC>
+<SYNC Start=630331 End=634251><P>YNC Start=629251><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=634251 End=634335><P>YNC Start=629335><P Class=ENUSCC>Now who can track the path<br>of the orbit here?</P></SYNC>
+<SYNC Start=634335 End=636962><P>YNC Start=631962><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=636962 End=639381><P>YNC Start=634381><P Class=ENUSCC>Do I have any volunteers?</P></SYNC>
+<SYNC Start=639381 End=640716><P>YNC Start=635716><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=640716 End=642134><P>YNC Start=637134><P Class=ENUSCC>Anyone?</P></SYNC>
+<SYNC Start=642134 End=643135><P>YNC Start=638135><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=643135 End=648390><P>YNC Start=643390><P Class=ENUSCC>There's no registration on the ship,<br>but I'm pretty sure it belongs...</P></SYNC>
+<SYNC Start=648390 End=652228><P>YNC Start=647228><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=652228 End=654897><P>YNC Start=649897><P Class=ENUSCC>I believe you two have met.</P></SYNC>
+<SYNC Start=654897 End=656565><P>YNC Start=651565><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=656565 End=660152><P>YNC Start=655152><P Class=ENUSCC>I'm surprised to see you here.</P></SYNC>
+<SYNC Start=660152 End=662279><P>YNC Start=657279><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=662279 End=663239><P>YNC Start=658239><P Class=ENUSCC>Right back at ya.</P></SYNC>
+<SYNC Start=663239 End=664240><P>YNC Start=659240><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=664240 End=664323><P>YNC Start=659323><P Class=ENUSCC>Mythrol here's taken care<br>of my books since he was a pollywog.</P></SYNC>
+<SYNC Start=664323 End=667368><P>YNC Start=662368><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=667368 End=667952><P>YNC Start=662952><P Class=ENUSCC>But then he disappeared one day<br>after a bit of "creative accounting."</P></SYNC>
+<SYNC Start=667952 End=670955><P>YNC Start=665955><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=670955 End=671831><P>YNC Start=666831><P Class=ENUSCC>Magistrate Karga was generous enough<br>to let me work off my debt.</P></SYNC>
+<SYNC Start=671831 End=674917><P>YNC Start=669917><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=674917 End=675000><P>YNC Start=670000><P Class=ENUSCC>Thank you, by the way.</P></SYNC>
+<SYNC Start=675000 End=676001><P>YNC Start=671001><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=676001 End=676085><P>YNC Start=671085><P Class=ENUSCC>Three hundred and fifty years,<br>but who's counting?</P></SYNC>
+<SYNC Start=676085 End=678504><P>YNC Start=673504><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=678504 End=678587><P>YNC Start=673587><P Class=ENUSCC>Well, if he runs off on you again,<br>let me know.</P></SYNC>
+<SYNC Start=678587 End=681298><P>YNC Start=676298><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=681298 End=682007><P>YNC Start=677007><P Class=ENUSCC>Let me assure you, I do not wanna<br>spend any more time in carbonite.</P></SYNC>
+<SYNC Start=682007 End=685469><P>YNC Start=680469><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=685469 End=686095><P>YNC Start=681095><P Class=ENUSCC>Still can't see outta my left eye.</P></SYNC>
+<SYNC Start=686095 End=687596><P>YNC Start=682596><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=687596 End=688973><P>YNC Start=683973><P Class=ENUSCC>Can we talk business?</P></SYNC>
+<SYNC Start=688973 End=690266><P>YNC Start=685266><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=690266 End=690349><P>YNC Start=685349><P Class=ENUSCC>I'm only here for repairs.</P></SYNC>
+<SYNC Start=690349 End=691934><P>YNC Start=686934><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=691934 End=692017><P>YNC Start=687017><P Class=ENUSCC>Which'll take a while.</P></SYNC>
+<SYNC Start=692017 End=693060><P>YNC Start=688060><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=693060 End=693143><P>YNC Start=688143><P Class=ENUSCC>Which means you'll have free time<br>on your hands, right?</P></SYNC>
+<SYNC Start=693143 End=695688><P>YNC Start=690688><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=695688 End=698065><P>YNC Start=693065><P Class=ENUSCC>And we could really use your help.</P></SYNC>
+<SYNC Start=698065 End=699692><P>YNC Start=694692><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=699692 End=700442><P>YNC Start=695442><P Class=ENUSCC>Help how?</P></SYNC>
+<SYNC Start=700442 End=701443><P>YNC Start=696443><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=701443 End=702653><P>YNC Start=697653><P Class=ENUSCC>This is Nevarro.</P></SYNC>
+<SYNC Start=702653 End=703946><P>YNC Start=698946><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=703946 End=705364><P>YNC Start=700364><P Class=ENUSCC>We're here.</P></SYNC>
+<SYNC Start=705364 End=706365><P>YNC Start=701365><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=706365 End=706448><P>YNC Start=701448><P Class=ENUSCC>This entire area's a green zone.<br>Completely safe.</P></SYNC>
+<SYNC Start=706448 End=708993><P>YNC Start=703993><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=708993 End=710286><P>YNC Start=705286><P Class=ENUSCC>But over on this side is the problem.</P></SYNC>
+<SYNC Start=710286 End=712246><P>YNC Start=707246><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=712246 End=713581><P>YNC Start=708581><P Class=ENUSCC>It's an old Imperial base.</P></SYNC>
+<SYNC Start=713581 End=715499><P>YNC Start=710499><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=715499 End=715583><P>YNC Start=710583><P Class=ENUSCC>It's where all those troops came from<br>when we defeated Moff Gideon.</P></SYNC>
+<SYNC Start=715583 End=718752><P>YNC Start=713752><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=718752 End=719628><P>YNC Start=714628><P Class=ENUSCC>This base has been here<br>since the Imperial expansion.</P></SYNC>
+<SYNC Start=719628 End=722047><P>YNC Start=717047><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=722047 End=722590><P>YNC Start=717590><P Class=ENUSCC>It's got a skeleton crew, but for<br>some reason, it hasn't been abandoned.</P></SYNC>
+<SYNC Start=722590 End=725843><P>YNC Start=720843><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=725843 End=725926><P>YNC Start=720926><P Class=ENUSCC>There's a lot o'<br>heavy weaponry in that place</P></SYNC>
+<SYNC Start=725926 End=727970><P>YNC Start=722970><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=727970 End=728053><P>YNC Start=723053><P Class=ENUSCC>the black market would love<br>to dismantle and get their hands on.</P></SYNC>
+<SYNC Start=728053 End=731015><P>YNC Start=726015><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=731015 End=731098><P>YNC Start=726098><P Class=ENUSCC>And you wanna mop up the last<br>of the Imperial force before they do.</P></SYNC>
+<SYNC Start=731098 End=734310><P>YNC Start=729310><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=734310 End=734393><P>YNC Start=729393><P Class=ENUSCC>Mando, I just want them off my planet.</P></SYNC>
+<SYNC Start=734393 End=736478><P>YNC Start=731478><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=736478 End=737646><P>YNC Start=732646><P Class=ENUSCC>If we could take out that one last base,<br>Nevarro would be completely safe.</P></SYNC>
+<SYNC Start=737646 End=741817><P>YNC Start=736817><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=741817 End=742526><P>YNC Start=737526><P Class=ENUSCC>We could be a trade anchor<br>for the entire sector.</P></SYNC>
+<SYNC Start=742526 End=745029><P>YNC Start=740029><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=745029 End=745112><P>YNC Start=740112><P Class=ENUSCC>And the planet would finally be free.</P></SYNC>
+<SYNC Start=745112 End=747156><P>YNC Start=742156><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=747156 End=752995><P>YNC Start=747995><P Class=ENUSCC>What are we looking at?</P></SYNC>
+<SYNC Start=752995 End=754079><P>YNC Start=749079><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=754079 End=763464><P>YNC Start=758464><P Class=ENUSCC>The whole base is powered by a reactor.</P></SYNC>
+<SYNC Start=763464 End=766133><P>YNC Start=761133><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=766133 End=766217><P>YNC Start=761217><P Class=ENUSCC>We sneak in, overload the reactor,<br>and get the hell outta there.</P></SYNC>
+<SYNC Start=766217 End=769094><P>YNC Start=764094><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=769094 End=769553><P>YNC Start=764553><P Class=ENUSCC>Let's be fast.<br>And keep the speeder running.</P></SYNC>
+<SYNC Start=769553 End=772473><P>YNC Start=767473><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=772473 End=773057><P>YNC Start=768057><P Class=ENUSCC>There it is, right there.</P></SYNC>
+<SYNC Start=773057 End=774141><P>YNC Start=769141><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=774141 End=774808><P>YNC Start=769808><P Class=ENUSCC>You see it?</P></SYNC>
+<SYNC Start=774808 End=775809><P>YNC Start=770809><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=775809 End=778062><P>YNC Start=773062><P Class=ENUSCC>How close you want me to drop you off?</P></SYNC>
+<SYNC Start=778062 End=779855><P>YNC Start=774855><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=779855 End=779939><P>YNC Start=774939><P Class=ENUSCC>How 'bout the front door?</P></SYNC>
+<SYNC Start=779939 End=781398><P>YNC Start=776398><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=781398 End=782191><P>YNC Start=777191><P Class=ENUSCC>It's a little close<br>for a civilian, isn't it?</P></SYNC>
+<SYNC Start=782191 End=784109><P>YNC Start=779109><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=784109 End=784193><P>YNC Start=779193><P Class=ENUSCC>I got two choices for ya.</P></SYNC>
+<SYNC Start=784193 End=785986><P>YNC Start=780986><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=785986 End=786070><P>YNC Start=781070><P Class=ENUSCC>You take us in and I knock<br>a hundred years off your debt.</P></SYNC>
+<SYNC Start=786070 End=788989><P>YNC Start=783989><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=788989 End=789073><P>YNC Start=784073><P Class=ENUSCC>Or?</P></SYNC>
+<SYNC Start=789073 End=790074><P>YNC Start=785074><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=790074 End=790157><P>YNC Start=785157><P Class=ENUSCC>Or I leave ya out here<br>in the lava flats to walk home</P></SYNC>
+<SYNC Start=790157 End=792368><P>YNC Start=787368><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=792368 End=792451><P>YNC Start=787451><P Class=ENUSCC>with whatever's left<br>in your humidity vest.</P></SYNC>
+<SYNC Start=792451 End=794787><P>YNC Start=789787><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=794787 End=794870><P>YNC Start=789870><P Class=ENUSCC>It's not much of a choice, is it?</P></SYNC>
+<SYNC Start=794870 End=796247><P>YNC Start=791247><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=796247 End=806715><P>YNC Start=801715><P Class=ENUSCC>All right.<br>We can't go any further than this.</P></SYNC>
+<SYNC Start=806715 End=809510><P>YNC Start=804510><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=809510 End=810135><P>YNC Start=805135><P Class=ENUSCC>Let's go.</P></SYNC>
+<SYNC Start=810135 End=811262><P>YNC Start=806262><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=811262 End=828863><P>YNC Start=823863><P Class=ENUSCC>Controls are useless. They're melted.</P></SYNC>
+<SYNC Start=828863 End=830489><P>YNC Start=825489><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=830489 End=830990><P>YNC Start=825990><P Class=ENUSCC>Well, it's probably not rated for lava.</P></SYNC>
+<SYNC Start=830990 End=833284><P>YNC Start=828284><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=833284 End=833367><P>YNC Start=828367><P Class=ENUSCC>Imperial trash.</P></SYNC>
+<SYNC Start=833367 End=834743><P>YNC Start=829743><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=834743 End=835369><P>YNC Start=830369><P Class=ENUSCC>All right, I'm headed back.</P></SYNC>
+<SYNC Start=835369 End=837121><P>YNC Start=832121><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=837121 End=837204><P>YNC Start=832204><P Class=ENUSCC>Hit me up on the comm,<br>we could set up a rendezvous time.</P></SYNC>
+<SYNC Start=837204 End=839540><P>YNC Start=834540><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=839540 End=839623><P>YNC Start=834623><P Class=ENUSCC>You park your gills right there<br>until I say otherwise.</P></SYNC>
+<SYNC Start=839623 End=842209><P>YNC Start=837209><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=842209 End=842293><P>YNC Start=837293><P Class=ENUSCC>I'm startin' to dehydrate, boss.</P></SYNC>
+<SYNC Start=842293 End=844086><P>YNC Start=839086><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=844086 End=844170><P>YNC Start=839170><P Class=ENUSCC>Okay, how does 30 more years<br>off your debt sound?</P></SYNC>
+<SYNC Start=844170 End=846964><P>YNC Start=841964><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=846964 End=848048><P>YNC Start=843048><P Class=ENUSCC>Can you at least be quick about it?</P></SYNC>
+<SYNC Start=848048 End=849508><P>YNC Start=844508><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=849508 End=849592><P>YNC Start=844592><P Class=ENUSCC>You wanna be quick?<br>Grab the flange cutter and help us out.</P></SYNC>
+<SYNC Start=849592 End=852094><P>YNC Start=847094><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=852094 End=853888><P>YNC Start=848888><P Class=ENUSCC>Okay, fine. I don't like</P></SYNC>
+<SYNC Start=853888 End=855222><P>YNC Start=850222><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=855222 End=855306><P>YNC Start=850306><P Class=ENUSCC>leaving my speeder like this,<br>just so you know.</P></SYNC>
+<SYNC Start=855306 End=857308><P>YNC Start=852308><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=857308 End=857391><P>YNC Start=852391><P Class=ENUSCC>Come on, hurry it up.</P></SYNC>
+<SYNC Start=857391 End=858934><P>YNC Start=853934><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=858934 End=859018><P>YNC Start=854018><P Class=ENUSCC>All right, I'm coming.</P></SYNC>
+<SYNC Start=859018 End=860436><P>YNC Start=855436><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=860436 End=860519><P>YNC Start=855519><P Class=ENUSCC>Hurry up.</P></SYNC>
+<SYNC Start=860519 End=861854><P>YNC Start=856854><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=861854 End=866734><P>YNC Start=861734><P Class=ENUSCC>Hold tight.</P></SYNC>
+<SYNC Start=866734 End=867818><P>YNC Start=862818><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=867818 End=880706><P>YNC Start=875706><P Class=ENUSCC>How long is this gonna take?</P></SYNC>
+<SYNC Start=880706 End=882249><P>YNC Start=877249><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=882249 End=882333><P>YNC Start=877333><P Class=ENUSCC>Look, lady, this is rated<br>for light plumbing and such.</P></SYNC>
+<SYNC Start=882333 End=885252><P>YNC Start=880252><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=885252 End=885336><P>YNC Start=880336><P Class=ENUSCC>You're lucky I even packed it at all.</P></SYNC>
+<SYNC Start=885336 End=886879><P>YNC Start=881879><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=886879 End=886962><P>YNC Start=881962><P Class=ENUSCC>-<i><font color=#80ffff>Dank farrik.</i></font></P></SYNC>
+<SYNC Start=886962 End=889256><P>YNC Start=884256><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=889256 End=895054><P>YNC Start=890054><P Class=ENUSCC>Are you comin' in or what?</P></SYNC>
+<SYNC Start=895054 End=896263><P>YNC Start=891263><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=896263 End=896347><P>YNC Start=891347><P Class=ENUSCC>I'll take my chances here,<br>but thank you.</P></SYNC>
+<SYNC Start=896347 End=898098><P>YNC Start=893098><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=898098 End=898182><P>YNC Start=893182><P Class=ENUSCC>Well, when the lava tide comes in,<br>give us a holler. We'll drop you a rope.</P></SYNC>
+<SYNC Start=898182 End=901477><P>YNC Start=896477><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=901477 End=916700><P>YNC Start=911700><P Class=ENUSCC>Empty base, huh?</P></SYNC>
+<SYNC Start=916700 End=917826><P>YNC Start=912826><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=917826 End=923958><P>YNC Start=918958><P Class=ENUSCC>The reactor should be set<br>in the heat shaft.</P></SYNC>
+<SYNC Start=923958 End=926252><P>YNC Start=921252><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=926252 End=926335><P>YNC Start=921335><P Class=ENUSCC>If we drain the cooling lines,</P></SYNC>
+<SYNC Start=926335 End=928003><P>YNC Start=923003><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=928003 End=928087><P>YNC Start=923087><P Class=ENUSCC>this whole base<br>will go up in a matter of minutes.</P></SYNC>
+<SYNC Start=928087 End=930631><P>YNC Start=925631><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=930631 End=930714><P>YNC Start=925714><P Class=ENUSCC>Look.<br>It's a mint Trexler Marauder.</P></SYNC>
+<SYNC Start=930714 End=933217><P>YNC Start=928217><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=933217 End=933300><P>YNC Start=928300><P Class=ENUSCC>We can get a lot for this<br>on the black market.</P></SYNC>
+<SYNC Start=933300 End=935302><P>YNC Start=930302><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=935302 End=935386><P>YNC Start=930386><P Class=ENUSCC>And it's gonna get vaporized</P></SYNC>
+<SYNC Start=935386 End=937054><P>YNC Start=932054><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=937054 End=937137><P>YNC Start=932137><P Class=ENUSCC>like the rest of this base.<br>Now, let's go.</P></SYNC>
+<SYNC Start=937137 End=939014><P>YNC Start=934014><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=939014 End=939098><P>YNC Start=934098><P Class=ENUSCC>Such a waste.</P></SYNC>
+<SYNC Start=939098 End=941267><P>YNC Start=936267><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=941267 End=957199><P>YNC Start=952199><P Class=ENUSCC>Shuttle bay, this is command.</P></SYNC>
+<SYNC Start=957199 End=958409><P>YNC Start=953409><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=958409 End=960202><P>YNC Start=955202><P Class=ENUSCC>Shuttle bay,<br>the security feed just went down.</P></SYNC>
+<SYNC Start=960202 End=963706><P>YNC Start=958706><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=963706 End=963789><P>YNC Start=958789><P Class=ENUSCC>Can you check your relay hub?</P></SYNC>
+<SYNC Start=963789 End=965332><P>YNC Start=960332><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=965332 End=966667><P>YNC Start=961667><P Class=ENUSCC>Shuttle bay? Shuttle bay, this is...</P></SYNC>
+<SYNC Start=966667 End=968878><P>YNC Start=963878><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=968878 End=985436><P>YNC Start=980436><P Class=ENUSCC>This will come in handy.</P></SYNC>
+<SYNC Start=985436 End=986645><P>YNC Start=981645><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=986645 End=988522><P>YNC Start=983522><P Class=ENUSCC>I found the heat shaft.</P></SYNC>
+<SYNC Start=988522 End=990065><P>YNC Start=985065><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=990065 End=990649><P>YNC Start=985649><P Class=ENUSCC>Let's go.</P></SYNC>
+<SYNC Start=990649 End=991650><P>YNC Start=986650><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=991650 End=996280><P>YNC Start=991280><P Class=ENUSCC>The access corridor<br>should be right past this junction.</P></SYNC>
+<SYNC Start=996280 End=998657><P>YNC Start=993657><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=998657 End=999450><P>YNC Start=994450><P Class=ENUSCC>Must've blown a transformer over there.</P></SYNC>
+<SYNC Start=999450 End=1001493><P>YNC Start=996493><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1001493 End=1001577><P>YNC Start=996577><P Class=ENUSCC>All right. We'll check it out.</P></SYNC>
+<SYNC Start=1001577 End=1003370><P>YNC Start=998370><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1003370 End=1003454><P>YNC Start=998454><P Class=ENUSCC>Section-Four? TK-1-4-7.</P></SYNC>
+<SYNC Start=1003454 End=1005539><P>YNC Start=1000539><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1005539 End=1005623><P>YNC Start=1000623><P Class=ENUSCC>Scan control has been<br>unreliable since last rotation.</P></SYNC>
+<SYNC Start=1005623 End=1008626><P>YNC Start=1003626><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1008626 End=1008709><P>YNC Start=1003709><P Class=ENUSCC>Send a technical crew to check it out.</P></SYNC>
+<SYNC Start=1008709 End=1010461><P>YNC Start=1005461><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1010461 End=1015966><P>YNC Start=1010966><P Class=ENUSCC>There, Mythrol, slice that door.</P></SYNC>
+<SYNC Start=1015966 End=1017885><P>YNC Start=1012885><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1017885 End=1019261><P>YNC Start=1014261><P Class=ENUSCC>Use the code cylinder.</P></SYNC>
+<SYNC Start=1019261 End=1020721><P>YNC Start=1015721><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1020721 End=1035986><P>YNC Start=1030986><P Class=ENUSCC>- Whoa!<br>- Yeah, "whoa" is right.</P></SYNC>
+<SYNC Start=1035986 End=1038447><P>YNC Start=1033447><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1038447 End=1039782><P>YNC Start=1034782><P Class=ENUSCC>That's it.</P></SYNC>
+<SYNC Start=1039782 End=1040824><P>YNC Start=1035824><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1040824 End=1042117><P>YNC Start=1037117><P Class=ENUSCC>Get on the reactor controls,<br>drain the coolant lines.</P></SYNC>
+<SYNC Start=1042117 End=1044662><P>YNC Start=1039662><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1044662 End=1044745><P>YNC Start=1039745><P Class=ENUSCC>We'll watch the doors.</P></SYNC>
+<SYNC Start=1044745 End=1045955><P>YNC Start=1040955><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1045955 End=1046872><P>YNC Start=1041872><P Class=ENUSCC>-Me?<br>-Yes, you!</P></SYNC>
+<SYNC Start=1046872 End=1048374><P>YNC Start=1043374><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1048374 End=1049083><P>YNC Start=1044083><P Class=ENUSCC>I'm afraid o' heights. And heat. And lava.</P></SYNC>
+<SYNC Start=1049083 End=1053337><P>YNC Start=1048337><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1053337 End=1053420><P>YNC Start=1048420><P Class=ENUSCC>How 'bout if I put ya back in carbonite?<br>Get over there!</P></SYNC>
+<SYNC Start=1053420 End=1056382><P>YNC Start=1051382><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1056382 End=1059677><P>YNC Start=1054677><P Class=ENUSCC>-There's no guard rail on this.<br>-Come on!</P></SYNC>
+<SYNC Start=1059677 End=1061387><P>YNC Start=1056387><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1061387 End=1067643><P>YNC Start=1062643><P Class=ENUSCC>Oh, boy.</P></SYNC>
+<SYNC Start=1067643 End=1068644><P>YNC Start=1063644><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1068644 End=1075734><P>YNC Start=1070734><P Class=ENUSCC>-Come on, hurry up, hurry up.</P></SYNC>
+<SYNC Start=1075734 End=1078112><P>YNC Start=1073112><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1078112 End=1078195><P>YNC Start=1073195><P Class=ENUSCC>-Hurry up!</P></SYNC>
+<SYNC Start=1078195 End=1079488><P>YNC Start=1074488><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1079488 End=1088038><P>YNC Start=1083038><P Class=ENUSCC>Oh, dear.</P></SYNC>
+<SYNC Start=1088038 End=1089039><P>YNC Start=1084039><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1089039 End=1098799><P>YNC Start=1093799><P Class=ENUSCC>All right, she's gonna blow.</P></SYNC>
+<SYNC Start=1098799 End=1100509><P>YNC Start=1095509><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1100509 End=1101177><P>YNC Start=1096177><P Class=ENUSCC>Let's go! Let's get outta here!</P></SYNC>
+<SYNC Start=1101177 End=1102595><P>YNC Start=1097595><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1102595 End=1108267><P>YNC Start=1103267><P Class=ENUSCC>How long do we have?</P></SYNC>
+<SYNC Start=1108267 End=1109268><P>YNC Start=1104268><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1109268 End=1109351><P>YNC Start=1104351><P Class=ENUSCC>Ten minutes at the most.</P></SYNC>
+<SYNC Start=1109351 End=1110936><P>YNC Start=1105936><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1110936 End=1116442><P>YNC Start=1111442><P Class=ENUSCC>5-3-8-7 and 5-3-8-9, follow me.</P></SYNC>
+<SYNC Start=1116442 End=1118319><P>YNC Start=1113319><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1118319 End=1119320><P>YNC Start=1114320><P Class=ENUSCC>Call in reinforcements!</P></SYNC>
+<SYNC Start=1119320 End=1120571><P>YNC Start=1115571><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1120571 End=1129079><P>YNC Start=1124079><P Class=ENUSCC>Hurry up, purge the drives.</P></SYNC>
+<SYNC Start=1129079 End=1131123><P>YNC Start=1126123><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1131123 End=1134919><P>YNC Start=1129919><P Class=ENUSCC>Destroy it!</P></SYNC>
+<SYNC Start=1134919 End=1136253><P>YNC Start=1131253><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1136253 End=1140257><P>YNC Start=1135257><P Class=ENUSCC>Ahh!</P></SYNC>
+<SYNC Start=1140257 End=1141342><P>YNC Start=1136342><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1141342 End=1155314><P>YNC Start=1150314><P Class=ENUSCC>What the...</P></SYNC>
+<SYNC Start=1155314 End=1156315><P>YNC Start=1151315><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1156315 End=1161820><P>YNC Start=1156820><P Class=ENUSCC>I thought you said<br>this was a forward operating base.</P></SYNC>
+<SYNC Start=1161820 End=1163989><P>YNC Start=1158989><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1163989 End=1164615><P>YNC Start=1159615><P Class=ENUSCC>I thought it was.</P></SYNC>
+<SYNC Start=1164615 End=1165950><P>YNC Start=1160950><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1165950 End=1166033><P>YNC Start=1161033><P Class=ENUSCC>No,<br>this isn't a military operation.</P></SYNC>
+<SYNC Start=1166033 End=1167910><P>YNC Start=1162910><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1167910 End=1167993><P>YNC Start=1162993><P Class=ENUSCC>This is a lab.</P></SYNC>
+<SYNC Start=1167993 End=1169161><P>YNC Start=1164161><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1169161 End=1169787><P>YNC Start=1164787><P Class=ENUSCC>We need to get into the system</P></SYNC>
+<SYNC Start=1169787 End=1171455><P>YNC Start=1166455><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1171455 End=1171539><P>YNC Start=1166539><P Class=ENUSCC>and figure out what's going on.</P></SYNC>
+<SYNC Start=1171539 End=1172998><P>YNC Start=1167998><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1172998 End=1173082><P>YNC Start=1168082><P Class=ENUSCC>-What about the reactor...<br>-Do it! Do it.</P></SYNC>
+<SYNC Start=1173082 End=1175584><P>YNC Start=1170584><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1175584 End=1178712><P>YNC Start=1173712><P Class=ENUSCC>I don't like this.</P></SYNC>
+<SYNC Start=1178712 End=1180089><P>YNC Start=1175089><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1180089 End=1181048><P>YNC Start=1176048><P Class=ENUSCC>Pardon me.</P></SYNC>
+<SYNC Start=1181048 End=1182049><P>YNC Start=1177049><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1182049 End=1187763><P>YNC Start=1182763><P Class=ENUSCC><i><font color=#80ffff>Replicated the results</i></font></P></SYNC>
+<SYNC Start=1187763 End=1189098><P>YNC Start=1184098><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1189098 End=1189181><P>YNC Start=1184181><P Class=ENUSCC><i><font color=#80ffff>of the subsequent trials,</i></font></P></SYNC>
+<SYNC Start=1189181 End=1190349><P>YNC Start=1185349><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1190349 End=1190432><P>YNC Start=1185432><P Class=ENUSCC><i><font color=#80ffff>which also resulted</i></font><br><i><font color=#80ffff>in catastrophic failure.</i></font></P></SYNC>
+<SYNC Start=1190432 End=1192935><P>YNC Start=1187935><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1192935 End=1193644><P>YNC Start=1188644><P Class=ENUSCC><i><font color=#80ffff>There were promising effects</i></font><br><i><font color=#80ffff>for an entire fortnight,</i></font></P></SYNC>
+<SYNC Start=1193644 End=1195813><P>YNC Start=1190813><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1195813 End=1195896><P>YNC Start=1190896><P Class=ENUSCC><i><font color=#80ffff>but then, sadly,</i></font><br><i><font color=#80ffff>the body rejected the blood.</i></font></P></SYNC>
+<SYNC Start=1195896 End=1198816><P>YNC Start=1193816><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1198816 End=1201485><P>YNC Start=1196485><P Class=ENUSCC><i><font color=#80ffff>I highly doubt we'll find</i></font><br><i><font color=#80ffff>a donor with a higher M-count, though.</i></font></P></SYNC>
+<SYNC Start=1201485 End=1204989><P>YNC Start=1199989><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1204989 End=1205072><P>YNC Start=1200072><P Class=ENUSCC><i><font color=#80ffff>I recommend</i></font><br><i><font color=#80ffff>that we suspend all experimentation.</i></font></P></SYNC>
+<SYNC Start=1205072 End=1208242><P>YNC Start=1203242><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1208242 End=1208325><P>YNC Start=1203325><P Class=ENUSCC><i><font color=#80ffff>I fear that the volunteer</i></font><br><i><font color=#80ffff>will meet the same regrettable fate</i></font></P></SYNC>
+<SYNC Start=1208325 End=1211245><P>YNC Start=1206245><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1211245 End=1211328><P>YNC Start=1206328><P Class=ENUSCC><i><font color=#80ffff>if we proceed with the transfusion.</i></font></P></SYNC>
+<SYNC Start=1211328 End=1213664><P>YNC Start=1208664><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1213664 End=1214456><P>YNC Start=1209456><P Class=ENUSCC><i><font color=#80ffff>Unfortunately, we have exhausted</i></font></P></SYNC>
+<SYNC Start=1214456 End=1217710><P>YNC Start=1212710><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1217710 End=1217793><P>YNC Start=1212793><P Class=ENUSCC><i><font color=#80ffff>our initial supply of blood.</i></font></P></SYNC>
+<SYNC Start=1217793 End=1219170><P>YNC Start=1214170><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1219170 End=1220129><P>YNC Start=1215129><P Class=ENUSCC><i><font color=#80ffff>The Child is small,</i></font><br><i><font color=#80ffff>and I was only able</i></font></P></SYNC>
+<SYNC Start=1220129 End=1222131><P>YNC Start=1217131><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1222131 End=1222214><P>YNC Start=1217214><P Class=ENUSCC><i><font color=#80ffff>to harvest a limited amount</i></font><br><i><font color=#80ffff>without killing him.</i></font></P></SYNC>
+<SYNC Start=1222214 End=1224884><P>YNC Start=1219884><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1224884 End=1227636><P>YNC Start=1222636><P Class=ENUSCC><i><font color=#80ffff>If these experiments</i></font><br><i><font color=#80ffff>are to continue as requested,</i></font></P></SYNC>
+<SYNC Start=1227636 End=1230681><P>YNC Start=1225681><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1230681 End=1231682><P>YNC Start=1226682><P Class=ENUSCC><i><font color=#80ffff>we would again</i></font><br><i><font color=#80ffff>require access to the donor.</i></font></P></SYNC>
+<SYNC Start=1231682 End=1233851><P>YNC Start=1228851><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1233851 End=1234643><P>YNC Start=1229643><P Class=ENUSCC><i><font color=#80ffff>I will not disappoint</i></font><br><i><font color=#80ffff>you again, Moff Gideon.</i></font></P></SYNC>
+<SYNC Start=1234643 End=1237646><P>YNC Start=1232646><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1237646 End=1239023><P>YNC Start=1234023><P Class=ENUSCC>This must be<br>an old transmission. Moff Gideon is dead.</P></SYNC>
+<SYNC Start=1239023 End=1242234><P>YNC Start=1237234><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1242234 End=1242318><P>YNC Start=1237318><P Class=ENUSCC>No. This recording's three days old.</P></SYNC>
+<SYNC Start=1242318 End=1246655><P>YNC Start=1241655><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1246655 End=1248115><P>YNC Start=1243115><P Class=ENUSCC>If Gideon's alive then...</P></SYNC>
+<SYNC Start=1248115 End=1249909><P>YNC Start=1244909><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1249909 End=1250492><P>YNC Start=1245492><P Class=ENUSCC>Over there!</P></SYNC>
+<SYNC Start=1250492 End=1252036><P>YNC Start=1247036><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1252036 End=1257416><P>YNC Start=1252416><P Class=ENUSCC>We have them!</P></SYNC>
+<SYNC Start=1257416 End=1258584><P>YNC Start=1253584><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1258584 End=1269178><P>YNC Start=1264178><P Class=ENUSCC>I need to get the kid.</P></SYNC>
+<SYNC Start=1269178 End=1270304><P>YNC Start=1265304><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1270304 End=1270387><P>YNC Start=1265387><P Class=ENUSCC>Jet back, you're faster that way.</P></SYNC>
+<SYNC Start=1270387 End=1271847><P>YNC Start=1266847><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1271847 End=1271931><P>YNC Start=1266931><P Class=ENUSCC>We'll head to the speeder<br>and meet you in town.</P></SYNC>
+<SYNC Start=1271931 End=1273974><P>YNC Start=1268974><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1273974 End=1274058><P>YNC Start=1269058><P Class=ENUSCC>Come on, let's go!</P></SYNC>
+<SYNC Start=1274058 End=1275309><P>YNC Start=1270309><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1275309 End=1275893><P>YNC Start=1270893><P Class=ENUSCC>When did you say<br>this place is gonna blow again?</P></SYNC>
+<SYNC Start=1275893 End=1278229><P>YNC Start=1273229><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1278229 End=1282233><P>YNC Start=1277233><P Class=ENUSCC>They're on the move!</P></SYNC>
+<SYNC Start=1282233 End=1283692><P>YNC Start=1278692><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1283692 End=1291617><P>YNC Start=1286617><P Class=ENUSCC>Let's go!</P></SYNC>
+<SYNC Start=1291617 End=1292660><P>YNC Start=1287660><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1292660 End=1294495><P>YNC Start=1289495><P Class=ENUSCC>We think they may be moving to the... Hey!</P></SYNC>
+<SYNC Start=1294495 End=1296831><P>YNC Start=1291831><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1296831 End=1329822><P>YNC Start=1324822><P Class=ENUSCC>This way!</P></SYNC>
+<SYNC Start=1329822 End=1331031><P>YNC Start=1326031><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1331031 End=1365191><P>YNC Start=1360191><P Class=ENUSCC>All right, men, load your weapons.</P></SYNC>
+<SYNC Start=1365191 End=1367067><P>YNC Start=1362067><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1367067 End=1367735><P>YNC Start=1362735><P Class=ENUSCC>There they are! Blast 'em!</P></SYNC>
+<SYNC Start=1367735 End=1369195><P>YNC Start=1364195><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1369195 End=1377077><P>YNC Start=1372077><P Class=ENUSCC>We're trapped!</P></SYNC>
+<SYNC Start=1377077 End=1378495><P>YNC Start=1373495><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1378495 End=1380414><P>YNC Start=1375414><P Class=ENUSCC>Is that so?</P></SYNC>
+<SYNC Start=1380414 End=1381499><P>YNC Start=1376499><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1381499 End=1382791><P>YNC Start=1377791><P Class=ENUSCC>Cover me!</P></SYNC>
+<SYNC Start=1382791 End=1383918><P>YNC Start=1378918><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1383918 End=1387213><P>YNC Start=1382213><P Class=ENUSCC>What does she think she's doing?</P></SYNC>
+<SYNC Start=1387213 End=1388589><P>YNC Start=1383589><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1388589 End=1397264><P>YNC Start=1392264><P Class=ENUSCC>All right, baby girl,<br>let's see what you got.</P></SYNC>
+<SYNC Start=1397264 End=1399600><P>YNC Start=1394600><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1399600 End=1411987><P>YNC Start=1406987><P Class=ENUSCC>What are you guys waiting for,<br>an invitation? Let's move!</P></SYNC>
+<SYNC Start=1411987 End=1414448><P>YNC Start=1409448><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1414448 End=1414532><P>YNC Start=1409532><P Class=ENUSCC>Go! Go, go, go, go, go! Go!</P></SYNC>
+<SYNC Start=1414532 End=1416534><P>YNC Start=1411534><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1416534 End=1441100><P>YNC Start=1436100><P Class=ENUSCC>You're not considering<br>going over...</P></SYNC>
+<SYNC Start=1441100 End=1442685><P>YNC Start=1437685><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1442685 End=1442768><P>YNC Start=1437768><P Class=ENUSCC>Hang on!</P></SYNC>
+<SYNC Start=1442768 End=1444186><P>YNC Start=1439186><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1444186 End=1448816><P>YNC Start=1443816><P Class=ENUSCC>Oh, no, no, no, no!</P></SYNC>
+<SYNC Start=1448816 End=1450109><P>YNC Start=1445109><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1450109 End=1462788><P>YNC Start=1457788><P Class=ENUSCC>Wait. Was that my speeder...</P></SYNC>
+<SYNC Start=1462788 End=1464957><P>YNC Start=1459957><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1464957 End=1498449><P>YNC Start=1493449><P Class=ENUSCC>Man the guns.</P></SYNC>
+<SYNC Start=1498449 End=1499575><P>YNC Start=1494575><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1499575 End=1499658><P>YNC Start=1494658><P Class=ENUSCC>Copy that.</P></SYNC>
+<SYNC Start=1499658 End=1500993><P>YNC Start=1495993><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1500993 End=1526101><P>YNC Start=1521101><P Class=ENUSCC>One down.</P></SYNC>
+<SYNC Start=1526101 End=1527269><P>YNC Start=1522269><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1527269 End=1540533><P>YNC Start=1535533><P Class=ENUSCC>I've lost him!</P></SYNC>
+<SYNC Start=1540533 End=1541992><P>YNC Start=1536992><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1541992 End=1554713><P>YNC Start=1549713><P Class=ENUSCC>Whoo!</P></SYNC>
+<SYNC Start=1554713 End=1556006><P>YNC Start=1551006><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1556006 End=1594962><P>YNC Start=1589962><P Class=ENUSCC>Yes! We did it!</P></SYNC>
+<SYNC Start=1594962 End=1597506><P>YNC Start=1592506><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1597506 End=1598382><P>YNC Start=1593382><P Class=ENUSCC>Headed home, boss.</P></SYNC>
+<SYNC Start=1598382 End=1599592><P>YNC Start=1594592><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1599592 End=1614690><P>YNC Start=1609690><P Class=ENUSCC>That may have been premature.</P></SYNC>
+<SYNC Start=1614690 End=1616358><P>YNC Start=1611358><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1616358 End=1616942><P>YNC Start=1611942><P Class=ENUSCC>Take evasive! I got this!</P></SYNC>
+<SYNC Start=1616942 End=1619153><P>YNC Start=1614153><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1619153 End=1651352><P>YNC Start=1646352><P Class=ENUSCC>What is going on back there?</P></SYNC>
+<SYNC Start=1651352 End=1653187><P>YNC Start=1648187><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1653187 End=1653270><P>YNC Start=1648270><P Class=ENUSCC>You wanna come back here<br>and try this? Be my guest!</P></SYNC>
+<SYNC Start=1653270 End=1655731><P>YNC Start=1650731><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1655731 End=1662446><P>YNC Start=1657446><P Class=ENUSCC>Can't you get this thing to go any faster?</P></SYNC>
+<SYNC Start=1662446 End=1664865><P>YNC Start=1659865><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1664865 End=1665533><P>YNC Start=1660533><P Class=ENUSCC>Come on.</P></SYNC>
+<SYNC Start=1665533 End=1667576><P>YNC Start=1662576><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1667576 End=1692434><P>YNC Start=1687434><P Class=ENUSCC>We're almost there!</P></SYNC>
+<SYNC Start=1692434 End=1693727><P>YNC Start=1688727><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1693727 End=1714623><P>YNC Start=1709623><P Class=ENUSCC>-Yes! Yes!</P></SYNC>
+<SYNC Start=1714623 End=1716750><P>YNC Start=1711750><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1716750 End=1717960><P>YNC Start=1712960><P Class=ENUSCC>-Hang on, kid.</P></SYNC>
+<SYNC Start=1717960 End=1719962><P>YNC Start=1714962><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1719962 End=1788364><P>YNC Start=1783364><P Class=ENUSCC>-Yeah!</P></SYNC>
+<SYNC Start=1788364 End=1789865><P>YNC Start=1784865><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1789865 End=1789949><P>YNC Start=1784949><P Class=ENUSCC>Yes!</P></SYNC>
+<SYNC Start=1789949 End=1791367><P>YNC Start=1786367><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1791367 End=1791951><P>YNC Start=1786951><P Class=ENUSCC>-Yeah!</P></SYNC>
+<SYNC Start=1791951 End=1793077><P>YNC Start=1788077><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1793077 End=1795579><P>YNC Start=1790579><P Class=ENUSCC>Not too bad, huh, kid?</P></SYNC>
+<SYNC Start=1795579 End=1797373><P>YNC Start=1792373><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1797373 End=1801794><P>YNC Start=1796794><P Class=ENUSCC>Oh, boy.</P></SYNC>
+<SYNC Start=1801794 End=1803087><P>YNC Start=1798087><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1803087 End=1804797><P>YNC Start=1799797><P Class=ENUSCC><i><font color=#80ffff>That was some</i></font><br><i><font color=#80ffff>pretty impressive flying, Mando.</i></font></P></SYNC>
+<SYNC Start=1804797 End=1807424><P>YNC Start=1802424><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1807424 End=1807508><P>YNC Start=1802508><P Class=ENUSCC><i><font color=#80ffff>What do I owe ya?</i></font></P></SYNC>
+<SYNC Start=1807508 End=1808759><P>YNC Start=1803759><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1808759 End=1808843><P>YNC Start=1803843><P Class=ENUSCC>With the repairs, let's call it even.</P></SYNC>
+<SYNC Start=1808843 End=1810886><P>YNC Start=1805886><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1810886 End=1813347><P>YNC Start=1808347><P Class=ENUSCC>Can I at least buy you a drink?</P></SYNC>
+<SYNC Start=1813347 End=1815724><P>YNC Start=1810724><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1815724 End=1815808><P>YNC Start=1810808><P Class=ENUSCC><i><font color=#80ffff>Sorry. I have some</i></font><br><i><font color=#80ffff>onboard maintenance I gotta take care of.</i></font></P></SYNC>
+<SYNC Start=1815808 End=1819019><P>YNC Start=1814019><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1819019 End=1819103><P>YNC Start=1814103><P Class=ENUSCC><i><font color=#80ffff>Then we gotta hit the road</i></font><br><i><font color=#80ffff>before Gideon catches wise.</i></font></P></SYNC>
+<SYNC Start=1819103 End=1821897><P>YNC Start=1816897><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1821897 End=1821981><P>YNC Start=1816981><P Class=ENUSCC>Well, good luck flying, my friend.</P></SYNC>
+<SYNC Start=1821981 End=1823941><P>YNC Start=1818941><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1823941 End=1831532><P>YNC Start=1826532><P Class=ENUSCC>So, is there anything else<br>you can remember before the base exploded?</P></SYNC>
+<SYNC Start=1831532 End=1835244><P>YNC Start=1830244><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1835244 End=1837121><P>YNC Start=1832121><P Class=ENUSCC>No.</P></SYNC>
+<SYNC Start=1837121 End=1838455><P>YNC Start=1833455><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1838455 End=1839915><P>YNC Start=1834915><P Class=ENUSCC>How long after<br>the 'Razor Crest' jumped out...</P></SYNC>
+<SYNC Start=1839915 End=1842168><P>YNC Start=1837168><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1842168 End=1842251><P>YNC Start=1837251><P Class=ENUSCC>I never said anything about a 'Razor Crest'.</P></SYNC>
+<SYNC Start=1842251 End=1844086><P>YNC Start=1839086><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1844086 End=1844795><P>YNC Start=1839795><P Class=ENUSCC>Your transponder log has a...</P></SYNC>
+<SYNC Start=1844795 End=1845963><P>YNC Start=1840963><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1845963 End=1846046><P>YNC Start=1841046><P Class=ENUSCC>"Transponder log."<br>Come on, give me a break.</P></SYNC>
+<SYNC Start=1846046 End=1848591><P>YNC Start=1843591><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1848591 End=1848674><P>YNC Start=1843674><P Class=ENUSCC>The control droid<br>can't tell apart anything pre-Empire.</P></SYNC>
+<SYNC Start=1848674 End=1852469><P>YNC Start=1847469><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1852469 End=1852553><P>YNC Start=1847553><P Class=ENUSCC>This isn't Coruscant.</P></SYNC>
+<SYNC Start=1852553 End=1854597><P>YNC Start=1849597><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1854597 End=1855764><P>YNC Start=1850764><P Class=ENUSCC>Do you have anything else to add?</P></SYNC>
+<SYNC Start=1855764 End=1857516><P>YNC Start=1852516><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1857516 End=1858559><P>YNC Start=1853559><P Class=ENUSCC>Not that I can think of, Officer.</P></SYNC>
+<SYNC Start=1858559 End=1860186><P>YNC Start=1855186><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1860186 End=1860269><P>YNC Start=1855269><P Class=ENUSCC>But if somethin' does come to mind,</P></SYNC>
+<SYNC Start=1860269 End=1862897><P>YNC Start=1857897><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1862897 End=1864148><P>YNC Start=1859148><P Class=ENUSCC>I'll be sure to send you a 'gram.</P></SYNC>
+<SYNC Start=1864148 End=1865816><P>YNC Start=1860816><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1865816 End=1866692><P>YNC Start=1861692><P Class=ENUSCC>That is,<br>if you're ever out this far again.</P></SYNC>
+<SYNC Start=1866692 End=1869778><P>YNC Start=1864778><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1869778 End=1878037><P>YNC Start=1873037><P Class=ENUSCC>What?</P></SYNC>
+<SYNC Start=1878037 End=1879246><P>YNC Start=1874246><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1879246 End=1892259><P>YNC Start=1887259><P Class=ENUSCC>You did a hell of a job<br>cleanin' up the system.</P></SYNC>
+<SYNC Start=1892259 End=1894553><P>YNC Start=1889553><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1894553 End=1895137><P>YNC Start=1890137><P Class=ENUSCC>According to records,<br>you're quite a soldier.</P></SYNC>
+<SYNC Start=1895137 End=1897348><P>YNC Start=1892348><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1897348 End=1898307><P>YNC Start=1893307><P Class=ENUSCC>We could really use you.</P></SYNC>
+<SYNC Start=1898307 End=1899517><P>YNC Start=1894517><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1899517 End=1901769><P>YNC Start=1896769><P Class=ENUSCC>I'm not a "joiner," Blue.</P></SYNC>
+<SYNC Start=1901769 End=1903145><P>YNC Start=1898145><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1903145 End=1908192><P>YNC Start=1903192><P Class=ENUSCC>There's something going on out here.</P></SYNC>
+<SYNC Start=1908192 End=1910027><P>YNC Start=1905027><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1910027 End=1910694><P>YNC Start=1905694><P Class=ENUSCC>They don't believe it<br>on the Core Worlds, but it's true.</P></SYNC>
+<SYNC Start=1910694 End=1913364><P>YNC Start=1908364><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1913364 End=1913989><P>YNC Start=1908989><P Class=ENUSCC>These aren't isolated incidents.</P></SYNC>
+<SYNC Start=1913989 End=1915658><P>YNC Start=1910658><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1915658 End=1915741><P>YNC Start=1910741><P Class=ENUSCC>They need to be stopped<br>before it's too late.</P></SYNC>
+<SYNC Start=1915741 End=1917701><P>YNC Start=1912701><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1917701 End=1917785><P>YNC Start=1912785><P Class=ENUSCC>But we can't do it without local support.</P></SYNC>
+<SYNC Start=1917785 End=1920162><P>YNC Start=1915162><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1920162 End=1924959><P>YNC Start=1919959><P Class=ENUSCC>Says here you're from Alderaan.</P></SYNC>
+<SYNC Start=1924959 End=1926585><P>YNC Start=1921585><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1926585 End=1927837><P>YNC Start=1922837><P Class=ENUSCC>I served during Alderaan.</P></SYNC>
+<SYNC Start=1927837 End=1929547><P>YNC Start=1924547><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1929547 End=1935636><P>YNC Start=1930636><P Class=ENUSCC>Did you lose anyone?</P></SYNC>
+<SYNC Start=1935636 End=1936887><P>YNC Start=1931887><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1936887 End=1942017><P>YNC Start=1937017><P Class=ENUSCC>I lost everyone.</P></SYNC>
+<SYNC Start=1942017 End=1943435><P>YNC Start=1938435><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1943435 End=1944687><P>YNC Start=1939687><P Class=ENUSCC>I'm sorry for your loss.</P></SYNC>
+<SYNC Start=1944687 End=1946021><P>YNC Start=1941021><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=1946021 End=2001285><P>YNC Start=1996285><P Class=ENUSCC>What do you have for me?</P></SYNC>
+<SYNC Start=2001285 End=2002953><P>YNC Start=1997953><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2002953 End=2003037><P>YNC Start=1998037><P Class=ENUSCC><i><font color=#80ffff>The device has been planted,</i></font><br><i><font color=#80ffff>as you requested.</i></font></P></SYNC>
+<SYNC Start=2003037 End=2006874><P>YNC Start=2001874><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2006874 End=2007750><P>YNC Start=2002750><P Class=ENUSCC>Good.</P></SYNC>
+<SYNC Start=2007750 End=2008792><P>YNC Start=2003792><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2008792 End=2009585><P>YNC Start=2004585><P Class=ENUSCC>You'll be well-rewarded in the new era.</P></SYNC>
+<SYNC Start=2009585 End=2011629><P>YNC Start=2006629><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2011629 End=2029813><P>YNC Start=2024813><P Class=ENUSCC>Moff Gideon.</P></SYNC>
+<SYNC Start=2029813 End=2031106><P>YNC Start=2026106><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2031106 End=2033984><P>YNC Start=2028984><P Class=ENUSCC>The tracking beacon<br>has been installed on the 'Razor Crest'.</P></SYNC>
+<SYNC Start=2033984 End=2037279><P>YNC Start=2032279><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2037279 End=2038197><P>YNC Start=2033197><P Class=ENUSCC>Does he still have the asset?</P></SYNC>
+<SYNC Start=2038197 End=2039782><P>YNC Start=2034782><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2039782 End=2039865><P>YNC Start=2034865><P Class=ENUSCC>Yes. Our source confirmed it.</P></SYNC>
+<SYNC Start=2039865 End=2042743><P>YNC Start=2037743><P Class=ENUSCC>&nbsp;</P></SYNC>
+<SYNC Start=2042743 End=2045204><P>YNC Start=2040204><P Class=ENUSCC>And we will be ready.</P></SYNC>
+<SYNC Start=2045204 End=2047331><P>YNC Start=2042331><P Class=ENUSCC>&nbsp;</P></SYNC>
+</BODY>
+</SAMI>

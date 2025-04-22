@@ -8,6 +8,7 @@
 #include <filesystem>
 #include <stdexcept>
 
+
 int main(int argc, char* argv[]) {
     if (argc < 3) {
         std::cerr << "Usage: converter_subs <in_file> <out_file> [options]\n";
@@ -140,7 +141,13 @@ int main(int argc, char* argv[]) {
                 vttSubs.removeFormatting();
             }
             if (!addStyle.empty()) {
-                vttSubs.addDefaultStyle(addStyle);
+                // Only allow certain styles in VTT
+                if (addStyle == "b" || addStyle == "i" || addStyle == "u" || addStyle == "c") {
+                    vttSubs.addDefaultStyle(addStyle);
+                } else {
+                    std::cerr << "Warning: Style '" << addStyle
+                              << "' is not supported in WebVTT. Allowed: b, i, u, c\n";
+                }
             }
 
             // Write output

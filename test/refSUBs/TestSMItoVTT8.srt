@@ -1,0 +1,2832 @@
+1
+00:00:01,916 --> 00:00:01,916
+YNC Start=1916><P Class=ENUSCC>Oh.
+
+2
+00:00:01,916 --> 00:00:03,000
+YNC Start=3000><P Class=ENUSCC>&nbsp;
+
+3
+00:00:03,000 --> 00:00:03,083
+YNC Start=3083><P Class=ENUSCC>Is that me?
+
+4
+00:00:03,083 --> 00:00:04,460
+YNC Start=4460><P Class=ENUSCC>&nbsp;
+
+5
+00:00:04,460 --> 00:00:05,628
+YNC Start=5628><P Class=ENUSCC>There must be some mistake.
+
+6
+00:00:05,628 --> 00:00:06,879
+YNC Start=6879><P Class=ENUSCC>&nbsp;
+
+7
+00:00:06,879 --> 00:00:06,962
+YNC Start=6962><P Class=ENUSCC>-I can get you more credits.<br>-I can bring you in warm...
+
+8
+00:00:06,962 --> 00:00:09,924
+YNC Start=9924><P Class=ENUSCC>&nbsp;
+
+9
+00:00:09,924 --> 00:00:11,634
+YNC Start=11634><P Class=ENUSCC>Or I can bring you in cold.
+
+10
+00:00:11,634 --> 00:00:12,968
+YNC Start=12968><P Class=ENUSCC>&nbsp;
+
+11
+00:00:12,968 --> 00:00:20,184
+YNC Start=20184><P Class=ENUSCC>Yes, yes, yes!
+
+12
+00:00:20,184 --> 00:00:21,685
+YNC Start=21685><P Class=ENUSCC>&nbsp;
+
+13
+00:00:21,685 --> 00:00:23,062
+YNC Start=23062><P Class=ENUSCC>-Very healthy.<br>-What are your plans for it?
+
+14
+00:00:23,062 --> 00:00:25,814
+YNC Start=25814><P Class=ENUSCC>&nbsp;
+
+15
+00:00:25,814 --> 00:00:25,898
+YNC Start=25898><P Class=ENUSCC>This asset<br>was of extreme importance to me.
+
+16
+00:00:25,898 --> 00:00:29,068
+YNC Start=29068><P Class=ENUSCC>&nbsp;
+
+17
+00:00:29,068 --> 00:00:29,151
+YNC Start=29151><P Class=ENUSCC>-What did you do to it?
+
+18
+00:00:29,151 --> 00:00:31,195
+YNC Start=31195><P Class=ENUSCC>&nbsp;
+
+19
+00:00:31,195 --> 00:00:31,278
+YNC Start=31278><P Class=ENUSCC>Don't hurt him. It's just a child.
+
+20
+00:00:31,278 --> 00:00:32,947
+YNC Start=32947><P Class=ENUSCC>&nbsp;
+
+21
+00:00:32,947 --> 00:00:33,030
+YNC Start=33030><P Class=ENUSCC><i><font color=#80ffff>Cara Dune here was a veteran.</i></font>
+
+22
+00:00:33,030 --> 00:00:34,740
+YNC Start=34740><P Class=ENUSCC>&nbsp;
+
+23
+00:00:34,740 --> 00:00:34,823
+YNC Start=34823><P Class=ENUSCC><i><font color=#80ffff>She was a drop soldier for the Rebellion.</i></font>
+
+24
+00:00:34,823 --> 00:00:36,408
+YNC Start=36408><P Class=ENUSCC>&nbsp;
+
+25
+00:00:36,408 --> 00:00:45,960
+YNC Start=45960><P Class=ENUSCC>You're staying here?
+
+26
+00:00:45,960 --> 00:00:47,545
+YNC Start=47545><P Class=ENUSCC>&nbsp;
+
+27
+00:00:47,545 --> 00:00:47,628
+YNC Start=47628><P Class=ENUSCC>Nevarro is a very fine planet.
+
+28
+00:00:47,628 --> 00:00:49,547
+YNC Start=49547><P Class=ENUSCC>&nbsp;
+
+29
+00:00:49,547 --> 00:00:49,630
+YNC Start=49630><P Class=ENUSCC>And now that the scum and villainy<br>have been washed away,
+
+30
+00:00:49,630 --> 00:00:52,675
+YNC Start=52675><P Class=ENUSCC>&nbsp;
+
+31
+00:00:52,675 --> 00:00:52,758
+YNC Start=52758><P Class=ENUSCC>it's very respectable again.
+
+32
+00:00:52,758 --> 00:00:54,176
+YNC Start=54176><P Class=ENUSCC>&nbsp;
+
+33
+00:00:54,176 --> 00:00:55,427
+YNC Start=55427><P Class=ENUSCC>Hang on, kid.<br>It's gonna be a bumpy ride,
+
+34
+00:00:55,427 --> 00:00:57,721
+YNC Start=57721><P Class=ENUSCC>&nbsp;
+
+35
+00:00:57,721 --> 00:00:57,805
+YNC Start=57805><P Class=ENUSCC>but I finally know where I'm taking you.
+
+36
+00:00:57,805 --> 00:00:59,890
+YNC Start=59890><P Class=ENUSCC>&nbsp;
+
+37
+00:00:59,890 --> 00:01:36,218
+YNC Start=96218><P Class=ENUSCC>All right, let's try this again.
+
+38
+00:01:36,218 --> 00:01:39,013
+YNC Start=99013><P Class=ENUSCC>&nbsp;
+
+39
+00:01:39,013 --> 00:01:41,098
+YNC Start=101098><P Class=ENUSCC>Okay, did you... Do you have the wire?
+
+40
+00:01:41,098 --> 00:01:43,267
+YNC Start=103267><P Class=ENUSCC>&nbsp;
+
+41
+00:01:43,267 --> 00:01:45,978
+YNC Start=105978><P Class=ENUSCC>No. Nothing.
+
+42
+00:01:45,978 --> 00:01:47,229
+YNC Start=107229><P Class=ENUSCC>&nbsp;
+
+43
+00:01:47,229 --> 00:01:48,981
+YNC Start=108981><P Class=ENUSCC>Hey...
+
+44
+00:01:48,981 --> 00:01:50,858
+YNC Start=110858><P Class=ENUSCC>&nbsp;
+
+45
+00:01:50,858 --> 00:01:51,275
+YNC Start=111275><P Class=ENUSCC>Oh.
+
+46
+00:01:51,275 --> 00:01:52,902
+YNC Start=112902><P Class=ENUSCC>&nbsp;
+
+47
+00:01:52,902 --> 00:01:54,737
+YNC Start=114737><P Class=ENUSCC>Okay. Did you get the wire out?
+
+48
+00:01:54,737 --> 00:01:57,573
+YNC Start=117573><P Class=ENUSCC>&nbsp;
+
+49
+00:01:57,573 --> 00:01:57,656
+YNC Start=117656><P Class=ENUSCC>The red wire?
+
+50
+00:01:57,656 --> 00:01:58,866
+YNC Start=118866><P Class=ENUSCC>&nbsp;
+
+51
+00:01:58,866 --> 00:02:00,159
+YNC Start=120159><P Class=ENUSCC>Huh?
+
+52
+00:02:00,159 --> 00:02:01,160
+YNC Start=121160><P Class=ENUSCC>&nbsp;
+
+53
+00:02:01,160 --> 00:02:01,243
+YNC Start=121243><P Class=ENUSCC>No, no, no. No, the red one.<br>Show me the red wire.
+
+54
+00:02:01,243 --> 00:02:04,538
+YNC Start=124538><P Class=ENUSCC>&nbsp;
+
+55
+00:02:04,538 --> 00:02:06,081
+YNC Start=126081><P Class=ENUSCC>The red one.
+
+56
+00:02:06,081 --> 00:02:07,082
+YNC Start=127082><P Class=ENUSCC>&nbsp;
+
+57
+00:02:07,082 --> 00:02:07,666
+YNC Start=127666><P Class=ENUSCC>-Yes, good.
+
+58
+00:02:07,666 --> 00:02:09,210
+YNC Start=129210><P Class=ENUSCC>&nbsp;
+
+59
+00:02:09,210 --> 00:02:09,293
+YNC Start=129293><P Class=ENUSCC>Now, you're going to plug that red wire<br>where the blue wire goes in the board.
+
+60
+00:02:09,293 --> 00:02:13,797
+YNC Start=133797><P Class=ENUSCC>&nbsp;
+
+61
+00:02:13,797 --> 00:02:16,300
+YNC Start=136300><P Class=ENUSCC>Put the red wire where<br>the blue wire goes in the board, okay?
+
+62
+00:02:16,300 --> 00:02:20,554
+YNC Start=140554><P Class=ENUSCC>&nbsp;
+
+63
+00:02:20,554 --> 00:02:21,472
+YNC Start=141472><P Class=ENUSCC>But don't let them touch.
+
+64
+00:02:21,472 --> 00:02:22,640
+YNC Start=142640><P Class=ENUSCC>&nbsp;
+
+65
+00:02:22,640 --> 00:02:24,475
+YNC Start=144475><P Class=ENUSCC>You see where you took the blue one off?
+
+66
+00:02:24,475 --> 00:02:26,477
+YNC Start=146477><P Class=ENUSCC>&nbsp;
+
+67
+00:02:26,477 --> 00:02:27,269
+YNC Start=147269><P Class=ENUSCC>-Yes, now put the red one...
+
+68
+00:02:27,269 --> 00:02:29,605
+YNC Start=149605><P Class=ENUSCC>&nbsp;
+
+69
+00:02:29,605 --> 00:02:29,688
+YNC Start=149688><P Class=ENUSCC>No, don't put the blue one back.<br>Put the red one where the blue one was.
+
+70
+00:02:29,688 --> 00:02:34,902
+YNC Start=154902><P Class=ENUSCC>&nbsp;
+
+71
+00:02:34,902 --> 00:02:35,611
+YNC Start=155611><P Class=ENUSCC>And put the blue one<br>where the red one was.
+
+72
+00:02:35,611 --> 00:02:38,072
+YNC Start=158072><P Class=ENUSCC>&nbsp;
+
+73
+00:02:38,072 --> 00:02:39,406
+YNC Start=159406><P Class=ENUSCC>-But be careful.
+
+74
+00:02:39,406 --> 00:02:40,741
+YNC Start=160741><P Class=ENUSCC>&nbsp;
+
+75
+00:02:40,741 --> 00:02:40,824
+YNC Start=160824><P Class=ENUSCC>They're oppositely charged,<br>so keep them away from each other.
+
+76
+00:02:40,824 --> 00:02:44,203
+YNC Start=164203><P Class=ENUSCC>&nbsp;
+
+77
+00:02:44,203 --> 00:02:44,286
+YNC Start=164286><P Class=ENUSCC>Make sure you hold them apart from...
+
+78
+00:02:44,286 --> 00:02:46,539
+YNC Start=166539><P Class=ENUSCC>&nbsp;
+
+79
+00:02:46,539 --> 00:02:46,622
+YNC Start=166622><P Class=ENUSCC>No, hold them apart.
+
+80
+00:02:46,622 --> 00:02:47,873
+YNC Start=167873><P Class=ENUSCC>&nbsp;
+
+81
+00:02:47,873 --> 00:02:47,957
+YNC Start=167957><P Class=ENUSCC>Oh! Uh-uh...
+
+82
+00:02:47,957 --> 00:02:49,041
+YNC Start=169041><P Class=ENUSCC>&nbsp;
+
+83
+00:02:49,041 --> 00:02:51,001
+YNC Start=171001><P Class=ENUSCC>Oh...
+
+84
+00:02:51,001 --> 00:02:52,461
+YNC Start=172461><P Class=ENUSCC>&nbsp;
+
+85
+00:02:52,461 --> 00:02:54,630
+YNC Start=174630><P Class=ENUSCC>Are you okay?
+
+86
+00:02:54,630 --> 00:02:55,840
+YNC Start=175840><P Class=ENUSCC>&nbsp;
+
+87
+00:02:55,840 --> 00:03:01,470
+YNC Start=181470><P Class=ENUSCC>Well, it was worth a shot.
+
+88
+00:03:01,470 --> 00:03:02,763
+YNC Start=182763><P Class=ENUSCC>&nbsp;
+
+89
+00:03:02,763 --> 00:03:08,686
+YNC Start=188686><P Class=ENUSCC>There's no way<br>we're making it to Corvus in this shape.
+
+90
+00:03:08,686 --> 00:03:10,980
+YNC Start=190980><P Class=ENUSCC>&nbsp;
+
+91
+00:03:10,980 --> 00:03:19,446
+YNC Start=199446><P Class=ENUSCC>I think we need<br>to visit some friends for repairs.
+
+92
+00:03:19,446 --> 00:03:21,699
+YNC Start=201699><P Class=ENUSCC>&nbsp;
+
+93
+00:03:21,699 --> 00:03:25,119
+YNC Start=205119><P Class=ENUSCC>So, how'd you like to go back to Nevarro?
+
+94
+00:03:25,119 --> 00:03:27,121
+YNC Start=207121><P Class=ENUSCC>&nbsp;
+
+95
+00:03:27,121 --> 00:05:29,869
+YNC Start=329869><P Class=ENUSCC>Hey!
+
+96
+00:05:29,869 --> 00:05:30,870
+YNC Start=330870><P Class=ENUSCC>&nbsp;
+
+97
+00:05:30,870 --> 00:05:32,037
+YNC Start=332037><P Class=ENUSCC>Okay. Oh. Oh...
+
+98
+00:05:32,037 --> 00:05:33,539
+YNC Start=333539><P Class=ENUSCC>&nbsp;
+
+99
+00:05:33,539 --> 00:05:34,248
+YNC Start=334248><P Class=ENUSCC>Okay, little guy.
+
+100
+00:05:34,248 --> 00:05:35,332
+YNC Start=335332><P Class=ENUSCC>&nbsp;
+
+101
+00:05:35,332 --> 00:05:35,916
+YNC Start=335916><P Class=ENUSCC>No one's eating you today.
+
+102
+00:05:35,916 --> 00:05:37,960
+YNC Start=337960><P Class=ENUSCC>&nbsp;
+
+103
+00:05:37,960 --> 00:05:39,879
+YNC Start=339879><P Class=ENUSCC>Go on, you're free.
+
+104
+00:05:39,879 --> 00:05:41,380
+YNC Start=341380><P Class=ENUSCC>&nbsp;
+
+105
+00:05:41,380 --> 00:05:43,340
+YNC Start=343340><P Class=ENUSCC>Go on. Git.
+
+106
+00:05:43,340 --> 00:05:44,967
+YNC Start=344967><P Class=ENUSCC>&nbsp;
+
+107
+00:05:44,967 --> 00:05:50,514
+YNC Start=350514><P Class=ENUSCC>Okay, look.
+
+108
+00:05:50,514 --> 00:05:51,515
+YNC Start=351515><P Class=ENUSCC>&nbsp;
+
+109
+00:05:51,515 --> 00:05:52,600
+YNC Start=352600><P Class=ENUSCC>Here you go.
+
+110
+00:05:52,600 --> 00:05:53,642
+YNC Start=353642><P Class=ENUSCC>&nbsp;
+
+111
+00:05:53,642 --> 00:05:54,226
+YNC Start=354226><P Class=ENUSCC>That's all I got.
+
+112
+00:05:54,226 --> 00:05:55,227
+YNC Start=355227><P Class=ENUSCC>&nbsp;
+
+113
+00:05:55,227 --> 00:05:56,645
+YNC Start=356645><P Class=ENUSCC>Now, I need to return<br>all these things to the rightful owners.
+
+114
+00:05:56,645 --> 00:05:59,648
+YNC Start=359648><P Class=ENUSCC>&nbsp;
+
+115
+00:05:59,648 --> 00:07:00,709
+YNC Start=420709><P Class=ENUSCC>Looks like someone<br>could use some repairs.
+
+116
+00:07:00,709 --> 00:07:03,045
+YNC Start=423045><P Class=ENUSCC>&nbsp;
+
+117
+00:07:03,045 --> 00:07:12,596
+YNC Start=432596><P Class=ENUSCC>How's my credit around here?
+
+118
+00:07:12,596 --> 00:07:14,306
+YNC Start=434306><P Class=ENUSCC>&nbsp;
+
+119
+00:07:14,306 --> 00:07:14,390
+YNC Start=434390><P Class=ENUSCC>I think something could be arranged.<br>Isn't that right, Marshal?
+
+120
+00:07:14,390 --> 00:07:17,226
+YNC Start=437226><P Class=ENUSCC>&nbsp;
+
+121
+00:07:17,226 --> 00:07:18,435
+YNC Start=438435><P Class=ENUSCC>I'm sure we can work somethin' out.
+
+122
+00:07:18,435 --> 00:07:20,229
+YNC Start=440229><P Class=ENUSCC>&nbsp;
+
+123
+00:07:20,229 --> 00:07:22,064
+YNC Start=442064><P Class=ENUSCC>I'll get my best people on it.
+
+124
+00:07:22,064 --> 00:07:23,649
+YNC Start=443649><P Class=ENUSCC>&nbsp;
+
+125
+00:07:23,649 --> 00:07:23,732
+YNC Start=443732><P Class=ENUSCC>Hey, fellas!
+
+126
+00:07:23,732 --> 00:07:24,733
+YNC Start=444733><P Class=ENUSCC>&nbsp;
+
+127
+00:07:24,733 --> 00:07:25,317
+YNC Start=445317><P Class=ENUSCC>Let's fix this man's ship!<br>I want it as good as new.
+
+128
+00:07:25,317 --> 00:07:27,570
+YNC Start=447570><P Class=ENUSCC>&nbsp;
+
+129
+00:07:27,570 --> 00:07:30,155
+YNC Start=450155><P Class=ENUSCC>And you, come here, little one!
+
+130
+00:07:30,155 --> 00:07:33,158
+YNC Start=453158><P Class=ENUSCC>&nbsp;
+
+131
+00:07:33,158 --> 00:07:35,703
+YNC Start=455703><P Class=ENUSCC>Has Mando been<br>taking good care of you, huh?
+
+132
+00:07:35,703 --> 00:07:37,663
+YNC Start=457663><P Class=ENUSCC>&nbsp;
+
+133
+00:07:37,663 --> 00:07:37,746
+YNC Start=457746><P Class=ENUSCC>-Have you been takin' good care o' him?
+
+134
+00:07:37,746 --> 00:07:40,374
+YNC Start=460374><P Class=ENUSCC>&nbsp;
+
+135
+00:07:40,374 --> 00:07:40,457
+YNC Start=460457><P Class=ENUSCC>Yeah? Yeah! He said "yeah!" Oh, yeah.
+
+136
+00:07:40,457 --> 00:07:43,878
+YNC Start=463878><P Class=ENUSCC>&nbsp;
+
+137
+00:07:43,878 --> 00:07:44,837
+YNC Start=464837><P Class=ENUSCC>Yes.
+
+138
+00:07:44,837 --> 00:07:46,005
+YNC Start=466005><P Class=ENUSCC>&nbsp;
+
+139
+00:07:46,005 --> 00:07:46,463
+YNC Start=466463><P Class=ENUSCC>Come on. Yeah.
+
+140
+00:07:46,463 --> 00:07:48,048
+YNC Start=468048><P Class=ENUSCC>&nbsp;
+
+141
+00:07:48,048 --> 00:07:48,924
+YNC Start=468924><P Class=ENUSCC>Yeah, look at you.
+
+142
+00:07:48,924 --> 00:07:50,342
+YNC Start=470342><P Class=ENUSCC>&nbsp;
+
+143
+00:07:50,342 --> 00:08:01,312
+YNC Start=481312><P Class=ENUSCC>Looks like you two have been busy.
+
+144
+00:08:01,312 --> 00:08:03,606
+YNC Start=483606><P Class=ENUSCC>&nbsp;
+
+145
+00:08:03,606 --> 00:08:04,356
+YNC Start=484356><P Class=ENUSCC>I myself have been<br>steeped in clerical work.
+
+146
+00:08:04,356 --> 00:08:06,775
+YNC Start=486775><P Class=ENUSCC>&nbsp;
+
+147
+00:08:06,775 --> 00:08:07,735
+YNC Start=487735><P Class=ENUSCC>Marshal Dune here<br>is to be thanked for cleaning up the town.
+
+148
+00:08:07,735 --> 00:08:10,571
+YNC Start=490571><P Class=ENUSCC>&nbsp;
+
+149
+00:08:10,571 --> 00:08:11,780
+YNC Start=491780><P Class=ENUSCC>Your ship's not lookin' too good.
+
+150
+00:08:11,780 --> 00:08:13,657
+YNC Start=493657><P Class=ENUSCC>&nbsp;
+
+151
+00:08:13,657 --> 00:08:13,741
+YNC Start=493741><P Class=ENUSCC>I had a run-in with the New Republic.
+
+152
+00:08:13,741 --> 00:08:15,701
+YNC Start=495701><P Class=ENUSCC>&nbsp;
+
+153
+00:08:15,701 --> 00:08:16,410
+YNC Start=496410><P Class=ENUSCC>They should leave the Outer Rim alone.
+
+154
+00:08:16,410 --> 00:08:18,329
+YNC Start=498329><P Class=ENUSCC>&nbsp;
+
+155
+00:08:18,329 --> 00:08:18,412
+YNC Start=498412><P Class=ENUSCC>If the Empire couldn't settle it,<br>what makes them think they can?
+
+156
+00:08:18,412 --> 00:08:21,332
+YNC Start=501332><P Class=ENUSCC>&nbsp;
+
+157
+00:08:21,332 --> 00:08:22,208
+YNC Start=502208><P Class=ENUSCC>Here we are.
+
+158
+00:08:22,208 --> 00:08:23,209
+YNC Start=503209><P Class=ENUSCC>&nbsp;
+
+159
+00:08:23,209 --> 00:08:24,001
+YNC Start=504001><P Class=ENUSCC>I'm surprised to<br>see this place is still standing.
+
+160
+00:08:24,001 --> 00:08:27,046
+YNC Start=507046><P Class=ENUSCC>&nbsp;
+
+161
+00:08:27,046 --> 00:08:27,421
+YNC Start=507421><P Class=ENUSCC>Wait till you see inside.
+
+162
+00:08:27,421 --> 00:08:29,006
+YNC Start=509006><P Class=ENUSCC>&nbsp;
+
+163
+00:08:29,006 --> 00:08:32,301
+YNC Start=512301><P Class=ENUSCC>Who can name one of
+
+164
+00:08:32,301 --> 00:08:33,969
+YNC Start=513969><P Class=ENUSCC>&nbsp;
+
+165
+00:08:33,969 --> 00:08:34,053
+YNC Start=514053><P Class=ENUSCC>the five major trade routes in the galaxy?
+
+166
+00:08:34,053 --> 00:08:36,305
+YNC Start=516305><P Class=ENUSCC>&nbsp;
+
+167
+00:08:36,305 --> 00:08:36,388
+YNC Start=516388><P Class=ENUSCC>Anyone?
+
+168
+00:08:36,388 --> 00:08:37,389
+YNC Start=517389><P Class=ENUSCC>&nbsp;
+
+169
+00:08:37,389 --> 00:08:37,473
+YNC Start=517473><P Class=ENUSCC>How about the Corellian Run?
+
+170
+00:08:37,473 --> 00:08:39,642
+YNC Start=519642><P Class=ENUSCC>&nbsp;
+
+171
+00:08:39,642 --> 00:08:39,725
+YNC Start=519725><P Class=ENUSCC>-The Hydian Way?<br>-Yes, the Hydian Way. That is correct.
+
+172
+00:08:39,725 --> 00:08:43,103
+YNC Start=523103><P Class=ENUSCC>&nbsp;
+
+173
+00:08:43,103 --> 00:08:43,187
+YNC Start=523187><P Class=ENUSCC>-A school?<br>-Things have changed a lot around here.
+
+174
+00:08:43,187 --> 00:08:46,232
+YNC Start=526232><P Class=ENUSCC>&nbsp;
+
+175
+00:08:46,232 --> 00:08:46,315
+YNC Start=526315><P Class=ENUSCC>We'll leave the little one here<br>so we can talk business.
+
+176
+00:08:46,315 --> 00:08:48,734
+YNC Start=528734><P Class=ENUSCC>&nbsp;
+
+177
+00:08:48,734 --> 00:08:48,817
+YNC Start=528817><P Class=ENUSCC>-Wait. Wherever I go, he goes.<br>-Mando, please.
+
+178
+00:08:48,817 --> 00:08:51,403
+YNC Start=531403><P Class=ENUSCC>&nbsp;
+
+179
+00:08:51,403 --> 00:08:51,487
+YNC Start=531487><P Class=ENUSCC>Where we're going,<br>you don't wanna take a child. Trust me.
+
+180
+00:08:51,487 --> 00:08:54,031
+YNC Start=534031><P Class=ENUSCC>&nbsp;
+
+181
+00:08:54,031 --> 00:08:55,449
+YNC Start=535449><P Class=ENUSCC>He'll be fine here. You have my word.
+
+182
+00:08:55,449 --> 00:08:57,535
+YNC Start=537535><P Class=ENUSCC>&nbsp;
+
+183
+00:08:57,535 --> 00:08:59,537
+YNC Start=539537><P Class=ENUSCC>...be transported from the Outer Rim<br>to as far away as the Core Worlds.
+
+184
+00:08:59,537 --> 00:09:04,834
+YNC Start=544834><P Class=ENUSCC>&nbsp;
+
+185
+00:09:04,834 --> 00:09:06,168
+YNC Start=546168><P Class=ENUSCC>However, there are<br>several other regions within our galaxy.
+
+186
+00:09:06,168 --> 00:09:10,297
+YNC Start=550297><P Class=ENUSCC>&nbsp;
+
+187
+00:09:10,297 --> 00:09:10,381
+YNC Start=550381><P Class=ENUSCC>They are the Mid Rim...
+
+188
+00:09:10,381 --> 00:09:13,509
+YNC Start=553509><P Class=ENUSCC>&nbsp;
+
+189
+00:09:13,509 --> 00:09:13,592
+YNC Start=553592><P Class=ENUSCC>-Come on.<br>-...the Expansion Region, the Inner Rim,
+
+190
+00:09:13,592 --> 00:09:17,638
+YNC Start=557638><P Class=ENUSCC>&nbsp;
+
+191
+00:09:17,638 --> 00:09:17,721
+YNC Start=557721><P Class=ENUSCC>the Colonies, Core, and Deep Core.
+
+192
+00:09:17,721 --> 00:09:22,142
+YNC Start=562142><P Class=ENUSCC>&nbsp;
+
+193
+00:09:22,142 --> 00:09:24,603
+YNC Start=564603><P Class=ENUSCC>All right, class. Settle down.
+
+194
+00:09:24,603 --> 00:09:27,147
+YNC Start=567147><P Class=ENUSCC>&nbsp;
+
+195
+00:09:27,147 --> 00:09:28,148
+YNC Start=568148><P Class=ENUSCC>Back to the lesson, shall we?
+
+196
+00:09:28,148 --> 00:09:29,650
+YNC Start=569650><P Class=ENUSCC>&nbsp;
+
+197
+00:09:29,650 --> 00:09:31,110
+YNC Start=571110><P Class=ENUSCC>The capital of the Old Republic<br>was within the Core
+
+198
+00:09:31,110 --> 00:09:34,864
+YNC Start=574864><P Class=ENUSCC>&nbsp;
+
+199
+00:09:34,864 --> 00:09:34,947
+YNC Start=574947><P Class=ENUSCC>on a planet called Coruscant.
+
+200
+00:09:34,947 --> 00:09:37,616
+YNC Start=577616><P Class=ENUSCC>&nbsp;
+
+201
+00:09:37,616 --> 00:09:39,243
+YNC Start=579243><P Class=ENUSCC>-The capital of the New Republic...
+
+202
+00:09:39,243 --> 00:09:41,745
+YNC Start=581745><P Class=ENUSCC>&nbsp;
+
+203
+00:09:41,745 --> 00:09:41,829
+YNC Start=581829><P Class=ENUSCC>...is currently on the planet Chandrila,
+
+204
+00:09:41,829 --> 00:09:44,748
+YNC Start=584748><P Class=ENUSCC>&nbsp;
+
+205
+00:09:44,748 --> 00:09:45,583
+YNC Start=585583><P Class=ENUSCC>which is also within the Core region.
+
+206
+00:09:45,583 --> 00:09:48,127
+YNC Start=588127><P Class=ENUSCC>&nbsp;
+
+207
+00:09:48,127 --> 00:09:49,837
+YNC Start=589837><P Class=ENUSCC>-So, back to the start.
+
+208
+00:09:49,837 --> 00:09:51,881
+YNC Start=591881><P Class=ENUSCC>&nbsp;
+
+209
+00:09:51,881 --> 00:09:53,007
+YNC Start=593007><P Class=ENUSCC>The system also contains<br>the Akkadese Maelstrom.
+
+210
+00:09:53,007 --> 00:09:57,720
+YNC Start=597720><P Class=ENUSCC>&nbsp;
+
+211
+00:09:57,720 --> 00:09:58,304
+YNC Start=598304><P Class=ENUSCC>The Maelstrom surrounds Kessel<br>and its three moons.
+
+212
+00:09:58,304 --> 00:10:03,350
+YNC Start=603350><P Class=ENUSCC>&nbsp;
+
+213
+00:10:03,350 --> 00:10:03,893
+YNC Start=603893><P Class=ENUSCC>-As you learned yesterday...<br>-No!
+
+214
+00:10:03,893 --> 00:10:06,520
+YNC Start=606520><P Class=ENUSCC>&nbsp;
+
+215
+00:10:06,520 --> 00:10:06,604
+YNC Start=606604><P Class=ENUSCC>-...there are many systems in this galaxy.
+
+216
+00:10:06,604 --> 00:10:08,439
+YNC Start=608439><P Class=ENUSCC>&nbsp;
+
+217
+00:10:08,439 --> 00:10:09,315
+YNC Start=609315><P Class=ENUSCC>How many orbits are in the Kessel system?
+
+218
+00:10:09,315 --> 00:10:11,775
+YNC Start=611775><P Class=ENUSCC>&nbsp;
+
+219
+00:10:11,775 --> 00:10:12,526
+YNC Start=612526><P Class=ENUSCC>Do we at least remember that?
+
+220
+00:10:12,526 --> 00:10:13,903
+YNC Start=613903><P Class=ENUSCC>&nbsp;
+
+221
+00:10:13,903 --> 00:10:15,362
+YNC Start=615362><P Class=ENUSCC>Ooh, I know!
+
+222
+00:10:15,362 --> 00:10:16,363
+YNC Start=616363><P Class=ENUSCC>&nbsp;
+
+223
+00:10:16,363 --> 00:10:16,989
+YNC Start=616989><P Class=ENUSCC>Uh... Two?
+
+224
+00:10:16,989 --> 00:10:19,074
+YNC Start=619074><P Class=ENUSCC>&nbsp;
+
+225
+00:10:19,074 --> 00:10:19,700
+YNC Start=619700><P Class=ENUSCC>Yes, very good.
+
+226
+00:10:19,700 --> 00:10:21,744
+YNC Start=621744><P Class=ENUSCC>&nbsp;
+
+227
+00:10:21,744 --> 00:10:21,827
+YNC Start=621827><P Class=ENUSCC>As the third moon of Kessel<br>rotates the outer planet,
+
+228
+00:10:21,827 --> 00:10:25,247
+YNC Start=625247><P Class=ENUSCC>&nbsp;
+
+229
+00:10:25,247 --> 00:10:25,331
+YNC Start=625331><P Class=ENUSCC>you see the moon here<br>travels in its same orbit.
+
+230
+00:10:25,331 --> 00:10:29,251
+YNC Start=629251><P Class=ENUSCC>&nbsp;
+
+231
+00:10:29,251 --> 00:10:29,335
+YNC Start=629335><P Class=ENUSCC>Now who can track the path<br>of the orbit here?
+
+232
+00:10:29,335 --> 00:10:31,962
+YNC Start=631962><P Class=ENUSCC>&nbsp;
+
+233
+00:10:31,962 --> 00:10:34,381
+YNC Start=634381><P Class=ENUSCC>Do I have any volunteers?
+
+234
+00:10:34,381 --> 00:10:35,716
+YNC Start=635716><P Class=ENUSCC>&nbsp;
+
+235
+00:10:35,716 --> 00:10:37,134
+YNC Start=637134><P Class=ENUSCC>Anyone?
+
+236
+00:10:37,134 --> 00:10:38,135
+YNC Start=638135><P Class=ENUSCC>&nbsp;
+
+237
+00:10:38,135 --> 00:10:43,390
+YNC Start=643390><P Class=ENUSCC>There's no registration on the ship,<br>but I'm pretty sure it belongs...
+
+238
+00:10:43,390 --> 00:10:47,228
+YNC Start=647228><P Class=ENUSCC>&nbsp;
+
+239
+00:10:47,228 --> 00:10:49,897
+YNC Start=649897><P Class=ENUSCC>I believe you two have met.
+
+240
+00:10:49,897 --> 00:10:51,565
+YNC Start=651565><P Class=ENUSCC>&nbsp;
+
+241
+00:10:51,565 --> 00:10:55,152
+YNC Start=655152><P Class=ENUSCC>I'm surprised to see you here.
+
+242
+00:10:55,152 --> 00:10:57,279
+YNC Start=657279><P Class=ENUSCC>&nbsp;
+
+243
+00:10:57,279 --> 00:10:58,239
+YNC Start=658239><P Class=ENUSCC>Right back at ya.
+
+244
+00:10:58,239 --> 00:10:59,240
+YNC Start=659240><P Class=ENUSCC>&nbsp;
+
+245
+00:10:59,240 --> 00:10:59,323
+YNC Start=659323><P Class=ENUSCC>Mythrol here's taken care<br>of my books since he was a pollywog.
+
+246
+00:10:59,323 --> 00:11:02,368
+YNC Start=662368><P Class=ENUSCC>&nbsp;
+
+247
+00:11:02,368 --> 00:11:02,952
+YNC Start=662952><P Class=ENUSCC>But then he disappeared one day<br>after a bit of "creative accounting."
+
+248
+00:11:02,952 --> 00:11:05,955
+YNC Start=665955><P Class=ENUSCC>&nbsp;
+
+249
+00:11:05,955 --> 00:11:06,831
+YNC Start=666831><P Class=ENUSCC>Magistrate Karga was generous enough<br>to let me work off my debt.
+
+250
+00:11:06,831 --> 00:11:09,917
+YNC Start=669917><P Class=ENUSCC>&nbsp;
+
+251
+00:11:09,917 --> 00:11:10,000
+YNC Start=670000><P Class=ENUSCC>Thank you, by the way.
+
+252
+00:11:10,000 --> 00:11:11,001
+YNC Start=671001><P Class=ENUSCC>&nbsp;
+
+253
+00:11:11,001 --> 00:11:11,085
+YNC Start=671085><P Class=ENUSCC>Three hundred and fifty years,<br>but who's counting?
+
+254
+00:11:11,085 --> 00:11:13,504
+YNC Start=673504><P Class=ENUSCC>&nbsp;
+
+255
+00:11:13,504 --> 00:11:13,587
+YNC Start=673587><P Class=ENUSCC>Well, if he runs off on you again,<br>let me know.
+
+256
+00:11:13,587 --> 00:11:16,298
+YNC Start=676298><P Class=ENUSCC>&nbsp;
+
+257
+00:11:16,298 --> 00:11:17,007
+YNC Start=677007><P Class=ENUSCC>Let me assure you, I do not wanna<br>spend any more time in carbonite.
+
+258
+00:11:17,007 --> 00:11:20,469
+YNC Start=680469><P Class=ENUSCC>&nbsp;
+
+259
+00:11:20,469 --> 00:11:21,095
+YNC Start=681095><P Class=ENUSCC>Still can't see outta my left eye.
+
+260
+00:11:21,095 --> 00:11:22,596
+YNC Start=682596><P Class=ENUSCC>&nbsp;
+
+261
+00:11:22,596 --> 00:11:23,973
+YNC Start=683973><P Class=ENUSCC>Can we talk business?
+
+262
+00:11:23,973 --> 00:11:25,266
+YNC Start=685266><P Class=ENUSCC>&nbsp;
+
+263
+00:11:25,266 --> 00:11:25,349
+YNC Start=685349><P Class=ENUSCC>I'm only here for repairs.
+
+264
+00:11:25,349 --> 00:11:26,934
+YNC Start=686934><P Class=ENUSCC>&nbsp;
+
+265
+00:11:26,934 --> 00:11:27,017
+YNC Start=687017><P Class=ENUSCC>Which'll take a while.
+
+266
+00:11:27,017 --> 00:11:28,060
+YNC Start=688060><P Class=ENUSCC>&nbsp;
+
+267
+00:11:28,060 --> 00:11:28,143
+YNC Start=688143><P Class=ENUSCC>Which means you'll have free time<br>on your hands, right?
+
+268
+00:11:28,143 --> 00:11:30,688
+YNC Start=690688><P Class=ENUSCC>&nbsp;
+
+269
+00:11:30,688 --> 00:11:33,065
+YNC Start=693065><P Class=ENUSCC>And we could really use your help.
+
+270
+00:11:33,065 --> 00:11:34,692
+YNC Start=694692><P Class=ENUSCC>&nbsp;
+
+271
+00:11:34,692 --> 00:11:35,442
+YNC Start=695442><P Class=ENUSCC>Help how?
+
+272
+00:11:35,442 --> 00:11:36,443
+YNC Start=696443><P Class=ENUSCC>&nbsp;
+
+273
+00:11:36,443 --> 00:11:37,653
+YNC Start=697653><P Class=ENUSCC>This is Nevarro.
+
+274
+00:11:37,653 --> 00:11:38,946
+YNC Start=698946><P Class=ENUSCC>&nbsp;
+
+275
+00:11:38,946 --> 00:11:40,364
+YNC Start=700364><P Class=ENUSCC>We're here.
+
+276
+00:11:40,364 --> 00:11:41,365
+YNC Start=701365><P Class=ENUSCC>&nbsp;
+
+277
+00:11:41,365 --> 00:11:41,448
+YNC Start=701448><P Class=ENUSCC>This entire area's a green zone.<br>Completely safe.
+
+278
+00:11:41,448 --> 00:11:43,993
+YNC Start=703993><P Class=ENUSCC>&nbsp;
+
+279
+00:11:43,993 --> 00:11:45,286
+YNC Start=705286><P Class=ENUSCC>But over on this side is the problem.
+
+280
+00:11:45,286 --> 00:11:47,246
+YNC Start=707246><P Class=ENUSCC>&nbsp;
+
+281
+00:11:47,246 --> 00:11:48,581
+YNC Start=708581><P Class=ENUSCC>It's an old Imperial base.
+
+282
+00:11:48,581 --> 00:11:50,499
+YNC Start=710499><P Class=ENUSCC>&nbsp;
+
+283
+00:11:50,499 --> 00:11:50,583
+YNC Start=710583><P Class=ENUSCC>It's where all those troops came from<br>when we defeated Moff Gideon.
+
+284
+00:11:50,583 --> 00:11:53,752
+YNC Start=713752><P Class=ENUSCC>&nbsp;
+
+285
+00:11:53,752 --> 00:11:54,628
+YNC Start=714628><P Class=ENUSCC>This base has been here<br>since the Imperial expansion.
+
+286
+00:11:54,628 --> 00:11:57,047
+YNC Start=717047><P Class=ENUSCC>&nbsp;
+
+287
+00:11:57,047 --> 00:11:57,590
+YNC Start=717590><P Class=ENUSCC>It's got a skeleton crew, but for<br>some reason, it hasn't been abandoned.
+
+288
+00:11:57,590 --> 00:12:00,843
+YNC Start=720843><P Class=ENUSCC>&nbsp;
+
+289
+00:12:00,843 --> 00:12:00,926
+YNC Start=720926><P Class=ENUSCC>There's a lot o'<br>heavy weaponry in that place
+
+290
+00:12:00,926 --> 00:12:02,970
+YNC Start=722970><P Class=ENUSCC>&nbsp;
+
+291
+00:12:02,970 --> 00:12:03,053
+YNC Start=723053><P Class=ENUSCC>the black market would love<br>to dismantle and get their hands on.
+
+292
+00:12:03,053 --> 00:12:06,015
+YNC Start=726015><P Class=ENUSCC>&nbsp;
+
+293
+00:12:06,015 --> 00:12:06,098
+YNC Start=726098><P Class=ENUSCC>And you wanna mop up the last<br>of the Imperial force before they do.
+
+294
+00:12:06,098 --> 00:12:09,310
+YNC Start=729310><P Class=ENUSCC>&nbsp;
+
+295
+00:12:09,310 --> 00:12:09,393
+YNC Start=729393><P Class=ENUSCC>Mando, I just want them off my planet.
+
+296
+00:12:09,393 --> 00:12:11,478
+YNC Start=731478><P Class=ENUSCC>&nbsp;
+
+297
+00:12:11,478 --> 00:12:12,646
+YNC Start=732646><P Class=ENUSCC>If we could take out that one last base,<br>Nevarro would be completely safe.
+
+298
+00:12:12,646 --> 00:12:16,817
+YNC Start=736817><P Class=ENUSCC>&nbsp;
+
+299
+00:12:16,817 --> 00:12:17,526
+YNC Start=737526><P Class=ENUSCC>We could be a trade anchor<br>for the entire sector.
+
+300
+00:12:17,526 --> 00:12:20,029
+YNC Start=740029><P Class=ENUSCC>&nbsp;
+
+301
+00:12:20,029 --> 00:12:20,112
+YNC Start=740112><P Class=ENUSCC>And the planet would finally be free.
+
+302
+00:12:20,112 --> 00:12:22,156
+YNC Start=742156><P Class=ENUSCC>&nbsp;
+
+303
+00:12:22,156 --> 00:12:27,995
+YNC Start=747995><P Class=ENUSCC>What are we looking at?
+
+304
+00:12:27,995 --> 00:12:29,079
+YNC Start=749079><P Class=ENUSCC>&nbsp;
+
+305
+00:12:29,079 --> 00:12:38,464
+YNC Start=758464><P Class=ENUSCC>The whole base is powered by a reactor.
+
+306
+00:12:38,464 --> 00:12:41,133
+YNC Start=761133><P Class=ENUSCC>&nbsp;
+
+307
+00:12:41,133 --> 00:12:41,217
+YNC Start=761217><P Class=ENUSCC>We sneak in, overload the reactor,<br>and get the hell outta there.
+
+308
+00:12:41,217 --> 00:12:44,094
+YNC Start=764094><P Class=ENUSCC>&nbsp;
+
+309
+00:12:44,094 --> 00:12:44,553
+YNC Start=764553><P Class=ENUSCC>Let's be fast.<br>And keep the speeder running.
+
+310
+00:12:44,553 --> 00:12:47,473
+YNC Start=767473><P Class=ENUSCC>&nbsp;
+
+311
+00:12:47,473 --> 00:12:48,057
+YNC Start=768057><P Class=ENUSCC>There it is, right there.
+
+312
+00:12:48,057 --> 00:12:49,141
+YNC Start=769141><P Class=ENUSCC>&nbsp;
+
+313
+00:12:49,141 --> 00:12:49,808
+YNC Start=769808><P Class=ENUSCC>You see it?
+
+314
+00:12:49,808 --> 00:12:50,809
+YNC Start=770809><P Class=ENUSCC>&nbsp;
+
+315
+00:12:50,809 --> 00:12:53,062
+YNC Start=773062><P Class=ENUSCC>How close you want me to drop you off?
+
+316
+00:12:53,062 --> 00:12:54,855
+YNC Start=774855><P Class=ENUSCC>&nbsp;
+
+317
+00:12:54,855 --> 00:12:54,939
+YNC Start=774939><P Class=ENUSCC>How 'bout the front door?
+
+318
+00:12:54,939 --> 00:12:56,398
+YNC Start=776398><P Class=ENUSCC>&nbsp;
+
+319
+00:12:56,398 --> 00:12:57,191
+YNC Start=777191><P Class=ENUSCC>It's a little close<br>for a civilian, isn't it?
+
+320
+00:12:57,191 --> 00:12:59,109
+YNC Start=779109><P Class=ENUSCC>&nbsp;
+
+321
+00:12:59,109 --> 00:12:59,193
+YNC Start=779193><P Class=ENUSCC>I got two choices for ya.
+
+322
+00:12:59,193 --> 00:13:00,986
+YNC Start=780986><P Class=ENUSCC>&nbsp;
+
+323
+00:13:00,986 --> 00:13:01,070
+YNC Start=781070><P Class=ENUSCC>You take us in and I knock<br>a hundred years off your debt.
+
+324
+00:13:01,070 --> 00:13:03,989
+YNC Start=783989><P Class=ENUSCC>&nbsp;
+
+325
+00:13:03,989 --> 00:13:04,073
+YNC Start=784073><P Class=ENUSCC>Or?
+
+326
+00:13:04,073 --> 00:13:05,074
+YNC Start=785074><P Class=ENUSCC>&nbsp;
+
+327
+00:13:05,074 --> 00:13:05,157
+YNC Start=785157><P Class=ENUSCC>Or I leave ya out here<br>in the lava flats to walk home
+
+328
+00:13:05,157 --> 00:13:07,368
+YNC Start=787368><P Class=ENUSCC>&nbsp;
+
+329
+00:13:07,368 --> 00:13:07,451
+YNC Start=787451><P Class=ENUSCC>with whatever's left<br>in your humidity vest.
+
+330
+00:13:07,451 --> 00:13:09,787
+YNC Start=789787><P Class=ENUSCC>&nbsp;
+
+331
+00:13:09,787 --> 00:13:09,870
+YNC Start=789870><P Class=ENUSCC>It's not much of a choice, is it?
+
+332
+00:13:09,870 --> 00:13:11,247
+YNC Start=791247><P Class=ENUSCC>&nbsp;
+
+333
+00:13:11,247 --> 00:13:21,715
+YNC Start=801715><P Class=ENUSCC>All right.<br>We can't go any further than this.
+
+334
+00:13:21,715 --> 00:13:24,510
+YNC Start=804510><P Class=ENUSCC>&nbsp;
+
+335
+00:13:24,510 --> 00:13:25,135
+YNC Start=805135><P Class=ENUSCC>Let's go.
+
+336
+00:13:25,135 --> 00:13:26,262
+YNC Start=806262><P Class=ENUSCC>&nbsp;
+
+337
+00:13:26,262 --> 00:13:43,863
+YNC Start=823863><P Class=ENUSCC>Controls are useless. They're melted.
+
+338
+00:13:43,863 --> 00:13:45,489
+YNC Start=825489><P Class=ENUSCC>&nbsp;
+
+339
+00:13:45,489 --> 00:13:45,990
+YNC Start=825990><P Class=ENUSCC>Well, it's probably not rated for lava.
+
+340
+00:13:45,990 --> 00:13:48,284
+YNC Start=828284><P Class=ENUSCC>&nbsp;
+
+341
+00:13:48,284 --> 00:13:48,367
+YNC Start=828367><P Class=ENUSCC>Imperial trash.
+
+342
+00:13:48,367 --> 00:13:49,743
+YNC Start=829743><P Class=ENUSCC>&nbsp;
+
+343
+00:13:49,743 --> 00:13:50,369
+YNC Start=830369><P Class=ENUSCC>All right, I'm headed back.
+
+344
+00:13:50,369 --> 00:13:52,121
+YNC Start=832121><P Class=ENUSCC>&nbsp;
+
+345
+00:13:52,121 --> 00:13:52,204
+YNC Start=832204><P Class=ENUSCC>Hit me up on the comm,<br>we could set up a rendezvous time.
+
+346
+00:13:52,204 --> 00:13:54,540
+YNC Start=834540><P Class=ENUSCC>&nbsp;
+
+347
+00:13:54,540 --> 00:13:54,623
+YNC Start=834623><P Class=ENUSCC>You park your gills right there<br>until I say otherwise.
+
+348
+00:13:54,623 --> 00:13:57,209
+YNC Start=837209><P Class=ENUSCC>&nbsp;
+
+349
+00:13:57,209 --> 00:13:57,293
+YNC Start=837293><P Class=ENUSCC>I'm startin' to dehydrate, boss.
+
+350
+00:13:57,293 --> 00:13:59,086
+YNC Start=839086><P Class=ENUSCC>&nbsp;
+
+351
+00:13:59,086 --> 00:13:59,170
+YNC Start=839170><P Class=ENUSCC>Okay, how does 30 more years<br>off your debt sound?
+
+352
+00:13:59,170 --> 00:14:01,964
+YNC Start=841964><P Class=ENUSCC>&nbsp;
+
+353
+00:14:01,964 --> 00:14:03,048
+YNC Start=843048><P Class=ENUSCC>Can you at least be quick about it?
+
+354
+00:14:03,048 --> 00:14:04,508
+YNC Start=844508><P Class=ENUSCC>&nbsp;
+
+355
+00:14:04,508 --> 00:14:04,592
+YNC Start=844592><P Class=ENUSCC>You wanna be quick?<br>Grab the flange cutter and help us out.
+
+356
+00:14:04,592 --> 00:14:07,094
+YNC Start=847094><P Class=ENUSCC>&nbsp;
+
+357
+00:14:07,094 --> 00:14:08,888
+YNC Start=848888><P Class=ENUSCC>Okay, fine. I don't like
+
+358
+00:14:08,888 --> 00:14:10,222
+YNC Start=850222><P Class=ENUSCC>&nbsp;
+
+359
+00:14:10,222 --> 00:14:10,306
+YNC Start=850306><P Class=ENUSCC>leaving my speeder like this,<br>just so you know.
+
+360
+00:14:10,306 --> 00:14:12,308
+YNC Start=852308><P Class=ENUSCC>&nbsp;
+
+361
+00:14:12,308 --> 00:14:12,391
+YNC Start=852391><P Class=ENUSCC>Come on, hurry it up.
+
+362
+00:14:12,391 --> 00:14:13,934
+YNC Start=853934><P Class=ENUSCC>&nbsp;
+
+363
+00:14:13,934 --> 00:14:14,018
+YNC Start=854018><P Class=ENUSCC>All right, I'm coming.
+
+364
+00:14:14,018 --> 00:14:15,436
+YNC Start=855436><P Class=ENUSCC>&nbsp;
+
+365
+00:14:15,436 --> 00:14:15,519
+YNC Start=855519><P Class=ENUSCC>Hurry up.
+
+366
+00:14:15,519 --> 00:14:16,854
+YNC Start=856854><P Class=ENUSCC>&nbsp;
+
+367
+00:14:16,854 --> 00:14:21,734
+YNC Start=861734><P Class=ENUSCC>Hold tight.
+
+368
+00:14:21,734 --> 00:14:22,818
+YNC Start=862818><P Class=ENUSCC>&nbsp;
+
+369
+00:14:22,818 --> 00:14:35,706
+YNC Start=875706><P Class=ENUSCC>How long is this gonna take?
+
+370
+00:14:35,706 --> 00:14:37,249
+YNC Start=877249><P Class=ENUSCC>&nbsp;
+
+371
+00:14:37,249 --> 00:14:37,333
+YNC Start=877333><P Class=ENUSCC>Look, lady, this is rated<br>for light plumbing and such.
+
+372
+00:14:37,333 --> 00:14:40,252
+YNC Start=880252><P Class=ENUSCC>&nbsp;
+
+373
+00:14:40,252 --> 00:14:40,336
+YNC Start=880336><P Class=ENUSCC>You're lucky I even packed it at all.
+
+374
+00:14:40,336 --> 00:14:41,879
+YNC Start=881879><P Class=ENUSCC>&nbsp;
+
+375
+00:14:41,879 --> 00:14:41,962
+YNC Start=881962><P Class=ENUSCC>-<i><font color=#80ffff>Dank farrik.</i></font>
+
+376
+00:14:41,962 --> 00:14:44,256
+YNC Start=884256><P Class=ENUSCC>&nbsp;
+
+377
+00:14:44,256 --> 00:14:50,054
+YNC Start=890054><P Class=ENUSCC>Are you comin' in or what?
+
+378
+00:14:50,054 --> 00:14:51,263
+YNC Start=891263><P Class=ENUSCC>&nbsp;
+
+379
+00:14:51,263 --> 00:14:51,347
+YNC Start=891347><P Class=ENUSCC>I'll take my chances here,<br>but thank you.
+
+380
+00:14:51,347 --> 00:14:53,098
+YNC Start=893098><P Class=ENUSCC>&nbsp;
+
+381
+00:14:53,098 --> 00:14:53,182
+YNC Start=893182><P Class=ENUSCC>Well, when the lava tide comes in,<br>give us a holler. We'll drop you a rope.
+
+382
+00:14:53,182 --> 00:14:56,477
+YNC Start=896477><P Class=ENUSCC>&nbsp;
+
+383
+00:14:56,477 --> 00:15:11,700
+YNC Start=911700><P Class=ENUSCC>Empty base, huh?
+
+384
+00:15:11,700 --> 00:15:12,826
+YNC Start=912826><P Class=ENUSCC>&nbsp;
+
+385
+00:15:12,826 --> 00:15:18,958
+YNC Start=918958><P Class=ENUSCC>The reactor should be set<br>in the heat shaft.
+
+386
+00:15:18,958 --> 00:15:21,252
+YNC Start=921252><P Class=ENUSCC>&nbsp;
+
+387
+00:15:21,252 --> 00:15:21,335
+YNC Start=921335><P Class=ENUSCC>If we drain the cooling lines,
+
+388
+00:15:21,335 --> 00:15:23,003
+YNC Start=923003><P Class=ENUSCC>&nbsp;
+
+389
+00:15:23,003 --> 00:15:23,087
+YNC Start=923087><P Class=ENUSCC>this whole base<br>will go up in a matter of minutes.
+
+390
+00:15:23,087 --> 00:15:25,631
+YNC Start=925631><P Class=ENUSCC>&nbsp;
+
+391
+00:15:25,631 --> 00:15:25,714
+YNC Start=925714><P Class=ENUSCC>Look.<br>It's a mint Trexler Marauder.
+
+392
+00:15:25,714 --> 00:15:28,217
+YNC Start=928217><P Class=ENUSCC>&nbsp;
+
+393
+00:15:28,217 --> 00:15:28,300
+YNC Start=928300><P Class=ENUSCC>We can get a lot for this<br>on the black market.
+
+394
+00:15:28,300 --> 00:15:30,302
+YNC Start=930302><P Class=ENUSCC>&nbsp;
+
+395
+00:15:30,302 --> 00:15:30,386
+YNC Start=930386><P Class=ENUSCC>And it's gonna get vaporized
+
+396
+00:15:30,386 --> 00:15:32,054
+YNC Start=932054><P Class=ENUSCC>&nbsp;
+
+397
+00:15:32,054 --> 00:15:32,137
+YNC Start=932137><P Class=ENUSCC>like the rest of this base.<br>Now, let's go.
+
+398
+00:15:32,137 --> 00:15:34,014
+YNC Start=934014><P Class=ENUSCC>&nbsp;
+
+399
+00:15:34,014 --> 00:15:34,098
+YNC Start=934098><P Class=ENUSCC>Such a waste.
+
+400
+00:15:34,098 --> 00:15:36,267
+YNC Start=936267><P Class=ENUSCC>&nbsp;
+
+401
+00:15:36,267 --> 00:15:52,199
+YNC Start=952199><P Class=ENUSCC>Shuttle bay, this is command.
+
+402
+00:15:52,199 --> 00:15:53,409
+YNC Start=953409><P Class=ENUSCC>&nbsp;
+
+403
+00:15:53,409 --> 00:15:55,202
+YNC Start=955202><P Class=ENUSCC>Shuttle bay,<br>the security feed just went down.
+
+404
+00:15:55,202 --> 00:15:58,706
+YNC Start=958706><P Class=ENUSCC>&nbsp;
+
+405
+00:15:58,706 --> 00:15:58,789
+YNC Start=958789><P Class=ENUSCC>Can you check your relay hub?
+
+406
+00:15:58,789 --> 00:16:00,332
+YNC Start=960332><P Class=ENUSCC>&nbsp;
+
+407
+00:16:00,332 --> 00:16:01,667
+YNC Start=961667><P Class=ENUSCC>Shuttle bay? Shuttle bay, this is...
+
+408
+00:16:01,667 --> 00:16:03,878
+YNC Start=963878><P Class=ENUSCC>&nbsp;
+
+409
+00:16:03,878 --> 00:16:20,436
+YNC Start=980436><P Class=ENUSCC>This will come in handy.
+
+410
+00:16:20,436 --> 00:16:21,645
+YNC Start=981645><P Class=ENUSCC>&nbsp;
+
+411
+00:16:21,645 --> 00:16:23,522
+YNC Start=983522><P Class=ENUSCC>I found the heat shaft.
+
+412
+00:16:23,522 --> 00:16:25,065
+YNC Start=985065><P Class=ENUSCC>&nbsp;
+
+413
+00:16:25,065 --> 00:16:25,649
+YNC Start=985649><P Class=ENUSCC>Let's go.
+
+414
+00:16:25,649 --> 00:16:26,650
+YNC Start=986650><P Class=ENUSCC>&nbsp;
+
+415
+00:16:26,650 --> 00:16:31,280
+YNC Start=991280><P Class=ENUSCC>The access corridor<br>should be right past this junction.
+
+416
+00:16:31,280 --> 00:16:33,657
+YNC Start=993657><P Class=ENUSCC>&nbsp;
+
+417
+00:16:33,657 --> 00:16:34,450
+YNC Start=994450><P Class=ENUSCC>Must've blown a transformer over there.
+
+418
+00:16:34,450 --> 00:16:36,493
+YNC Start=996493><P Class=ENUSCC>&nbsp;
+
+419
+00:16:36,493 --> 00:16:36,577
+YNC Start=996577><P Class=ENUSCC>All right. We'll check it out.
+
+420
+00:16:36,577 --> 00:16:38,370
+YNC Start=998370><P Class=ENUSCC>&nbsp;
+
+421
+00:16:38,370 --> 00:16:38,454
+YNC Start=998454><P Class=ENUSCC>Section-Four? TK-1-4-7.
+
+422
+00:16:38,454 --> 00:16:40,539
+YNC Start=1000539><P Class=ENUSCC>&nbsp;
+
+423
+00:16:40,539 --> 00:16:40,623
+YNC Start=1000623><P Class=ENUSCC>Scan control has been<br>unreliable since last rotation.
+
+424
+00:16:40,623 --> 00:16:43,626
+YNC Start=1003626><P Class=ENUSCC>&nbsp;
+
+425
+00:16:43,626 --> 00:16:43,709
+YNC Start=1003709><P Class=ENUSCC>Send a technical crew to check it out.
+
+426
+00:16:43,709 --> 00:16:45,461
+YNC Start=1005461><P Class=ENUSCC>&nbsp;
+
+427
+00:16:45,461 --> 00:16:50,966
+YNC Start=1010966><P Class=ENUSCC>There, Mythrol, slice that door.
+
+428
+00:16:50,966 --> 00:16:52,885
+YNC Start=1012885><P Class=ENUSCC>&nbsp;
+
+429
+00:16:52,885 --> 00:16:54,261
+YNC Start=1014261><P Class=ENUSCC>Use the code cylinder.
+
+430
+00:16:54,261 --> 00:16:55,721
+YNC Start=1015721><P Class=ENUSCC>&nbsp;
+
+431
+00:16:55,721 --> 00:17:10,986
+YNC Start=1030986><P Class=ENUSCC>- Whoa!<br>- Yeah, "whoa" is right.
+
+432
+00:17:10,986 --> 00:17:13,447
+YNC Start=1033447><P Class=ENUSCC>&nbsp;
+
+433
+00:17:13,447 --> 00:17:14,782
+YNC Start=1034782><P Class=ENUSCC>That's it.
+
+434
+00:17:14,782 --> 00:17:15,824
+YNC Start=1035824><P Class=ENUSCC>&nbsp;
+
+435
+00:17:15,824 --> 00:17:17,117
+YNC Start=1037117><P Class=ENUSCC>Get on the reactor controls,<br>drain the coolant lines.
+
+436
+00:17:17,117 --> 00:17:19,662
+YNC Start=1039662><P Class=ENUSCC>&nbsp;
+
+437
+00:17:19,662 --> 00:17:19,745
+YNC Start=1039745><P Class=ENUSCC>We'll watch the doors.
+
+438
+00:17:19,745 --> 00:17:20,955
+YNC Start=1040955><P Class=ENUSCC>&nbsp;
+
+439
+00:17:20,955 --> 00:17:21,872
+YNC Start=1041872><P Class=ENUSCC>-Me?<br>-Yes, you!
+
+440
+00:17:21,872 --> 00:17:23,374
+YNC Start=1043374><P Class=ENUSCC>&nbsp;
+
+441
+00:17:23,374 --> 00:17:24,083
+YNC Start=1044083><P Class=ENUSCC>I'm afraid o' heights. And heat. And lava.
+
+442
+00:17:24,083 --> 00:17:28,337
+YNC Start=1048337><P Class=ENUSCC>&nbsp;
+
+443
+00:17:28,337 --> 00:17:28,420
+YNC Start=1048420><P Class=ENUSCC>How 'bout if I put ya back in carbonite?<br>Get over there!
+
+444
+00:17:28,420 --> 00:17:31,382
+YNC Start=1051382><P Class=ENUSCC>&nbsp;
+
+445
+00:17:31,382 --> 00:17:34,677
+YNC Start=1054677><P Class=ENUSCC>-There's no guard rail on this.<br>-Come on!
+
+446
+00:17:34,677 --> 00:17:36,387
+YNC Start=1056387><P Class=ENUSCC>&nbsp;
+
+447
+00:17:36,387 --> 00:17:42,643
+YNC Start=1062643><P Class=ENUSCC>Oh, boy.
+
+448
+00:17:42,643 --> 00:17:43,644
+YNC Start=1063644><P Class=ENUSCC>&nbsp;
+
+449
+00:17:43,644 --> 00:17:50,734
+YNC Start=1070734><P Class=ENUSCC>-Come on, hurry up, hurry up.
+
+450
+00:17:50,734 --> 00:17:53,112
+YNC Start=1073112><P Class=ENUSCC>&nbsp;
+
+451
+00:17:53,112 --> 00:17:53,195
+YNC Start=1073195><P Class=ENUSCC>-Hurry up!
+
+452
+00:17:53,195 --> 00:17:54,488
+YNC Start=1074488><P Class=ENUSCC>&nbsp;
+
+453
+00:17:54,488 --> 00:18:03,038
+YNC Start=1083038><P Class=ENUSCC>Oh, dear.
+
+454
+00:18:03,038 --> 00:18:04,039
+YNC Start=1084039><P Class=ENUSCC>&nbsp;
+
+455
+00:18:04,039 --> 00:18:13,799
+YNC Start=1093799><P Class=ENUSCC>All right, she's gonna blow.
+
+456
+00:18:13,799 --> 00:18:15,509
+YNC Start=1095509><P Class=ENUSCC>&nbsp;
+
+457
+00:18:15,509 --> 00:18:16,177
+YNC Start=1096177><P Class=ENUSCC>Let's go! Let's get outta here!
+
+458
+00:18:16,177 --> 00:18:17,595
+YNC Start=1097595><P Class=ENUSCC>&nbsp;
+
+459
+00:18:17,595 --> 00:18:23,267
+YNC Start=1103267><P Class=ENUSCC>How long do we have?
+
+460
+00:18:23,267 --> 00:18:24,268
+YNC Start=1104268><P Class=ENUSCC>&nbsp;
+
+461
+00:18:24,268 --> 00:18:24,351
+YNC Start=1104351><P Class=ENUSCC>Ten minutes at the most.
+
+462
+00:18:24,351 --> 00:18:25,936
+YNC Start=1105936><P Class=ENUSCC>&nbsp;
+
+463
+00:18:25,936 --> 00:18:31,442
+YNC Start=1111442><P Class=ENUSCC>5-3-8-7 and 5-3-8-9, follow me.
+
+464
+00:18:31,442 --> 00:18:33,319
+YNC Start=1113319><P Class=ENUSCC>&nbsp;
+
+465
+00:18:33,319 --> 00:18:34,320
+YNC Start=1114320><P Class=ENUSCC>Call in reinforcements!
+
+466
+00:18:34,320 --> 00:18:35,571
+YNC Start=1115571><P Class=ENUSCC>&nbsp;
+
+467
+00:18:35,571 --> 00:18:44,079
+YNC Start=1124079><P Class=ENUSCC>Hurry up, purge the drives.
+
+468
+00:18:44,079 --> 00:18:46,123
+YNC Start=1126123><P Class=ENUSCC>&nbsp;
+
+469
+00:18:46,123 --> 00:18:49,919
+YNC Start=1129919><P Class=ENUSCC>Destroy it!
+
+470
+00:18:49,919 --> 00:18:51,253
+YNC Start=1131253><P Class=ENUSCC>&nbsp;
+
+471
+00:18:51,253 --> 00:18:55,257
+YNC Start=1135257><P Class=ENUSCC>Ahh!
+
+472
+00:18:55,257 --> 00:18:56,342
+YNC Start=1136342><P Class=ENUSCC>&nbsp;
+
+473
+00:18:56,342 --> 00:19:10,314
+YNC Start=1150314><P Class=ENUSCC>What the...
+
+474
+00:19:10,314 --> 00:19:11,315
+YNC Start=1151315><P Class=ENUSCC>&nbsp;
+
+475
+00:19:11,315 --> 00:19:16,820
+YNC Start=1156820><P Class=ENUSCC>I thought you said<br>this was a forward operating base.
+
+476
+00:19:16,820 --> 00:19:18,989
+YNC Start=1158989><P Class=ENUSCC>&nbsp;
+
+477
+00:19:18,989 --> 00:19:19,615
+YNC Start=1159615><P Class=ENUSCC>I thought it was.
+
+478
+00:19:19,615 --> 00:19:20,950
+YNC Start=1160950><P Class=ENUSCC>&nbsp;
+
+479
+00:19:20,950 --> 00:19:21,033
+YNC Start=1161033><P Class=ENUSCC>No,<br>this isn't a military operation.
+
+480
+00:19:21,033 --> 00:19:22,910
+YNC Start=1162910><P Class=ENUSCC>&nbsp;
+
+481
+00:19:22,910 --> 00:19:22,993
+YNC Start=1162993><P Class=ENUSCC>This is a lab.
+
+482
+00:19:22,993 --> 00:19:24,161
+YNC Start=1164161><P Class=ENUSCC>&nbsp;
+
+483
+00:19:24,161 --> 00:19:24,787
+YNC Start=1164787><P Class=ENUSCC>We need to get into the system
+
+484
+00:19:24,787 --> 00:19:26,455
+YNC Start=1166455><P Class=ENUSCC>&nbsp;
+
+485
+00:19:26,455 --> 00:19:26,539
+YNC Start=1166539><P Class=ENUSCC>and figure out what's going on.
+
+486
+00:19:26,539 --> 00:19:27,998
+YNC Start=1167998><P Class=ENUSCC>&nbsp;
+
+487
+00:19:27,998 --> 00:19:28,082
+YNC Start=1168082><P Class=ENUSCC>-What about the reactor...<br>-Do it! Do it.
+
+488
+00:19:28,082 --> 00:19:30,584
+YNC Start=1170584><P Class=ENUSCC>&nbsp;
+
+489
+00:19:30,584 --> 00:19:33,712
+YNC Start=1173712><P Class=ENUSCC>I don't like this.
+
+490
+00:19:33,712 --> 00:19:35,089
+YNC Start=1175089><P Class=ENUSCC>&nbsp;
+
+491
+00:19:35,089 --> 00:19:36,048
+YNC Start=1176048><P Class=ENUSCC>Pardon me.
+
+492
+00:19:36,048 --> 00:19:37,049
+YNC Start=1177049><P Class=ENUSCC>&nbsp;
+
+493
+00:19:37,049 --> 00:19:42,763
+YNC Start=1182763><P Class=ENUSCC><i><font color=#80ffff>Replicated the results</i></font>
+
+494
+00:19:42,763 --> 00:19:44,098
+YNC Start=1184098><P Class=ENUSCC>&nbsp;
+
+495
+00:19:44,098 --> 00:19:44,181
+YNC Start=1184181><P Class=ENUSCC><i><font color=#80ffff>of the subsequent trials,</i></font>
+
+496
+00:19:44,181 --> 00:19:45,349
+YNC Start=1185349><P Class=ENUSCC>&nbsp;
+
+497
+00:19:45,349 --> 00:19:45,432
+YNC Start=1185432><P Class=ENUSCC><i><font color=#80ffff>which also resulted</i></font><br><i><font color=#80ffff>in catastrophic failure.</i></font>
+
+498
+00:19:45,432 --> 00:19:47,935
+YNC Start=1187935><P Class=ENUSCC>&nbsp;
+
+499
+00:19:47,935 --> 00:19:48,644
+YNC Start=1188644><P Class=ENUSCC><i><font color=#80ffff>There were promising effects</i></font><br><i><font color=#80ffff>for an entire fortnight,</i></font>
+
+500
+00:19:48,644 --> 00:19:50,813
+YNC Start=1190813><P Class=ENUSCC>&nbsp;
+
+501
+00:19:50,813 --> 00:19:50,896
+YNC Start=1190896><P Class=ENUSCC><i><font color=#80ffff>but then, sadly,</i></font><br><i><font color=#80ffff>the body rejected the blood.</i></font>
+
+502
+00:19:50,896 --> 00:19:53,816
+YNC Start=1193816><P Class=ENUSCC>&nbsp;
+
+503
+00:19:53,816 --> 00:19:56,485
+YNC Start=1196485><P Class=ENUSCC><i><font color=#80ffff>I highly doubt we'll find</i></font><br><i><font color=#80ffff>a donor with a higher M-count, though.</i></font>
+
+504
+00:19:56,485 --> 00:19:59,989
+YNC Start=1199989><P Class=ENUSCC>&nbsp;
+
+505
+00:19:59,989 --> 00:20:00,072
+YNC Start=1200072><P Class=ENUSCC><i><font color=#80ffff>I recommend</i></font><br><i><font color=#80ffff>that we suspend all experimentation.</i></font>
+
+506
+00:20:00,072 --> 00:20:03,242
+YNC Start=1203242><P Class=ENUSCC>&nbsp;
+
+507
+00:20:03,242 --> 00:20:03,325
+YNC Start=1203325><P Class=ENUSCC><i><font color=#80ffff>I fear that the volunteer</i></font><br><i><font color=#80ffff>will meet the same regrettable fate</i></font>
+
+508
+00:20:03,325 --> 00:20:06,245
+YNC Start=1206245><P Class=ENUSCC>&nbsp;
+
+509
+00:20:06,245 --> 00:20:06,328
+YNC Start=1206328><P Class=ENUSCC><i><font color=#80ffff>if we proceed with the transfusion.</i></font>
+
+510
+00:20:06,328 --> 00:20:08,664
+YNC Start=1208664><P Class=ENUSCC>&nbsp;
+
+511
+00:20:08,664 --> 00:20:09,456
+YNC Start=1209456><P Class=ENUSCC><i><font color=#80ffff>Unfortunately, we have exhausted</i></font>
+
+512
+00:20:09,456 --> 00:20:12,710
+YNC Start=1212710><P Class=ENUSCC>&nbsp;
+
+513
+00:20:12,710 --> 00:20:12,793
+YNC Start=1212793><P Class=ENUSCC><i><font color=#80ffff>our initial supply of blood.</i></font>
+
+514
+00:20:12,793 --> 00:20:14,170
+YNC Start=1214170><P Class=ENUSCC>&nbsp;
+
+515
+00:20:14,170 --> 00:20:15,129
+YNC Start=1215129><P Class=ENUSCC><i><font color=#80ffff>The Child is small,</i></font><br><i><font color=#80ffff>and I was only able</i></font>
+
+516
+00:20:15,129 --> 00:20:17,131
+YNC Start=1217131><P Class=ENUSCC>&nbsp;
+
+517
+00:20:17,131 --> 00:20:17,214
+YNC Start=1217214><P Class=ENUSCC><i><font color=#80ffff>to harvest a limited amount</i></font><br><i><font color=#80ffff>without killing him.</i></font>
+
+518
+00:20:17,214 --> 00:20:19,884
+YNC Start=1219884><P Class=ENUSCC>&nbsp;
+
+519
+00:20:19,884 --> 00:20:22,636
+YNC Start=1222636><P Class=ENUSCC><i><font color=#80ffff>If these experiments</i></font><br><i><font color=#80ffff>are to continue as requested,</i></font>
+
+520
+00:20:22,636 --> 00:20:25,681
+YNC Start=1225681><P Class=ENUSCC>&nbsp;
+
+521
+00:20:25,681 --> 00:20:26,682
+YNC Start=1226682><P Class=ENUSCC><i><font color=#80ffff>we would again</i></font><br><i><font color=#80ffff>require access to the donor.</i></font>
+
+522
+00:20:26,682 --> 00:20:28,851
+YNC Start=1228851><P Class=ENUSCC>&nbsp;
+
+523
+00:20:28,851 --> 00:20:29,643
+YNC Start=1229643><P Class=ENUSCC><i><font color=#80ffff>I will not disappoint</i></font><br><i><font color=#80ffff>you again, Moff Gideon.</i></font>
+
+524
+00:20:29,643 --> 00:20:32,646
+YNC Start=1232646><P Class=ENUSCC>&nbsp;
+
+525
+00:20:32,646 --> 00:20:34,023
+YNC Start=1234023><P Class=ENUSCC>This must be<br>an old transmission. Moff Gideon is dead.
+
+526
+00:20:34,023 --> 00:20:37,234
+YNC Start=1237234><P Class=ENUSCC>&nbsp;
+
+527
+00:20:37,234 --> 00:20:37,318
+YNC Start=1237318><P Class=ENUSCC>No. This recording's three days old.
+
+528
+00:20:37,318 --> 00:20:41,655
+YNC Start=1241655><P Class=ENUSCC>&nbsp;
+
+529
+00:20:41,655 --> 00:20:43,115
+YNC Start=1243115><P Class=ENUSCC>If Gideon's alive then...
+
+530
+00:20:43,115 --> 00:20:44,909
+YNC Start=1244909><P Class=ENUSCC>&nbsp;
+
+531
+00:20:44,909 --> 00:20:45,492
+YNC Start=1245492><P Class=ENUSCC>Over there!
+
+532
+00:20:45,492 --> 00:20:47,036
+YNC Start=1247036><P Class=ENUSCC>&nbsp;
+
+533
+00:20:47,036 --> 00:20:52,416
+YNC Start=1252416><P Class=ENUSCC>We have them!
+
+534
+00:20:52,416 --> 00:20:53,584
+YNC Start=1253584><P Class=ENUSCC>&nbsp;
+
+535
+00:20:53,584 --> 00:21:04,178
+YNC Start=1264178><P Class=ENUSCC>I need to get the kid.
+
+536
+00:21:04,178 --> 00:21:05,304
+YNC Start=1265304><P Class=ENUSCC>&nbsp;
+
+537
+00:21:05,304 --> 00:21:05,387
+YNC Start=1265387><P Class=ENUSCC>Jet back, you're faster that way.
+
+538
+00:21:05,387 --> 00:21:06,847
+YNC Start=1266847><P Class=ENUSCC>&nbsp;
+
+539
+00:21:06,847 --> 00:21:06,931
+YNC Start=1266931><P Class=ENUSCC>We'll head to the speeder<br>and meet you in town.
+
+540
+00:21:06,931 --> 00:21:08,974
+YNC Start=1268974><P Class=ENUSCC>&nbsp;
+
+541
+00:21:08,974 --> 00:21:09,058
+YNC Start=1269058><P Class=ENUSCC>Come on, let's go!
+
+542
+00:21:09,058 --> 00:21:10,309
+YNC Start=1270309><P Class=ENUSCC>&nbsp;
+
+543
+00:21:10,309 --> 00:21:10,893
+YNC Start=1270893><P Class=ENUSCC>When did you say<br>this place is gonna blow again?
+
+544
+00:21:10,893 --> 00:21:13,229
+YNC Start=1273229><P Class=ENUSCC>&nbsp;
+
+545
+00:21:13,229 --> 00:21:17,233
+YNC Start=1277233><P Class=ENUSCC>They're on the move!
+
+546
+00:21:17,233 --> 00:21:18,692
+YNC Start=1278692><P Class=ENUSCC>&nbsp;
+
+547
+00:21:18,692 --> 00:21:26,617
+YNC Start=1286617><P Class=ENUSCC>Let's go!
+
+548
+00:21:26,617 --> 00:21:27,660
+YNC Start=1287660><P Class=ENUSCC>&nbsp;
+
+549
+00:21:27,660 --> 00:21:29,495
+YNC Start=1289495><P Class=ENUSCC>We think they may be moving to the... Hey!
+
+550
+00:21:29,495 --> 00:21:31,831
+YNC Start=1291831><P Class=ENUSCC>&nbsp;
+
+551
+00:21:31,831 --> 00:22:04,822
+YNC Start=1324822><P Class=ENUSCC>This way!
+
+552
+00:22:04,822 --> 00:22:06,031
+YNC Start=1326031><P Class=ENUSCC>&nbsp;
+
+553
+00:22:06,031 --> 00:22:40,191
+YNC Start=1360191><P Class=ENUSCC>All right, men, load your weapons.
+
+554
+00:22:40,191 --> 00:22:42,067
+YNC Start=1362067><P Class=ENUSCC>&nbsp;
+
+555
+00:22:42,067 --> 00:22:42,735
+YNC Start=1362735><P Class=ENUSCC>There they are! Blast 'em!
+
+556
+00:22:42,735 --> 00:22:44,195
+YNC Start=1364195><P Class=ENUSCC>&nbsp;
+
+557
+00:22:44,195 --> 00:22:52,077
+YNC Start=1372077><P Class=ENUSCC>We're trapped!
+
+558
+00:22:52,077 --> 00:22:53,495
+YNC Start=1373495><P Class=ENUSCC>&nbsp;
+
+559
+00:22:53,495 --> 00:22:55,414
+YNC Start=1375414><P Class=ENUSCC>Is that so?
+
+560
+00:22:55,414 --> 00:22:56,499
+YNC Start=1376499><P Class=ENUSCC>&nbsp;
+
+561
+00:22:56,499 --> 00:22:57,791
+YNC Start=1377791><P Class=ENUSCC>Cover me!
+
+562
+00:22:57,791 --> 00:22:58,918
+YNC Start=1378918><P Class=ENUSCC>&nbsp;
+
+563
+00:22:58,918 --> 00:23:02,213
+YNC Start=1382213><P Class=ENUSCC>What does she think she's doing?
+
+564
+00:23:02,213 --> 00:23:03,589
+YNC Start=1383589><P Class=ENUSCC>&nbsp;
+
+565
+00:23:03,589 --> 00:23:12,264
+YNC Start=1392264><P Class=ENUSCC>All right, baby girl,<br>let's see what you got.
+
+566
+00:23:12,264 --> 00:23:14,600
+YNC Start=1394600><P Class=ENUSCC>&nbsp;
+
+567
+00:23:14,600 --> 00:23:26,987
+YNC Start=1406987><P Class=ENUSCC>What are you guys waiting for,<br>an invitation? Let's move!
+
+568
+00:23:26,987 --> 00:23:29,448
+YNC Start=1409448><P Class=ENUSCC>&nbsp;
+
+569
+00:23:29,448 --> 00:23:29,532
+YNC Start=1409532><P Class=ENUSCC>Go! Go, go, go, go, go! Go!
+
+570
+00:23:29,532 --> 00:23:31,534
+YNC Start=1411534><P Class=ENUSCC>&nbsp;
+
+571
+00:23:31,534 --> 00:23:56,100
+YNC Start=1436100><P Class=ENUSCC>You're not considering<br>going over...
+
+572
+00:23:56,100 --> 00:23:57,685
+YNC Start=1437685><P Class=ENUSCC>&nbsp;
+
+573
+00:23:57,685 --> 00:23:57,768
+YNC Start=1437768><P Class=ENUSCC>Hang on!
+
+574
+00:23:57,768 --> 00:23:59,186
+YNC Start=1439186><P Class=ENUSCC>&nbsp;
+
+575
+00:23:59,186 --> 00:24:03,816
+YNC Start=1443816><P Class=ENUSCC>Oh, no, no, no, no!
+
+576
+00:24:03,816 --> 00:24:05,109
+YNC Start=1445109><P Class=ENUSCC>&nbsp;
+
+577
+00:24:05,109 --> 00:24:17,788
+YNC Start=1457788><P Class=ENUSCC>Wait. Was that my speeder...
+
+578
+00:24:17,788 --> 00:24:19,957
+YNC Start=1459957><P Class=ENUSCC>&nbsp;
+
+579
+00:24:19,957 --> 00:24:53,449
+YNC Start=1493449><P Class=ENUSCC>Man the guns.
+
+580
+00:24:53,449 --> 00:24:54,575
+YNC Start=1494575><P Class=ENUSCC>&nbsp;
+
+581
+00:24:54,575 --> 00:24:54,658
+YNC Start=1494658><P Class=ENUSCC>Copy that.
+
+582
+00:24:54,658 --> 00:24:55,993
+YNC Start=1495993><P Class=ENUSCC>&nbsp;
+
+583
+00:24:55,993 --> 00:25:21,101
+YNC Start=1521101><P Class=ENUSCC>One down.
+
+584
+00:25:21,101 --> 00:25:22,269
+YNC Start=1522269><P Class=ENUSCC>&nbsp;
+
+585
+00:25:22,269 --> 00:25:35,533
+YNC Start=1535533><P Class=ENUSCC>I've lost him!
+
+586
+00:25:35,533 --> 00:25:36,992
+YNC Start=1536992><P Class=ENUSCC>&nbsp;
+
+587
+00:25:36,992 --> 00:25:49,713
+YNC Start=1549713><P Class=ENUSCC>Whoo!
+
+588
+00:25:49,713 --> 00:25:51,006
+YNC Start=1551006><P Class=ENUSCC>&nbsp;
+
+589
+00:25:51,006 --> 00:26:29,962
+YNC Start=1589962><P Class=ENUSCC>Yes! We did it!
+
+590
+00:26:29,962 --> 00:26:32,506
+YNC Start=1592506><P Class=ENUSCC>&nbsp;
+
+591
+00:26:32,506 --> 00:26:33,382
+YNC Start=1593382><P Class=ENUSCC>Headed home, boss.
+
+592
+00:26:33,382 --> 00:26:34,592
+YNC Start=1594592><P Class=ENUSCC>&nbsp;
+
+593
+00:26:34,592 --> 00:26:49,690
+YNC Start=1609690><P Class=ENUSCC>That may have been premature.
+
+594
+00:26:49,690 --> 00:26:51,358
+YNC Start=1611358><P Class=ENUSCC>&nbsp;
+
+595
+00:26:51,358 --> 00:26:51,942
+YNC Start=1611942><P Class=ENUSCC>Take evasive! I got this!
+
+596
+00:26:51,942 --> 00:26:54,153
+YNC Start=1614153><P Class=ENUSCC>&nbsp;
+
+597
+00:26:54,153 --> 00:27:26,352
+YNC Start=1646352><P Class=ENUSCC>What is going on back there?
+
+598
+00:27:26,352 --> 00:27:28,187
+YNC Start=1648187><P Class=ENUSCC>&nbsp;
+
+599
+00:27:28,187 --> 00:27:28,270
+YNC Start=1648270><P Class=ENUSCC>You wanna come back here<br>and try this? Be my guest!
+
+600
+00:27:28,270 --> 00:27:30,731
+YNC Start=1650731><P Class=ENUSCC>&nbsp;
+
+601
+00:27:30,731 --> 00:27:37,446
+YNC Start=1657446><P Class=ENUSCC>Can't you get this thing to go any faster?
+
+602
+00:27:37,446 --> 00:27:39,865
+YNC Start=1659865><P Class=ENUSCC>&nbsp;
+
+603
+00:27:39,865 --> 00:27:40,533
+YNC Start=1660533><P Class=ENUSCC>Come on.
+
+604
+00:27:40,533 --> 00:27:42,576
+YNC Start=1662576><P Class=ENUSCC>&nbsp;
+
+605
+00:27:42,576 --> 00:28:07,434
+YNC Start=1687434><P Class=ENUSCC>We're almost there!
+
+606
+00:28:07,434 --> 00:28:08,727
+YNC Start=1688727><P Class=ENUSCC>&nbsp;
+
+607
+00:28:08,727 --> 00:28:29,623
+YNC Start=1709623><P Class=ENUSCC>-Yes! Yes!
+
+608
+00:28:29,623 --> 00:28:31,750
+YNC Start=1711750><P Class=ENUSCC>&nbsp;
+
+609
+00:28:31,750 --> 00:28:32,960
+YNC Start=1712960><P Class=ENUSCC>-Hang on, kid.
+
+610
+00:28:32,960 --> 00:28:34,962
+YNC Start=1714962><P Class=ENUSCC>&nbsp;
+
+611
+00:28:34,962 --> 00:29:43,364
+YNC Start=1783364><P Class=ENUSCC>-Yeah!
+
+612
+00:29:43,364 --> 00:29:44,865
+YNC Start=1784865><P Class=ENUSCC>&nbsp;
+
+613
+00:29:44,865 --> 00:29:44,949
+YNC Start=1784949><P Class=ENUSCC>Yes!
+
+614
+00:29:44,949 --> 00:29:46,367
+YNC Start=1786367><P Class=ENUSCC>&nbsp;
+
+615
+00:29:46,367 --> 00:29:46,951
+YNC Start=1786951><P Class=ENUSCC>-Yeah!
+
+616
+00:29:46,951 --> 00:29:48,077
+YNC Start=1788077><P Class=ENUSCC>&nbsp;
+
+617
+00:29:48,077 --> 00:29:50,579
+YNC Start=1790579><P Class=ENUSCC>Not too bad, huh, kid?
+
+618
+00:29:50,579 --> 00:29:52,373
+YNC Start=1792373><P Class=ENUSCC>&nbsp;
+
+619
+00:29:52,373 --> 00:29:56,794
+YNC Start=1796794><P Class=ENUSCC>Oh, boy.
+
+620
+00:29:56,794 --> 00:29:58,087
+YNC Start=1798087><P Class=ENUSCC>&nbsp;
+
+621
+00:29:58,087 --> 00:29:59,797
+YNC Start=1799797><P Class=ENUSCC><i><font color=#80ffff>That was some</i></font><br><i><font color=#80ffff>pretty impressive flying, Mando.</i></font>
+
+622
+00:29:59,797 --> 00:30:02,424
+YNC Start=1802424><P Class=ENUSCC>&nbsp;
+
+623
+00:30:02,424 --> 00:30:02,508
+YNC Start=1802508><P Class=ENUSCC><i><font color=#80ffff>What do I owe ya?</i></font>
+
+624
+00:30:02,508 --> 00:30:03,759
+YNC Start=1803759><P Class=ENUSCC>&nbsp;
+
+625
+00:30:03,759 --> 00:30:03,843
+YNC Start=1803843><P Class=ENUSCC>With the repairs, let's call it even.
+
+626
+00:30:03,843 --> 00:30:05,886
+YNC Start=1805886><P Class=ENUSCC>&nbsp;
+
+627
+00:30:05,886 --> 00:30:08,347
+YNC Start=1808347><P Class=ENUSCC>Can I at least buy you a drink?
+
+628
+00:30:08,347 --> 00:30:10,724
+YNC Start=1810724><P Class=ENUSCC>&nbsp;
+
+629
+00:30:10,724 --> 00:30:10,808
+YNC Start=1810808><P Class=ENUSCC><i><font color=#80ffff>Sorry. I have some</i></font><br><i><font color=#80ffff>onboard maintenance I gotta take care of.</i></font>
+
+630
+00:30:10,808 --> 00:30:14,019
+YNC Start=1814019><P Class=ENUSCC>&nbsp;
+
+631
+00:30:14,019 --> 00:30:14,103
+YNC Start=1814103><P Class=ENUSCC><i><font color=#80ffff>Then we gotta hit the road</i></font><br><i><font color=#80ffff>before Gideon catches wise.</i></font>
+
+632
+00:30:14,103 --> 00:30:16,897
+YNC Start=1816897><P Class=ENUSCC>&nbsp;
+
+633
+00:30:16,897 --> 00:30:16,981
+YNC Start=1816981><P Class=ENUSCC>Well, good luck flying, my friend.
+
+634
+00:30:16,981 --> 00:30:18,941
+YNC Start=1818941><P Class=ENUSCC>&nbsp;
+
+635
+00:30:18,941 --> 00:30:26,532
+YNC Start=1826532><P Class=ENUSCC>So, is there anything else<br>you can remember before the base exploded?
+
+636
+00:30:26,532 --> 00:30:30,244
+YNC Start=1830244><P Class=ENUSCC>&nbsp;
+
+637
+00:30:30,244 --> 00:30:32,121
+YNC Start=1832121><P Class=ENUSCC>No.
+
+638
+00:30:32,121 --> 00:30:33,455
+YNC Start=1833455><P Class=ENUSCC>&nbsp;
+
+639
+00:30:33,455 --> 00:30:34,915
+YNC Start=1834915><P Class=ENUSCC>How long after<br>the 'Razor Crest' jumped out...
+
+640
+00:30:34,915 --> 00:30:37,168
+YNC Start=1837168><P Class=ENUSCC>&nbsp;
+
+641
+00:30:37,168 --> 00:30:37,251
+YNC Start=1837251><P Class=ENUSCC>I never said anything about a 'Razor Crest'.
+
+642
+00:30:37,251 --> 00:30:39,086
+YNC Start=1839086><P Class=ENUSCC>&nbsp;
+
+643
+00:30:39,086 --> 00:30:39,795
+YNC Start=1839795><P Class=ENUSCC>Your transponder log has a...
+
+644
+00:30:39,795 --> 00:30:40,963
+YNC Start=1840963><P Class=ENUSCC>&nbsp;
+
+645
+00:30:40,963 --> 00:30:41,046
+YNC Start=1841046><P Class=ENUSCC>"Transponder log."<br>Come on, give me a break.
+
+646
+00:30:41,046 --> 00:30:43,591
+YNC Start=1843591><P Class=ENUSCC>&nbsp;
+
+647
+00:30:43,591 --> 00:30:43,674
+YNC Start=1843674><P Class=ENUSCC>The control droid<br>can't tell apart anything pre-Empire.
+
+648
+00:30:43,674 --> 00:30:47,469
+YNC Start=1847469><P Class=ENUSCC>&nbsp;
+
+649
+00:30:47,469 --> 00:30:47,553
+YNC Start=1847553><P Class=ENUSCC>This isn't Coruscant.
+
+650
+00:30:47,553 --> 00:30:49,597
+YNC Start=1849597><P Class=ENUSCC>&nbsp;
+
+651
+00:30:49,597 --> 00:30:50,764
+YNC Start=1850764><P Class=ENUSCC>Do you have anything else to add?
+
+652
+00:30:50,764 --> 00:30:52,516
+YNC Start=1852516><P Class=ENUSCC>&nbsp;
+
+653
+00:30:52,516 --> 00:30:53,559
+YNC Start=1853559><P Class=ENUSCC>Not that I can think of, Officer.
+
+654
+00:30:53,559 --> 00:30:55,186
+YNC Start=1855186><P Class=ENUSCC>&nbsp;
+
+655
+00:30:55,186 --> 00:30:55,269
+YNC Start=1855269><P Class=ENUSCC>But if somethin' does come to mind,
+
+656
+00:30:55,269 --> 00:30:57,897
+YNC Start=1857897><P Class=ENUSCC>&nbsp;
+
+657
+00:30:57,897 --> 00:30:59,148
+YNC Start=1859148><P Class=ENUSCC>I'll be sure to send you a 'gram.
+
+658
+00:30:59,148 --> 00:31:00,816
+YNC Start=1860816><P Class=ENUSCC>&nbsp;
+
+659
+00:31:00,816 --> 00:31:01,692
+YNC Start=1861692><P Class=ENUSCC>That is,<br>if you're ever out this far again.
+
+660
+00:31:01,692 --> 00:31:04,778
+YNC Start=1864778><P Class=ENUSCC>&nbsp;
+
+661
+00:31:04,778 --> 00:31:13,037
+YNC Start=1873037><P Class=ENUSCC>What?
+
+662
+00:31:13,037 --> 00:31:14,246
+YNC Start=1874246><P Class=ENUSCC>&nbsp;
+
+663
+00:31:14,246 --> 00:31:27,259
+YNC Start=1887259><P Class=ENUSCC>You did a hell of a job<br>cleanin' up the system.
+
+664
+00:31:27,259 --> 00:31:29,553
+YNC Start=1889553><P Class=ENUSCC>&nbsp;
+
+665
+00:31:29,553 --> 00:31:30,137
+YNC Start=1890137><P Class=ENUSCC>According to records,<br>you're quite a soldier.
+
+666
+00:31:30,137 --> 00:31:32,348
+YNC Start=1892348><P Class=ENUSCC>&nbsp;
+
+667
+00:31:32,348 --> 00:31:33,307
+YNC Start=1893307><P Class=ENUSCC>We could really use you.
+
+668
+00:31:33,307 --> 00:31:34,517
+YNC Start=1894517><P Class=ENUSCC>&nbsp;
+
+669
+00:31:34,517 --> 00:31:36,769
+YNC Start=1896769><P Class=ENUSCC>I'm not a "joiner," Blue.
+
+670
+00:31:36,769 --> 00:31:38,145
+YNC Start=1898145><P Class=ENUSCC>&nbsp;
+
+671
+00:31:38,145 --> 00:31:43,192
+YNC Start=1903192><P Class=ENUSCC>There's something going on out here.
+
+672
+00:31:43,192 --> 00:31:45,027
+YNC Start=1905027><P Class=ENUSCC>&nbsp;
+
+673
+00:31:45,027 --> 00:31:45,694
+YNC Start=1905694><P Class=ENUSCC>They don't believe it<br>on the Core Worlds, but it's true.
+
+674
+00:31:45,694 --> 00:31:48,364
+YNC Start=1908364><P Class=ENUSCC>&nbsp;
+
+675
+00:31:48,364 --> 00:31:48,989
+YNC Start=1908989><P Class=ENUSCC>These aren't isolated incidents.
+
+676
+00:31:48,989 --> 00:31:50,658
+YNC Start=1910658><P Class=ENUSCC>&nbsp;
+
+677
+00:31:50,658 --> 00:31:50,741
+YNC Start=1910741><P Class=ENUSCC>They need to be stopped<br>before it's too late.
+
+678
+00:31:50,741 --> 00:31:52,701
+YNC Start=1912701><P Class=ENUSCC>&nbsp;
+
+679
+00:31:52,701 --> 00:31:52,785
+YNC Start=1912785><P Class=ENUSCC>But we can't do it without local support.
+
+680
+00:31:52,785 --> 00:31:55,162
+YNC Start=1915162><P Class=ENUSCC>&nbsp;
+
+681
+00:31:55,162 --> 00:31:59,959
+YNC Start=1919959><P Class=ENUSCC>Says here you're from Alderaan.
+
+682
+00:31:59,959 --> 00:32:01,585
+YNC Start=1921585><P Class=ENUSCC>&nbsp;
+
+683
+00:32:01,585 --> 00:32:02,837
+YNC Start=1922837><P Class=ENUSCC>I served during Alderaan.
+
+684
+00:32:02,837 --> 00:32:04,547
+YNC Start=1924547><P Class=ENUSCC>&nbsp;
+
+685
+00:32:04,547 --> 00:32:10,636
+YNC Start=1930636><P Class=ENUSCC>Did you lose anyone?
+
+686
+00:32:10,636 --> 00:32:11,887
+YNC Start=1931887><P Class=ENUSCC>&nbsp;
+
+687
+00:32:11,887 --> 00:32:17,017
+YNC Start=1937017><P Class=ENUSCC>I lost everyone.
+
+688
+00:32:17,017 --> 00:32:18,435
+YNC Start=1938435><P Class=ENUSCC>&nbsp;
+
+689
+00:32:18,435 --> 00:32:19,687
+YNC Start=1939687><P Class=ENUSCC>I'm sorry for your loss.
+
+690
+00:32:19,687 --> 00:32:21,021
+YNC Start=1941021><P Class=ENUSCC>&nbsp;
+
+691
+00:32:21,021 --> 00:33:16,285
+YNC Start=1996285><P Class=ENUSCC>What do you have for me?
+
+692
+00:33:16,285 --> 00:33:17,953
+YNC Start=1997953><P Class=ENUSCC>&nbsp;
+
+693
+00:33:17,953 --> 00:33:18,037
+YNC Start=1998037><P Class=ENUSCC><i><font color=#80ffff>The device has been planted,</i></font><br><i><font color=#80ffff>as you requested.</i></font>
+
+694
+00:33:18,037 --> 00:33:21,874
+YNC Start=2001874><P Class=ENUSCC>&nbsp;
+
+695
+00:33:21,874 --> 00:33:22,750
+YNC Start=2002750><P Class=ENUSCC>Good.
+
+696
+00:33:22,750 --> 00:33:23,792
+YNC Start=2003792><P Class=ENUSCC>&nbsp;
+
+697
+00:33:23,792 --> 00:33:24,585
+YNC Start=2004585><P Class=ENUSCC>You'll be well-rewarded in the new era.
+
+698
+00:33:24,585 --> 00:33:26,629
+YNC Start=2006629><P Class=ENUSCC>&nbsp;
+
+699
+00:33:26,629 --> 00:33:44,813
+YNC Start=2024813><P Class=ENUSCC>Moff Gideon.
+
+700
+00:33:44,813 --> 00:33:46,106
+YNC Start=2026106><P Class=ENUSCC>&nbsp;
+
+701
+00:33:46,106 --> 00:33:48,984
+YNC Start=2028984><P Class=ENUSCC>The tracking beacon<br>has been installed on the 'Razor Crest'.
+
+702
+00:33:48,984 --> 00:33:52,279
+YNC Start=2032279><P Class=ENUSCC>&nbsp;
+
+703
+00:33:52,279 --> 00:33:53,197
+YNC Start=2033197><P Class=ENUSCC>Does he still have the asset?
+
+704
+00:33:53,197 --> 00:33:54,782
+YNC Start=2034782><P Class=ENUSCC>&nbsp;
+
+705
+00:33:54,782 --> 00:33:54,865
+YNC Start=2034865><P Class=ENUSCC>Yes. Our source confirmed it.
+
+706
+00:33:54,865 --> 00:33:57,743
+YNC Start=2037743><P Class=ENUSCC>&nbsp;
+
+707
+00:33:57,743 --> 00:34:00,204
+YNC Start=2040204><P Class=ENUSCC>And we will be ready.
+
+708
+00:34:00,204 --> 00:34:02,331
+YNC Start=2042331><P Class=ENUSCC>&nbsp;
+

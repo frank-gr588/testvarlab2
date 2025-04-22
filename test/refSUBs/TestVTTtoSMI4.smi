@@ -1,0 +1,1409 @@
+<SAMI>
+<HEAD>
+<TITLE>file</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=5683 End=7881><P>Previously on "Marvel's
+Agents of S.H.I.E.L.D."...</P></SYNC>
+<SYNC Start=7881 End=9399><P>[ Breathing heavily ]</P></SYNC>
+<SYNC Start=9399 End=10718><P>Kora, you don't
+have to die today.</P></SYNC>
+<SYNC Start=10718 End=12316><P>How'd you know
+I was gonna be out here?</P></SYNC>
+<SYNC Start=12316 End=13875><P>I have my new friend,
+Sibyl, to thank for that.</P></SYNC>
+<SYNC Start=13875 End=15832><P>I was actually
+supposed to die, too,</P></SYNC>
+<SYNC Start=15832 End=17711><P>but I found
+an escape hatch.</P></SYNC>
+<SYNC Start=17711 End=18829><P>You want to come along?</P></SYNC>
+<SYNC Start=18829 End=20828><P>That woman --
+what did you do to her?</P></SYNC>
+<SYNC Start=22386 End=23664><P>She's none
+of your concern.</P></SYNC>
+<SYNC Start=23664 End=25662><P>I only wanted
+what was best for you.</P></SYNC>
+<SYNC Start=25662 End=26701><P>There's only fear
+in your eyes.</P></SYNC>
+<SYNC Start=26701 End=28299><P>You don't see anything
+but a threat.</P></SYNC>
+<SYNC Start=28299 End=30298><P>No. I love you.
+I've always loved you.</P></SYNC>
+<SYNC Start=30298 End=31976><P>You were gonna let him
+put a knife through my heart!</P></SYNC>
+<SYNC Start=31976 End=34254><P>Li, no! Stop!
+[ Grunts ]</P></SYNC>
+<SYNC Start=34254 End=37050><P>[ Grunts ]</P></SYNC>
+<SYNC Start=37050 End=38689><P>I can't leave my people
+behind to die.</P></SYNC>
+<SYNC Start=38689 End=39927><P>My daughter
+is still out there.</P></SYNC>
+<SYNC Start=39927 End=41605><P>We won't let you
+fight this battle alone.</P></SYNC>
+<SYNC Start=41605 End=43044><P>We'll send coordinates
+to that watch</P></SYNC>
+<SYNC Start=43044 End=44523><P>when we're ready to meet.</P></SYNC>
+<SYNC Start=44523 End=45841><P>You should find someplace
+to hide until then.</P></SYNC>
+<SYNC Start=47200 End=49717><P>This just feels right.</P></SYNC>
+<SYNC Start=49717 End=52514><P>I feel like we should give
+the world something new.</P></SYNC>
+<SYNC Start=52514 End=53873><P>And what's that?</P></SYNC>
+<SYNC Start=55352 End=56550><P>Anarchy.</P></SYNC>
+<SYNC Start=61065 End=63143><P>[ Rock music plays ]</P></SYNC>
+<SYNC Start=64381 End=66539><P>Here you go.</P></SYNC>
+<SYNC Start=66539 End=68217><P>♪ You broke my car down ♪</P></SYNC>
+<SYNC Start=68217 End=70056><P>♪ I let my guard down ♪</P></SYNC>
+<SYNC Start=70056 End=73612><P>♪ You took my money,
+and you ran away ♪</P></SYNC>
+<SYNC Start=73612 End=75530><P>♪ You left me stranded ♪</P></SYNC>
+<SYNC Start=75530 End=77129><P>♪ And I let you say ♪</P></SYNC>
+<SYNC Start=77129 End=79486><P>♪ Well, it's a cryin' shame ♪</P></SYNC>
+<SYNC Start=79486 End=82923><P>♪ It ain't a victim,
+I'm in a high note ♪</P></SYNC>
+<SYNC Start=82923 End=86519><P>♪ I'm in the middle,
+and I don't know why ♪</P></SYNC>
+<SYNC Start=86519 End=89995><P>♪ I ain't into teasin',
+well, can't you see then ♪</P></SYNC>
+<SYNC Start=89995 End=91633><P>You care
+for a challenge?</P></SYNC>
+<SYNC Start=91633 End=92912><P>Sure.</P></SYNC>
+<SYNC Start=92912 End=95030><P>A good challenge
+makes life worth living.</P></SYNC>
+<SYNC Start=95030 End=96589><P>Sounds like
+someone's a philosopher.</P></SYNC>
+<SYNC Start=96589 End=99346><P>That's pretty rare
+for a S.H.I.E.L.D. hangout.</P></SYNC>
+<SYNC Start=99346 End=100943><P>I don't know
+about all that,</P></SYNC>
+<SYNC Start=100943 End=102981><P>but I am
+a damn good dart thrower.</P></SYNC>
+<SYNC Start=102981 End=104420><P>Fair warning.</P></SYNC>
+<SYNC Start=104420 End=107257><P>How about we add
+a little wager? Make it fun?</P></SYNC>
+<SYNC Start=107257 End=109454><P>Oh, I'm not sure
+I want to lose all my money</P></SYNC>
+<SYNC Start=109454 End=110893><P>to the hottest recruit.</P></SYNC>
+<SYNC Start=110893 End=112212><P>Hmm?</P></SYNC>
+<SYNC Start=113690 End=117167><P>Well, top test scores
+and an ace pilot.</P></SYNC>
+<SYNC Start=117167 End=121082><P>You know, I need
+a pilot on my team.</P></SYNC>
+<SYNC Start=121082 End=123560><P>I appreciate you
+blowing smoke up my ass,</P></SYNC>
+<SYNC Start=123560 End=124999><P>but I don't think
+we've met.</P></SYNC>
+<SYNC Start=124999 End=126397><P>We haven't.</P></SYNC>
+<SYNC Start=126397 End=127756><P>But I know a lot
+about you.</P></SYNC>
+<SYNC Start=127756 End=129474><P>Like how your relationship
+with S.H.I.E.L.D.</P></SYNC>
+<SYNC Start=129474 End=132830><P>is headed for
+a very, very sad breakup.</P></SYNC>
+<SYNC Start=132830 End=134508><P>What the hell
+are you talking about?</P></SYNC>
+<SYNC Start=134508 End=137505><P>Seven years from now,
+in the Balkans,</P></SYNC>
+<SYNC Start=137505 End=139344><P>you get wounded
+real ugly,</P></SYNC>
+<SYNC Start=139344 End=142141><P>lying there
+with your guts out.</P></SYNC>
+<SYNC Start=142141 End=144778><P>You call for an extract,
+but they refuse.</P></SYNC>
+<SYNC Start=145937 End=147136><P>[ Laughs ]</P></SYNC>
+<SYNC Start=147136 End=148375><P>You survive,</P></SYNC>
+<SYNC Start=148375 End=151331><P>but you and S.H.I.E.L.D.
+are over with,</P></SYNC>
+<SYNC Start=151331 End=153329><P>and you fall right into
+the loving arms of Hydra.</P></SYNC>
+<SYNC Start=154248 End=155207><P>[ Dart thuds ]</P></SYNC>
+<SYNC Start=155207 End=156406><P>Wow.</P></SYNC>
+<SYNC Start=156406 End=158164><P>The future.</P></SYNC>
+<SYNC Start=158164 End=160122><P>[ Chuckles ]</P></SYNC>
+<SYNC Start=160122 End=161640><P>Why don't I call
+the psych ward</P></SYNC>
+<SYNC Start=161640 End=163758><P>and tell them
+you wandered off?</P></SYNC>
+<SYNC Start=163758 End=165037><P>[ Laughs ]</P></SYNC>
+<SYNC Start=165037 End=166196><P>[ Rumbling ]</P></SYNC>
+<SYNC Start=166196 End=167953><P>[ Glass shatters ]</P></SYNC>
+<SYNC Start=167953 End=169312><P>Damn.</P></SYNC>
+<SYNC Start=172309 End=174107><P>That's a neat trick.</P></SYNC>
+<SYNC Start=174107 End=176305><P>Yeah, that's called
+a superpower.</P></SYNC>
+<SYNC Start=179262 End=181180><P>Would you like one?</P></SYNC>
+<SYNC Start=183178 End=184656><P>Sweetheart.</P></SYNC>
+<SYNC Start=184656 End=186215><P>Two more beers
+on my tab.</P></SYNC>
+<SYNC Start=186215 End=187253><P>Okay.</P></SYNC>
+<SYNC Start=187253 End=189492><P>Under the name
+John Garrett.</P></SYNC>
+<SYNC Start=189492 End=192129><P>-- Captions by VITAC --</P></SYNC>
+<SYNC Start=192129 End=196404><P>♪♪</P></SYNC>
+<SYNC Start=196404 End=197802><P>Mack:
+Stuck in the 1980s.</P></SYNC>
+<SYNC Start=199561 End=201079><P>Used to have nostalgia
+for them.</P></SYNC>
+<SYNC Start=201079 End=203117><P>That is very gone.</P></SYNC>
+<SYNC Start=205795 End=208032><P>Roxy.
+It's good to see you.</P></SYNC>
+<SYNC Start=208032 End=210549><P>Likewise, sir.
+Didn't expect you again so soon.</P></SYNC>
+<SYNC Start=210549 End=213946><P>Yeah, well, [chuckles]
+couldn't be helped.</P></SYNC>
+<SYNC Start=213946 End=216583><P>I know you guys are up to
+some top-secret stuff.</P></SYNC>
+<SYNC Start=216583 End=219260><P>The Lighthouse is all yours.
+Control is up and running.</P></SYNC>
+<SYNC Start=219260 End=220698><P>Wish I could
+hang with you.</P></SYNC>
+<SYNC Start=220698 End=222098><P>Congrats on
+getting into the Academy.</P></SYNC>
+<SYNC Start=222098 End=223695><P>Thanks. Yeah.</P></SYNC>
+<SYNC Start=223695 End=225973><P>I thought I was in S.H.I.E.L.D.,
+but it turns out</P></SYNC>
+<SYNC Start=225973 End=228291><P>Deke wasn't authorized
+to make me an agent.</P></SYNC>
+<SYNC Start=228291 End=229410><P>Mack: Mm-hmm.</P></SYNC>
+<SYNC Start=229410 End=230968><P>Rest of the gang
+signed up, too.</P></SYNC>
+<SYNC Start=230968 End=233046><P>Maybe we'll be reunited
+at the Triskelion</P></SYNC>
+<SYNC Start=233046 End=234085><P>after we graduate.</P></SYNC>
+<SYNC Start=235244 End=236842><P>Hey.</P></SYNC>
+<SYNC Start=236842 End=239120><P>You're not in a TV anymore,
+Coulson.</P></SYNC>
+<SYNC Start=239120 End=240118><P>That's cool.</P></SYNC>
+<SYNC Start=240118 End=241437><P>Just don't ask me
+to explain it.</P></SYNC>
+<SYNC Start=241437 End=242596><P>[ Chuckles lightly ]</P></SYNC>
+<SYNC Start=242596 End=244913><P>Well, duty calls.</P></SYNC>
+<SYNC Start=244913 End=245953><P>Good luck, Agent Glass.</P></SYNC>
+<SYNC Start=247631 End=249269><P>[ Footsteps departing ]</P></SYNC>
+<SYNC Start=250988 End=254503><P>She mentioned the Triskelion,
+but it's 1983.</P></SYNC>
+<SYNC Start=254503 End=255982><P>Wasn't in use yet.</P></SYNC>
+<SYNC Start=255982 End=257701><P>It's ahead of schedule.</P></SYNC>
+<SYNC Start=257701 End=259738><P>Just like
+Project Insight.</P></SYNC>
+<SYNC Start=259738 End=261057><P>What are you thinking?</P></SYNC>
+<SYNC Start=261057 End=262175><P>Well,
+you're the Director --</P></SYNC>
+<SYNC Start=262175 End=264253><P>No, enough with
+the formalities.</P></SYNC>
+<SYNC Start=264253 End=267291><P>We're dead in the water here.
+I need you to be you.</P></SYNC>
+<SYNC Start=267291 End=269607><P>So if you have a mission
+for us, let us know.</P></SYNC>
+<SYNC Start=269607 End=271046><P>Timeline's coming apart.</P></SYNC>
+<SYNC Start=271046 End=273284><P>We have to put it back.</P></SYNC>
+<SYNC Start=273284 End=274642><P>Nathaniel Malick's
+out there</P></SYNC>
+<SYNC Start=274642 End=277000><P>with quake powers
+and a new base.</P></SYNC>
+<SYNC Start=277000 End=278399><P>You made a promise
+to Daisy's mom</P></SYNC>
+<SYNC Start=278399 End=279518><P>that she wouldn't
+have to fight him alone.</P></SYNC>
+<SYNC Start=279518 End=283074><P>♪♪</P></SYNC>
+<SYNC Start=283074 End=285232><P>I think it's time
+to keep that promise.</P></SYNC>
+<SYNC Start=288428 End=289707><P>Sousa: Wow.</P></SYNC>
+<SYNC Start=289707 End=292225><P>[ Simmons sighs deeply ]</P></SYNC>
+<SYNC Start=292225 End=293543><P>[ Exhales sharply ]</P></SYNC>
+<SYNC Start=295421 End=297418><P>Well, consider me
+impressed.</P></SYNC>
+<SYNC Start=297418 End=299576><P>A multi-story base
+under a lighthouse?</P></SYNC>
+<SYNC Start=299576 End=301254><P>Daisy: Yeah, we've just spent
+a lot of time down here,</P></SYNC>
+<SYNC Start=301254 End=303892><P>so maybe we're over it.</P></SYNC>
+<SYNC Start=306729 End=308567><P>Any idea why
+the new countdown didn't start</P></SYNC>
+<SYNC Start=308567 End=309926><P>after we fixed the Drive?</P></SYNC>
+<SYNC Start=309926 End=312364><P>Uh, the electrochron
+displacement mechanism</P></SYNC>
+<SYNC Start=312364 End=314721><P>did stabilize it, but it is
+possible the cumulative damage</P></SYNC>
+<SYNC Start=314721 End=316399><P>severed our operative
+transmission receiver's ability</P></SYNC>
+<SYNC Start=316399 End=318157><P>to penetrate space-time.</P></SYNC>
+<SYNC Start=318157 End=319715><P>Did you understand that?</P></SYNC>
+<SYNC Start=319715 End=322393><P>Actually, yes.
+I did.</P></SYNC>
+<SYNC Start=322393 End=323872><P>I'm gonna grab
+some rest.</P></SYNC>
+<SYNC Start=323872 End=325150><P>Uh, the bunks are
+down that way.</P></SYNC>
+<SYNC Start=325150 End=326269><P>Can I take that
+off your hands?</P></SYNC>
+<SYNC Start=326269 End=327947><P>Um, I got it.
+Thanks.</P></SYNC>
+<SYNC Start=327947 End=330384><P>Just thought I'd put some weight
+on the new leg, is all.</P></SYNC>
+<SYNC Start=330384 End=331863><P>O...kay.</P></SYNC>
+<SYNC Start=331863 End=332901><P>Thank you.</P></SYNC>
+<SYNC Start=340494 End=341493><P>What?</P></SYNC>
+<SYNC Start=341493 End=343131><P>Say what you will
+about the '50s.</P></SYNC>
+<SYNC Start=343131 End=345289><P>At least he doesn't know
+chivalry is dead.</P></SYNC>
+<SYNC Start=347167 End=349045><P>Okay, anyway...</P></SYNC>
+<SYNC Start=349045 End=352561><P>I wish you'd pulled a solution
+for this out of my head.</P></SYNC>
+<SYNC Start=352561 End=355558><P>I need Fitz's brain now --
+wherever it is.</P></SYNC>
+<SYNC Start=355558 End=358995><P>So, you don't remember anything
+about where you guys were?</P></SYNC>
+<SYNC Start=358995 End=361153><P>No.
+That's the point.</P></SYNC>
+<SYNC Start=361153 End=365668><P>What was the last thing
+that you...do remember?</P></SYNC>
+<SYNC Start=365668 End=367386><P>You were being hunted
+by Chronicoms,</P></SYNC>
+<SYNC Start=367386 End=369823><P>but did it ever
+get...violent?</P></SYNC>
+<SYNC Start=369823 End=371422><P>Why are you asking?</P></SYNC>
+<SYNC Start=371422 End=374339><P>Did I say something
+when you removed the implant?</P></SYNC>
+<SYNC Start=374339 End=375298><P>Not exactly.</P></SYNC>
+<SYNC Start=375298 End=376776><P>Daisy,
+I don't want to know.</P></SYNC>
+<SYNC Start=376776 End=378694><P>I thought we agreed --
+no information was
+supposed to come out.</P></SYNC>
+<SYNC Start=378694 End=379813><P>I don't have
+any information. I --</P></SYNC>
+<SYNC Start=380812 End=383769><P>You couldn't
+control yourself.</P></SYNC>
+<SYNC Start=383769 End=386246><P>No matter how confused
+I was, I can't know --</P></SYNC>
+<SYNC Start=386246 End=388324><P>You were not confused.
+You were...</P></SYNC>
+<SYNC Start=388324 End=390362><P>You were devastated.</P></SYNC>
+<SYNC Start=390362 End=391841><P>I've never seen you
+so freaked.</P></SYNC>
+<SYNC Start=391841 End=393438><P>Y-Y-You were inconsolable.</P></SYNC>
+<SYNC Start=396476 End=398314><P>That's why I asked.</P></SYNC>
+<SYNC Start=398314 End=400751><P>Mack: Johnson, Simmons,
+report to Control.</P></SYNC>
+<SYNC Start=404227 End=405746><P>[ Sighs ]</P></SYNC>
+<SYNC Start=405746 End=410661><P>♪♪</P></SYNC>
+<SYNC Start=410661 End=412339><P>Mack: We're not waiting
+on a broken clock.</P></SYNC>
+<SYNC Start=412339 End=413457><P>We're gonna do
+something.</P></SYNC>
+<SYNC Start=413457 End=414857><P>Even if we could
+leave this time,</P></SYNC>
+<SYNC Start=414857 End=416895><P>leaving this Malick
+unleashed on the world</P></SYNC>
+<SYNC Start=416895 End=418612><P>could have
+irreparable consequences.</P></SYNC>
+<SYNC Start=418612 End=421050><P>He's taken control of Afterlife.
+We have to take it back.</P></SYNC>
+<SYNC Start=421050 End=422768><P>Starting with
+his hostages.</P></SYNC>
+<SYNC Start=422768 End=424366><P>And protecting Jiaying
+at all costs.</P></SYNC>
+<SYNC Start=424366 End=426245><P>Simmons, can you send
+our coordinates to her watch?</P></SYNC>
+<SYNC Start=426245 End=427563><P>On it.</P></SYNC>
+<SYNC Start=427563 End=428962><P>Uh...
+I-I-I don't think</P></SYNC>
+<SYNC Start=428962 End=430880><P>it's a good idea
+to bring her here.</P></SYNC>
+<SYNC Start=430880 End=432757><P>I hear you, but we can't lose
+any more parents.</P></SYNC>
+<SYNC Start=432757 End=434636><P>This is about
+protecting your existence.</P></SYNC>
+<SYNC Start=434636 End=436754><P>Aside from May and Yo-Yo,
+Jiaying doesn't know us.</P></SYNC>
+<SYNC Start=436754 End=438791><P>We could minimize
+what we tell her.</P></SYNC>
+<SYNC Start=438791 End=441388><P>Nothing about her future,
+her power, or you, her --</P></SYNC>
+<SYNC Start=441388 End=442668><P>Daughter?</P></SYNC>
+<SYNC Start=444265 End=445224><P>May: [ Sighs ]</P></SYNC>
+<SYNC Start=445224 End=447702><P>Um, Daisy,
+there's, uh...</P></SYNC>
+<SYNC Start=447702 End=449060><P>one other thing.</P></SYNC>
+<SYNC Start=449060 End=450819><P>At Afterlife,
+there was a woman who --</P></SYNC>
+<SYNC Start=450819 End=452497><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=452497 End=454814><P>That was fast.</P></SYNC>
+<SYNC Start=454814 End=456453><P>He's hunting us.</P></SYNC>
+<SYNC Start=460009 End=461407><P>Nathaniel:
+They call it Afterlife.</P></SYNC>
+<SYNC Start=462606 End=465444><P>I couldn't have picked
+a better name myself.</P></SYNC>
+<SYNC Start=465444 End=468120><P>Everyone I bring here has been
+saved from a tragic end</P></SYNC>
+<SYNC Start=468120 End=470278><P>and given
+a new beginning.</P></SYNC>
+<SYNC Start=470278 End=471517><P>How do you do that?</P></SYNC>
+<SYNC Start=471517 End=473595><P>How did you see
+my future?</P></SYNC>
+<SYNC Start=473595 End=474794><P>I'll show you.</P></SYNC>
+<SYNC Start=475993 End=477751><P>It's called
+the Time Stream.</P></SYNC>
+<SYNC Start=477751 End=479509><P>Sent back
+from the future.</P></SYNC>
+<SYNC Start=479509 End=481546><P>[ Beeps ]</P></SYNC>
+<SYNC Start=481546 End=483185><P>Almost done prepping,
+Mr. Malick.</P></SYNC>
+<SYNC Start=484903 End=486581><P>As soon as Dr. Grady
+here is finished,</P></SYNC>
+<SYNC Start=486581 End=489458><P>you'll get to
+dip your toe in.</P></SYNC>
+<SYNC Start=489458 End=493135><P>Grady here's not afraid
+of hazardous materials.</P></SYNC>
+<SYNC Start=493135 End=496092><P>S.H.I.E.L.D. decided
+his tech was too dangerous</P></SYNC>
+<SYNC Start=496092 End=498928><P>and was set to take him out,
+so I brought him into the fold.</P></SYNC>
+<SYNC Start=500607 End=502565><P>You saying
+this thing's hazardous?</P></SYNC>
+<SYNC Start=502565 End=504843><P>Well, nothing to worry about.
+It's not gonna hurt you.</P></SYNC>
+<SYNC Start=504843 End=507200><P>It'll just...
+blow your mind.</P></SYNC>
+<SYNC Start=509638 End=511156><P>You'll be meeting Sibyl.</P></SYNC>
+<SYNC Start=511156 End=513114><P>She'll guide you.</P></SYNC>
+<SYNC Start=513114 End=515392><P>There's a lady in there?</P></SYNC>
+<SYNC Start=515392 End=516670><P>[ Laughs ]</P></SYNC>
+<SYNC Start=516670 End=518628><P>Something like that.</P></SYNC>
+<SYNC Start=518628 End=520347><P>She and I
+are after something --</P></SYNC>
+<SYNC Start=520347 End=521824><P>same thing you were after</P></SYNC>
+<SYNC Start=521824 End=524222><P>in the story of your life
+you're about to see.</P></SYNC>
+<SYNC Start=526500 End=528258><P>Immortality.</P></SYNC>
+<SYNC Start=531095 End=533213><P>Prepare yourself.</P></SYNC>
+<SYNC Start=533213 End=535531><P>Most people
+don't like the ending.</P></SYNC>
+<SYNC Start=535531 End=540246><P>♪♪</P></SYNC>
+<SYNC Start=540246 End=542683><P>[ Breathing heavily ]</P></SYNC>
+<SYNC Start=542683 End=548357><P>♪♪</P></SYNC>
+<SYNC Start=548357 End=550315><P>My people need protection.</P></SYNC>
+<SYNC Start=550315 End=551514><P>You should leave that
+to us.</P></SYNC>
+<SYNC Start=551514 End=553352><P>I don't know
+who you people are,</P></SYNC>
+<SYNC Start=553352 End=555110><P>and somehow,
+you knew how to find me.</P></SYNC>
+<SYNC Start=555110 End=556509><P>We needed your help.</P></SYNC>
+<SYNC Start=556509 End=559546><P>And then you led that man
+right to our front door.</P></SYNC>
+<SYNC Start=559546 End=560904><P>Daisy:
+We're not your enemy.</P></SYNC>
+<SYNC Start=560904 End=563622><P>We save Inhumans.
+He wants to take their gifts.</P></SYNC>
+<SYNC Start=563622 End=565339><P>That's how he got his.</P></SYNC>
+<SYNC Start=565339 End=566858><P>Is that even possible?</P></SYNC>
+<SYNC Start=568576 End=570414><P>It is.</P></SYNC>
+<SYNC Start=570414 End=572212><P>That could kill them.</P></SYNC>
+<SYNC Start=572212 End=574410><P>If I can get in,
+I can get them out
+without being seen.</P></SYNC>
+<SYNC Start=576688 End=579364><P>I got my power back --
+thanks to you.</P></SYNC>
+<SYNC Start=579364 End=581603><P>And if you get taken,
+you could lose it again,</P></SYNC>
+<SYNC Start=581603 End=582641><P>and then you give it to --
+I'll go.</P></SYNC>
+<SYNC Start=584159 End=586038><P>Scout a point of attack.</P></SYNC>
+<SYNC Start=586038 End=587477><P>You said "be me."</P></SYNC>
+<SYNC Start=587477 End=589395><P>This me is disposable.
+If I get caught --</P></SYNC>
+<SYNC Start=589395 End=591272><P>Disposable's
+the last thing you are.</P></SYNC>
+<SYNC Start=591272 End=593270><P>Recyclable, then.
+Minimal risk.</P></SYNC>
+<SYNC Start=593270 End=594349><P>I can take him in.</P></SYNC>
+<SYNC Start=594349 End=595269><P>I can't allow that.</P></SYNC>
+<SYNC Start=595269 End=596467><P>It's the easiest way.</P></SYNC>
+<SYNC Start=596467 End=598425><P>I know the layout.</P></SYNC>
+<SYNC Start=598425 End=600343><P>I'll drop him somewhere secret
+and then go.</P></SYNC>
+<SYNC Start=604459 End=606137><P>Alright.</P></SYNC>
+<SYNC Start=606137 End=607895><P>We'll fly close
+in the Quinjet.</P></SYNC>
+<SYNC Start=607895 End=610692><P>You and Gordon drop in, do
+recon, and find the prisoners.</P></SYNC>
+<SYNC Start=610692 End=611691><P>Then Yo-Yo and I
+will go in.</P></SYNC>
+<SYNC Start=612850 End=614248><P>I'm going with you.</P></SYNC>
+<SYNC Start=614248 End=615967><P>We need you alive.</P></SYNC>
+<SYNC Start=615967 End=617365><P>Your people
+need you to lead.</P></SYNC>
+<SYNC Start=617365 End=619244><P>I have to get her back.</P></SYNC>
+<SYNC Start=619244 End=620802><P>Kora won't listen to you.</P></SYNC>
+<SYNC Start=620802 End=622720><P>Maybe I can
+talk some sense into her.</P></SYNC>
+<SYNC Start=622720 End=625357><P>But if she sees you,
+it can provoke her.</P></SYNC>
+<SYNC Start=625357 End=626916><P>A-And then
+everyone's at risk.</P></SYNC>
+<SYNC Start=628633 End=630152><P>Gordon: They're right.</P></SYNC>
+<SYNC Start=630152 End=631870><P>We can't risk it.</P></SYNC>
+<SYNC Start=634747 End=635786><P>I'll stay.</P></SYNC>
+<SYNC Start=638304 End=640062><P>But you have to
+bring back my daughter.</P></SYNC>
+<SYNC Start=640062 End=644936><P>♪♪</P></SYNC>
+<SYNC Start=650491 End=651969><P>What the hell, May?</P></SYNC>
+<SYNC Start=651969 End=653967><P>Did it just slip your mind
+that I have a sister?</P></SYNC>
+<SYNC Start=653967 End=656324><P>We were trying not to be
+swallowed by a time storm.</P></SYNC>
+<SYNC Start=656324 End=658083><P>Were you purposely trying
+to keep me in the dark?</P></SYNC>
+<SYNC Start=658083 End=659841><P>Is this some weird way
+of you trying to protect me?</P></SYNC>
+<SYNC Start=659841 End=660800><P>No.</P></SYNC>
+<SYNC Start=660800 End=662399><P>[ Sighs ]</P></SYNC>
+<SYNC Start=662399 End=663957><P>No.</P></SYNC>
+<SYNC Start=663957 End=666074><P>But Kora is volatile.</P></SYNC>
+<SYNC Start=666074 End=667793><P>She already tried
+to kill your mother.</P></SYNC>
+<SYNC Start=667793 End=669471><P>[ Sighs ]</P></SYNC>
+<SYNC Start=669471 End=671869><P>She just never
+said anything</P></SYNC>
+<SYNC Start=671869 End=674545><P>about a sister,
+another kid.</P></SYNC>
+<SYNC Start=674545 End=676064><P>[ Sighs ]</P></SYNC>
+<SYNC Start=676064 End=679301><P>It's possible
+that Kora wasn't alive.</P></SYNC>
+<SYNC Start=681258 End=684295><P>When we were at Afterlife,
+she stole a gun from a guard,</P></SYNC>
+<SYNC Start=684295 End=686813><P>and I think she intended
+to use it on herself.</P></SYNC>
+<SYNC Start=686813 End=688971><P>But Nathaniel
+got to her.</P></SYNC>
+<SYNC Start=688971 End=690929><P>I think, in the original
+timeline, she --</P></SYNC>
+<SYNC Start=690929 End=691967><P>She went through with it.</P></SYNC>
+<SYNC Start=695284 End=698081><P>Which is why my mom
+would have left Afterlife</P></SYNC>
+<SYNC Start=698081 End=699719><P>to go do charity work
+and meet my dad and --</P></SYNC>
+<SYNC Start=699719 End=701837><P>We can't go down that hole
+right now, Daisy.</P></SYNC>
+<SYNC Start=701837 End=703555><P>Let me go with you.</P></SYNC>
+<SYNC Start=703555 End=704914><P>No.</P></SYNC>
+<SYNC Start=704914 End=706393><P>We need you and your mother
+to survive.</P></SYNC>
+<SYNC Start=706393 End=708031><P>You're staying put.</P></SYNC>
+<SYNC Start=708031 End=709749><P>Don't tell me it's
+because I'm not 100%,
+because I feel fine.</P></SYNC>
+<SYNC Start=709749 End=711547><P>You're not going.</P></SYNC>
+<SYNC Start=711547 End=713106><P>This isn't time
+for that family reunion.</P></SYNC>
+<SYNC Start=714703 End=716662><P>We promised your mom
+we'd save Kora.</P></SYNC>
+<SYNC Start=718021 End=719819><P>If she can be saved.</P></SYNC>
+<SYNC Start=723655 End=727211><P>Nathaniel:
+You can see the fluids
+draining from Mr. Li here</P></SYNC>
+<SYNC Start=727211 End=730088><P>into our friend Mr. Durant.</P></SYNC>
+<SYNC Start=731845 End=734763><P>The process
+used to be messy.</P></SYNC>
+<SYNC Start=734763 End=736561><P>But a guy I know
+once said</P></SYNC>
+<SYNC Start=736561 End=738599><P>discovery requires
+experimentation,</P></SYNC>
+<SYNC Start=738599 End=741555><P>so we experimented,
+found a better way.</P></SYNC>
+<SYNC Start=741555 End=743434><P>Still not painless.</P></SYNC>
+<SYNC Start=743434 End=747150><P>This is Kora,
+the one Inhuman we trust.</P></SYNC>
+<SYNC Start=747150 End=748788><P>The others felt entitled
+to judge</P></SYNC>
+<SYNC Start=748788 End=750546><P>who is given gifts,
+who not.</P></SYNC>
+<SYNC Start=750546 End=752065><P>It was tradition.</P></SYNC>
+<SYNC Start=752065 End=754463><P>When you're raised in it,
+you don't know any better.</P></SYNC>
+<SYNC Start=754463 End=756180><P>Those days are over.</P></SYNC>
+<SYNC Start=756180 End=758098><P>Kora and I are
+champions of the people,</P></SYNC>
+<SYNC Start=758098 End=760416><P>like Robin Hood -- stealing
+from the high and mighty</P></SYNC>
+<SYNC Start=760416 End=762814><P>and giving
+to those more deserving.</P></SYNC>
+<SYNC Start=762814 End=765611><P>Take Durant here.</P></SYNC>
+<SYNC Start=765611 End=768728><P>Simple mercenary, just trying
+to earn a decent living.</P></SYNC>
+<SYNC Start=768728 End=770805><P>S.H.I.E.L.D. decided
+he worked for the wrong people.</P></SYNC>
+<SYNC Start=770805 End=772843><P>What did they do, Durant?</P></SYNC>
+<SYNC Start=772843 End=774281><P>They shot down
+our plane.</P></SYNC>
+<SYNC Start=774281 End=776199><P>They shot it
+right out of the sky.</P></SYNC>
+<SYNC Start=776199 End=779397><P>And who are they
+to decide that?</P></SYNC>
+<SYNC Start=779397 End=781594><P>S.H.I.E.L.D., Hydra,
+Inhumans --</P></SYNC>
+<SYNC Start=781594 End=784471><P>all committing horrors
+in the name of world order.</P></SYNC>
+<SYNC Start=784471 End=785350><P>Control.</P></SYNC>
+<SYNC Start=786908 End=788786><P>You saved him
+from that oppression.</P></SYNC>
+<SYNC Start=788786 End=790344><P>And from
+the crashing plane.</P></SYNC>
+<SYNC Start=790344 End=791903><P>What kind of power
+is he getting?</P></SYNC>
+<SYNC Start=791903 End=801413><P>♪♪</P></SYNC>
+<SYNC Start=801413 End=802372><P>That's what
+he's getting.</P></SYNC>
+<SYNC Start=802372 End=803372><P>[ Chuckles ]</P></SYNC>
+<SYNC Start=804331 End=806168><P>Kora.</P></SYNC>
+<SYNC Start=806168 End=808286><P>Mr. Li is
+in a lot of pain.</P></SYNC>
+<SYNC Start=810444 End=812202><P>Why don't you put him
+out of his misery.</P></SYNC>
+<SYNC Start=814080 End=816118><P>Mercy comes
+in many forms.</P></SYNC>
+<SYNC Start=817277 End=819874><P>I should have killed you
+years ago.</P></SYNC>
+<SYNC Start=819874 End=826347><P>♪♪</P></SYNC>
+<SYNC Start=826347 End=828545><P>I forgive you
+for believing that.</P></SYNC>
+<SYNC Start=828545 End=834978><P>♪♪</P></SYNC>
+<SYNC Start=834978 End=837656><P>[ Screams ]</P></SYNC>
+<SYNC Start=837656 End=844568><P>♪♪</P></SYNC>
+<SYNC Start=844568 End=846566><P>I want a power like that.</P></SYNC>
+<SYNC Start=846566 End=848244><P>Nathaniel:
+Don't worry.</P></SYNC>
+<SYNC Start=848244 End=851042><P>You'll get yours as soon
+as we take it from S.H.I.E.L.D.</P></SYNC>
+<SYNC Start=851042 End=856556><P>♪♪</P></SYNC>
+<SYNC Start=856556 End=858793><P>[ Switches click ]</P></SYNC>
+<SYNC Start=858793 End=860112><P>20 minutes out.</P></SYNC>
+<SYNC Start=864228 End=864987><P>Nope.</P></SYNC>
+<SYNC Start=864987 End=867424><P>What?
+You don't trust me?</P></SYNC>
+<SYNC Start=867424 End=869782><P>You seem pretty calm,
+considering where we're headed.</P></SYNC>
+<SYNC Start=869782 End=871620><P>Well, this fight
+is necessary.</P></SYNC>
+<SYNC Start=871620 End=872899><P>That probably helps.</P></SYNC>
+<SYNC Start=872899 End=877934><P>♪♪</P></SYNC>
+<SYNC Start=877934 End=879812><P>[ Alternative music plays ]</P></SYNC>
+<SYNC Start=879812 End=882010><P>[ Humming ]</P></SYNC>
+<SYNC Start=884686 End=886644><P>[ Vocalizing ]</P></SYNC>
+<SYNC Start=891480 End=893197><P>[ Chuckles lightly ]</P></SYNC>
+<SYNC Start=893197 End=894237><P>Hey.</P></SYNC>
+<SYNC Start=894237 End=895436><P>[ Click, music stops ]</P></SYNC>
+<SYNC Start=895436 End=897313><P>I was just...</P></SYNC>
+<SYNC Start=897313 End=899311><P>taking a look at this
+again.</P></SYNC>
+<SYNC Start=899311 End=902508><P>Staying in the '80s wouldn't be
+my worst-case scenario, but...</P></SYNC>
+<SYNC Start=902508 End=904865><P>I know everybody wants
+to go home.</P></SYNC>
+<SYNC Start=904865 End=906464><P>[ Sighs ]</P></SYNC>
+<SYNC Start=906464 End=909541><P>And, hey, at least
+we're still alive, right?</P></SYNC>
+<SYNC Start=912137 End=914575><P>It's not the first time
+he's saved us.</P></SYNC>
+<SYNC Start=914575 End=916773><P>When it looked like the end
+for Fitz and me,</P></SYNC>
+<SYNC Start=916773 End=917932><P>there was Enoch.</P></SYNC>
+<SYNC Start=919730 End=921209><P>Yeah, well,
+he sacrificed himself</P></SYNC>
+<SYNC Start=921209 End=923526><P>so that we could
+all go on.</P></SYNC>
+<SYNC Start=923526 End=924565><P>And we will.</P></SYNC>
+<SYNC Start=927402 End=928800><P>Just got to figure out why
+this thing isn't communicating</P></SYNC>
+<SYNC Start=928800 End=930358><P>with Fitz anymore.</P></SYNC>
+<SYNC Start=932477 End=933915><P>Maybe it never was.</P></SYNC>
+<SYNC Start=937071 End=938670><P>But you said he was
+controlling the jumps.</P></SYNC>
+<SYNC Start=938670 End=940868><P>I thought he was,
+but consider the logic.</P></SYNC>
+<SYNC Start=940868 End=942266><P>We followed
+wherever the Chronicoms went.</P></SYNC>
+<SYNC Start=942266 End=944304><P>They dictated
+time and place.</P></SYNC>
+<SYNC Start=944304 End=946222><P>The Zephyr could have been
+pre-programmed to follow.</P></SYNC>
+<SYNC Start=946222 End=947941><P>But we took out
+the Chronicoms.</P></SYNC>
+<SYNC Start=947941 End=950658><P>And the Drive was damaged
+in the process.</P></SYNC>
+<SYNC Start=950658 End=952856><P>Every jump since then
+has been a malfunction.</P></SYNC>
+<SYNC Start=955373 End=957091><P>So, why wouldn't Fitz
+help us?</P></SYNC>
+<SYNC Start=959449 End=964244><P>♪♪</P></SYNC>
+<SYNC Start=964244 End=965362><P>Don't.</P></SYNC>
+<SYNC Start=966561 End=968599><P>Maybe it's too painful
+to remember.</P></SYNC>
+<SYNC Start=970238 End=971676><P>To want to remember.</P></SYNC>
+<SYNC Start=971676 End=973234><P>Please don't even
+think that.</P></SYNC>
+<SYNC Start=974433 End=975791><P>I sent him messages</P></SYNC>
+<SYNC Start=975791 End=977869><P>that disappeared
+into the depths of space.</P></SYNC>
+<SYNC Start=979708 End=980667><P>No answer.</P></SYNC>
+<SYNC Start=980667 End=981945><P>Fitz is out there.</P></SYNC>
+<SYNC Start=983144 End=984623><P>[ Sighs ] Whatever's
+happening right now</P></SYNC>
+<SYNC Start=984623 End=986301><P>is happening
+for a reason.</P></SYNC>
+<SYNC Start=986301 End=988459><P>We're gonna fix this
+and get back to him.</P></SYNC>
+<SYNC Start=988459 End=989497><P>Okay?</P></SYNC>
+<SYNC Start=991695 End=993014><P>Yeah.</P></SYNC>
+<SYNC Start=993014 End=994932><P>Okay.</P></SYNC>
+<SYNC Start=994932 End=1002923><P>♪♪</P></SYNC>
+<SYNC Start=1008717 End=1010755><P>[ Quinjet engines shut off ]</P></SYNC>
+<SYNC Start=1010755 End=1012593><P>Find the location of
+the prisoners, then jump back.</P></SYNC>
+<SYNC Start=1012593 End=1014031><P>Copy.</P></SYNC>
+<SYNC Start=1014031 End=1016069><P>If you're not back in
+30 minutes, we're coming in.</P></SYNC>
+<SYNC Start=1016069 End=1018706><P>And no hero business.
+Understood?</P></SYNC>
+<SYNC Start=1018706 End=1020025><P>Understood.</P></SYNC>
+<SYNC Start=1020025 End=1021983><P>I'm taking us into a section
+that's usually empty,</P></SYNC>
+<SYNC Start=1021983 End=1023142><P>so no one will see us.</P></SYNC>
+<SYNC Start=1023142 End=1024421><P>Is there anything special
+you need me to do?</P></SYNC>
+<SYNC Start=1024421 End=1026498><P>Do we have to, like...
+hug or something?</P></SYNC>
+<SYNC Start=1026498 End=1028856><P>[ Chuckles lightly ]
+You're hilarious, but no.</P></SYNC>
+<SYNC Start=1028856 End=1031173><P>You guys might want
+to take a step back, though.</P></SYNC>
+<SYNC Start=1031173 End=1036328><P>♪♪</P></SYNC>
+<SYNC Start=1036328 End=1038965><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=1038965 End=1040804><P>I feel tingly.</P></SYNC>
+<SYNC Start=1040804 End=1042002><P>It goes away.</P></SYNC>
+<SYNC Start=1042002 End=1045079><P>Actually,
+it's not unpleasant.</P></SYNC>
+<SYNC Start=1045079 End=1047917><P>If we head this way, we can find
+where they're keeping them.</P></SYNC>
+<SYNC Start=1047917 End=1049475><P>[ Energy blasts ]
+[ Grunts ]</P></SYNC>
+<SYNC Start=1051872 End=1054510><P>Waiting is
+the hardest part.</P></SYNC>
+<SYNC Start=1057466 End=1059305><P>Take him to be prepped.</P></SYNC>
+<SYNC Start=1059305 End=1065738><P>♪♪</P></SYNC>
+<SYNC Start=1065738 End=1067016><P>You knew we were coming.</P></SYNC>
+<SYNC Start=1067016 End=1068655><P>To this very spot.</P></SYNC>
+<SYNC Start=1068655 End=1070653><P>Well, if you want
+to get technical,</P></SYNC>
+<SYNC Start=1070653 End=1072731><P>I knew
+there was a 94% chance.</P></SYNC>
+<SYNC Start=1072731 End=1074328><P>Because you have
+the Time Stream.</P></SYNC>
+<SYNC Start=1074328 End=1076287><P>♪♪</P></SYNC>
+<SYNC Start=1079763 End=1082081><P>You don't know what
+you've gotten yourself into.</P></SYNC>
+<SYNC Start=1082081 End=1084678><P>Sibyl wants this planet
+for her Chronicoms.</P></SYNC>
+<SYNC Start=1084678 End=1086037><P>Oh, you hear that,
+Durant?</P></SYNC>
+<SYNC Start=1086037 End=1087754><P>I think he's giving us
+the old good guy pitch,</P></SYNC>
+<SYNC Start=1087754 End=1089753><P>appealing to the "better
+angels of my nature."</P></SYNC>
+<SYNC Start=1089753 End=1092270><P>Ooh.
+Nice Abe Lincoln reference.</P></SYNC>
+<SYNC Start=1092270 End=1094347><P>Maybe I'm just
+helping you not die.</P></SYNC>
+<SYNC Start=1094347 End=1096505><P>Your father was co-opted by
+Sibyl. Look where that got him.</P></SYNC>
+<SYNC Start=1096505 End=1098144><P>Um, my father was killed
+by your team.</P></SYNC>
+<SYNC Start=1098144 End=1099502><P>Or do you want to try
+to deny that?</P></SYNC>
+<SYNC Start=1099502 End=1101300><P>Didn't get me as choked up
+as I thought it would.</P></SYNC>
+<SYNC Start=1101300 End=1103218><P>Sounds like the apple
+fell far from the tree.</P></SYNC>
+<SYNC Start=1103218 End=1106615><P>I have no use for
+my father's way of thinking.</P></SYNC>
+<SYNC Start=1106615 End=1108293><P>He trapped himself
+in Hydra,</P></SYNC>
+<SYNC Start=1108293 End=1111091><P>bound by its history,
+rules, hierarchy.</P></SYNC>
+<SYNC Start=1111091 End=1112688><P>No, thanks.</P></SYNC>
+<SYNC Start=1112688 End=1115726><P>Here's my pitch --
+goodbye to all that.</P></SYNC>
+<SYNC Start=1115726 End=1118763><P>Say hello to anarchy.</P></SYNC>
+<SYNC Start=1118763 End=1121520><P>You'd be surprised how tempting
+that is to some people.</P></SYNC>
+<SYNC Start=1121520 End=1126634><P>♪♪</P></SYNC>
+<SYNC Start=1126634 End=1131789><P>♪♪</P></SYNC>
+<SYNC Start=1131789 End=1133028><P>Buddy!</P></SYNC>
+<SYNC Start=1133028 End=1134107><P>There he is!</P></SYNC>
+<SYNC Start=1135865 End=1136824><P>[ Weapon cocks ]</P></SYNC>
+<SYNC Start=1138262 End=1139461><P>You don't
+have to do this.</P></SYNC>
+<SYNC Start=1140940 End=1142098><P>He's just a kid.</P></SYNC>
+<SYNC Start=1142098 End=1144455><P>We gave him a chance
+to join us.</P></SYNC>
+<SYNC Start=1144455 End=1145654><P>You must be Kora.</P></SYNC>
+<SYNC Start=1145654 End=1147413><P>And you're Agent Coulson.</P></SYNC>
+<SYNC Start=1147413 End=1149930><P>Oh, call him Phil.</P></SYNC>
+<SYNC Start=1149930 End=1153047><P>I've seen it all, bud --
+everything you did to me.</P></SYNC>
+<SYNC Start=1153047 End=1154884><P>I'm sorry --
+have we met?</P></SYNC>
+<SYNC Start=1154884 End=1157282><P>Not yet, but I got
+a sneak peek at my future,</P></SYNC>
+<SYNC Start=1157282 End=1159120><P>and you play
+a big part in it.</P></SYNC>
+<SYNC Start=1159120 End=1160638><P>Here's a hint --</P></SYNC>
+<SYNC Start=1160638 End=1163716><P>you vaporize me
+with a space laser.</P></SYNC>
+<SYNC Start=1163716 End=1165194><P>Garrett.</P></SYNC>
+<SYNC Start=1165194 End=1167911><P>Clever -- digging up
+our greatest hits.</P></SYNC>
+<SYNC Start=1167911 End=1169549><P>I'm not even mad.</P></SYNC>
+<SYNC Start=1169549 End=1171187><P>They let me watch you die
+a bunch of times.</P></SYNC>
+<SYNC Start=1171187 End=1172467><P>Made me feel better.</P></SYNC>
+<SYNC Start=1172467 End=1173745><P>Oh, yeah?
+Which one was your favorite?</P></SYNC>
+<SYNC Start=1173745 End=1175224><P>Uh -- Oh.</P></SYNC>
+<SYNC Start=1175224 End=1177821><P>Long-haired creepo,
+stabbed you with a pointy stick.</P></SYNC>
+<SYNC Start=1177821 End=1180418><P>[ Laughs ]
+That was funny.</P></SYNC>
+<SYNC Start=1180418 End=1181736><P>You haven't changed
+a bit.</P></SYNC>
+<SYNC Start=1181736 End=1183415><P>And I'm aware
+that statement makes no sense.</P></SYNC>
+<SYNC Start=1184973 End=1186132><P>[ Knobs click ]</P></SYNC>
+<SYNC Start=1186132 End=1187331><P>Here comes the good stuff,
+John.</P></SYNC>
+<SYNC Start=1187331 End=1188689><P>[ Whirring ]</P></SYNC>
+<SYNC Start=1188689 End=1190528><P>[ Grunts softly ]</P></SYNC>
+<SYNC Start=1190528 End=1198120><P>♪♪</P></SYNC>
+<SYNC Start=1198120 End=1199439><P>Hmm.</P></SYNC>
+<SYNC Start=1202395 End=1205831><P>[ Breathing heavily ]</P></SYNC>
+<SYNC Start=1205831 End=1207670><P>[ Grunting ]</P></SYNC>
+<SYNC Start=1207670 End=1209947><P>♪♪</P></SYNC>
+<SYNC Start=1211626 End=1213424><P>Hey.</P></SYNC>
+<SYNC Start=1213424 End=1214942><P>Hey.</P></SYNC>
+<SYNC Start=1214942 End=1216900><P>Lookin' spry
+for an old guy.</P></SYNC>
+<SYNC Start=1216900 End=1217899><P>How's it feeling?</P></SYNC>
+<SYNC Start=1217899 End=1219137><P>Fantastic.</P></SYNC>
+<SYNC Start=1219137 End=1220976><P>I think I'm a fan
+of the 21st century.</P></SYNC>
+<SYNC Start=1220976 End=1222014><P>Yeah, don't get
+your hopes up.</P></SYNC>
+<SYNC Start=1222014 End=1225571><P>We make a mean prosthetic,
+but, uh, fascism is back.</P></SYNC>
+<SYNC Start=1225571 End=1227409><P>You mean the thing I helped
+wipe out 10 years ago?</P></SYNC>
+<SYNC Start=1227409 End=1229647><P>Yeah. The past
+won't leave us alone.</P></SYNC>
+<SYNC Start=1229647 End=1231525><P>Yeah, Mack caught me up.</P></SYNC>
+<SYNC Start=1231525 End=1235201><P>You know, you said her name
+to me when, uh...</P></SYNC>
+<SYNC Start=1235201 End=1236519><P>Malick was doing
+a number on you.</P></SYNC>
+<SYNC Start=1236519 End=1237918><P>Jiaying.</P></SYNC>
+<SYNC Start=1239636 End=1241474><P>Hydra did
+the same thing to her.</P></SYNC>
+<SYNC Start=1241474 End=1243352><P>They cut her up,
+they took her power --</P></SYNC>
+<SYNC Start=1243352 End=1245710><P>in my past
+and in her future.</P></SYNC>
+<SYNC Start=1247428 End=1251623><P>She can heal herself,
+live...a long time.</P></SYNC>
+<SYNC Start=1251623 End=1253541><P>Malick thought
+that's what I could do.</P></SYNC>
+<SYNC Start=1253541 End=1255620><P>He's after
+the real thing now.</P></SYNC>
+<SYNC Start=1255620 End=1258177><P>Did Mack say anything about
+what happened with her and I?</P></SYNC>
+<SYNC Start=1261973 End=1265409><P>Yeah, well, things got
+really bad, and it...</P></SYNC>
+<SYNC Start=1265409 End=1267807><P>[ Sighs ]</P></SYNC>
+<SYNC Start=1267807 End=1269645><P>It's a long story.</P></SYNC>
+<SYNC Start=1269645 End=1271762><P>But it came to an end.</P></SYNC>
+<SYNC Start=1271762 End=1273361><P>Maybe now's your chance
+to experience</P></SYNC>
+<SYNC Start=1273361 End=1274400><P>what she was like
+before that.</P></SYNC>
+<SYNC Start=1275838 End=1276998><P>You should talk to her.</P></SYNC>
+<SYNC Start=1276998 End=1278077><P>No, I shouldn't.</P></SYNC>
+<SYNC Start=1278077 End=1279755><P>She -- She can't know
+who I am.</P></SYNC>
+<SYNC Start=1279755 End=1280913><P>Why not?</P></SYNC>
+<SYNC Start=1280913 End=1282152><P>Because of
+the timeline --</P></SYNC>
+<SYNC Start=1282152 End=1283551><P>The timeline is screwed.</P></SYNC>
+<SYNC Start=1283551 End=1284589><P>Pardon my French.</P></SYNC>
+<SYNC Start=1284589 End=1285749><P>And look who
+you're talking to --</P></SYNC>
+<SYNC Start=1285749 End=1287106><P>a guy who served
+under "I Like Ike"</P></SYNC>
+<SYNC Start=1287106 End=1288266><P>and was supposed to be dead
+by now.</P></SYNC>
+<SYNC Start=1288266 End=1289185><P>Ike?</P></SYNC>
+<SYNC Start=1289185 End=1290343><P>Y--</P></SYNC>
+<SYNC Start=1290343 End=1293021><P>Point is...</P></SYNC>
+<SYNC Start=1293021 End=1295898><P>you got
+a rare opportunity here.</P></SYNC>
+<SYNC Start=1295898 End=1298295><P>I got a list of people
+long gone by now I'd...</P></SYNC>
+<SYNC Start=1298295 End=1301212><P>I'd do anything to have
+one last stolen moment with.</P></SYNC>
+<SYNC Start=1302371 End=1305488><P>Regardless of what space-time
+has to say about it.</P></SYNC>
+<SYNC Start=1305488 End=1307206><P>I don't know.</P></SYNC>
+<SYNC Start=1307206 End=1308724><P>I'll be your chaperone.
+How about that?</P></SYNC>
+<SYNC Start=1308724 End=1312001><P>You need me to bail you out,
+I'll be right there.</P></SYNC>
+<SYNC Start=1312001 End=1315118><P>You really are a square,
+aren't you?</P></SYNC>
+<SYNC Start=1315118 End=1317315><P>Harsh, but...yes.</P></SYNC>
+<SYNC Start=1317315 End=1322350><P>♪♪</P></SYNC>
+<SYNC Start=1322350 End=1324788><P>Coulson, come in.</P></SYNC>
+<SYNC Start=1324788 End=1326066><P>Coulson!</P></SYNC>
+<SYNC Start=1326066 End=1327825><P>Something's wrong.
+They should be back by now.</P></SYNC>
+<SYNC Start=1327825 End=1328823><P>My turn, then.</P></SYNC>
+<SYNC Start=1328823 End=1330462><P>I'll go in
+and take a look around.</P></SYNC>
+<SYNC Start=1330462 End=1331580><P>[ Door opens ]
+No. It should be me.</P></SYNC>
+<SYNC Start=1331580 End=1332939><P>You stay put.</P></SYNC>
+<SYNC Start=1332939 End=1334497><P>I'll zip in and out.
+They'll never see me coming.</P></SYNC>
+<SYNC Start=1334497 End=1335856><P>Unless they do.</P></SYNC>
+<SYNC Start=1335856 End=1337454><P>Mack.
+If they caught Gordon,</P></SYNC>
+<SYNC Start=1337454 End=1339412><P>who knows
+what we're walking into.</P></SYNC>
+<SYNC Start=1339412 End=1340971><P>Just stand by
+for my signal.</P></SYNC>
+<SYNC Start=1340971 End=1343888><P>As soon as I find Coulson,
+I'll call for you.</P></SYNC>
+<SYNC Start=1346924 End=1348803><P>I'll be ready.</P></SYNC>
+<SYNC Start=1348803 End=1351359><P>♪♪</P></SYNC>
+<SYNC Start=1351359 End=1353718><P>This isn't anarchy.
+This is evil.</P></SYNC>
+<SYNC Start=1353718 End=1356154><P>Justice isn't always pretty,
+Agent Coulson.</P></SYNC>
+<SYNC Start=1356154 End=1358113><P>You know, a man who's died
+and killed as much as you</P></SYNC>
+<SYNC Start=1358113 End=1359791><P>should understand that
+by now.</P></SYNC>
+<SYNC Start=1359791 End=1360910><P>Garrett:
+Speaking of pretty,</P></SYNC>
+<SYNC Start=1360910 End=1362708><P>I get to keep
+the old baby blues, right?</P></SYNC>
+<SYNC Start=1362708 End=1363907><P>Good question.</P></SYNC>
+<SYNC Start=1363907 End=1365785><P>You know,
+I'm not...really sure.</P></SYNC>
+<SYNC Start=1365785 End=1367144><P>What?</P></SYNC>
+<SYNC Start=1367144 End=1368741><P>Whoa. No, no, no, no, no.
+Time out, man!</P></SYNC>
+<SYNC Start=1368741 End=1369940><P>That is not
+what I signed up for!</P></SYNC>
+<SYNC Start=1369940 End=1371259><P>Kora, please.</P></SYNC>
+<SYNC Start=1371259 End=1373497><P>Gordon helped Jiaying
+keep Kora prisoner.</P></SYNC>
+<SYNC Start=1373497 End=1375974><P>[ Garrett groaning ]
+Uh, dude, come on.</P></SYNC>
+<SYNC Start=1377252 End=1378851><P>I don't feel so hot.</P></SYNC>
+<SYNC Start=1378851 End=1380690><P>Uh, unplug me, man.</P></SYNC>
+<SYNC Start=1380690 End=1382047><P>I changed my mind!</P></SYNC>
+<SYNC Start=1382047 End=1383207><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=1385005 End=1386763><P>[ Energy crackles ]
+Garrett: Yoo-hoooo!</P></SYNC>
+<SYNC Start=1386763 End=1388002><P>[ Nathaniel chuckles ]</P></SYNC>
+<SYNC Start=1388002 End=1389560><P>You see?</P></SYNC>
+<SYNC Start=1389560 End=1390439><P>Everything worked out.
+Huh?</P></SYNC>
+<SYNC Start=1390439 End=1391478><P>Pun intended.</P></SYNC>
+<SYNC Start=1391478 End=1393276><P>You don't know
+what you're doing,</P></SYNC>
+<SYNC Start=1393276 End=1394994><P>giving that man
+that power.</P></SYNC>
+<SYNC Start=1394994 End=1396873><P>It was written
+in the stars.</P></SYNC>
+<SYNC Start=1396873 End=1398111><P>[ Breathing heavily ]</P></SYNC>
+<SYNC Start=1398111 End=1400309><P>I wanted out,
+and I was out.</P></SYNC>
+<SYNC Start=1400309 End=1402826><P>I disappeared,
+reappeared.</P></SYNC>
+<SYNC Start=1402826 End=1404425><P>There should be
+a word for that.</P></SYNC>
+<SYNC Start=1404425 End=1406142><P>You teleported.</P></SYNC>
+<SYNC Start=1406142 End=1407262><P>I like that!</P></SYNC>
+<SYNC Start=1407262 End=1408381><P>Yeah. Thanks, Phil.</P></SYNC>
+<SYNC Start=1408381 End=1409539><P>Alright, you think
+with enough practice,</P></SYNC>
+<SYNC Start=1409539 End=1410538><P>you could
+take me with you,</P></SYNC>
+<SYNC Start=1410538 End=1412016><P>you could go
+where I tell you to?</P></SYNC>
+<SYNC Start=1412016 End=1412896><P>Bet your bottom dollar.</P></SYNC>
+<SYNC Start=1412896 End=1414414><P>Good.</P></SYNC>
+<SYNC Start=1414414 End=1415972><P>We have our target out there.
+Let's go find her.</P></SYNC>
+<SYNC Start=1415972 End=1417451><P>[ Breathing heavily ]</P></SYNC>
+<SYNC Start=1417451 End=1418690><P>Hang on.</P></SYNC>
+<SYNC Start=1418690 End=1419808><P>Is that...</P></SYNC>
+<SYNC Start=1419808 End=1421407><P>Oh, yep!</P></SYNC>
+<SYNC Start=1421407 End=1422805><P>Here it comes.</P></SYNC>
+<SYNC Start=1422805 End=1425123><P>Cleared for takeoff, bud.</P></SYNC>
+<SYNC Start=1425123 End=1426281><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=1426281 End=1427880><P>♪♪</P></SYNC>
+<SYNC Start=1435672 End=1437310><P>Tell me there's news.</P></SYNC>
+<SYNC Start=1437310 End=1439587><P>I'm sorry.
+Nothing yet.</P></SYNC>
+<SYNC Start=1439587 End=1441066><P>I knew
+this was a mistake.</P></SYNC>
+<SYNC Start=1441066 End=1442385><P>I never should've agreed
+to this plan.</P></SYNC>
+<SYNC Start=1442385 End=1443783><P>You can trust us.</P></SYNC>
+<SYNC Start=1443783 End=1445222><P>Trust you?</P></SYNC>
+<SYNC Start=1445222 End=1446820><P>I don't know
+anything about you.</P></SYNC>
+<SYNC Start=1446820 End=1448179><P>And no one will
+tell me anything.</P></SYNC>
+<SYNC Start=1448179 End=1449498><P>We just want to help.</P></SYNC>
+<SYNC Start=1450936 End=1453294><P>Afterlife is important
+to us, too.</P></SYNC>
+<SYNC Start=1453294 End=1455252><P>You don't know
+the first thing about it.</P></SYNC>
+<SYNC Start=1456570 End=1457649><P>She's been there.</P></SYNC>
+<SYNC Start=1461126 End=1462444><P>Before your friends
+showed up,</P></SYNC>
+<SYNC Start=1462444 End=1464602><P>we'd never had
+an outsider find us.</P></SYNC>
+<SYNC Start=1464602 End=1466480><P>[ Exhales sharply ]
+She's no outsider.</P></SYNC>
+<SYNC Start=1469316 End=1471115><P>Go on. Show her.</P></SYNC>
+<SYNC Start=1486259 End=1488177><P>[ High-pitched tone ]</P></SYNC>
+<SYNC Start=1491014 End=1492213><P>Vibrations.</P></SYNC>
+<SYNC Start=1494451 End=1496808><P>Where did you learn that?</P></SYNC>
+<SYNC Start=1496808 End=1497807><P>From you.</P></SYNC>
+<SYNC Start=1499285 End=1500884><P>At Afterlife.</P></SYNC>
+<SYNC Start=1500884 End=1502682><P>In 30 years.</P></SYNC>
+<SYNC Start=1506118 End=1507916><P>We're from the future,
+and I know how that sounds,</P></SYNC>
+<SYNC Start=1507916 End=1508956><P>but it's...</P></SYNC>
+<SYNC Start=1508956 End=1511114><P>[ Sighs ]</P></SYNC>
+<SYNC Start=1511114 End=1512512><P>...it's the truth.</P></SYNC>
+<SYNC Start=1513871 End=1514989><P>I, um...</P></SYNC>
+<SYNC Start=1516628 End=1518985><P>I had a feeling I...</P></SYNC>
+<SYNC Start=1518985 End=1521423><P>I knew you.</P></SYNC>
+<SYNC Start=1521423 End=1524499><P>There's something...</P></SYNC>
+<SYNC Start=1524499 End=1525658><P>so familiar.</P></SYNC>
+<SYNC Start=1529254 End=1531372><P>Your gift --
+it's a lot like...</P></SYNC>
+<SYNC Start=1531372 End=1537846><P>♪♪</P></SYNC>
+<SYNC Start=1537846 End=1540603><P>Nathaniel took that
+from you.</P></SYNC>
+<SYNC Start=1540603 End=1542320><P>It almost killed me.</P></SYNC>
+<SYNC Start=1544439 End=1547795><P>It's knowledge of the future
+that led him to us,</P></SYNC>
+<SYNC Start=1547795 End=1550632><P>that he used
+to warp Kora's mind</P></SYNC>
+<SYNC Start=1550632 End=1552590><P>and turn her against me.</P></SYNC>
+<SYNC Start=1552590 End=1558224><P>♪♪</P></SYNC>
+<SYNC Start=1558224 End=1559223><P>Were you close
+with her?</P></SYNC>
+<SYNC Start=1563658 End=1565537><P>Inseparable.</P></SYNC>
+<SYNC Start=1565537 End=1568213><P>She clung to my leg
+for the first three years.</P></SYNC>
+<SYNC Start=1568213 End=1570251><P>Shy, sweet girl.</P></SYNC>
+<SYNC Start=1570251 End=1571850><P>What changed?</P></SYNC>
+<SYNC Start=1573847 End=1576086><P>Terrigenesis.</P></SYNC>
+<SYNC Start=1576086 End=1578523><P>I thought she was ready,
+but...</P></SYNC>
+<SYNC Start=1578523 End=1579841><P>Kora lost control.</P></SYNC>
+<SYNC Start=1579841 End=1581680><P>There were accidents.</P></SYNC>
+<SYNC Start=1581680 End=1584597><P>The more I tried to help,
+the more she pulled away.</P></SYNC>
+<SYNC Start=1586834 End=1588153><P>That must be hard.</P></SYNC>
+<SYNC Start=1590910 End=1592668><P>Being so close to someone</P></SYNC>
+<SYNC Start=1592668 End=1596105><P>and not being able
+to reach them.</P></SYNC>
+<SYNC Start=1597942 End=1600260><P>The others...</P></SYNC>
+<SYNC Start=1600260 End=1603297><P>they wanted her gone.</P></SYNC>
+<SYNC Start=1603297 End=1607014><P>But they don't see
+what I do.</P></SYNC>
+<SYNC Start=1607014 End=1609771><P>Kora has a --
+a good heart.</P></SYNC>
+<SYNC Start=1609771 End=1612567><P>She's worth saving.</P></SYNC>
+<SYNC Start=1612567 End=1614286><P>Well, she's lucky
+to have you.</P></SYNC>
+<SYNC Start=1617922 End=1621159><P>My power has allowed me
+to live a long life.</P></SYNC>
+<SYNC Start=1621159 End=1623516><P>I used to think
+it was my greatest gift,</P></SYNC>
+<SYNC Start=1623516 End=1625394><P>but I was wrong.</P></SYNC>
+<SYNC Start=1627352 End=1628750><P>It was her.</P></SYNC>
+<SYNC Start=1628750 End=1633626><P>♪♪</P></SYNC>
+<SYNC Start=1633626 End=1635064><P>Um...sorry.</P></SYNC>
+<SYNC Start=1635064 End=1636782><P>Did I say something?</P></SYNC>
+<SYNC Start=1636782 End=1638181><P>Uh...</P></SYNC>
+<SYNC Start=1640258 End=1642257><P>Growing up, I...</P></SYNC>
+<SYNC Start=1642257 End=1644734><P>I never knew my mom.</P></SYNC>
+<SYNC Start=1644734 End=1649369><P>And when I finally
+found her...</P></SYNC>
+<SYNC Start=1649369 End=1650927><P>uh...</P></SYNC>
+<SYNC Start=1650927 End=1652965><P>she wasn't who I'd hoped
+she would be.</P></SYNC>
+<SYNC Start=1655482 End=1657041><P>She hurt you.</P></SYNC>
+<SYNC Start=1659798 End=1663834><P>I can't speak
+to your mother's reasons,</P></SYNC>
+<SYNC Start=1663834 End=1667031><P>but for me...</P></SYNC>
+<SYNC Start=1667031 End=1671346><P>sometimes, trying to do
+the right thing</P></SYNC>
+<SYNC Start=1671346 End=1674183><P>comes out all wrong.</P></SYNC>
+<SYNC Start=1674183 End=1681775><P>♪♪</P></SYNC>
+<SYNC Start=1681775 End=1683334><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=1683334 End=1685491><P>[ Grunts ]</P></SYNC>
+<SYNC Start=1685491 End=1686530><P>[ Sighs ]</P></SYNC>
+<SYNC Start=1686530 End=1687489><P>We're here.</P></SYNC>
+<SYNC Start=1687489 End=1689886><P>Nailed it!
+Yoo!</P></SYNC>
+<SYNC Start=1689886 End=1691605><P>More like
+third time's a charm.</P></SYNC>
+<SYNC Start=1693003 End=1696440><P>Hey. I saw these guys
+open up for Twisted Sister.</P></SYNC>
+<SYNC Start=1698398 End=1702234><P>You've had yourself a day,
+but it's not over yet.</P></SYNC>
+<SYNC Start=1702234 End=1704232><P>We're gonna have to split up.
+Are you ready?</P></SYNC>
+<SYNC Start=1704232 End=1707148><P>If the job was easy,
+it wouldn't be any fun.</P></SYNC>
+<SYNC Start=1707148 End=1710705><P>♪♪</P></SYNC>
+<SYNC Start=1714381 End=1715740><P>[ Handcuffs clatter ]</P></SYNC>
+<SYNC Start=1715740 End=1717059><P>Coulson.</P></SYNC>
+<SYNC Start=1717059 End=1718937><P>Hang in there.
+We're leaving.</P></SYNC>
+<SYNC Start=1718937 End=1720455><P>The door.</P></SYNC>
+<SYNC Start=1720455 End=1722773><P>You let me
+worry about that.</P></SYNC>
+<SYNC Start=1722773 End=1725290><P>This room was built
+to hold powerful Inhumans.</P></SYNC>
+<SYNC Start=1725290 End=1726409><P>Yeah?</P></SYNC>
+<SYNC Start=1726409 End=1728047><P>And I'm about to
+bust us out of here.</P></SYNC>
+<SYNC Start=1728047 End=1729086><P>Watch.</P></SYNC>
+<SYNC Start=1729086 End=1731284><P>It's gonna be
+super-satisfying.</P></SYNC>
+<SYNC Start=1731284 End=1732363><P>You can't get us out.</P></SYNC>
+<SYNC Start=1734840 End=1735999><P>But maybe I can.</P></SYNC>
+<SYNC Start=1735999 End=1736997><P>[ Grunts ]</P></SYNC>
+<SYNC Start=1736997 End=1738596><P>Save your energy.
+You're too weak.</P></SYNC>
+<SYNC Start=1738596 End=1739635><P>[ Inhales sharply ]</P></SYNC>
+<SYNC Start=1739635 End=1741633><P>The other Inhumans...</P></SYNC>
+<SYNC Start=1741633 End=1743271><P>I can't let this
+happen to them.</P></SYNC>
+<SYNC Start=1743271 End=1744270><P>Gordon, wait!</P></SYNC>
+<SYNC Start=1744270 End=1745549><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=1747426 End=1749265><P>It's okay.
+You're gonna be alright.</P></SYNC>
+<SYNC Start=1750983 End=1752701><P>You're hilarious.</P></SYNC>
+<SYNC Start=1752701 End=1761413><P>♪♪</P></SYNC>
+<SYNC Start=1761413 End=1763051><P>Who the hell are you?</P></SYNC>
+<SYNC Start=1764489 End=1766167><P>Melinda May!</P></SYNC>
+<SYNC Start=1766167 End=1768445><P>Blast from the future!</P></SYNC>
+<SYNC Start=1768445 End=1770562><P>It's your old buddy --
+John Garrett.</P></SYNC>
+<SYNC Start=1770562 End=1772121><P>Same rugged good looks --</P></SYNC>
+<SYNC Start=1772121 End=1774079><P>just...maybe
+a little less rugged.</P></SYNC>
+<SYNC Start=1775518 End=1777316><P>How'd you find this place,
+John?</P></SYNC>
+<SYNC Start=1777316 End=1779993><P>Well, my pal Nate
+told me how to find it.</P></SYNC>
+<SYNC Start=1779993 End=1780912><P>He's around here
+somewhere.</P></SYNC>
+<SYNC Start=1781831 End=1783709><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=1784628 End=1786386><P>[ Crash ]
+[ Groans ]</P></SYNC>
+<SYNC Start=1786386 End=1788824><P>[ Inhales sharply ]</P></SYNC>
+<SYNC Start=1788824 End=1790382><P>I know where I'm going,</P></SYNC>
+<SYNC Start=1790382 End=1791940><P>but the landing part's
+a little tricky.</P></SYNC>
+<SYNC Start=1793259 End=1795537><P>Coulson called it
+teleporting.</P></SYNC>
+<SYNC Start=1795537 End=1796376><P>Gordon.</P></SYNC>
+<SYNC Start=1798134 End=1799732><P>What are you doing here?</P></SYNC>
+<SYNC Start=1799732 End=1801171><P>Planning
+a little road trip.</P></SYNC>
+<SYNC Start=1801171 End=1803009><P>Looking for an open-minded gal
+to tag along.</P></SYNC>
+<SYNC Start=1803009 End=1804527><P>Thought you'd never ask.</P></SYNC>
+<SYNC Start=1804527 End=1805646><P>[ Chuckles ]
+Oh, sorry, babe.</P></SYNC>
+<SYNC Start=1805646 End=1806884><P>You ain't who I'm --</P></SYNC>
+<SYNC Start=1806884 End=1808004><P>[ Groans ]</P></SYNC>
+<SYNC Start=1808004 End=1810361><P>[ Both grunting ]</P></SYNC>
+<SYNC Start=1810361 End=1816594><P>♪♪</P></SYNC>
+<SYNC Start=1816594 End=1817673><P>Oh, right.</P></SYNC>
+<SYNC Start=1817673 End=1818673><P>Bye.</P></SYNC>
+<SYNC Start=1818673 End=1819871><P>[ Energy crackles ]
+[ Grunts ]</P></SYNC>
+<SYNC Start=1822828 End=1824587><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=1824587 End=1825625><P>Whoa.</P></SYNC>
+<SYNC Start=1825625 End=1827023><P>[ Groans ]</P></SYNC>
+<SYNC Start=1830500 End=1832458><P>Daisy, do you copy?</P></SYNC>
+<SYNC Start=1832458 End=1833497><P>Daisy, come in.</P></SYNC>
+<SYNC Start=1833497 End=1834656><P>May, what's wrong?</P></SYNC>
+<SYNC Start=1834656 End=1836215><P>John Garrett's here
+with Nathaniel,</P></SYNC>
+<SYNC Start=1836215 End=1837293><P>and they have
+Gordon's powers.</P></SYNC>
+<SYNC Start=1837293 End=1839811><P>Get Jiaying someplace safe.</P></SYNC>
+<SYNC Start=1839811 End=1841489><P>We have to go.</P></SYNC>
+<SYNC Start=1841489 End=1847603><P>♪♪</P></SYNC>
+<SYNC Start=1847603 End=1849480><P>I've been looking
+all over for you.</P></SYNC>
+<SYNC Start=1849480 End=1851398><P>♪♪</P></SYNC>
+<SYNC Start=1857073 End=1859111><P>Mack: Coulson.</P></SYNC>
+<SYNC Start=1859111 End=1860309><P>Gordon?</P></SYNC>
+<SYNC Start=1861468 End=1863465><P>The Inhumans are being held
+in a room down that way.</P></SYNC>
+<SYNC Start=1866223 End=1867182><P>Alright.</P></SYNC>
+<SYNC Start=1867182 End=1868181><P>[ Inhales sharply ]</P></SYNC>
+<SYNC Start=1868181 End=1869140><P>Better call Yo-Yo.</P></SYNC>
+<SYNC Start=1869140 End=1870658><P>Yo -- Yo --</P></SYNC>
+<SYNC Start=1870658 End=1871977><P>Still not used to that.</P></SYNC>
+<SYNC Start=1871977 End=1874134><P>May radio'd.
+Nathaniel's at the Lighthouse.</P></SYNC>
+<SYNC Start=1874134 End=1875414><P>He's with John Garrett.</P></SYNC>
+<SYNC Start=1875414 End=1876652><P>I'll explain
+on the way back.</P></SYNC>
+<SYNC Start=1876652 End=1877970><P>Okay.</P></SYNC>
+<SYNC Start=1877970 End=1879370><P>Yo-Yo and I
+will get the hostages out.</P></SYNC>
+<SYNC Start=1879370 End=1880928><P>Find Kora. We'll meet
+back at the Quinjet.</P></SYNC>
+<SYNC Start=1880928 End=1882686><P>I got a feeling
+she might be expecting that.</P></SYNC>
+<SYNC Start=1884963 End=1886961><P>Malick's got guards
+up ahead.</P></SYNC>
+<SYNC Start=1886961 End=1888160><P>No problem.</P></SYNC>
+<SYNC Start=1889758 End=1890797><P>Hey, dummy!</P></SYNC>
+<SYNC Start=1895632 End=1896871><P>Do your thing.</P></SYNC>
+<SYNC Start=1899428 End=1900986><P>[ Blade slices ]
+Aah!</P></SYNC>
+<SYNC Start=1900986 End=1902225><P>[ Groaning ]</P></SYNC>
+<SYNC Start=1905822 End=1907340><P>[ Grunts ]</P></SYNC>
+<SYNC Start=1907340 End=1909578><P>It's okay.
+You're safe.</P></SYNC>
+<SYNC Start=1912415 End=1914692><P>For the record,
+I'm digging the upgrade.</P></SYNC>
+<SYNC Start=1915851 End=1917929><P>Alright.
+Let's get you out of here.</P></SYNC>
+<SYNC Start=1921005 End=1922245><P>Don't shoot.</P></SYNC>
+<SYNC Start=1923443 End=1924961><P>The two of us in here?</P></SYNC>
+<SYNC Start=1924961 End=1926999><P>You want to bring the whole of
+River's End down on our heads?</P></SYNC>
+<SYNC Start=1926999 End=1927838><P>Give me a reason.</P></SYNC>
+<SYNC Start=1929597 End=1931554><P>Where's Kora?
+What have you done with her?</P></SYNC>
+<SYNC Start=1933513 End=1935111><P>Sorry.
+Kora couldn't make it.</P></SYNC>
+<SYNC Start=1935111 End=1936469><P>But she sends her best.</P></SYNC>
+<SYNC Start=1936469 End=1938188><P>And don't you look at me
+like that.</P></SYNC>
+<SYNC Start=1938188 End=1939787><P>You still have Daisy.</P></SYNC>
+<SYNC Start=1939787 End=1940945><P>Isn't one daughter enough?</P></SYNC>
+<SYNC Start=1943702 End=1946220><P>[ Laughs ]</P></SYNC>
+<SYNC Start=1946220 End=1947977><P>Oh.
+Y-You didn't know.</P></SYNC>
+<SYNC Start=1951334 End=1954851><P>Wow. It's like a season finale
+of "Dallas" around here.</P></SYNC>
+<SYNC Start=1954851 End=1956888><P>I'm sorry.</P></SYNC>
+<SYNC Start=1956888 End=1958167><P>I wanted to tell you,
+but I --</P></SYNC>
+<SYNC Start=1958167 End=1960045><P>What you said
+about your mother --</P></SYNC>
+<SYNC Start=1960045 End=1961604><P>you were talking
+about me.</P></SYNC>
+<SYNC Start=1961604 End=1963482><P>It's...</P></SYNC>
+<SYNC Start=1963482 End=1964601><P>It's okay.</P></SYNC>
+<SYNC Start=1964601 End=1966119><P>I hurt you?</P></SYNC>
+<SYNC Start=1966119 End=1967277><P>But I would never --</P></SYNC>
+<SYNC Start=1967277 End=1969435><P>It's actually
+a riveting story.</P></SYNC>
+<SYNC Start=1969435 End=1971553><P>See, Hydra just cuts you
+all to bits.</P></SYNC>
+<SYNC Start=1971553 End=1973072><P>You're left for dead,
+your powers stolen.</P></SYNC>
+<SYNC Start=1973072 End=1976508><P>That part, you both
+have in common now.</P></SYNC>
+<SYNC Start=1976508 End=1978226><P>Daisy grows up alone.</P></SYNC>
+<SYNC Start=1978226 End=1980144><P>Sad.</P></SYNC>
+<SYNC Start=1980144 End=1981463><P>Finds you eventually,
+but by then,</P></SYNC>
+<SYNC Start=1981463 End=1983301><P>you're all militant
+and she's with S.H.I.E.L.D. --</P></SYNC>
+<SYNC Start=1983301 End=1985019><P>Stop it.
+You're on opposite sides.</P></SYNC>
+<SYNC Start=1985019 End=1986897><P>So you start to drain
+the life out of her.</P></SYNC>
+<SYNC Start=1986897 End=1988416><P>Enough.
+And it's working.</P></SYNC>
+<SYNC Start=1988416 End=1989694><P>You're about to kill her.</P></SYNC>
+<SYNC Start=1989694 End=1992691><P>But guess who steps in
+to crush your spine.</P></SYNC>
+<SYNC Start=1992691 End=1993770><P>Dear old --</P></SYNC>
+<SYNC Start=1993770 End=1995169><P>[ Rumbling ]
+Enough!</P></SYNC>
+<SYNC Start=1996807 End=1997606><P>[ Exhales sharply ]</P></SYNC>
+<SYNC Start=2002081 End=2003760><P>Nice quake.</P></SYNC>
+<SYNC Start=2003760 End=2005158><P>I'd give it a B.</P></SYNC>
+<SYNC Start=2005158 End=2006637><P>B-plus.</P></SYNC>
+<SYNC Start=2006637 End=2008634><P>Definitely room
+for improvement.</P></SYNC>
+<SYNC Start=2008634 End=2010192><P>[ Rumbling ]</P></SYNC>
+<SYNC Start=2010192 End=2015227><P>♪♪</P></SYNC>
+<SYNC Start=2015227 End=2017705><P>[ Coughs ]</P></SYNC>
+<SYNC Start=2017705 End=2019144><P>If you haven't done
+the math,</P></SYNC>
+<SYNC Start=2019144 End=2021581><P>I've had these powers
+a lot longer than you have.</P></SYNC>
+<SYNC Start=2023738 End=2026256><P>[ Crackling ]
+Leave my daughter
+alone.</P></SYNC>
+<SYNC Start=2026256 End=2027814><P>[ Groans,
+breathing heavily ]</P></SYNC>
+<SYNC Start=2032010 End=2033888><P>[ Crackling continues ]</P></SYNC>
+<SYNC Start=2033888 End=2035087><P>[ Both grunt ]</P></SYNC>
+<SYNC Start=2035087 End=2036406><P>Stay back.</P></SYNC>
+<SYNC Start=2036406 End=2037365><P>I won't say it again.</P></SYNC>
+<SYNC Start=2038763 End=2039722><P>Mom, no!</P></SYNC>
+<SYNC Start=2039722 End=2041360><P>[ Rumbling ]</P></SYNC>
+<SYNC Start=2041360 End=2042439><P>[ Crunch ]</P></SYNC>
+<SYNC Start=2047114 End=2048393><P>Well, I guess
+she won't live forever.</P></SYNC>
+<SYNC Start=2050870 End=2052309><P>And you won't live at all.</P></SYNC>
+<SYNC Start=2052309 End=2053668><P>[ Rumbling ]</P></SYNC>
+<SYNC Start=2053668 End=2059741><P>♪♪</P></SYNC>
+<SYNC Start=2059741 End=2061899><P>[ Electricity crackling ]</P></SYNC>
+<SYNC Start=2061899 End=2070091><P>♪♪</P></SYNC>
+<SYNC Start=2070091 End=2071409><P>[ Grunts ]</P></SYNC>
+<SYNC Start=2075845 End=2077883><P>[ Rumbling stops ]</P></SYNC>
+<SYNC Start=2077883 End=2080120><P>[ Breathing heavily ]</P></SYNC>
+<SYNC Start=2080120 End=2088432><P>♪♪</P></SYNC>
+<SYNC Start=2088432 End=2096823><P>♪♪</P></SYNC>
+<SYNC Start=2096823 End=2105373><P>♪♪</P></SYNC>
+<SYNC Start=2105373 End=2107451><P>If he's not here for Jiaying,
+what's he after?</P></SYNC>
+<SYNC Start=2108969 End=2111247><P>Who's this Garrett fella,
+anyway?</P></SYNC>
+<SYNC Start=2111247 End=2113165><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=2117801 End=2118919><P>There you are!</P></SYNC>
+<SYNC Start=2118919 End=2120079><P>Sousa, shoot him!</P></SYNC>
+<SYNC Start=2120079 End=2121038><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=2121038 End=2122716><P>[ Gunshots ]</P></SYNC>
+<SYNC Start=2122716 End=2131706><P>♪♪</P></SYNC>
+<SYNC Start=2131706 End=2140976><P>♪♪</P></SYNC>
+<SYNC Start=2140976 End=2143694><P>[ Footsteps approaching ]</P></SYNC>
+<SYNC Start=2143694 End=2149247><P>♪♪</P></SYNC>
+<SYNC Start=2149247 End=2150446><P>Kora.</P></SYNC>
+<SYNC Start=2152165 End=2153203><P>Turn around.</P></SYNC>
+<SYNC Start=2154682 End=2155841><P>Slowly.</P></SYNC>
+<SYNC Start=2159517 End=2161316><P>Agent Coulson.</P></SYNC>
+<SYNC Start=2161316 End=2162834><P>I've been waiting.</P></SYNC>
+<SYNC Start=2163992 End=2166190><P>The rest of your gang
+is gone.</P></SYNC>
+<SYNC Start=2166190 End=2167549><P>They abandoned you.</P></SYNC>
+<SYNC Start=2167549 End=2170786><P>Garrett moved them off
+somewhere else.</P></SYNC>
+<SYNC Start=2170786 End=2172144><P>I wanted
+to come with you.</P></SYNC>
+<SYNC Start=2173663 End=2175341><P>Meet my sister.</P></SYNC>
+<SYNC Start=2175341 End=2176899><P>You know, Sibyl told me
+all about her --</P></SYNC>
+<SYNC Start=2176899 End=2178338><P>[ Weapon fires ]</P></SYNC>
+<SYNC Start=2178338 End=2184092><P>♪♪</P></SYNC>
+<SYNC Start=2184092 End=2186169><P>May:
+Nathaniel killed Jiaying.</P></SYNC>
+<SYNC Start=2186169 End=2188727><P>I don't understand, but he
+didn't want her power at all.</P></SYNC>
+<SYNC Start=2188727 End=2190285><P>I'm still trying
+to find where he went,</P></SYNC>
+<SYNC Start=2190285 End=2192004><P>and Garrett's MIA, too.</P></SYNC>
+<SYNC Start=2192004 End=2199995><P>♪♪</P></SYNC>
+<SYNC Start=2199995 End=2208027><P>♪♪</P></SYNC>
+<SYNC Start=2208027 End=2215818><P>♪♪</P></SYNC>
+<SYNC Start=2215818 End=2223850><P>♪♪</P></SYNC>
+<SYNC Start=2223850 End=2231802><P>♪♪</P></SYNC>
+<SYNC Start=2231802 End=2233001><P>They took Simmons.</P></SYNC>
+<SYNC Start=2236118 End=2237276><P>[ Energy crackles ]</P></SYNC>
+<SYNC Start=2241392 End=2242191><P>Where's Deke?</P></SYNC>
+<SYNC Start=2244308 End=2246387><P>[ Grunts ]</P></SYNC>
+<SYNC Start=2248784 End=2250263><P>May: Deke, come in.</P></SYNC>
+<SYNC Start=2250263 End=2251222><P>Deke.</P></SYNC>
+<SYNC Start=2251222 End=2252860><P>[ Humming ]</P></SYNC>
+<SYNC Start=2252860 End=2255457><P>Deke, come in.
+Where are you?</P></SYNC>
+<SYNC Start=2255457 End=2257216><P>[ Switches click ]</P></SYNC>
+<SYNC Start=2259053 End=2260491><P>[ Engine starts ]</P></SYNC>
+<SYNC Start=2260491 End=2268403><P>♪♪</P></SYNC>
+<SYNC Start=2268403 End=2270681><P>Deke Shaw,
+answer your radio!</P></SYNC>
+<SYNC Start=2272239 End=2273598><P>May,
+where are we going?</P></SYNC>
+<SYNC Start=2273598 End=2275317><P>We're not going anywhere.
+You are.</P></SYNC>
+<SYNC Start=2275317 End=2276835><P>The Zephyr's been hijacked.</P></SYNC>
+<SYNC Start=2276835 End=2285106><P>♪♪</P></SYNC>
+<SYNC Start=2285106 End=2293418><P>♪♪</P></SYNC>
+<SYNC Start=2293418 End=2301929><P>♪♪</P></SYNC>
+<SYNC Start=2301929 End=2303287><P>We'll return in a moment.</P></SYNC>
+<SYNC Start=2306964 End=2310320><P>Garrett: Today just keeps
+getting better and better.</P></SYNC>
+<SYNC Start=2310320 End=2314276><P>First, superpowers,
+now a spaceship.</P></SYNC>
+<SYNC Start=2314276 End=2317153><P>Can I get
+a "best day ever"?!</P></SYNC>
+<SYNC Start=2317153 End=2318631><P>Best day ever!</P></SYNC>
+<SYNC Start=2318631 End=2321148><P>If duct tape doesn't work,
+I can liquify a femur or two.</P></SYNC>
+<SYNC Start=2321148 End=2322347><P>It's your call.</P></SYNC>
+<SYNC Start=2325384 End=2326662><P>[ Latches click ]</P></SYNC>
+<SYNC Start=2326662 End=2328901><P>Why am I here?
+What do you want?</P></SYNC>
+<SYNC Start=2328901 End=2332377><P>My pal Sibyl
+ran the numbers,</P></SYNC>
+<SYNC Start=2332377 End=2334215><P>and every outcome
+where we don't come out on top</P></SYNC>
+<SYNC Start=2334215 End=2335813><P>has one thing in common.</P></SYNC>
+<SYNC Start=2336732 End=2338131><P>Fitz.</P></SYNC>
+<SYNC Start=2338131 End=2340848><P>He's gotten in our way
+long enough.</P></SYNC>
+<SYNC Start=2340848 End=2342806><P>And now you're gonna
+take us to him.</P></SYNC>
+<SYNC Start=2342806 End=2347002><P>♪♪</P></SYNC>
+<SYNC Start=2350438 End=2359748><P>♪♪</P></SYNC>
+<SYNC Start=2359748 End=2369218><P>♪♪</P></SYNC>
+<SYNC Start=2369218 End=2378369><P>♪♪</P></SYNC>
+</BODY>
+</SAMI>
