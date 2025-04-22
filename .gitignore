@@ -1,4 +1,4 @@
-build64/ALL_BUILD.vcxproj
+build/*
 build64/ALL_BUILD.vcxproj.filters
 build64/cmake_install.cmake
 build64/CMakeCache.txt
@@ -132,3 +132,4 @@ test/breaking_bad_s05e16_720p_brrip_sujaidr_1531344469_720.vtt
 test/breaking_bad_s05e16_720p_brrip_sujaidr_1531344469_720p.srt
 test/breaking_bad_s05e16_720p_brrip_sujaidr_1531344469_720p.vtt
 test/test3.vtt
+build/ALL_BUILD.vcxproj

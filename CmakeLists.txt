@@ -1,11 +1,32 @@
-cmake_minimum_required(VERSION 3.20)
-project(sub_converter LANGUAGES CXX)
+cmake_minimum_required(VERSION 3.14)
+project(CppLab2)
 
-set(CMAKE_CXX_STANDARD 23)
+# Устанавливаем стандарт C++
+set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+# Подключаем заголовочные файлы
 include_directories(include)
 
-file(GLOB SOURCES "src/*.cpp")
+# Скачиваем GoogleTest
+include(FetchContent)
+FetchContent_Declare(
+  googletest
+  URL https://github.com/google/googletest/archive/03597a01ee50ed33e9dfd640b249b4be3799d395.zip
+)
+set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
+FetchContent_MakeAvailable(googletest)
 
-add_executable(converter_subs ${SOURCES})
+# Собираем все исходные .cpp файлы из src/
+file(GLOB SRC_FILES src/*.cpp)
+
+# Добавляем исполняемый файл для тестов
+add_executable(tests ${SRC_FILES} test/tests.cpp)
+
+# Линкуем GoogleTest
+target_link_libraries(tests GTest::gtest_main)
+
+# Включаем тестирование
+enable_testing()
+include(GoogleTest)
+gtest_discover_tests(tests)
