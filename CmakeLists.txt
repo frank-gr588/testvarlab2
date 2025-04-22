@@ -1,32 +1,50 @@
 cmake_minimum_required(VERSION 3.14)
+
+# Название проекта
 project(CppLab2)
 
-# Устанавливаем стандарт C++
-set(CMAKE_CXX_STANDARD 14)
+# Установка версии стандарта C++
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Подключаем заголовочные файлы
-include_directories(include)
-
-# Скачиваем GoogleTest
+# Подключаем FetchContent для загрузки Google Test
 include(FetchContent)
 FetchContent_Declare(
   googletest
   URL https://github.com/google/googletest/archive/03597a01ee50ed33e9dfd640b249b4be3799d395.zip
 )
+# Для Windows: предотвращаем переопределение настроек компилятора/линковщика
 set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
 FetchContent_MakeAvailable(googletest)
 
-# Собираем все исходные .cpp файлы из src/
-file(GLOB SRC_FILES src/*.cpp)
+# Указываем путь к заголовочным файлам
+include_directories("include/")
 
-# Добавляем исполняемый файл для тестов
-add_executable(tests ${SRC_FILES} test/tests.cpp)
+add_executable(
+  program
+  src/main.cpp
+  src/SRTSubtitle.cpp
+  src/SAMISubtitle.cpp
+  src/ASSSubtitle.cpp
+  src/VTTSubtitle.cpp
+  src/SubtitleEntryList.cpp
+)
 
-# Линкуем GoogleTest
-target_link_libraries(tests GTest::gtest_main)
+add_executable(
+  tests
+  test/tests.cpp
+  src/SRTSubtitle.cpp
+  src/SAMISubtitle.cpp
+  src/ASSSubtitle.cpp
+  src/VTTSubtitle.cpp
+  src/SubtitleEntryList.cpp
+)
+# Линкуем Google Test к тестам
+target_link_libraries(
+  tests
+  GTest::gtest_main
+)
 
-# Включаем тестирование
-enable_testing()
+# Автоматическое обнаружение и добавление тестов
 include(GoogleTest)
 gtest_discover_tests(tests)
